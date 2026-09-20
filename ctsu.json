@@ -1,0 +1,40 @@
+{
+  "progetti": [
+    {
+      "id": "ponte-ciclopedonale-fiume-aurea",
+      "titolo": "Ponte ciclopedonale sul fiume Aurea",
+      "categoria": "Infrastrutture",
+      "stato": "In corso",
+      "organo_responsabile": "Commissione Tecnica per le Infrastrutture",
+      "luogo": "Nuovavilla, Regione Settentrionale",
+      "responsabile": "ing. Marta Ferrante",
+      "data_inizio": "12 agosto 2026",
+      "data_fine_prevista": "30 giugno 2027",
+      "data_completamento": "",
+      "budget_previsto": "€ 1.850.000",
+      "costo_effettivo": "",
+      "sommario": "Nuovo collegamento ciclopedonale in acciaio che unisce il centro storico di Nuovavilla al quartiere fluviale, oggi separati dal fiume Aurea.",
+      "copertina": "",
+      "sezioni": [
+        {
+          "titolo": "Obiettivi del progetto",
+          "testo": "Il ponte collega le due sponde dell'Aurea con un percorso protetto per pedoni e biciclette, evitando il transito sul ponte carrabile esistente, oggi congestionato nelle ore di punta.\n\nGli obiettivi principali sono tre: ridurre i tempi di attraversamento a piedi, mettere in sicurezza il percorso casa-scuola del quartiere fluviale e completare la rete ciclabile regionale."
+        },
+        {
+          "titolo": "Descrizione tecnica",
+          "testo": "L'opera è un impalcato in acciaio a campata unica di 84 metri, con larghezza utile di 4,5 metri e parapetti alti 1,2 metri. Le pile poggiano su fondazioni profonde, fuori dalla zona di piena ordinaria.\n\nL'appalto è suddiviso in tre lotti:\n<table class=\"tabella-progetto\">\n<thead><tr><th>Lotto</th><th>Opera</th><th>Lunghezza</th><th>Importo</th></tr></thead>\n<tbody>\n<tr><td>1</td><td>Fondazioni e pile in alveo</td><td>&mdash;</td><td>&euro; 620.000</td></tr>\n<tr><td>2</td><td>Impalcato in acciaio</td><td>84 m</td><td>&euro; 780.000</td></tr>\n<tr><td>3</td><td>Rampe di accesso e illuminazione</td><td>140 m</td><td>&euro; 450.000</td></tr>\n</tbody>\n</table>"
+        },
+        {
+          "titolo": "Cronoprogramma",
+          "testo": "I lavori partono ad agosto 2026 con le fondazioni in alveo, da eseguire nel periodo di magra. Il montaggio dell'impalcato è previsto nella primavera 2027 e il collaudo entro giugno 2027.\n\nPer le motivazioni della scelta dei tempi si veda la <a href=\"#sez-4\">Sezione 4</a>; per gli scopi generali dell'opera la <a href=\"#sez-1\">Sezione 1</a>."
+        },
+        {
+          "titolo": "Impatto ambientale e sicurezza",
+          "testo": "Le lavorazioni in alveo sono concentrate nei mesi di magra per limitare l'intorbidimento dell'acqua e non interferire con la riproduzione della fauna ittica. Il cantiere è recintato e separato dal percorso pedonale esistente lungo la riva.\n\nA fine lavori l'area di cantiere sarà ripristinata a verde con specie autoctone."
+        }
+      ],
+      "galleria": [],
+      "allegati": []
+    }
+  ]
+}
