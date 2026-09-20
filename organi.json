@@ -1,0 +1,684 @@
+{
+  "meta": {
+    "nome": "ESTJI - Registro Luoghi",
+    "versione": "1.0",
+    "descrizione": "Elenco ufficiale dei luoghi dell'Unione ESTJI suddivisi per livello amministrativo"
+  },
+  "luoghi": {
+    "livello_federale": {
+      "ESTJI": "Unione Estji"
+    },
+    "livello_statale": {
+      "TDR": "Terlin Demokratic Republik",
+      "ENOR": "EstjiNor",
+      "EFAL": "EstjiFall",
+      "EBHN": "EstjiBhan",
+      "EBIA": "EstjjiBia",
+      "ELIN": "EstjiLinn"
+    },
+    "citta_principali": {
+      "ELIN-TLN": {
+        "nome": "Taleen",
+        "tipo": "citta_metropolitana"
+      },
+      "TDR-TRN": {
+        "nome": "Terlin",
+        "tipo": "citta_metropolitana"
+      },
+      "EBHAN-KLN": "Köln"
+    },
+    "distretti": {
+      "ELIN-TLN-NII": {
+        "nome": "Niigata",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-EHI": {
+        "nome": "Ehime",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-AMR": {
+        "nome": "Aömöri",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-HIC": {
+        "nome": "Hichibate",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-FUK": "Fukura",
+      "ENOR-SOV": {
+        "nome": "SovaMark",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-IDM": "Idame",
+      "ELIN-TLN-KNG": "Kenogo"
+    },
+    "assemblee_locali": {
+      "ELIN-TLN-NII-TEG": "Tegel",
+      "ELIN-TLN-NII-TGG": "Tegel Gard",
+      "ELIN-TLN-NII-MNT": "Minotte",
+      "ELIN-TLN-EHI-SRS": "Sars",
+      "ELIN-TLN-EHI-TMP": "Tampere",
+      "ELIN-TLN-EHI-EST": "Estji",
+      "ELIN-TLN-EHI-TRV": "Tervetulloa",
+      "TRD-TRN-TRN": "Terlin",
+      "ELIN-TLN-AMR-FMN": "Fiumana",
+      "ELIN-TLN-AMR-KLS": "Klosse",
+      "ELIN-TLN-AMR-FLV": "Fluvia",
+      "ELIN-TLN-AMR-ANK": "Ankita",
+      "ELIN-TLN-AMR-OST": "Ost",
+      "ELIN-TLN-AMR-ECS": "Ecles",
+      "ELIN-TLN-HIC-BKN": "Bakeneko",
+      "ELIN-TLN-HIC-REN": "Renault",
+      "ELIN-TLN-HIC-BTR": "Bateria",
+      "ELIN-TLN-HIC-GNZ": "Ginza",
+      "ELIN-TLN-HIC-NTS": "Notos",
+      "ELIN-TLN-HIC-THR": "Thora",
+      "TDR-HBR": "Habara",
+      "ELIN-TLN-IRI": "Irinastok",
+      "ELIN-TLN-FUK-1LE": "1 Île",
+      "ELIN-TLN-FUK-2LE": "2 Île",
+      "ELIN-TLN-FUK-3LE": "3 Île",
+      "ELIN-TLN-FUK-4LE": "4 Île",
+      "ELIN-TLN-FUK-5LE": "5 Île",
+      "ENOR-SOV-APP": "Appia",
+      "ENOR-SOV-REI": "Rei",
+      "ENOR-SOV-IKR": "Ikari",
+      "ENOR-SOV-ASK": "Asuka",
+      "ENOR-SOV-LYB": "Lybica",
+      "ENOR-SOV-RBN": "RiBen - 日本",
+      "ENOR-SOV-MDV": "Medioeva",
+      "ENOR-SOV-PLA": "Planura",
+      "ENOR-SOV-DSH": "Da Shi - 大市",
+      "EFAL-AFD-SCT": "Shang City",
+      "EFAL-AFD-SHS": "Shady Sands",
+      "TDR-TRN-TBR": "Tabara",
+      "TDR-TRN-OTB": "Ost Tabara",
+      "TDR-TRN-WTB": "West Tabara",
+      "TDR-TRN-HTB": "Haupt Tabara",
+      "ELIN-TLN-IRI-IRI": "Irinastok",
+      "EBIA-ARB": "Arbabia",
+      "ELIN-TLN-IDM-SYZ": "Soyuz",
+      "ELIN-TLN-KNG-NTC": "NTC"
+    },
+    "organi": {},
+    "regione": {
+      "EFAL-AFD": {
+        "nome": "Al-Fahad",
+        "tipo": "regione"
+      }
+    },
+    "Unione": "Unione"
+  },
+  "alberoOrgani": [
+    {
+      "id_organo": "Unione",
+      "nome_display": "Unione",
+      "luogo": "ESTJI",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "",
+          "nome_display": "Einheitlicher Standort",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "https://ews-rose.vercel.app/",
+          "icona": "search_serverW95.ico",
+          "figli": []
+        },
+        {
+          "id_organo": "",
+          "nome_display": "NormAktiv",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "https://ews-rose.vercel.app/lex/normaktiv.html",
+          "icona": "NormAktivW95.png",
+          "figli": []
+        },
+        {
+          "id_organo": "",
+          "nome_display": "CEPU",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "https://ews-rose.vercel.app/CEPU.html",
+          "icona": "certificate_serverW95.ico",
+          "figli": []
+        }
+      ],
+      "categoria": "congresso",
+      "icona": "globeW95.ico"
+    },
+    {
+      "id_organo": "ELIN",
+      "nome_display": "EstjiLinn",
+      "luogo": "ELIN",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "ELIN-TLN",
+          "nome_display": "Taleen",
+          "luogo": "ELIN-TLN",
+          "link_sito": "https://ews-rose.vercel.app/taleen.html",
+          "figli": [
+            {
+              "id_organo": "ELIN-TLN-NII",
+              "nome_display": "Niigata",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-NII",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-NII-TEG",
+                  "nome_display": "Tegel",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-NII-TEG",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-NII-TGG",
+                  "nome_display": "Tegel Gard",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-NII-TGG",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-NII-MNT",
+                  "nome_display": "Minotte",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-NII-MNT",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-EHI",
+              "nome_display": "Ehime",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-EHI",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-EHI-SRS",
+                  "nome_display": "Sars",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-EHI-SRS",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-EHI-TMP",
+                  "nome_display": "Tampere",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-EHI-TMP",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-EHI-EST",
+                  "nome_display": "Estji",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-EHI-EST",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-EHI-TRV",
+                  "nome_display": "Tervetulloa",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-EHI-TRV",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-AMR",
+              "nome_display": "Aömöri",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-AMR",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-AMR-FMN",
+                  "nome_display": "Fiumana",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-FMN",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-AMR-KLS",
+                  "nome_display": "Klosse",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-KLS",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-AMR-FLV",
+                  "nome_display": "Fluvia",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-FLV",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-AMR-ANK",
+                  "nome_display": "Ankita",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-ANK",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-AMR-OST",
+                  "nome_display": "Ost",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-OST",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-AMR-ECS",
+                  "nome_display": "Ecles",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-AMR-ECS",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-IRI",
+              "nome_display": "Irinastok",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-IRI",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-IRI-IRI",
+                  "nome_display": "Irinastok",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-IRI-IRI",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-FUK",
+              "nome_display": "Fukura",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-FUK",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-FUK-1LE",
+                  "nome_display": "1 Île",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-FUK-1LE",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-FUK-2LE",
+                  "nome_display": "2 Île",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-FUK-2LE",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-FUK-3LE",
+                  "nome_display": "3 Île",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-FUK-3LE",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-FUK-4LE",
+                  "nome_display": "4 Île",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-FUK-4LE",
+                  "link_sito": "",
+                  "figli": []
+                },
+                {
+                  "id_organo": "ELIN-TLN-FUK-5LE",
+                  "nome_display": "5 Île",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-FUK-5LE",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-IDM",
+              "nome_display": "Idame",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-IDM",
+              "link_sito": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-IDM-SYZ",
+                  "nome_display": "Soyuz",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-IDM-SYZ",
+                  "link_sito": "",
+                  "figli": []
+                }
+              ]
+            },
+            {
+              "id_organo": "ELIN-TLN-KNG",
+              "nome_display": "Kenogo",
+              "categoria": "congresso",
+              "luogo": "ELIN-TLN-KNG",
+              "link_sito": "",
+              "icona": "",
+              "figli": [
+                {
+                  "id_organo": "ELIN-TLN-KNG-NTC",
+                  "nome_display": "NTC",
+                  "categoria": "assemblea",
+                  "luogo": "ELIN-TLN-KNG-NTC",
+                  "link_sito": "",
+                  "icona": "",
+                  "figli": []
+                }
+              ]
+            }
+          ],
+          "categoria": "congresso"
+        },
+        {
+          "id_organo": "ELIN-TLN-HIC",
+          "nome_display": "Hichibate",
+          "categoria": "congresso",
+          "luogo": "ELIN-TLN-HIC",
+          "link_sito": "",
+          "figli": [
+            {
+              "id_organo": "ELIN-TLN-HIC-BKN",
+              "nome_display": "Bakeneko",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-BKN",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ELIN-TLN-HIC-REN",
+              "nome_display": "Renault",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-REN",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ELIN-TLN-HIC-BTR",
+              "nome_display": "Bateria",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-BTR",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ELIN-TLN-HIC-GNZ",
+              "nome_display": "Ginza",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-GNZ",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ELIN-TLN-HIC-NTS",
+              "nome_display": "Notos",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-NTS",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ELIN-TLN-HIC-THR",
+              "nome_display": "Thora",
+              "categoria": "assemblea",
+              "luogo": "ELIN-TLN-HIC-THR",
+              "link_sito": "",
+              "figli": []
+            }
+          ]
+        }
+      ],
+      "categoria": "congresso"
+    },
+    {
+      "id_organo": "TDR",
+      "nome_display": "Terlin Demokratic Republik",
+      "categoria": "congresso",
+      "luogo": "TDR",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "TDR-TRN",
+          "nome_display": "Terlin",
+          "categoria": "congresso",
+          "luogo": "TDR-TRN",
+          "link_sito": "",
+          "figli": [
+            {
+              "id_organo": "TRD-TRN-TRN",
+              "nome_display": "Terlin",
+              "categoria": "assemblea",
+              "luogo": "TRD-TRN-TRN",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-TBR",
+              "nome_display": "Tabara",
+              "categoria": "assemblea",
+              "luogo": "TDR-TRN-TBR",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-OTB",
+              "nome_display": "Ost Tabara",
+              "categoria": "assemblea",
+              "luogo": "TDR-TRN-OTB",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-WTB",
+              "nome_display": "West Tabara",
+              "categoria": "assemblea",
+              "luogo": "TDR-TRN-WTB",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-HTB",
+              "nome_display": "Haupt Tabara",
+              "categoria": "assemblea",
+              "luogo": "TDR-TRN-HTB",
+              "link_sito": "",
+              "figli": []
+            }
+          ]
+        },
+        {
+          "id_organo": "TDR-HBR",
+          "nome_display": "Habara",
+          "categoria": "assemblea",
+          "luogo": "TDR-HBR",
+          "link_sito": "",
+          "figli": []
+        }
+      ]
+    },
+    {
+      "id_organo": "ENOR",
+      "nome_display": "EstjiNor",
+      "categoria": "congresso",
+      "luogo": "ENOR",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "ENOR-SOV",
+          "nome_display": "SovaMark",
+          "categoria": "congresso",
+          "luogo": "ENOR-SOV",
+          "link_sito": "",
+          "figli": [
+            {
+              "id_organo": "ENOR-SOV-DSH",
+              "nome_display": "Da Shi - 大市",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-DSH",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-PLA",
+              "nome_display": "Planura",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-PLA",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-MDV",
+              "nome_display": "Medioeva",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-MDV",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-RBN",
+              "nome_display": "RiBen - 日本",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-RBN",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-LYB",
+              "nome_display": "Lybica",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-LYB",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-ASK",
+              "nome_display": "Asuka",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-ASK",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-IKR",
+              "nome_display": "Ikari",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-IKR",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-REI",
+              "nome_display": "Rei",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-REI",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "ENOR-SOV-APP",
+              "nome_display": "Appia",
+              "categoria": "assemblea",
+              "luogo": "ENOR-SOV-APP",
+              "link_sito": "",
+              "figli": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_organo": "EFAL",
+      "nome_display": "EstjiFall",
+      "categoria": "congresso",
+      "luogo": "EFAL",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "EFAL-AFD",
+          "nome_display": "Al-Fahad",
+          "categoria": "congresso",
+          "luogo": "EFAL-AFD",
+          "link_sito": "",
+          "figli": [
+            {
+              "id_organo": "EFAL-AFD-SCT",
+              "nome_display": "Shang City",
+              "categoria": "assemblea",
+              "luogo": "EFAL-AFD-SCT",
+              "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EFAL-AFD-SHS",
+              "nome_display": "Shady Sands",
+              "categoria": "assemblea",
+              "luogo": "EFAL-AFD-SHS",
+              "link_sito": "",
+              "figli": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id_organo": "EBHN",
+      "nome_display": "EstjiBhan",
+      "categoria": "congresso",
+      "luogo": "EBHN",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "EBHAN-KLN",
+          "nome_display": "Köln",
+          "categoria": "congresso",
+          "luogo": "EBHAN-KLN",
+          "link_sito": "",
+          "figli": []
+        }
+      ]
+    },
+    {
+      "id_organo": "EBIA",
+      "nome_display": "EstjjiBia",
+      "categoria": "congresso",
+      "luogo": "EBIA",
+      "link_sito": "",
+      "figli": [
+        {
+          "id_organo": "EBIA-ARB",
+          "nome_display": "Arbabia",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "",
+          "figli": []
+        }
+      ]
+    }
+  ],
+  "alberoLuoghi": []
+}
