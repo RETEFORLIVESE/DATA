@@ -1605,6 +1605,16 @@
               ]
             }
           ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "voglio bombardare questo coso",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
