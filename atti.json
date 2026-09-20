@@ -1413,65 +1413,6 @@
       ]
     },
     {
-      "id": "riqualificazione-athenon-trade-center",
-      "categoria": "Legge Ordinaria",
-      "numero": "5",
-      "anno": "2026",
-      "titolo": "Riqualificazione Athenon Trade Center",
-      "dataEmanazione": "11 Settembre 2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
-      "immagine": "/tc.png",
-      "didascalia": "",
-      "articoli": [
-        {
-          "numero": "0",
-          "rubrica": "Definizioni",
-          "commi": [
-            {
-              "testo": "Con i Seguenti termini si intendono:",
-              "sottocommi": [
-                "Complesso - Tutta la struttura del Athenon Trade Center",
-                "Mall - Bacino numero 4 del progetto originale del ATC"
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - SOMMARIO ESECUTIVO"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Motivazioni",
-          "commi": [
-            {
-              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
-              "sottocommi": [
-                "Rilanciare l'appeal del Complesso;",
-                "Migliorare le infrastrutture pubbliche;",
-                "Tutelare il patrimonio architettonico del EstjiNor;",
-                "Utilizzare spazi inutilizzati."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Problemi di  Status Quo",
-          "commi": [
-            {
-              "testo": "Il complesso si presenta con una forma moderna, ma antiquata e mal organizzata, si vuole evidenziare:",
-              "sottocommi": [
-                "RETE FERRATA - L'ATC è servito dalla [rerA] proveniente da sud, vi è già presente una stazione collegata al complesso, e una (situata sotto ATC [RERa]) inutilizzata e non collegata;"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "costituzione-estjilinn",
       "categoria": "Costituzione",
       "numero": "1",
@@ -1656,6 +1597,66 @@
             {
               "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
               "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "riqualificazione-athenon-trade-center",
+      "categoria": "Legge Ordinaria",
+      "numero": "5",
+      "anno": "2026",
+      "titolo": "Riqualificazione Athenon Trade Center",
+      "dataEmanazione": "11 Settembre 2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
+      "immagine": "/tc.png",
+      "didascalia": "",
+      "articoli": [
+        {
+          "numero": "0",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Con i Seguenti termini si intendono:",
+              "sottocommi": [
+                "Complesso - Tutta la struttura del Athenon Trade Center",
+                "Mall - Bacino numero 4 del progetto originale del ATC"
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - SOMMARIO ESECUTIVO"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Motivazioni",
+          "commi": [
+            {
+              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
+              "sottocommi": [
+                "Rilanciare l'appeal del Complesso;",
+                "Migliorare le infrastrutture pubbliche;",
+                "Tutelare il patrimonio architettonico del EstjiNor;",
+                "Utilizzare spazi inutilizzati."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Problemi di  Status Quo",
+          "commi": [
+            {
+              "testo": "Il complesso si presenta con una forma moderna, ma antiquata e mal organizzata, si vuole evidenziare:",
+              "sottocommi": [
+                "RETE FERRATA - L'ATC è servito dalla [rerA] proveniente da sud, vi è già presente una stazione collegata al complesso, e una (situata sotto ATC [RERa]) inutilizzata e non collegata;",
+                "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4"
+              ]
             }
           ]
         }
