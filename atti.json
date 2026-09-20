@@ -800,6 +800,62 @@
       ]
     },
     {
+      "id": "riqualificazione-athenon-trade-center",
+      "categoria": "Legge Ordinaria",
+      "numero": "5",
+      "anno": "2026",
+      "titolo": "Riqualificazione Athenon Trade Center",
+      "dataEmanazione": "11 Settembre 2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "luogo": "ENOR",
+      "stato": "vigente",
+      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
+      "immagine": "/tc.png",
+      "didascalia": "Trade Center Logo",
+      "articoli": [
+        {
+          "numero": "0",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Con i Seguenti termini si intendono:",
+              "sottocommi": [
+                "Complesso - Tutta la struttura del Athenon Trade Center"
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - SOMMARIO ESECUTIVO"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Motivazioni",
+          "commi": [
+            {
+              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
+              "sottocommi": [
+                "Rilanciare l'appeal del Complesso;",
+                "Migliorare le infrastrutture pubbliche;",
+                "Tutelare il patrimonio architettonico del EstjiLinn"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "voglio bombardare questo coso",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "4",
@@ -807,15 +863,18 @@
       "titolo": "Statuto della Città Metropolitana di Taleen",
       "dataEmanazione": "03 Aprile 2026",
       "promulgatoDa": "Congresso Metropolitano di Taleen",
-      "luogo": "ELIN-TLN",
       "stato": "vigente",
       "sommario": "Statuto della Città Metropolitana di Taleen",
-      "immagine": "/StemmaTaleen.png",
-      "didascalia": "Stemma Cittadino",
       "articoli": [
         {
-          "tipo": "titolo",
-          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO I - DISPOSIZIONI GENERALI",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "1",
@@ -881,8 +940,8 @@
               "testo": "Ai fini del presente Statuto si intendono:",
               "sottocommi": [
                 "per “Congresso Metropolitano”, l’organo legislativo della Città Metropolitana di Taleen;",
-                "per “Distretti membri”, i distretti elencati all’art. 1, comma 3;",
-                "per “Sezioni”, le articolazioni territoriali elencate all’art. 1, comma 3;",
+                "per “Distretti membri”, i distretti elencati all’<a href=\"https://ews-rose.vercel.app/lex/atto.html?id=statuto-della-citta-metropolitana-di-taleen#art-1-c3\" target=\"_blank\" rel=\"noopener noreferrer\">art. 1, comma 3;</a>",
+                "per “Sezioni”, le articolazioni territoriali elencate all’<a href=\"https://ews-rose.vercel.app/lex/atto.html?id=statuto-della-citta-metropolitana-di-taleen#art-1-c3\" target=\"_blank\" rel=\"noopener noreferrer\">art. 1, comma 3;</a>",
                 "per “Bilancio Partecipativo Metropolitano”, la quota del 15% del bilancio metropolitano decisa dai cittadini;",
                 "per “Piattaforma del Cittadino”, il sistema pubblico di pubblicazione e partecipazione digitale;",
                 "per “Libro Elettorale”, il sistema di voto garantito da blockchain su libro incantato."
@@ -891,8 +950,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO II - ORGANI E SISTEMA ELETTORALE"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO II - ORGANI E SISTEMA ELETTORALE",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "4",
@@ -1095,8 +1160,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO III - FUNZIONI E COMPETENZE"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO III - FUNZIONI E COMPETENZE",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "11",
@@ -1294,8 +1365,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO IV - PARTECIPAZIONE, TRASPARENZA E REVOCA"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO IV - PARTECIPAZIONE, TRASPARENZA E REVOCA",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "19",
@@ -1379,8 +1456,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO V - RAPPORTI ISTITUZIONALI"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO V - RAPPORTI ISTITUZIONALI",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "22",
@@ -1425,8 +1508,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO VI - FINANZA E CONTROLLI"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO VI - FINANZA E CONTROLLI",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "24",
@@ -1482,8 +1571,14 @@
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO VII- DISPOSIZIONI FINALI E TRANSITORIE"
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "TITOLO VII- DISPOSIZIONI FINALI E TRANSITORIE",
+              "sottocommi": []
+            }
+          ]
         },
         {
           "numero": "26",
@@ -1556,62 +1651,6 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "riqualificazione-athenon-trade-center",
-      "categoria": "Legge Ordinaria",
-      "numero": "5",
-      "anno": "2026",
-      "titolo": "Riqualificazione Athenon Trade Center",
-      "dataEmanazione": "11 Settembre 2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "luogo": "ENOR",
-      "stato": "vigente",
-      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
-      "immagine": "/tc.png",
-      "didascalia": "Trade Center Logo",
-      "articoli": [
-        {
-          "numero": "0",
-          "rubrica": "Definizioni",
-          "commi": [
-            {
-              "testo": "Con i Seguenti termini si intendono:",
-              "sottocommi": [
-                "Complesso - Tutta la struttura del Athenon Trade Center"
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - SOMMARIO ESECUTIVO"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Motivazioni",
-          "commi": [
-            {
-              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
-              "sottocommi": [
-                "Rilanciare l'appeal del Complesso;",
-                "Migliorare le infrastrutture pubbliche;",
-                "Tutelare il patrimonio architettonico del EstjiLinn"
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "voglio bombardare questo coso",
-          "commi": [
-            {
-              "testo": "",
               "sottocommi": []
             }
           ]
