@@ -1,0 +1,207 @@
+{
+  "elezioni": [
+    {
+      "tipo": "Assemblea di Sezione",
+      "tipo_codice": "G",
+      "data": "06/06/2026",
+      "comune": "Taleen",
+      "area": "EstjiLinn",
+      "affluenza": "64,2%",
+      "candidato_vincente": "Khloe Straub",
+      "risultati_partiti": [
+        {
+          "nome": "Straub Für Tallen!",
+          "voti": 8200,
+          "percentuale": "54,4%",
+          "seggi": 32,
+          "colore": "#1B5FA8"
+        },
+        {
+          "nome": "Progressives",
+          "voti": 5100,
+          "percentuale": "33,8%",
+          "seggi": 20,
+          "colore": "#C0392B"
+        },
+        {
+          "nome": "Les Indipendaces",
+          "voti": 1780,
+          "percentuale": "11,8%",
+          "seggi": 8,
+          "colore": "#2E9E5B"
+        }
+      ],
+      "id_organo": "ELIN-TLN"
+    },
+    {
+      "tipo": "Congresso Unitario",
+      "tipo_codice": "S",
+      "data": "14/09/2026",
+      "comune": "Circoscrizione Unica dell'Unione",
+      "area": "Territorio dell'Unione",
+      "affluenza": "79,2%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 16,
+          "percentuale": "2,4%",
+          "seggi": 6,
+          "colore": "#6f0000",
+          "logo": "https://user33424.na.imgto.link/public/20260918/pce.avif"
+        },
+        {
+          "nome": "Grosse Linke Koalizion",
+          "voti": 360,
+          "percentuale": "48,0%",
+          "seggi": 120,
+          "colore": "#a71b1b",
+          "logo": "https://cdn.phototourl.com/free/2026-09-17-869ac9dd-807c-4b28-9cfc-a35fc5616922.png"
+        },
+        {
+          "nome": "Democratisher Partei",
+          "voti": 153,
+          "percentuale": "20,4%",
+          "seggi": 51,
+          "colore": "#2b49bf",
+          "logo": "https://cdn.phototourl.com/free/2026-09-17-589f39b9-e64a-431e-8602-e7802a7444fe.png"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 8,
+          "percentuale": "1,2%",
+          "seggi": 3,
+          "colore": "#ffcc02",
+          "logo": "https://user33424.na.imgto.link/public/20260918/fajp.avif"
+        },
+        {
+          "nome": "Partito Popolare",
+          "voti": 138,
+          "percentuale": "18,4%",
+          "seggi": 46,
+          "colore": "#C9A227",
+          "logo": "https://www.image2url.com/r2/default/files/1789681307568-1702d8b5-d7bf-409d-b42c-5d4f00478d91.png"
+        },
+        {
+          "nome": "Estji Ecologise les Vert",
+          "voti": 72,
+          "percentuale": "9,6%",
+          "seggi": 24,
+          "colore": "#2E9E5B",
+          "logo": "https://cdn.phototourl.com/free/2026-09-17-e0f50a93-a635-4cba-8e38-5971672c103b.png"
+        }
+      ],
+      "id_organo": "Unione"
+    },
+    {
+      "tipo": "Referendum",
+      "tipo_codice": "R",
+      "data": "05/05/2025",
+      "comune": "Circoscrizione Unica",
+      "area": "Approvate la modifica \"Kitoko\" del sistema Costituzionale Hankonen a seguito del DCCU n.03/2025?",
+      "affluenza": "98,6%",
+      "candidato_vincente": "Approvato",
+      "risultati_partiti": [
+        {
+          "nome": "SI",
+          "voti": 954,
+          "percentuale": "84,9%",
+          "seggi": 0
+        },
+        {
+          "nome": "NO",
+          "voti": 172,
+          "percentuale": "15,1%",
+          "seggi": 0
+        }
+      ],
+      "consultazione_unitaria": true,
+      "sezioni_scrutinate": 152,
+      "sezioni_totali": 152,
+      "elettori": 1163,
+      "votanti": 1128,
+      "schede_nulle": 0,
+      "schede_bianche": 2
+    },
+    {
+      "tipo": "Congresso Statale",
+      "tipo_codice": "C",
+      "data": "17/09/2026",
+      "comune": "Circoscrizione Unica",
+      "area": "Estjilinn",
+      "affluenza": "72,9%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCS",
+          "voti": 40,
+          "percentuale": "25,0%",
+          "seggi": 25,
+          "colore": "#6b0000",
+          "logo": "https://user33424.na.imgto.link/public/20260918/pcs-1.avif"
+        },
+        {
+          "nome": "PCE",
+          "voti": 7,
+          "percentuale": "40,0%",
+          "seggi": 64,
+          "colore": "#8a0000",
+          "logo": "https://user33424.na.imgto.link/public/20260918/pce.avif"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 24,
+          "percentuale": "15,0%",
+          "seggi": 15,
+          "colore": "#ffcc02",
+          "logo": "https://user33424.na.imgto.link/public/20260918/fajp.avif"
+        },
+        {
+          "nome": "VolksPartei",
+          "voti": 32,
+          "percentuale": "20,0%",
+          "seggi": 20,
+          "colore": "#1B5FA8",
+          "logo": "https://www.image2url.com/r2/default/files/1789681307568-1702d8b5-d7bf-409d-b42c-5d4f00478d91.png"
+        }
+      ],
+      "id_organo": "ELIN"
+    },
+    {
+      "tipo": "Assemblea di Sezione",
+      "tipo_codice": "G",
+      "data": "06/06/2026",
+      "comune": "Habara",
+      "area": "Terlin Demokratic Republik",
+      "affluenza": "98,0%",
+      "candidato_vincente": "Uwe Nielse",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 32,
+          "percentuale": "16,0%",
+          "seggi": 4,
+          "colore": "#ff3a30",
+          "logo": "https://user33424.na.imgto.link/public/20260918/pce.avif"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 120,
+          "percentuale": "60,0%",
+          "seggi": 15,
+          "colore": "#f89a16",
+          "logo": "https://user33424.na.imgto.link/public/20260918/fajp.avif"
+        },
+        {
+          "nome": "VolksPartei",
+          "voti": 48,
+          "percentuale": "24,0%",
+          "seggi": 6,
+          "colore": "#0161fd",
+          "logo": "https://www.image2url.com/r2/default/files/1789681307568-1702d8b5-d7bf-409d-b42c-5d4f00478d91.png"
+        }
+      ],
+      "id_organo": "TDR-HBR"
+    }
+  ]
+}
