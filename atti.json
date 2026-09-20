@@ -1604,14 +1604,14 @@
     },
     {
       "id": "riqualificazione-athenon-trade-center",
-      "categoria": "Legge Ordinaria",
+      "categoria": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]",
       "numero": "5",
       "anno": "2026",
       "titolo": "Riqualificazione Athenon Trade Center",
       "dataEmanazione": "11 Settembre 2026",
       "promulgatoDa": "Congresso Statale del EstjiNor",
       "stato": "vigente",
-      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
+      "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]",
       "immagine": "/tc.png",
       "didascalia": "",
       "articoli": [
@@ -1657,6 +1657,10 @@
                 "RETE FERRATA - L'ATC è servito dalla [rerA] proveniente da sud, vi è già presente una stazione collegata al complesso, e una (situata sotto ATC [RERa]) inutilizzata e non collegata;",
                 "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4"
               ]
+            },
+            {
+              "testo": "",
+              "sottocommi": []
             }
           ]
         }
