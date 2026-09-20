@@ -1611,6 +1611,8 @@
       "promulgatoDa": "Congresso Statale del EstjiNor",
       "stato": "vigente",
       "sommario": "[POSIZIONE TEMPORANEA IN ATTESA DEL SISTEMA CTSU]\nDocumento",
+      "immagine": "/tc.png",
+      "didascalia": "",
       "articoli": [
         {
           "numero": "0",
@@ -1651,7 +1653,7 @@
             {
               "testo": "Il complesso si presenta con una forma moderna, ma antiquata e mal organizzata, si vuole evidenziare:",
               "sottocommi": [
-                "RETE FERRATA - L'ATC è servito dalla ReRA proveniente da sud, vi è già presente una stazione (situata sotto ATC [RERa]) inutilizzata;"
+                "RETE FERRATA - L'ATC è servito dalla [rerA] proveniente da sud, vi è già presente una stazione collegata al complesso, e una (situata sotto ATC [RERa]) inutilizzata e non collegata;"
               ]
             }
           ]
