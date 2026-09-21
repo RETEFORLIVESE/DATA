@@ -24,8 +24,23 @@
         {
           "tipo": "sezione",
           "titolo": "Definizioni",
-          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Con i Seguenti termini si intendono:</th></tr></thead>\n<tbody>\n<tr><td>a) Complesso - Tutta la struttura del Athenon Trade Center;</td></tr>\n<tr><td>b) Mall - Bacino numero 4 del progetto originale del ATC;</td></tr>\n<tr><td>c) Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH]</td></tr>\n</tbody>\n</table>",
-          "commi": []
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Con i Seguenti termini si intendono:",
+              "sottocommi": [
+                {
+                  "testo": "Complesso - Tutta la struttura del Athenon Trade Center;"
+                },
+                {
+                  "testo": "Mall - Bacino numero 4 del progetto originale del ATC;"
+                },
+                {
+                  "testo": "Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH]"
+                }
+              ]
+            }
+          ]
         },
         {
           "tipo": "sezione",
@@ -47,6 +62,10 @@
         },
         {
           "url": "https://github.com/RETEFORLIVESE/IMG/blob/cc53c50e954b187fccef27e89f8e6aed3e6a1e05/CTSU/ATC/PrincipeATC.png?raw=true",
+          "didascalia": ""
+        },
+        {
+          "url": "github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/Mallproposta.png?raw=true",
           "didascalia": ""
         }
       ],
