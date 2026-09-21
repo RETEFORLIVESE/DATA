@@ -29,7 +29,12 @@
           "testo": "Il complesso si presenta con una forma moderna, ma antiquata e mal organizzata, si vuole evidenziare:"
         }
       ],
-      "galleria": [],
+      "galleria": [
+        {
+          "url": "https://github.com/RETEFORLIVESE/IMG/blob/cc53c50e954b187fccef27e89f8e6aed3e6a1e05/CTSU/ATC/MallATC.png",
+          "didascalia": ""
+        }
+      ],
       "allegati": []
     }
   ]
