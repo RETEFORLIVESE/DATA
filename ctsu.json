@@ -73,6 +73,12 @@
         },
         {
           "tipo": "sezione",
+          "titolo": "Stato Giuridico",
+          "testo": "Il complesso, con il d.s. n.12 del 23/07/2026",
+          "commi": []
+        },
+        {
+          "tipo": "sezione",
           "titolo": "MALL",
           "testo": "Nel livello sotterraneo del complesso è presente il ATC n.3, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
           "commi": [
@@ -127,6 +133,11 @@
               ]
             }
           ]
+        },
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "STATUS FUTURO"
         }
       ],
       "galleria": [
