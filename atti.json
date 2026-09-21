@@ -1452,9 +1452,7 @@
       "sommario": "Costituzione Statale dell’Estjilinn aggiornata al 2025",
       "immagine": "",
       "didascalia": "",
-      "luoghi": [
-        "ELIN"
-      ],
+      "luogo": "ELIN",
       "articoli": [
         {
           "tipo": "titolo",
