@@ -18,7 +18,7 @@
       "sezioni": [
         {
           "titolo": "Definizioni",
-          "testo": "Con i Seguenti termini si intendono:"
+          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Con i Seguenti termini si intendono:</th></tr></thead>\n<tbody>\n<tr><td>Complesso - Tutta la struttura del Athenon Trade Center;</td></tr>\n<tr><td>Mall - Bacino numero 4 del progetto originale del ATC;</td></tr>\n<tr><td>Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH]</td></tr>\n</tbody>\n</table>"
         },
         {
           "titolo": "Motivazioni",
