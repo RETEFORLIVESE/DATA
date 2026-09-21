@@ -1413,6 +1413,31 @@
       ]
     },
     {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/07/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "",
+      "didascalia": "",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "costituzione-estjilinn",
       "categoria": "Costituzione",
       "numero": "1",
@@ -1422,7 +1447,7 @@
       "promulgatoDa": "Congresso Statale dell’EstjiLinn",
       "stato": "vigente",
       "sommario": "Costituzione Statale dell’Estjilinn aggiornata al 2025",
-      "immagine": "/StemmaTaleen.png",
+      "immagine": "",
       "didascalia": "",
       "articoli": [
         {
@@ -1596,31 +1621,6 @@
           "commi": [
             {
               "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "12",
-      "anno": "2026",
-      "titolo": "Esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/07/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "",
-      "didascalia": "",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "",
-          "commi": [
-            {
-              "testo": "",
               "sottocommi": []
             }
           ]
