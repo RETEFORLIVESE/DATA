@@ -80,18 +80,18 @@
               "testo": "Il complesso si presenta con una forma moderna, ma antiquata per i tempi moderni e mal organizzata, si vuole evidenziare:",
               "sottocommi": [
                 {
-                  "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4 e a Sud del ATC 6"
+                  "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
                 },
                 {
                   "tipo": "immagine",
                   "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
-                  "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate"
+                  "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate;"
                 },
                 {
-                  "testo": "il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso."
+                  "testo": "il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
                 },
                 {
-                  "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione"
+                  "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
                 }
               ]
             }
