@@ -611,31 +611,6 @@
       ]
     },
     {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "12",
-      "anno": "2026",
-      "titolo": "Esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/07/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "",
-      "didascalia": "",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "",
-          "commi": [
-            {
-              "testo": "",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "4",
@@ -1625,6 +1600,32 @@
           "commi": [
             {
               "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/07/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ENOR",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "",
               "sottocommi": []
             }
           ]
