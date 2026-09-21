@@ -92,11 +92,15 @@
       ],
       "galleria": [
         {
-          "url": "https://github.com/RETEFORLIVESE/IMG/blob/cc53c50e954b187fccef27e89f8e6aed3e6a1e05/CTSU/ATC/PrincipeATC.png?raw=true",
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
           "didascalia": ""
         },
         {
-          "url": "github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/Mallproposta.png?raw=true",
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+          "didascalia": ""
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/PrincipeATC.png",
           "didascalia": ""
         }
       ],
