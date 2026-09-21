@@ -142,6 +142,15 @@
           "link_sito": "https://ews-rose.vercel.app/CEPU.html",
           "icona": "certificate_serverW95.ico",
           "figli": []
+        },
+        {
+          "id_organo": "",
+          "nome_display": "CTSU",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "https://ews-rose.vercel.app/lex/ctsu.html",
+          "icona": "ComputersW95.ico",
+          "figli": []
         }
       ],
       "categoria": "congresso",
