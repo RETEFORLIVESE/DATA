@@ -45,7 +45,7 @@
         {
           "tipo": "sezione",
           "titolo": "Motivazioni",
-          "testo": "",
+          "testo": "Con l'intenzione di migliorare la qualità del complesso, le sue funzioni e i suoi terminali;",
           "commi": [
             {
               "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
@@ -86,6 +86,11 @@
                   "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate"
                 }
               ]
+            },
+            {
+              "tipo": "immagine",
+              "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
+              "didascalia": ""
             }
           ]
         }
