@@ -33,7 +33,7 @@
                   "testo": "Complesso - Tutta la struttura del Athenon Trade Center;"
                 },
                 {
-                  "testo": "Mall - Bacino numero 4 del progetto originale del ATC;"
+                  "testo": "Mall - struttura commerciale sotterranea situata sotto a Trade Platz;"
                 },
                 {
                   "testo": "Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH]"
@@ -74,7 +74,7 @@
         {
           "tipo": "sezione",
           "titolo": "Stato Giuridico",
-          "testo": "Il complesso, con il <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026</a> è stato espropriato a favore dello stato del EstjiNor, che ne è diventato unico proprietario",
+          "testo": "Il complesso, con il <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026</a> è stato espropriato a favore dello stato del EstjiNor, che ne è diventato unico proprietario.",
           "commi": []
         },
         {
@@ -83,7 +83,7 @@
           "testo": "Nel livello sotterraneo del complesso è presente il ATC n.3, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
           "commi": [
             {
-              "testo": "Il complesso si presenta con una forma moderna, ma antiquata per i tempi moderni e mal organizzata, si vuole evidenziare:",
+              "testo": "Il complesso si presenta con una forma moderna, ma mal organizzata con infrastrutture e sevizi antiquati, si vuole evidenziare:",
               "sottocommi": [
                 {
                   "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
@@ -118,6 +118,9 @@
                   "testo": "Con \"Stazione Trade Center\" intendiamo la stazione servita dalla RERa, il cui accesso è possibile tramite l'ATC8;"
                 },
                 {
+                  "testo": "Le stazioni distano l'una dall'altra circa 50 bl, non sono presenti indicazioni o agevolazioni fra le due per rendere efficiente lo scambio;"
+                },
+                {
                   "tipo": "immagine",
                   "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
                   "didascalia": "rosso scuro - M1 / rosso - RERa / viola - L10"
@@ -125,7 +128,7 @@
               ]
             },
             {
-              "testo": "E' possibile la modifica del tracciato attuale per espandere il servizio e la sua raggiungibilità.",
+              "testo": "E' possibile la modifica del servizio attuale per espandere il suo bacino e il suo utilizzo.",
               "sottocommi": [
                 {
                   "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl"
@@ -138,6 +141,17 @@
           "tipo": "titolo",
           "numero": "",
           "titolo": "STATUS FUTURO"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Trade Center",
+          "testo": "Viene formato il \"Trade Center\", di possesso del Estjinor, con delega per la gestione autonoma del complesso;",
+          "commi": [
+            {
+              "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
+              "sottocommi": []
+            }
+          ]
         }
       ],
       "galleria": [
