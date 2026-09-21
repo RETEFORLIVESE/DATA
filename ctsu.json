@@ -96,15 +96,38 @@
               ]
             }
           ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "RETE FERRATA",
+          "testo": "Il complesso è integrato con la RERa e la M1, è presente una linea bus [L10] che porta alla TradePlaza. Non sono presenti collegamenti ulterioriE' poss",
+          "commi": [
+            {
+              "testo": "Il complesso ha due stazioni ferroviarie:",
+              "sottocommi": [
+                {
+                  "testo": "Con \"Stazione ATC\" intendiamo la stazione servita dalla M1, il cui accesso è possibile tramite il mall;"
+                },
+                {
+                  "testo": "Con \"Stazione Trade Center\" intendiamo la stazione servita dalla RERa, il cui accesso è possibile tramite l'ATC8;"
+                },
+                {
+                  "tipo": "immagine",
+                  "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+                  "didascalia": "rosso scuro - M1 / rosso - RERa / viola - L10"
+                }
+              ]
+            },
+            {
+              "testo": "E' possibile la modifica del tracciato attuale per espandere il servizio e la sua raggiungibilità.",
+              "sottocommi": []
+            }
+          ]
         }
       ],
       "galleria": [
         {
           "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
-          "didascalia": ""
-        },
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
           "didascalia": ""
         },
         {
