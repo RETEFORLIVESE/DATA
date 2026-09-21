@@ -79,6 +79,11 @@
                 },
                 {
                   "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4"
+                },
+                {
+                  "tipo": "immagine",
+                  "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
+                  "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate"
                 }
               ]
             }
@@ -86,10 +91,6 @@
         }
       ],
       "galleria": [
-        {
-          "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
-          "didascalia": ""
-        },
         {
           "url": "https://github.com/RETEFORLIVESE/IMG/blob/cc53c50e954b187fccef27e89f8e6aed3e6a1e05/CTSU/ATC/PrincipeATC.png?raw=true",
           "didascalia": ""
