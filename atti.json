@@ -1625,7 +1625,7 @@
           "rubrica": "Espropriazione Definitiva",
           "commi": [
             {
-              "testo": "Sono definitivamente espropriati, ai sensi e per gli effetti dell'art. 23 del D.P.R. 327/2001 e ss.mm.ii., in favore del Comune di Athenon, C.F. [ANOR-ATH], con sede in [13,KonstAlee], gli immobili di seguito descritti:",
+              "testo": "Sono definitivamente espropriati, in favore del Comune di Athenon, C.F. [ANOR-ATH], con sede in [13,KonstAlee], gli immobili di seguito descritti:",
               "sottocommi": [
                 "ATC1, ATC2, ATC3, ATC4, ATC5, ATC6, ATC7"
               ]
@@ -1641,8 +1641,16 @@
           "rubrica": "Indennità",
           "commi": [
             {
-              "testo": "",
+              "testo": "L'indennità provvisoria di espropriazione è quantificata in E 500.00 (ESTJI CINQUECENTO MILA), come da perizia di stima redatta dal tecnico incaricato \"Annatink\", iscritto all' ordine professionale di Athenon al n. 21.",
               "sottocommi": []
+            },
+            {
+              "testo": "Tale importo è stato:",
+              "sottocommi": [
+                "Accettato dal proprietario con atto del 19/07/2026;",
+                "Depositato presso la Estji KeskusPankki—Mariotte, in data 20/07/2026, in quanto non accettato dal proprietario;",
+                "Offerto al proprietario mediante comunicazione del 15/07/2026"
+              ]
             }
           ]
         }
