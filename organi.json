@@ -114,7 +114,7 @@
       "id_organo": "Unione",
       "nome_display": "Unione",
       "luogo": "ESTJI",
-      "link_sito": "",
+      "link_sito": "https://ews-rose.vercel.app/",
       "figli": [
         {
           "id_organo": "",
