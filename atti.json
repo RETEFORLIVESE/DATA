@@ -802,32 +802,6 @@
       ]
     },
     {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "12",
-      "anno": "2026",
-      "titolo": "Esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/07/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ENOR",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "",
-          "commi": [
-            {
-              "testo": "",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "4",
@@ -1626,6 +1600,48 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/07/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ENOR",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "Espropriazione Definitiva",
+          "commi": [
+            {
+              "testo": "Sono definitivamente espropriati, ai sensi e per gli effetti dell'art. 23 del D.P.R. 327/2001 e ss.mm.ii., in favore del Comune di Athenon, C.F. [ANOR-ATH], con sede in [13,KonstAlee], gli immobili di seguito descritti:",
+              "sottocommi": [
+                "ATC1, ATC2, ATC3, ATC4, ATC5, ATC6, ATC7"
+              ]
+            },
+            {
+              "testo": "Gli immobili sono adibiti a centro commerciale denominato \"Athenon Trade Center\", sito in TradePlaza, come meglio descritti nell'allegato tecnico \"Elenco particelle espropriate\", che forma parte integrante e sostanziale del presente decreto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Indennità",
+          "commi": [
+            {
+              "testo": "",
               "sottocommi": []
             }
           ]
