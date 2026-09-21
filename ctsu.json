@@ -120,7 +120,11 @@
             },
             {
               "testo": "E' possibile la modifica del tracciato attuale per espandere il servizio e la sua raggiungibilità.",
-              "sottocommi": []
+              "sottocommi": [
+                {
+                  "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl"
+                }
+              ]
             }
           ]
         }
