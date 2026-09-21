@@ -611,6 +611,223 @@
       ]
     },
     {
+      "id": "costituzione-estjilinn",
+      "categoria": "Costituzione",
+      "numero": "1",
+      "anno": "2025",
+      "titolo": "Costituzione EstjiLinn",
+      "dataEmanazione": "06 luglio 2025",
+      "promulgatoDa": "Congresso Statale dell’EstjiLinn",
+      "stato": "vigente",
+      "sommario": "Costituzione Statale dell’Estjilinn aggiornata al 2025",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ELIN",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - FORMA DELLO STATO"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Sistema",
+          "commi": [
+            {
+              "testo": "Lo Stato Sociale di EstjiLinn è membro della fazione “Unione Sociale degli Stati dell’Estji.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Lo Stato adotta un sistema amministrativo basato sulle Assemblee e i Congressi in conformità con la Legge Unitaria",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Capitale",
+          "commi": [
+            {
+              "testo": "La capitale dell’EstjiLinn è la Città Metropolitana di Taleen.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Capitale ospita tutte le sedi centrali delle istituzioni statali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Lingua",
+          "commi": [
+            {
+              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Impegni",
+          "commi": [
+            {
+              "testo": "Lo Stato si impegna a sperimentare modelli innovativi di governance, economia partecipativa e\nwelfare universale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
+        },
+        {
+          "numero": "5",
+          "rubrica": "Assemblee",
+          "commi": [
+            {
+              "testo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
+              "sottocommi": [
+                "Assemblee di Sezione",
+                "Congresso Distrettuale",
+                "Congresso Metropolitano"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Elettorato",
+          "commi": [
+            {
+              "testo": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Congresso Statale",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Distretti e Assemblee",
+          "commi": [
+            {
+              "testo": "Distretti non membri della Città Metropolitana di Taleen:",
+              "sottocommi": [
+                "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                "Konko (Mikita, Royale);",
+                "Arcipelago di Alinesjia."
+              ]
+            },
+            {
+              "testo": "Distretti membri della Città Metropolitana di Taleen:",
+              "sottocommi": [
+                "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                "Katagaa (Irinastok);",
+                "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                "Niigataa (Tegel, TegelGard, Minotte);",
+                "Kengoko (Finance, NewShinguku, Gallier);",
+                "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                "Yate (Rial, Tadam)."
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - ECONOMIA E RISORSE"
+        },
+        {
+          "numero": "9",
+          "rubrica": "Territori pubblici",
+          "commi": [
+            {
+              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Rete di Trasporto",
+          "commi": [
+            {
+              "testo": "La rete di trasporto per Taleen è proprietà pubblica e gestita dal Ministero delle Risorse e\nTrasporti. Il servizio è gratuito per tutti i cittadini.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "rubrica": "Borsa Risorse di Taleen",
+          "commi": [
+            {
+              "testo": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Valuta",
+          "commi": [
+            {
+              "testo": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "rubrica": "Agenzia Unica Approvvigionamenti",
+          "commi": [
+            {
+              "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/07/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ENOR",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "4",
@@ -622,7 +839,7 @@
       "sommario": "Statuto della Città Metropolitana di Taleen",
       "immagine": "/StemmaTaleen.png",
       "didascalia": "",
-      "luoghi": "ELIN",
+      "luogo": "ELIN-TLN",
       "articoli": [
         {
           "numero": "1",
@@ -1409,223 +1626,6 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "costituzione-estjilinn",
-      "categoria": "Costituzione",
-      "numero": "1",
-      "anno": "2025",
-      "titolo": "Costituzione EstjiLinn",
-      "dataEmanazione": "06 luglio 2025",
-      "promulgatoDa": "Congresso Statale dell’EstjiLinn",
-      "stato": "vigente",
-      "sommario": "Costituzione Statale dell’Estjilinn aggiornata al 2025",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ELIN",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - FORMA DELLO STATO"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Sistema",
-          "commi": [
-            {
-              "testo": "Lo Stato Sociale di EstjiLinn è membro della fazione “Unione Sociale degli Stati dell’Estji.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Lo Stato adotta un sistema amministrativo basato sulle Assemblee e i Congressi in conformità con la Legge Unitaria",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Capitale",
-          "commi": [
-            {
-              "testo": "La capitale dell’EstjiLinn è la Città Metropolitana di Taleen.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Capitale ospita tutte le sedi centrali delle istituzioni statali.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "Lingua",
-          "commi": [
-            {
-              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "rubrica": "Impegni",
-          "commi": [
-            {
-              "testo": "Lo Stato si impegna a sperimentare modelli innovativi di governance, economia partecipativa e\nwelfare universale.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
-        },
-        {
-          "numero": "5",
-          "rubrica": "Assemblee",
-          "commi": [
-            {
-              "testo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
-              "sottocommi": [
-                "Assemblee di Sezione",
-                "Congresso Distrettuale",
-                "Congresso Metropolitano"
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "rubrica": "Elettorato",
-          "commi": [
-            {
-              "testo": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "rubrica": "Congresso Statale",
-          "commi": [
-            {
-              "testo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "rubrica": "Distretti e Assemblee",
-          "commi": [
-            {
-              "testo": "Distretti non membri della Città Metropolitana di Taleen:",
-              "sottocommi": [
-                "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
-                "Konko (Mikita, Royale);",
-                "Arcipelago di Alinesjia."
-              ]
-            },
-            {
-              "testo": "Distretti membri della Città Metropolitana di Taleen:",
-              "sottocommi": [
-                "Ehime (Sars, Tampere, Estji, Tervetulloa);",
-                "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
-                "Katagaa (Irinastok);",
-                "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
-                "Niigataa (Tegel, TegelGard, Minotte);",
-                "Kengoko (Finance, NewShinguku, Gallier);",
-                "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
-                "Yate (Rial, Tadam)."
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO III - ECONOMIA E RISORSE"
-        },
-        {
-          "numero": "9",
-          "rubrica": "Territori pubblici",
-          "commi": [
-            {
-              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "rubrica": "Rete di Trasporto",
-          "commi": [
-            {
-              "testo": "La rete di trasporto per Taleen è proprietà pubblica e gestita dal Ministero delle Risorse e\nTrasporti. Il servizio è gratuito per tutti i cittadini.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "rubrica": "Borsa Risorse di Taleen",
-          "commi": [
-            {
-              "testo": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "rubrica": "Valuta",
-          "commi": [
-            {
-              "testo": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "rubrica": "Agenzia Unica Approvvigionamenti",
-          "commi": [
-            {
-              "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "12",
-      "anno": "2026",
-      "titolo": "Esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/07/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ENOR",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "",
-          "commi": [
-            {
-              "testo": "",
               "sottocommi": []
             }
           ]
