@@ -1601,6 +1601,31 @@
           ]
         }
       ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/07/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "",
+      "didascalia": "",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
