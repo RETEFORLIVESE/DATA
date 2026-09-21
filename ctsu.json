@@ -67,30 +67,33 @@
           ]
         },
         {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "STATUS ATTUALE"
+        },
+        {
           "tipo": "sezione",
-          "titolo": "Problemi di  Status Quo",
-          "testo": "",
+          "titolo": "MALL",
+          "testo": "Nel livello sotterraneo del complesso è presente il ATC n.3, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
           "commi": [
             {
-              "testo": "Il complesso si presenta con una forma moderna, ma antiquata e mal organizzata, si vuole evidenziare:",
+              "testo": "Il complesso si presenta con una forma moderna, ma antiquata per i tempi moderni e mal organizzata, si vuole evidenziare:",
               "sottocommi": [
                 {
-                  "testo": "RETE FERRATA - L'ATC è servito dalla [rerA] proveniente da sud, vi è già presente una stazione collegata al complesso, e una (situata sotto ATC [RERa]) inutilizzata e non collegata;"
-                },
-                {
-                  "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4"
+                  "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC 6 e il 4 e a Sud del ATC 6"
                 },
                 {
                   "tipo": "immagine",
                   "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
                   "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate"
+                },
+                {
+                  "testo": "il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso."
+                },
+                {
+                  "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione"
                 }
               ]
-            },
-            {
-              "tipo": "immagine",
-              "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
-              "didascalia": ""
             }
           ]
         }
