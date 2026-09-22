@@ -1621,36 +1621,61 @@
       "luogo": "ENOR",
       "articoli": [
         {
+          "tipo": "titolo",
+          "testo": "TITOLI I - PREMESSA"
+        },
+        {
           "numero": "1",
-          "rubrica": "Espropriazione Definitiva",
+          "rubrica": "Natura Normativa",
           "commi": [
             {
-              "testo": "Sono definitivamente espropriati, in favore del Comune di Athenon, C.F. [ANOR-ATH], con sede in [13,KonstAlee], gli immobili di seguito descritti:",
+              "testo": "Visti:",
               "sottocommi": [
-                "1ATC, 2ATC, 3ATC, 4ATC, 5ATC, 6ATC, 7ATC, 8ATC, 9ATC, 1AFC,"
+                "la Costituzione dell’USSE, Capo II;",
+                "la Legge 43/2025 sulla gestione delle industrie;",
+                "la Legge 03/2026 sulla pianificazione economica democratica;",
+                "la Legge 12/2025 sul CTSU;",
+                "la Legge 10/2026 sulle cooperative e i collettivi di lavoratori."
               ]
             },
             {
-              "testo": "Gli immobili sono adibiti a centro commerciale denominato \"Athenon Trade Center\", sito in TradePlaza, come meglio descritti nell'allegato tecnico \"Elenco particelle espropriate\", che forma parte integrante e sostanziale del presente decreto.",
-              "sottocommi": []
+              "testo": "Premettendo che:",
+              "sottocommi": [
+                "il centro commerciale è di proprietà di ATC;",
+                "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
+                "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
+                "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole."
+              ]
             }
           ]
         },
         {
+          "tipo": "titolo",
+          "testo": "TITOLO II - SI DECRETA"
+        },
+        {
           "numero": "2",
-          "rubrica": "Indennità",
+          "rubrica": "Trasferimento coattivo",
           "commi": [
             {
-              "testo": "L'indennità provvisoria di espropriazione è quantificata in E 500.00 (ESTJI CINQUECENTO MILA), come da perizia di stima redatta dal tecnico incaricato \"Annatink\", iscritto all' ordine professionale di Athenon al n. 21.",
+              "testo": "L’IRE determina un indennizzo equitativo di 1.500.000 ESTJI , comprensivo di avviamento, trasloco e spese tecniche.",
               "sottocommi": []
             },
             {
-              "testo": "Tale importo è stato:",
-              "sottocommi": [
-                "Accettato dal proprietario con atto del 19/07/2026;",
-                "Depositato presso la Estji KeskusPankki—Mariotte, in data 20/07/2026, in quanto non accettato dal proprietario;",
-                "Offerto al proprietario mediante comunicazione del 15/07/2026"
-              ]
+              "testo": "Il CTSU ha verificato la fattibilità tecnica e matematica dell’operazione. Il parere è pubblicato nella Bolla Ufficiale Unitaria e sul sito del <a href=\"https://ews-rose.vercel.app/lex/progetto.html?id=riqualificazione-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il centro è assegnato all’IRE, che lo articola nel \"Trade Center\", secondo il piano economico approvato.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
+              "sottocommi": []
             }
           ]
         }
