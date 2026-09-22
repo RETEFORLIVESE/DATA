@@ -1702,7 +1702,11 @@
             },
             {
               "testo": "La “TCA” ha le seguenti competenze:",
-              "sottocommi": []
+              "sottocommi": [
+                "Coordinare con l’IRE, in base al piano unitario e statale, i canoni d’affitto del complesso;",
+                "Gestire la manutenzione ordinaria del complesso;",
+                "Redigere il rapporto di bilancio annuale, il rapporto annuale per la pianificazione locale e sucessivamente comunicarli al CTSU;"
+              ]
             }
           ]
         }
