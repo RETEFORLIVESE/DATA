@@ -1694,11 +1694,15 @@
           "rubrica": "Trade Center Authority",
           "commi": [
             {
-              "testo": "L’IRE delega la gestione del complesso alla Trade Center Authority, formata da:",
+              "testo": "L’IRE delega la gestione del complesso alla Trade Center Authority (TCA), formata da:",
               "sottocommi": [
                 "Assemblea:formata da i giocatori coivolti nel complesso, eleggono il consiglio esecutivo;",
                 "Consiglio Esecutivo: formato da giocatori coinvolti, rappresentano l’autorità davanti all’ IRE e al congresso del EstjiNor."
               ]
+            },
+            {
+              "testo": "La “TCA” ha le seguenti competenze:",
+              "sottocommi": []
             }
           ]
         }
