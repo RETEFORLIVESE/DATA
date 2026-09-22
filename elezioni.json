@@ -202,6 +202,36 @@
         }
       ],
       "id_organo": "TDR-HBR"
+    },
+    {
+      "tipo": "Referendum",
+      "tipo_codice": "R",
+      "data": "18/08/2026",
+      "comune": "Trade Center",
+      "area": "Approvate l'esproprio del complesso \"Athenon Trade Center\", in favore del piano economico unitario per la riconversione produttiva?",
+      "affluenza": "100,0%",
+      "candidato_vincente": "Approvato",
+      "risultati_partiti": [
+        {
+          "nome": "Sì",
+          "voti": 36,
+          "percentuale": "72,0%",
+          "seggi": 0
+        },
+        {
+          "nome": "No",
+          "voti": 14,
+          "percentuale": "24,7%",
+          "seggi": 0
+        }
+      ],
+      "id_organo": "ENOR-PTL-ATC",
+      "sezioni_scrutinate": 1,
+      "sezioni_totali": 1,
+      "elettori": 50,
+      "votanti": 50,
+      "schede_nulle": 0,
+      "schede_bianche": 0
     }
   ]
 }
