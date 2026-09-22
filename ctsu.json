@@ -154,16 +154,24 @@
       ],
       "galleria": [
         {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
-          "didascalia": "Proposta ristrutturazione 5ATC & 6ATC"
-        },
-        {
           "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/PrincipeATC.png",
           "didascalia": "Mappa del Complesso"
         },
         {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
+          "didascalia": "Proposta ristrutturazione 5ATC & 6ATC"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
+          "didascalia": "5ATC & 6ATC Attuali"
+        },
+        {
           "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
           "didascalia": "Proposta ristrutturazione dei Trasporti"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+          "didascalia": "Trasporti Attuali"
         }
       ],
       "allegati": []
