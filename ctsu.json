@@ -89,17 +89,16 @@
                   "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
                 },
                 {
-                  "tipo": "immagine",
-                  "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
-                  "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate;"
-                },
-                {
                   "testo": "il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
                 },
                 {
                   "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
                 }
-              ]
+              ],
+              "immagine": {
+                "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
+                "didascalia": "In rosso vi sono indicate le zone sotto al compllesso inutilizzate;"
+              }
             }
           ]
         },
@@ -119,13 +118,12 @@
                 },
                 {
                   "testo": "Le stazioni distano l'una dall'altra circa 50 bl, non sono presenti indicazioni o agevolazioni fra le due per rendere efficiente lo scambio;"
-                },
-                {
-                  "tipo": "immagine",
-                  "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
-                  "didascalia": "rosso scuro - M1 / rosso - RERa / viola - L10"
                 }
-              ]
+              ],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+                "didascalia": "rosso scuro - M1 / rosso - RERa / viola - L10"
+              }
             },
             {
               "testo": "E' possibile la modifica del servizio attuale per espandere il suo bacino e il suo utilizzo.",
