@@ -86,10 +86,10 @@
               "testo": "Il complesso si presenta con una forma moderna, ma mal organizzata con infrastrutture e sevizi antiquati, si vuole evidenziare:",
               "sottocommi": [
                 {
-                  "testo": "MALL - Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
+                  "testo": "Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
                 },
                 {
-                  "testo": "il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
+                  "testo": "Il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
                 },
                 {
                   "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
@@ -146,7 +146,7 @@
           "testo": "Viene formato il \"Trade Center\", di possesso del Estjinor, con delega per la gestione autonoma del complesso;",
           "commi": [
             {
-              "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
+              "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center#art-3" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
               "sottocommi": []
             }
           ]
