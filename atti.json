@@ -1027,89 +1027,6 @@
       ]
     },
     {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "12",
-      "anno": "2026",
-      "titolo": "Decreto d'esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/08/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "/tc.png",
-      "didascalia": "",
-      "luogo": "ENOR",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLI I - PREMESSA"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Natura Normativa",
-          "commi": [
-            {
-              "testo": "Visti:",
-              "sottocommi": [
-                "la Costituzione dell’USSE, Capo II;",
-                "la Legge 43/2025 sulla gestione delle industrie;",
-                "la Legge 03/2026 sulla pianificazione economica democratica;",
-                "la Legge 12/2025 sul CTSU;",
-                "la Legge 10/2026 sulle cooperative e i collettivi di lavoratori."
-              ]
-            },
-            {
-              "testo": "Premettendo che:",
-              "sottocommi": [
-                "il centro commerciale è di proprietà di \"YjuraHh\";",
-                "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
-                "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
-                "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole."
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - SI DECRETA"
-        },
-        {
-          "numero": "2",
-          "rubrica": "Trasferimento coattivo",
-          "commi": [
-            {
-              "testo": "L’IRE determina un indennizzo equitativo di 1.500.000 ESTJI , comprensivo di avviamento, trasloco e spese tecniche.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il CTSU ha verificato la fattibilità tecnica e matematica dell’operazione. Il parere è pubblicato nella Bolla Ufficiale Unitaria e sul sito del <a href=\"https://ews-rose.vercel.app/lex/progetto.html?id=riqualificazione-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il centro è assegnato all’IRE, che lo articola nel \"Trade Center\", secondo il piano economico approvato.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
-              "sottocommi": [
-                "Distretto - Athenon",
-                "Sezione - PatHel",
-                "Region-",
-                "Chunk -",
-                "Indirizzo - Trade Plaza 1-9",
-                "Categoria - C/1",
-                "Superficie catastale -"
-              ]
-            },
-            {
-              "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "legge-elettorale-dell-unione",
       "categoria": "Legge Applicativa",
       "numero": "2",
@@ -1685,6 +1602,89 @@
           "commi": [
             {
               "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "12",
+      "anno": "2026",
+      "titolo": "Decreto d'esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/08/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "/tc.png",
+      "didascalia": "",
+      "luogo": "ENOR-PTL-ATC",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLI I - PREMESSA"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Natura Normativa",
+          "commi": [
+            {
+              "testo": "Visti:",
+              "sottocommi": [
+                "la Costituzione dell’USSE, Capo II;",
+                "la Legge 43/2025 sulla gestione delle industrie;",
+                "la Legge 03/2026 sulla pianificazione economica democratica;",
+                "la Legge 12/2025 sul CTSU;",
+                "la Legge 10/2026 sulle cooperative e i collettivi di lavoratori."
+              ]
+            },
+            {
+              "testo": "Premettendo che:",
+              "sottocommi": [
+                "il centro commerciale è di proprietà di \"YjuraHh\";",
+                "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
+                "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
+                "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole."
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - SI DECRETA"
+        },
+        {
+          "numero": "2",
+          "rubrica": "Trasferimento coattivo",
+          "commi": [
+            {
+              "testo": "L’IRE determina un indennizzo equitativo di 1.500.000 ESTJI , comprensivo di avviamento, trasloco e spese tecniche.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il CTSU ha verificato la fattibilità tecnica e matematica dell’operazione. Il parere è pubblicato nella Bolla Ufficiale Unitaria e sul sito del <a href=\"https://ews-rose.vercel.app/lex/progetto.html?id=riqualificazione-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il centro è assegnato all’IRE, che lo articola nel \"Trade Center\", secondo il piano economico approvato.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
+              "sottocommi": [
+                "Distretto - Athenon",
+                "Sezione - PatHel",
+                "Region-",
+                "Chunk -",
+                "Indirizzo - Trade Plaza 1-9",
+                "Categoria - C/1",
+                "Superficie catastale -"
+              ]
+            },
+            {
+              "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
               "sottocommi": []
             }
           ]
