@@ -100,7 +100,10 @@
       "ELIN-TLN-IDM-SYZ": "Soyuz",
       "ELIN-TLN-KNG-NTC": "NTC"
     },
-    "organi": {},
+    "organi": {
+      "ENOR-PTL": "PatHel",
+      "ENOR-PTL-ATC": "Trade Center"
+    },
     "regione": {
       "EFAL-AFD": {
         "nome": "Al-Fahad",
@@ -614,6 +617,25 @@
               "categoria": "assemblea",
               "luogo": "ENOR-SOV-APP",
               "link_sito": "",
+              "figli": []
+            }
+          ]
+        },
+        {
+          "id_organo": "ENOR-PTL",
+          "nome_display": "PatHel",
+          "categoria": "congresso",
+          "luogo": "ENOR-PTL",
+          "link_sito": "",
+          "icona": "",
+          "figli": [
+            {
+              "id_organo": "ENOR-PTL-ATC",
+              "nome_display": "Trade Center",
+              "categoria": "assemblea",
+              "luogo": "ENOR-PTL-ATC",
+              "link_sito": "",
+              "icona": "",
               "figli": []
             }
           ]
