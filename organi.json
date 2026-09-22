@@ -101,8 +101,7 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "ENOR-PTL-ATC": "Trade Center"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
@@ -110,7 +109,10 @@
         "tipo": "regione"
       }
     },
-    "Unione": "Unione"
+    "Unione": "Unione",
+    "assemblee_lavorative": {
+      "ENOR-PTL-ATC": "Trade Center"
+    }
   },
   "alberoOrgani": [
     {
