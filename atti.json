@@ -1641,7 +1641,7 @@
             {
               "testo": "Premettendo che:",
               "sottocommi": [
-                "il centro commerciale è di proprietà di ATC;",
+                "il centro commerciale è di proprietà di \"YjuraHh\";",
                 "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
                 "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
                 "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole."
@@ -1671,7 +1671,15 @@
             },
             {
               "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
-              "sottocommi": []
+              "sottocommi": [
+                "Distretto - Athenon",
+                "Sezione - PatHel",
+                "Region-",
+                "Chunk -",
+                "Indirizzo - Trade Plaza 1-9",
+                "Categoria - C/1",
+                "Superficie catastale -"
+              ]
             },
             {
               "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
