@@ -188,6 +188,17 @@
                   "testo": "La TCA appalta l'opera (n.2-TCA26) all'IRE tramite delega interna;"
                 }
               ]
+            },
+            {
+              "testo": "4ATC | (opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate;",
+              "sottocommi": [
+                {
+                  "testo": "Il CTSU stima una spesa di E. 2.000;"
+                },
+                {
+                  "testo": "La TCA appalta l'opera (n.3-TCA26) alla <a href=\"https://ews-rose.vercel.app/EBR.html\" target=\"_blank\" rel=\"noopener noreferrer\">EstjiBundesRessource</a>"
+                }
+              ]
             }
           ]
         }
