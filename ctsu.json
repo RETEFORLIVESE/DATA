@@ -148,6 +148,35 @@
             {
               "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center#art-3\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
               "sottocommi": []
+            },
+            {
+              "testo": "Il TCA gestisce la ristrutturazione del complesso in modo autonomo tramite l'assemblea e il consiglio esecutivo,",
+              "sottocommi": [
+                {
+                  "testo": "l' IRE supervisiona e consiglia l'operato esecutivo della ATC;"
+                },
+                {
+                  "testo": "La TCA pianifica il suo sviluppo con il Consiglio per la Pianificazione nei limiti della \"Legge sulla Gestione Democratica della Pianificazione\";"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi Necessari",
+          "testo": "Vi sono numerosi interventi necessari, sia estetici che strutturali",
+          "commi": [
+            {
+              "testo": "2ATC - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano:",
+              "sottocommi": [
+                {
+                  "testo": "Il CTSU stima una spesa di E. 1.200;"
+                },
+                {
+                  "testo": "La TCA appalta l'operazione (n. 1-TCA26) alla TLNXbuild, con sede a IrinaStock[ELIN-TLN];"
+                }
+              ]
             }
           ]
         }
