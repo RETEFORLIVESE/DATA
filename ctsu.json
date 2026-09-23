@@ -168,13 +168,24 @@
           "testo": "Vi sono numerosi interventi necessari, sia estetici che strutturali",
           "commi": [
             {
-              "testo": "2ATC - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano:",
+              "testo": "2ATC | (opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano;",
               "sottocommi": [
                 {
-                  "testo": "Il CTSU stima una spesa di E. 1.200;"
+                  "testo": "Il CTSU stima una spesa di E. 12.000;"
                 },
                 {
-                  "testo": "La TCA appalta l'operazione (n. 1-TCA26) alla TLNXbuild, con sede a IrinaStock[ELIN-TLN];"
+                  "testo": "La TCA appalta l'opera (n. 1-TCA26) alla TLNXbuild, con sede a IrinaStock[ELIN-TLN];"
+                }
+              ]
+            },
+            {
+              "testo": "2ATC | (opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12;",
+              "sottocommi": [
+                {
+                  "testo": "Il CTSU stima una spesa di E.5.300;"
+                },
+                {
+                  "testo": "La TCA appalta l'opera (n.2-TCA26) all'IRE tramite delega interna;"
                 }
               ]
             }
