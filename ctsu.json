@@ -251,6 +251,32 @@
         }
       ],
       "allegati": []
+    },
+    {
+      "id": "riqualificazione-della-citta-metropolitana-di-terlin",
+      "titolo": "Riqualificazione della Città Metropolitana di Terlin",
+      "categoria": "Edilizia",
+      "stato": "Completato",
+      "organo_responsabile": "Congresso Statale della Repubblica Democratica di Terlin - CTSU locale",
+      "luogo": "TDR-TRN",
+      "responsabile": "",
+      "data_inizio": "06/06/2026",
+      "data_fine_prevista": "18/08/2026",
+      "data_completamento": "25/08/2026",
+      "budget_previsto": "E.1.800.000",
+      "costo_effettivo": "E. 2.300.000",
+      "sommario": "Progetto di riqualificazione completa della Città Metropolitana di Terlin a seguito dell'Unificazione.",
+      "copertina": "/TDR.png",
+      "sezioni": [
+        {
+          "tipo": "sezione",
+          "titolo": "a",
+          "testo": "",
+          "commi": []
+        }
+      ],
+      "galleria": [],
+      "allegati": []
     }
   ]
 }
