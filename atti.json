@@ -1738,7 +1738,7 @@
           "rubrica": "Preambolo Storico",
           "commi": [
             {
-              "testo": "In seguito agli eventi che hanno portato la richiesta d'ingresso della RepubblicaFederale di Terlin nella Repubblica Federale di Terlin, il Congresso Statale delibera le seguenti disposizioni per l'unificazione dello stato:",
+              "testo": "In seguito agli eventi che hanno portato la richiesta d'ingresso della Repubblica Federale di Terlin(TBR) nella Repubblica Federale di Terlin(TDR), il Congresso Statale delibera le seguenti disposizioni per l'unificazione dello stato:",
               "sottocommi": []
             }
           ]
@@ -1773,7 +1773,11 @@
               ]
             },
             {
-              "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso copro giuridico delle assemblee della TDR.",
+              "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso corpo giuridico delle assemblee della TDR.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Con l'entrata in vigore del seguente testo la capitale della Repubblica Democratica di Terlin è la città Terlin.",
               "sottocommi": []
             }
           ]
@@ -1842,6 +1846,30 @@
             },
             {
               "testo": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Disposizioni Penali e Giuridiche",
+          "commi": [
+            {
+              "testo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+              "sottocommi": []
+            },
+            {
+              "testo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Entrata in Vigore e Abrogazione",
+          "commi": [
+            {
+              "testo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
               "sottocommi": []
             }
           ]
