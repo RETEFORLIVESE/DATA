@@ -1,227 +1,6 @@
 {
   "atti": [
     {
-      "id": "statuto-della-terlin-transit-authority",
-      "categoria": "Legge Ordinaria",
-      "numero": "3",
-      "anno": "2026",
-      "titolo": "Statuto della \"Terlin Transit Authority\"",
-      "dataEmanazione": "16 Febbraio 2026",
-      "promulgatoDa": "Congresso della Repubblica Democratica di Terlin",
-      "luogo": "TDR-TRN",
-      "stato": "vigente",
-      "sommario": "Statuto della Autorità Statale \"TETA\"",
-      "immagine": "/TETA.png",
-      "didascalia": "1",
-      "articoli": [
-        {
-          "numero": "I",
-          "rubrica": "Denominazione e natura giuridica",
-          "commi": [
-            {
-              "testo": "È istituita la TETA — Terlin Transit Authority, di seguito “TETA” o “Autorità”.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La TETA è un ente pubblico di rilievo statale, dotato di personalità giuridica di diritto pubblico, autonomia regolamentare, amministrativa, patrimoniale e contabile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Essa opera sotto la vigilanza del IVIdU e della Commissione Economica della Repubblica Democratica di Terlin e degli organi competenti dell'Unione e Stato.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "II",
-          "rubrica": "Sede e ambito territoriale",
-          "commi": [
-            {
-              "testo": "La sede principale della TETA è stabilita a AchtStag, salvo diversa deliberazione del Consiglio Direttivo.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’Autorità opera in tutto il territorio della Repubblica e può istituire delegazioni, uffici tecnici e centri di controllo in altre località.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La TETA può operare anche al di fuori dei confini della Repubblica Democratica di Terlin, previa autorizzazione degli organi unionali competenti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "III",
-          "rubrica": "Scopi istituzionali",
-          "commi": [
-            {
-              "testo": "La TETA persegue i seguenti scopi:",
-              "sottocommi": [
-                "garantire la sicurezza, l’efficienza e l’integrazione dei sistemi di trasporto;",
-                "coordinare le reti TETArail, TETAmetro, le attività industriali di TETAsteel e le attività agricole della TETAwheat;",
-                "promuovere la pianificazione strategica delle infrastrutture;",
-                "assicurare la continuità operativa con le agenzie dell’Unione, in particolare con l’IRE e la ReichStaseGruppeIndustrie;",
-                "favorire lo sviluppo tecnologico, la ricerca applicata e la sostenibilità ambientale;",
-                "tutelare gli utenti, i giocatori e le comunità locali."
-              ]
-            },
-            {
-              "testo": "Ogni dipartimento si coordina con gli altri per lo sviluppo congiunto.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "IV",
-          "rubrica": "Funzioni e competenze",
-          "commi": [
-            {
-              "testo": "La TETA esercita le seguenti funzioni",
-              "sottocommi": [
-                "pianificazione e programmazione delle reti di trasporto;",
-                "regolazione tecnica e normativa di settore;",
-                "gestione, manutenzione e sviluppo delle infrastrutture assegnate;",
-                "rilascio di licenze, autorizzazioni e concessioni;",
-                "coordinamento con autorità locali, unionali e internazionali."
-              ]
-            },
-            {
-              "testo": "La TETA può adottare regolamenti tecnici, direttive e circolari vincolanti per i soggetti operanti nel settore.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "V",
-          "rubrica": "Principi di funzionamento",
-          "commi": [
-            {
-              "testo": "La TETA informa la propria attività ai principi di:",
-              "sottocommi": [
-                "legalità e imparzialità;",
-                "trasparenza e pubblicità degli atti;",
-                "efficienza, economicità e buon andamento;",
-                "sicurezza e affidabilità;",
-                "sostenibilità ambientale;",
-                "partecipazione dei giocatori e degli utenti;",
-                "cooperazione con gli organi dell’USSE."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "VI",
-          "rubrica": "Organi",
-          "commi": [
-            {
-              "testo": "Sono organi della TETA: 1) Consiglio Direttivo, composto da sette membri, nominati per cinque anni dalla Repubblica Democratica di Terlin e dall’USSE, che definisce gli indirizzi strategici e approva i piani annuali; 2) Presidente, che rappresenta legalmente l’Autorità, convoca e presiede il Consiglio Direttivo e firma gli atti ufficiali; 3) Direttore Generale, che assicura la gestione esecutiva, coordina i dipartimenti e riferisce al Consiglio; 4) Collegio dei Revisori, composto da tre membri, che verifica la regolarità contabile e finanziaria; 5) Commissione di Vigilanza, composta da rappresentanti dei lavoratori, degli utenti e delle autorità competenti, che vigila su trasparenza e qualità del servizio.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "VII",
-          "rubrica": "Struttura Operativa",
-          "commi": [
-            {
-              "testo": "La TETA si articola nei seguenti dipartimenti: 1) TETArail, rete ferroviaria, stazioni e materiale rotabile; 2) TETAmetro, metropolitane urbane e suburbane; 3) TETAsteel, produzione siderurgica e forniture industriali; 4) Dipartimento Logistica e Infrastrutture; 5) Dipartimento Sicurezza e Controllo; 6) Dipartimento Ricerca e Sviluppo. 2) Le agenzie territoriali EstjiFall, EstjiKuro ed EstjiBundes operano come strutture periferiche della TETA, con autonomia amministrativa nei limiti stabiliti dal Consiglio Direttivo.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "VIII",
-          "rubrica": "Personale",
-          "commi": [
-            {
-              "testo": "Il personale della TETA è assunto secondo le norme del pubblico impiego unionale o mediante contratti collettivi autorizzati. 2) È garantita la formazione continua, la sicurezza sul lavoro e la tutela della salute. 3) È fatto divieto di conflitto di interessi tra incarichi pubblici e attività private.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "IX",
-          "rubrica": "Patrimonio e Finanziamento",
-          "commi": [
-            {
-              "testo": "Il patrimonio della TETA è costituito da beni demaniali, infrastrutture, impianti, mezzi e risorse finanziarie. 2) Le entrate provengono da: 1) contributi dell’USSE e della Repubblica Democratica di Terlin; 2) tariffe, canoni e corrispettivi per i servizi; 3) entrate proprie e rendite patrimoniali; 4) finanziamenti straordinari approvati dagli organi competenti. 3) Il bilancio annuale è predisposto dal Direttore Generale, approvato dal Consiglio Direttivo e sottoposto al Collegio dei Revisori.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "X",
-          "rubrica": "Atti e Pubblicità",
-          "commi": [
-            {
-              "testo": "Gli atti della TETA sono pubblicati nel Bollettino Ufficiale dell’Autorità e sul portale istituzionale. 2) La sezione “Novità” del portale pubblica comunicati, bandi e aggiornamenti. 3) Il modulo di contatto consente ai cittadini e agli enti di scrivere all’ufficio competente.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "XI",
-          "rubrica": "Trasparenza e accesso",
-          "commi": [
-            {
-              "testo": "È garantito l’accesso agli atti secondo le norme unionali e della Repubblica Democratica di Terlin. 2) La TETA tutela i dati personali e le informazioni riservate. 3) Chiunque può presentare osservazioni, reclami o proposte.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "XII",
-          "rubrica": "Controlli e Responsabilità",
-          "commi": [
-            {
-              "testo": "La TETA è soggetta al controllo della Corte dei Conti unionale e degli organi di vigilanza della Repubblica Democratica di Terlin. 2) Il Collegio dei Revisori verifica la gestione finanziaria. 3) Le violazioni degli obblighi statutari comportano responsabilità amministrativa, civile o penale secondo le leggi vigenti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "XIII",
-          "rubrica": "Rapporti con l'USSE e altre agenzie",
-          "commi": [
-            {
-              "testo": "La TETA coopera con l’IRE, la ReichStaseGruppeIndustrie e le altre agenzie dell’Unione. 2) Ogni accordo internazionale è sottoposto all’approvazione degli organi competenti. 3) La TETA opera nel rispetto della Costituzione Unitaria dell’USSE e delle leggi della Repubblica Democratica di Terlin.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "XIV",
-          "rubrica": "Modifiche e Scioglimento",
-          "commi": [
-            {
-              "testo": "Lo Statuto può essere modificato con decreto del Consiglio dei Ministri della Repubblica Democratica di Terlin, previa approvazione degli organi unionali. 2) Lo scioglimento della TETA è disposto solo per legge; il patrimonio è devoluto secondo le norme vigenti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "XV",
-          "rubrica": "Norme Transitorie e Finali",
-          "commi": [
-            {
-              "testo": "Entro 180 giorni dall’entrata in vigore del presente Statuto, il Consiglio Direttivo adotta i regolamenti attuativi. 2) Il personale delle strutture preesistenti è trasferito alla TETA secondo criteri di continuità. 3) Il primo Consiglio Direttivo è nominato entro 60 giorni. 4) Il presente Statuto entra in vigore il giorno successivo alla sua pubblicazione nel Bollettino Ufficiale.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "Finale",
-          "rubrica": "",
-          "commi": [
-            {
-              "testo": "Approvato dal Congresso della Repubblica Democratica di Terlin Con decreto n. 125 del 2026 Ratificato dagli organi competenti dell’USSE",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "4",
@@ -1739,6 +1518,227 @@
           "commi": [
             {
               "testo": "",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "statuto-della-terlin-transit-authority",
+      "categoria": "Legge Ordinaria",
+      "numero": "4",
+      "anno": "2026",
+      "titolo": "Statuto della \"Terlin Transit Authority\"",
+      "dataEmanazione": "16 Febbraio 2026",
+      "promulgatoDa": "Congresso della Repubblica Democratica di Terlin",
+      "stato": "vigente",
+      "sommario": "Statuto della Autorità Statale \"TETA\"",
+      "immagine": "/TETA.png",
+      "didascalia": "1",
+      "luogo": "TDR-TRN",
+      "articoli": [
+        {
+          "numero": "I",
+          "rubrica": "Denominazione e natura giuridica",
+          "commi": [
+            {
+              "testo": "È istituita la TETA — Terlin Transit Authority, di seguito “TETA” o “Autorità”.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La TETA è un ente pubblico di rilievo statale, dotato di personalità giuridica di diritto pubblico, autonomia regolamentare, amministrativa, patrimoniale e contabile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Essa opera sotto la vigilanza del IVIdU e della Commissione Economica della Repubblica Democratica di Terlin e degli organi competenti dell'Unione e Stato.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "II",
+          "rubrica": "Sede e ambito territoriale",
+          "commi": [
+            {
+              "testo": "La sede principale della TETA è stabilita a AchtStag, salvo diversa deliberazione del Consiglio Direttivo.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’Autorità opera in tutto il territorio della Repubblica e può istituire delegazioni, uffici tecnici e centri di controllo in altre località.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La TETA può operare anche al di fuori dei confini della Repubblica Democratica di Terlin, previa autorizzazione degli organi unionali competenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "III",
+          "rubrica": "Scopi istituzionali",
+          "commi": [
+            {
+              "testo": "La TETA persegue i seguenti scopi:",
+              "sottocommi": [
+                "garantire la sicurezza, l’efficienza e l’integrazione dei sistemi di trasporto;",
+                "coordinare le reti TETArail, TETAmetro, le attività industriali di TETAsteel e le attività agricole della TETAwheat;",
+                "promuovere la pianificazione strategica delle infrastrutture;",
+                "assicurare la continuità operativa con le agenzie dell’Unione, in particolare con l’IRE e la ReichStaseGruppeIndustrie;",
+                "favorire lo sviluppo tecnologico, la ricerca applicata e la sostenibilità ambientale;",
+                "tutelare gli utenti, i giocatori e le comunità locali."
+              ]
+            },
+            {
+              "testo": "Ogni dipartimento si coordina con gli altri per lo sviluppo congiunto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "IV",
+          "rubrica": "Funzioni e competenze",
+          "commi": [
+            {
+              "testo": "La TETA esercita le seguenti funzioni",
+              "sottocommi": [
+                "pianificazione e programmazione delle reti di trasporto;",
+                "regolazione tecnica e normativa di settore;",
+                "gestione, manutenzione e sviluppo delle infrastrutture assegnate;",
+                "rilascio di licenze, autorizzazioni e concessioni;",
+                "coordinamento con autorità locali, unionali e internazionali."
+              ]
+            },
+            {
+              "testo": "La TETA può adottare regolamenti tecnici, direttive e circolari vincolanti per i soggetti operanti nel settore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "V",
+          "rubrica": "Principi di funzionamento",
+          "commi": [
+            {
+              "testo": "La TETA informa la propria attività ai principi di:",
+              "sottocommi": [
+                "legalità e imparzialità;",
+                "trasparenza e pubblicità degli atti;",
+                "efficienza, economicità e buon andamento;",
+                "sicurezza e affidabilità;",
+                "sostenibilità ambientale;",
+                "partecipazione dei giocatori e degli utenti;",
+                "cooperazione con gli organi dell’USSE."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "VI",
+          "rubrica": "Organi",
+          "commi": [
+            {
+              "testo": "Sono organi della TETA: 1) Consiglio Direttivo, composto da sette membri, nominati per cinque anni dalla Repubblica Democratica di Terlin e dall’USSE, che definisce gli indirizzi strategici e approva i piani annuali; 2) Presidente, che rappresenta legalmente l’Autorità, convoca e presiede il Consiglio Direttivo e firma gli atti ufficiali; 3) Direttore Generale, che assicura la gestione esecutiva, coordina i dipartimenti e riferisce al Consiglio; 4) Collegio dei Revisori, composto da tre membri, che verifica la regolarità contabile e finanziaria; 5) Commissione di Vigilanza, composta da rappresentanti dei lavoratori, degli utenti e delle autorità competenti, che vigila su trasparenza e qualità del servizio.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "VII",
+          "rubrica": "Struttura Operativa",
+          "commi": [
+            {
+              "testo": "La TETA si articola nei seguenti dipartimenti: 1) TETArail, rete ferroviaria, stazioni e materiale rotabile; 2) TETAmetro, metropolitane urbane e suburbane; 3) TETAsteel, produzione siderurgica e forniture industriali; 4) Dipartimento Logistica e Infrastrutture; 5) Dipartimento Sicurezza e Controllo; 6) Dipartimento Ricerca e Sviluppo. 2) Le agenzie territoriali EstjiFall, EstjiKuro ed EstjiBundes operano come strutture periferiche della TETA, con autonomia amministrativa nei limiti stabiliti dal Consiglio Direttivo.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "VIII",
+          "rubrica": "Personale",
+          "commi": [
+            {
+              "testo": "Il personale della TETA è assunto secondo le norme del pubblico impiego unionale o mediante contratti collettivi autorizzati. 2) È garantita la formazione continua, la sicurezza sul lavoro e la tutela della salute. 3) È fatto divieto di conflitto di interessi tra incarichi pubblici e attività private.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "IX",
+          "rubrica": "Patrimonio e Finanziamento",
+          "commi": [
+            {
+              "testo": "Il patrimonio della TETA è costituito da beni demaniali, infrastrutture, impianti, mezzi e risorse finanziarie. 2) Le entrate provengono da: 1) contributi dell’USSE e della Repubblica Democratica di Terlin; 2) tariffe, canoni e corrispettivi per i servizi; 3) entrate proprie e rendite patrimoniali; 4) finanziamenti straordinari approvati dagli organi competenti. 3) Il bilancio annuale è predisposto dal Direttore Generale, approvato dal Consiglio Direttivo e sottoposto al Collegio dei Revisori.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "X",
+          "rubrica": "Atti e Pubblicità",
+          "commi": [
+            {
+              "testo": "Gli atti della TETA sono pubblicati nel Bollettino Ufficiale dell’Autorità e sul portale istituzionale. 2) La sezione “Novità” del portale pubblica comunicati, bandi e aggiornamenti. 3) Il modulo di contatto consente ai cittadini e agli enti di scrivere all’ufficio competente.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "XI",
+          "rubrica": "Trasparenza e accesso",
+          "commi": [
+            {
+              "testo": "È garantito l’accesso agli atti secondo le norme unionali e della Repubblica Democratica di Terlin. 2) La TETA tutela i dati personali e le informazioni riservate. 3) Chiunque può presentare osservazioni, reclami o proposte.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "XII",
+          "rubrica": "Controlli e Responsabilità",
+          "commi": [
+            {
+              "testo": "La TETA è soggetta al controllo della Corte dei Conti unionale e degli organi di vigilanza della Repubblica Democratica di Terlin. 2) Il Collegio dei Revisori verifica la gestione finanziaria. 3) Le violazioni degli obblighi statutari comportano responsabilità amministrativa, civile o penale secondo le leggi vigenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "XIII",
+          "rubrica": "Rapporti con l'USSE e altre agenzie",
+          "commi": [
+            {
+              "testo": "La TETA coopera con l’IRE, la ReichStaseGruppeIndustrie e le altre agenzie dell’Unione. 2) Ogni accordo internazionale è sottoposto all’approvazione degli organi competenti. 3) La TETA opera nel rispetto della Costituzione Unitaria dell’USSE e delle leggi della Repubblica Democratica di Terlin.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "XIV",
+          "rubrica": "Modifiche e Scioglimento",
+          "commi": [
+            {
+              "testo": "Lo Statuto può essere modificato con decreto del Consiglio dei Ministri della Repubblica Democratica di Terlin, previa approvazione degli organi unionali. 2) Lo scioglimento della TETA è disposto solo per legge; il patrimonio è devoluto secondo le norme vigenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "XV",
+          "rubrica": "Norme Transitorie e Finali",
+          "commi": [
+            {
+              "testo": "Entro 180 giorni dall’entrata in vigore del presente Statuto, il Consiglio Direttivo adotta i regolamenti attuativi. 2) Il personale delle strutture preesistenti è trasferito alla TETA secondo criteri di continuità. 3) Il primo Consiglio Direttivo è nominato entro 60 giorni. 4) Il presente Statuto entra in vigore il giorno successivo alla sua pubblicazione nel Bollettino Ufficiale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "Finale",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "Approvato dal Congresso della Repubblica Democratica di Terlin Con decreto n. 125 del 2026 Ratificato dagli organi competenti dell’USSE",
               "sottocommi": []
             }
           ]
