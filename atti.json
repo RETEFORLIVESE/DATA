@@ -1724,7 +1724,7 @@
       "categoria": "Legge Ordinaria",
       "numero": "5",
       "anno": "2026",
-      "titolo": "Disposizioni Transitorie per l'Unificazione della Città di Terlin",
+      "titolo": "Disposizioni Transitorie per l'Unificazione della Repubblica Democratica di Terlin",
       "dataEmanazione": "29/04/2026",
       "promulgatoDa": "Congresso  Statale della Repubblica Democratica di Terlin",
       "stato": "vigente",
@@ -1774,6 +1774,74 @@
             },
             {
               "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso copro giuridico delle assemblee della TDR.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+              "sottocommi": []
+            },
+            {
+              "testo": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+              "sottocommi": []
+            },
+            {
+              "testo": "Viene istituita l'Autorità di Vigilanza per l'Unificazione, il cui compito è quello di creare un registro dei giocatori, residenti e cittadini, entro 180 giorni;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Continuità dei Contratti e degli Atti Amministrativi",
+          "commi": [
+            {
+              "testo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+              "sottocommi": []
+            },
+            {
+              "testo": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Commissione di Transizione",
+          "commi": [
+            {
+              "testo": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
+              "sottocommi": [
+                "Coordinare la transizione delle competenze;",
+                "Vigilare sulla normalizzazione amministrativa;",
+                "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;"
+              ]
+            },
+            {
+              "testo": "La Commissione opera per un periodo massimo di 12 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Gestione del Patrimonio e della Finanza",
+          "commi": [
+            {
+              "testo": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+              "sottocommi": []
+            },
+            {
+              "testo": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
               "sottocommi": []
             }
           ]
