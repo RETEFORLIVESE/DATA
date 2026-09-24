@@ -694,32 +694,6 @@
       ]
     },
     {
-      "id": "disposizioni-transitorie-per-l-unificazione-della-citta-di-t",
-      "categoria": "Legge Ordinaria",
-      "numero": "5",
-      "anno": "2026",
-      "titolo": "Disposizioni Transitorie per l'Unificazione della Città di Terlin",
-      "dataEmanazione": "29/04/2026",
-      "promulgatoDa": "Congresso  Statale della Repubblica Democratica di Terlin",
-      "stato": "vigente",
-      "sommario": "Disposizioni Transitorie per la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana.",
-      "immagine": "/TDRcoat.png",
-      "didascalia": "",
-      "luogo": "TDR",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "Preambolo Storico",
-          "commi": [
-            {
-              "testo": "",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "statuto-della-terlin-transit-authority",
       "categoria": "Legge Ordinaria",
       "numero": "4",
@@ -1739,6 +1713,32 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "disposizioni-transitorie-unificazione-di-terlin-pre-statuo",
+      "categoria": "Legge Ordinaria",
+      "numero": "5",
+      "anno": "2026",
+      "titolo": "Disposizioni Transitorie per l'Unificazione della Città di Terlin",
+      "dataEmanazione": "29/04/2026",
+      "promulgatoDa": "Congresso  Statale della Repubblica Democratica di Terlin",
+      "stato": "vigente",
+      "sommario": "Disposizioni Transitorie per la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana.",
+      "immagine": "/TDRcoat.png",
+      "didascalia": "",
+      "luogo": "TDR",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "Preambolo Storico",
+          "commi": [
+            {
+              "testo": "",
               "sottocommi": []
             }
           ]
