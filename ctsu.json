@@ -270,11 +270,15 @@
       "sezioni": [
         {
           "tipo": "sezione",
-          "titolo": "Natura Normativa",
+          "titolo": "Natura Giuridica",
           "testo": "A seguito della unificazione fra \"Terlin Federal Republik\" e \"Terlin Democratik Republik\" sono state scelte Terlin e Tabara come capitale unificata, le città è collocate in una posizione ravvicinata e al centro del territorio, ma è poco sviluppato.\nIl CTSU, il Consiglio di Pianificazione, il Congresso Statale della TDR, e le Sezioni coinvolte, riunitesi per discutere il seguente piano lo approvano e comunicano le seguenti sezioni:",
           "commi": [
             {
               "testo": "Questo testo è l'applicazione delle \"<a href=\"https://ews-rose.vercel.app/lex/atto.html?id=disposizioni-transitorie-unificazione-di-terlin-pre-normaliz\" target=\"_blank\" rel=\"noopener noreferrer\">Disposizioni Transitorie della la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana e la Normalizzazione Amministrativa</a>\n\" n.5/2026, riguardo l'unificazione della capitale all'Articolo n.3, Comma n.3.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Viene istituita la <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=statuto-della-terlin-transit-authority\" target=\"_blank\" rel=\"noopener noreferrer\">Terlin Transit Authority</a>, di proprietà della TDR, alla quale vengono delegati tutti i progetti ivi descritti.",
               "sottocommi": []
             }
           ]
