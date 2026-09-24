@@ -1720,7 +1720,7 @@
       ]
     },
     {
-      "id": "disposizioni-transitorie-unificazione-di-terlin-pre-statuo",
+      "id": "disposizioni-transitorie-unificazione-di-terlin-pre-normaliz",
       "categoria": "Legge Ordinaria",
       "numero": "5",
       "anno": "2026",
@@ -1728,7 +1728,7 @@
       "dataEmanazione": "29/04/2026",
       "promulgatoDa": "Congresso  Statale della Repubblica Democratica di Terlin",
       "stato": "vigente",
-      "sommario": "Disposizioni Transitorie per la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana.",
+      "sommario": "Disposizioni Transitorie della la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana e la Normalizzazione Amministrativa.",
       "immagine": "/TDRcoat.png",
       "didascalia": "",
       "luogo": "TDR",
@@ -1738,7 +1738,42 @@
           "rubrica": "Preambolo Storico",
           "commi": [
             {
-              "testo": "",
+              "testo": "In seguito agli eventi che hanno portato la richiesta d'ingresso della RepubblicaFederale di Terlin nella Repubblica Federale di Terlin, il Congresso Statale delibera le seguenti disposizioni per l'unificazione dello stato:",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Natura Giuridica",
+          "commi": [
+            {
+              "testo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sul territorio della TBR viene applicata la giurisdizione Unitaria e Statale della TDR.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Articolazione Territoriale",
+          "commi": [
+            {
+              "testo": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+              "sottocommi": [
+                "Assemblea di Hilton;",
+                "Assemblea di Prisma;",
+                "Assemblea di Terlin;",
+                "Assemblea di Verda Ebenajo;",
+                "Assemblea di Savana Ebanajo;",
+                "Assemblea di UppaWest;"
+              ]
+            },
+            {
+              "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso copro giuridico delle assemblee della TDR.",
               "sottocommi": []
             }
           ]
