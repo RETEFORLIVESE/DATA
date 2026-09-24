@@ -263,7 +263,7 @@
       "data_inizio": "06/06/2026",
       "data_fine_prevista": "18/08/2026",
       "data_completamento": "25/08/2026",
-      "budget_previsto": "E.1.800.000",
+      "budget_previsto": "E. 18.400.000",
       "costo_effettivo": "E. 2.300.000",
       "sommario": "Progetto di riqualificazione completa della Città Metropolitana di Terlin a seguito dell'Unificazione.",
       "copertina": "/TDRcoat.png",
@@ -274,7 +274,7 @@
           "testo": "A seguito della unificazione fra \"Terlin Federal Republik\" e \"Terlin Democratik Republik\" sono state scelte Terlin e Tabara come capitale unificata, le città è collocate in una posizione ravvicinata e al centro del territorio, ma è poco sviluppato.\nIl CTSU, il Consiglio di Pianificazione, il Congresso Statale della TDR, e le Sezioni coinvolte, riunitesi per discutere il seguente piano lo approvano e comunicano le seguenti sezioni:",
           "commi": [
             {
-              "testo": "Questo testo è l'applicazione delle \"<a href=\"https://ews-rose.vercel.app/lex/atto.html?id=disposizioni-transitorie-unificazione-di-terlin-pre-normaliz\" target=\"_blank\" rel=\"noopener noreferrer\">Disposizioni Transitorie della la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana e la Normalizzazione Amministrativa</a>\n\" n.5/2026, riguardo l'unificazione della capitale.",
+              "testo": "Questo testo è l'applicazione delle \"<a href=\"https://ews-rose.vercel.app/lex/atto.html?id=disposizioni-transitorie-unificazione-di-terlin-pre-normaliz\" target=\"_blank\" rel=\"noopener noreferrer\">Disposizioni Transitorie della la Città Metropolitana di Terlin in vista dello Statuto della Città Metropolitana e la Normalizzazione Amministrativa</a>\n\" n.5/2026, riguardo l'unificazione della capitale all'Articolo n.3, Comma n.3.",
               "sottocommi": []
             }
           ]
@@ -282,7 +282,7 @@
         {
           "tipo": "sezione",
           "titolo": "Interventi Fondamentali",
-          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Numero</th><th>Sezione</th><th>Stima Costo</th></tr></thead>\n<tbody>\n<tr><td>(n.1-TER26) [Fiume Tùria]</td><td>Ost-Tabara</td><td>4.200.000</td></tr>\n<tr><td>(n.2-TER26) [Metro 1]</td><td>InterSezione</td><td>700.000</td></tr>\n<tr><td>(n.3-TER26) [Metro 2]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.4-TER26) [TabaraINT]</td><td>Ost-Tabara</td><td>3.500.000</td></tr>\n<tr><td>(n.5-TER26) [NordischerAxse]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.6-TER26) [Passante]</td><td>InterSezione</td><td>1.500.000</td></tr>\n</tbody>\n</table>",
+          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Numero</th><th>Sezione</th><th>Stima Costo</th></tr></thead>\n<tbody>\n<tr><td>(n.1-TER26) [Fiume Tùria]</td><td>Ost-Tabara</td><td>4.200.000</td></tr>\n<tr><td>(n.2-TER26) [Metro 1]</td><td>InterSezione</td><td>700.000</td></tr>\n<tr><td>(n.3-TER26) [Metro 2]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.4-TER26) [TabaraINT]</td><td>Ost-Tabara</td><td>3.500.000</td></tr>\n<tr><td>(n.5-TER26) [NordischerAxse]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.6-TER26) [Passante]</td><td>InterSezione</td><td>7.500.000</td></tr>\n</tbody>\n</table>",
           "commi": [
             {
               "testo": "(n.1-TER26) - Bonifica del fiume Tùria con deviazione del tracciato verso Terlin Est;",
@@ -302,6 +302,10 @@
             },
             {
               "testo": "(n.5-TER26) - Demolizione del NordisherAxer dalla deviazione \"Acthstag\" a \"SashaPlotz\", espandendo il collegamento dalla deviazione a \"Teak\".",
+              "sottocommi": []
+            },
+            {
+              "testo": "(n.6-TER26) -  Costruzione del passante ferroviario da Est a Ovest, dalla stazione di Est-Tabara alla stazione di Kerosjine, passando per Haupt-Tabara e Terlin.",
               "sottocommi": []
             }
           ]
