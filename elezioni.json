@@ -232,6 +232,33 @@
       "votanti": 50,
       "schede_nulle": 0,
       "schede_bianche": 0
+    },
+    {
+      "tipo": "Referendum",
+      "tipo_codice": "R",
+      "data": "26/04/2026",
+      "comune": "TDR, Territori di Transizione",
+      "area": "Approvate il seguente testo \"Disposizioni Transitorie per l'Unificazione della Repubblica Democratica di Terlin\" in favore dell'Unificazione con la TDR?",
+      "affluenza": "91,4%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "Sì",
+          "voti": 28,
+          "percentuale": "87,5%",
+          "seggi": 0
+        },
+        {
+          "nome": "No",
+          "voti": 4,
+          "percentuale": "12,5%",
+          "seggi": 0
+        }
+      ],
+      "id_organo": "TDR",
+      "sezioni_scrutinate": 15,
+      "sezioni_totali": 15,
+      "elettori": 35
     }
   ]
 }
