@@ -270,9 +270,14 @@
       "sezioni": [
         {
           "tipo": "sezione",
-          "titolo": "a",
-          "testo": "",
-          "commi": []
+          "titolo": "Natura Normativa",
+          "testo": "A seguito della unificazione fra \"Terlin Federal Republik\" e \"Terlin Democratik Republik\" è stata scelta Terlin come capitale unificata, la città è collocata al centro del territorio, ma è poco sviluppato.\nIl CTSU, il Consiglio di Pianificazione, il Congresso Statale della TDR, e le Sezioni coinvolte, riunitesi per discutere il seguente piano lo approvano e comunicano le seguenti sezioni:",
+          "commi": [
+            {
+              "testo": "Questo testo è l'applicazione delle \"Disposizioni Transitorie per l'Unificazione della Città di Terlin\".",
+              "sottocommi": []
+            }
+          ]
         }
       ],
       "galleria": [],
