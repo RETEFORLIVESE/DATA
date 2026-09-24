@@ -234,7 +234,7 @@
         {
           "tipo": "sezione",
           "titolo": "Interventi",
-          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Appaltatore</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26</td><td>TLNXbuild</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26</td><td>TLNXbuild</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26</td><td>TLNXbuild</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26</td><td>TLNXbuild</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26</td><td>TLNXbuild</td><td>4.000</td></tr>\n</tbody>\n</table>",
+          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>",
           "commi": []
         },
         {
