@@ -271,12 +271,11 @@
           "commi": [
             {
               "testo": "(opera n.6-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano",
-              "sottocommi": []
-            },
-            {
-              "tipo": "immagine",
-              "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
-              "didascalia": ""
+              "sottocommi": [],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
+                "didascalia": ""
+              }
             },
             {
               "testo": "(opera n.7-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione",
