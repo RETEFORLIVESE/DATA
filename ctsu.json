@@ -243,24 +243,28 @@
           "testo": "Interventi da effettuare entro 180 giorni:",
           "commi": [
             {
-              "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano;",
-              "sottocommi": []
-            },
-            {
-              "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12;",
-              "sottocommi": []
-            },
-            {
-              "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate;",
-              "sottocommi": []
-            },
-            {
-              "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale",
-              "sottocommi": []
-            },
-            {
-              "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;",
-              "sottocommi": []
+              "testo": "Interventi strutturali per la sicurezza del complesso:",
+              "sottocommi": [
+                {
+                  "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano;"
+                },
+                {
+                  "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12;"
+                },
+                {
+                  "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate;"
+                },
+                {
+                  "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale"
+                },
+                {
+                  "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;"
+                }
+              ],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
+                "didascalia": "Progetto \"mall\""
+              }
             }
           ]
         },
@@ -270,16 +274,19 @@
           "testo": "Interventi da effettuare entro 360 giorni :",
           "commi": [
             {
-              "testo": "(opera n.6-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano",
-              "sottocommi": [],
+              "testo": "Interventi che coinvolgono il piano sotterraneo del complesso per migliorare la viabilità:",
+              "sottocommi": [
+                {
+                  "testo": "(opera n.6-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano in figura"
+                },
+                {
+                  "testo": "(opera n.7-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione"
+                }
+              ],
               "immagine": {
                 "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
                 "didascalia": ""
               }
-            },
-            {
-              "testo": "(opera n.7-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione",
-              "sottocommi": []
             }
           ]
         }
