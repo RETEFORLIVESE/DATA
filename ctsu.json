@@ -148,17 +148,17 @@
         },
         {
           "tipo": "sezione",
-          "titolo": "MALL",
+          "titolo": "Mall",
           "testo": "Nel livello sotterraneo del complesso è presente il ATC n.3, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
           "commi": [
             {
               "testo": "Il complesso si presenta con una forma moderna, ma mal organizzata con infrastrutture e sevizi antiquati, si vuole evidenziare:",
               "sottocommi": [
                 {
-                  "testo": "Il mall presenta ampi spazi inutilizzati a est della piazza centrale, situati fra il ATC6 e il 4 e a Sud del ATC8;"
+                  "testo": "Presenta ampi spazi inutilizzati a est di TradePlaza, fra il ATC6 e il 4 e a Sud del ATC8;"
                 },
                 {
-                  "testo": "Il mall è direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
+                  "testo": "E' direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
                 },
                 {
                   "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
@@ -173,7 +173,7 @@
         },
         {
           "tipo": "sezione",
-          "titolo": "RETE FERRATA",
+          "titolo": "Rete Ferrata",
           "testo": "Il complesso è integrato con la RERa e la M1, è presente una linea bus [L10] che porta alla TradePlaza. Non sono presenti collegamenti ulterioriE' poss",
           "commi": [
             {
@@ -195,12 +195,8 @@
               }
             },
             {
-              "testo": "E' possibile la modifica del servizio attuale per espandere il suo bacino e il suo utilizzo.",
-              "sottocommi": [
-                {
-                  "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl"
-                }
-              ]
+              "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl",
+              "sottocommi": []
             }
           ]
         },
