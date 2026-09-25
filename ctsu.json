@@ -230,7 +230,7 @@
         {
           "tipo": "sezione",
           "titolo": "Interventi",
-          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n<tr><td>n.6-TCA26 [Mall]</td><td>5/9ATC</td><td>230.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.7-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.8-TCA26 [M1]</td><td>Sotterranei</td><td>15.200</td></tr>\n<tr><td>n.9-TCA26 [TTS]</td><td>Piano Terra</td><td>500</td></tr>\n<tr><td>n.10-TCA26</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.11-TCA26</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>\nInterventi Minori\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>[8TC]</td><td>Sotterranei</td><td>2.000</td></tr>\n</tbody>\n</table>",
+          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n<tr><td>n.6-TCA26 [Mall]</td><td>5/9ATC</td><td>230.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.7-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.8-TCA26 [M1]</td><td>Sotterranei</td><td>15.200</td></tr>\n<tr><td>n.9-TCA26 [TTS]</td><td>Piano Terra</td><td>500</td></tr>\n<tr><td>n.10-TCA26</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.11-TCA26</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>\nInterventi Minori\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>[8TC]</td><td>Sotterranei</td><td>2.000</td></tr>\n<tr><td>[Sede TC]</td><td>ATC><td>1.500</td></tr>\n</tbody>\n</table>",
           "commi": []
         },
         {
@@ -302,6 +302,9 @@
               "sottocommi": [
                 {
                   "testo": "() - La \"Stazione Trade Center\" viene rinorminata \"8TC\";"
+                },
+                {
+                  "testo": "() - Il piano n. del palazzo ATC, è la sede della della \"Trade Center Authority\""
                 }
               ]
             }
