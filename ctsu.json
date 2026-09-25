@@ -75,9 +75,9 @@
       "luogo": "ENOR-PTL-ATC",
       "responsabile": "Uwe Nielse - TandeePetrenka",
       "data_inizio": "12 agosto 2026",
-      "data_fine_prevista": "10 gennaio 2027",
+      "data_fine_prevista": "15 agosto 2027",
       "data_completamento": "",
-      "budget_previsto": "E 29.800",
+      "budget_previsto": "E 496.100",
       "costo_effettivo": "",
       "sommario": "Documento Numero - 1; Il CTSU ha reso parere obbligatorio favorevole per il D.S. n.12/2026",
       "copertina": "https://ews-rose.vercel.app/tc.png",
@@ -242,16 +242,16 @@
               "testo": "Interventi strutturali per la sicurezza del complesso:",
               "sottocommi": [
                 {
-                  "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano;"
+                  "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano, dalla lobby sono predisposte le scale per il collegamento con tutti i piani interessati;"
                 },
                 {
-                  "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12;"
+                  "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12 con un doppio strato (smoothstone e spruce) in conformità con la norma anticendi locale;"
                 },
                 {
-                  "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate;"
+                  "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate causa usura;"
                 },
                 {
-                  "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale"
+                  "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale per espandere la superfice di 243bl^2"
                 },
                 {
                   "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;"
