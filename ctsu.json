@@ -234,7 +234,7 @@
         {
           "tipo": "sezione",
           "titolo": "Interventi",
-          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.6-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.2-TCA26</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>",
+          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n<tr><td>n.8-TCA26 [Mall]</td><td>5/9ATC</td><td>230.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.6-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.7-TCA26 [M1]</td><td>Sotterranei</td><td>15.200</td></tr>\n<tr><td>n.3-TCA26</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26</td><td>5/9ATC</td><td>4.000</td></tr>\n</tbody>\n</table>",
           "commi": []
         },
         {
@@ -259,6 +259,9 @@
                 },
                 {
                   "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;"
+                },
+                {
+                  "testo": "(opera n.8-TCA26) - Espansione del centro commerciale \"3ATC\", delle vie pedonali, dei collegamenti inter-complesso come in figura."
                 }
               ],
               "immagine": {
@@ -280,7 +283,7 @@
                   "testo": "(opera n.6-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano in figura"
                 },
                 {
-                  "testo": "(opera n.7-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione"
+                  "testo": "(opera n.7-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione  \"Trade Center\""
                 }
               ],
               "immagine": {
