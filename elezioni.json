@@ -127,8 +127,8 @@
       "tipo": "Congresso Statale",
       "tipo_codice": "C",
       "data": "17/09/2026",
-      "comune": "Circoscrizione Unica",
-      "area": "Estjilinn",
+      "comune": "Estjilinn",
+      "area": "Circoscrizione Unica",
       "affluenza": "72,9%",
       "candidato_vincente": "",
       "risultati_partiti": [
@@ -144,7 +144,7 @@
           "nome": "PCE",
           "voti": 7,
           "percentuale": "40,0%",
-          "seggi": 64,
+          "seggi": 65,
           "colore": "#8a0000",
           "logo": "https://user33424.na.imgto.link/public/20260918/pce.avif"
         },
