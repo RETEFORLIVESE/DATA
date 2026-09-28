@@ -1923,6 +1923,44 @@
           ]
         }
       ]
+    },
+    {
+      "id": "legge-sull-iniziativa-popolare-e-sui-referendum",
+      "categoria": "Legge Applicativa",
+      "numero": "1",
+      "anno": "2026",
+      "titolo": "Legge sull' iniziativa popolare e sui referendum",
+      "dataEmanazione": "15 Gennaio 2026",
+      "promulgatoDa": "Congresso Unitario",
+      "stato": "vigente",
+      "sommario": "Legge che disciplina l'obbligo di discussione delle iniziative popolari e i referendum.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I -DISPOSIZIONI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Oggetto e finalità",
+          "commi": [
+            {
+              "testo": "La presentelegge dusciplina le modalità di esercizio dell'iniziativa popolare e dei referendum propositivi, abrogrativi e consultivi, i attuazione degli articoli I-7 e I-8 della Costituzione dell'USSE",
+              "sottocommi": []
+            },
+            {
+              "testo": "Essa garantisce ai giocatori dell'USSE il diritto di partecipare direttamente alla vita politica attraverso la proposta di leggi, la richiesta di referendum e l'abrogazione di atti normativi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La presente legge si applica a tutte le iniziative popolare e referendare in tutti i livelli amministrativi dell'Unione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
