@@ -1976,6 +1976,25 @@
               ]
             }
           ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Diritti dei giocatori",
+          "commi": [
+            {
+              "testo": "I giocatori dell'USSE che abbiano compiuto il 16simo anno di età hnno il diritto di:",
+              "sottocommi": [
+                "Promuovere iniziative legislative popolare;",
+                "Rucguedere referendum propositivi, abrogativi e consultivi;",
+                "Partecipare ai referendum e alle consultazioni popolari;",
+                "Presentare istanze e petizioni agli organi legislativi ed esecutivi."
+              ]
+            },
+            {
+              "testo": "L'esercizio di tali diritti non può essere limitato o condizionato da discriminazioni di genere, etrnia, religione, condizione sociale o classe.",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
