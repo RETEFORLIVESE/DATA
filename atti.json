@@ -1482,7 +1482,7 @@
           "rubrica": "Trasporti e Mobilità",
           "commi": [
             {
-              "testo": "La rete di trasporto per Taleen è proprietà pubblica ed è gestita dal Ministero delle Risorse e Trasporti.",
+              "testo": "La rete di trasporto per Taleen è proprietà pubblica ed è gestita dalla Commissione e Trasporti.",
               "sottocommi": []
             },
             {
@@ -1494,12 +1494,15 @@
               "sottocommi": [
                 "l’espansione della rete ciclabile e pedonale;",
                 "l’integrazione tariffaria e oraria tra Île-de-USSE e RATT;",
-                "la graduale eliminazione dei mezzi privati entro il 2026 nella città metropolitana."
+                "la graduale eliminazione dei mezzi privati entro il 2026 nella città metropolitana;",
+                "la creazione di un <a href=\"https://ews-rose.vercel.app/IDU.html\" target=\"_blank\" rel=\"noopener noreferrer\">portale online</a> per consultare il sistema di trasporto più facilmente."
               ]
             },
             {
-              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione e Trasporti.",
-              "sottocommi": []
+              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione dei Trasporti.",
+              "sottocommi": [
+                "Il piano viene pubblicato annualmente sul portale del <a href=\"https://ews-rose.vercel.app/lex/ctsu.html\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>"
+              ]
             }
           ]
         },
