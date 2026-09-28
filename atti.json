@@ -1959,6 +1959,23 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Ai fini della presente legge si intende:",
+              "sottocommi": [
+                "Iniziativa popolare: Il diritto dei cittadini di sottoporre ai Congressi o alle Assemblee proposte di leggi o di modifica costituzionale;",
+                "Referendum propositivo: consultazione popolare volta ad approvare una proposta di legge o di un atto normativo;",
+                "Referendum abrogativo: consultazione popolare volta ad abrogare una legge o un atto normativo già in vigore;",
+                "Referendum consultivo: consultazione popolare non vincolante su questioni di rilevanda pubblica;",
+                "Comitato promotore: l'organo costituito da giocatori promotori di un'iniziativa referendaria;",
+                "Quesito referendario: la domanda sottoposta a voto popolare."
+              ]
+            }
+          ]
         }
       ]
     }
