@@ -1995,6 +1995,37 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Limite all'Iniziativa popolare",
+          "commi": [
+            {
+              "testo": "L'iniziatia popolare non può riguradare:",
+              "sottocommi": [
+                "Le leggi di approvazione del bilancio Unitario;",
+                "Le leggi tributarie e di istituzione di tributi locali;",
+                "Le leggi di autorizzazione alla ratifica dei trattati internazionali;",
+                "Le leggi di amnistia e indulto;",
+                "Le leggi che attuano disposizioni costituzionali in materia di diritti fondamentali;",
+                "Le leggi di modifica della Costituzione riguardanti i principi fondamentali dell'Unione, la forma dello Stato e i diritti inviolabili della persona."
+              ]
+            },
+            {
+              "testo": "La CEPU, sentito il parere del CTSU, verifica il rispetto dei limiti al cui comma 1.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "",
+          "commi": [
+            {
+              "testo": "",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
