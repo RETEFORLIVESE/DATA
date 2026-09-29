@@ -2018,11 +2018,24 @@
           ]
         },
         {
+          "tipo": "titolo",
+          "testo": "TITOLO II - INIZIATIVA LEGISLATIVA POPOLARE"
+        },
+        {
           "numero": "5",
-          "rubrica": "",
+          "rubrica": "Ambiti di esercizio",
           "commi": [
             {
-              "testo": "",
+              "testo": "L'iniziativa popolare può essere esercitata per:",
+              "sottocommi": [
+                "Proporre nuove leggi ai Congressi e alle Assemblee;",
+                "Proportte modifiche di leggi ai Congressi e alle Assemblee;",
+                "Proporre modifiche costituzionali;",
+                "Richiedere l'approvazione di regolamenti attuativi."
+              ]
+            },
+            {
+              "testo": "L'iniziativa legislativa popolare è esercitata da almeno il 3% degli elettori iscritti nelle liste elettorali della circoscrizione interessata, con un minimo di 15 firme per le iniziative popolare e di 50 firme per le iniziative unitarie.",
               "sottocommi": []
             }
           ]
