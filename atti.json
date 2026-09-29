@@ -2093,7 +2093,35 @@
               ]
             },
             {
-              "testo": "Il termine delle raccolte firme è di sei mesi dalla data di pubblicazione dell'avviso di iniziativa nella Bolla Ufficiale Unitaria e sul portale della CEPU.",
+              "testo": "Il termine delle raccolte firme è di 6 mesi dalla data di pubblicazione dell'avviso di iniziativa nella Bolla Ufficiale Unitaria e sul portale della CEPU.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Verifica di ammissibilità",
+          "commi": [
+            {
+              "testo": "La CEPU verifica la conformabilità della proposta ai principi costituzionali e ne valuta la fattibilità tecnica, acquisendo il parere del CTSU",
+              "sottocommi": []
+            },
+            {
+              "testo": "Entro 60 giorni dalla presentazione, la CEPU dichiara l'ammissibilità o l'inammissibilità della proposta, motivando il provvedimento.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I motivi di inammissibilità includono:",
+              "sottocommi": [
+                "Violazione dei limiti di cui all'art.4;",
+                "Contenuto manifestamente incostituzionale;",
+                "Impossibilità tecnica di attuazione, accertata dal CTSU;",
+                "Mancanza del numero minimo di firme valide;",
+                "Identità sostanziale con una proposta già respinta nei 2 anni precedenti."
+              ]
+            },
+            {
+              "testo": "In caso di inammissibilità, il Comitato promotore può ricorrere alla Corte Costituzionale entro 30 giorni.",
               "sottocommi": []
             }
           ]
