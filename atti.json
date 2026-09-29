@@ -2125,6 +2125,75 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Esame della proposta",
+          "commi": [
+            {
+              "testo": "La proposta dichiarata ammissibile è trasmessa all'organo legislativo competente per l'esame.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L'organo è tenuto a discutere la proposta entro 6 mesi dalla trasmissione",
+              "sottocommi": []
+            },
+            {
+              "testo": "L'organo può:",
+              "sottocommi": [
+                "Approvare la proposta con le procedure ordinarie;",
+                "Modificare la proposta, previo acordo con il comitato promotore;",
+                "Respingere la proposta, motivando il rigetto;",
+                "Disporre la sottoposizione a referendum della proposta."
+              ]
+            },
+            {
+              "testo": "Se l'organo non si pronuncia entro il termine al cui comma 2, la proposta è automaticamente sottoposta a referendum propositivo;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Iniziativa costituzionale",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare per la revisione costituzionale è esercitata da almeno il 5% degli elettori iscritti nlle liste elettorali dell'Unione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La proposta di modifica costituzionale è sottoposta all'esame del Congresso Unitario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se il Congresso approva la modifica, essa è sottoposta a referenduum costituzionale ai sensi dell'art. 12.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se il Congresso respinge la modifica, essa può essere sottoposta direttamente a referendum costituzionale su richiesta del Comitato promotore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - REFERENDUM"
+        },
+        {
+          "numero": "11",
+          "rubrica": "Tipologie di referendum",
+          "commi": [
+            {
+              "testo": "L?USSE prevede le seguenti tipologie di referendum:",
+              "sottocommi": [
+                "Referebdum propositivo:  per l'approvazione di una proposta di legge o di un atto normativo;",
+                "Referendum abrogativo: per l'abrogazione totale o parziale di una legge o di un atto normatvo;",
+                "Referendum consultivo: per la raccolta del parere dei giocatori su questioni di rilevanza pubblica;",
+                "Referendum costituzionale: per l'approvazione di modifiche costituzionali;",
+                "Referendum di revoca: per la revoca delle cariche elettivo, disciplinato dalla apposita legge"
+              ]
+            }
+          ]
         }
       ]
     }
