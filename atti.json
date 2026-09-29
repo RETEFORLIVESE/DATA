@@ -2066,6 +2066,37 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Modalità di raccolta firme",
+          "commi": [
+            {
+              "testo": "La raccolta delle firme è effettuata secondo le seguenti modalità:",
+              "sottocommi": [
+                "Le firme possono essere raccolte in formato digitale attraverso la piattaforma ufficiale gestita dalla CEPU;",
+                "Ogni firmatario deve indicare nickname, data di registrazione, codice identificativo permanente e circoscrizione di residenza;",
+                "Le firme digitali sono autenticate attraverso il sistema di identificazione elettronica dell'USSE."
+              ]
+            },
+            {
+              "testo": "La CEPU verifica l'autenticità delle firme entro 30 giorni dalla presentazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sono nulle le firme:",
+              "sottocommi": [
+                "Di giocatori non aventi diritto di voto;",
+                "Di persone decedute o concellate dalle liste elettorali;",
+                "Duplicate;",
+                "Mancanti dei dati identificati richiesti;"
+              ]
+            },
+            {
+              "testo": "Il termine delle raccolte firme è di sei mesi dalla data di pubblicazione dell'avviso di iniziativa nella Bolla Ufficiale Unitaria e sul portale della CEPU.",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
