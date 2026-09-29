@@ -2039,6 +2039,33 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Comitato promotore",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare è promossa da un Comitato promotore composto da almeno 5 giocatori elettori.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Comitato promotore:",
+              "sottocommi": [
+                "Redige il testo della proposta;",
+                "Cura la raccolta delle firme secondo le modalità di cui all'art. 7;",
+                "Presenta la proposta alla CEPU per la verifica di ammissibilità;",
+                "Designa un rappresentante leale per i rapporti con le autorità"
+              ]
+            },
+            {
+              "testo": "Il comitato promotore ha diritto di accedere ai media pubblici per la rappresentazione della propost, secondo modalità definite dalla CEPU in collaborazione con il CTSU.",
+              "sottocommi": []
+            },
+            {
+              "testo": "il Comitato promotore può ricevere finanziamento pubblico per al campagna di promozione, secondo le modalità definite dalla CEPU.",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
