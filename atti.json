@@ -1972,7 +1972,8 @@
                 "Referendum abrogativo: consultazione popolare volta ad abrogare una legge o un atto normativo già in vigore;",
                 "Referendum consultivo: consultazione popolare non vincolante su questioni di rilevanda pubblica;",
                 "Comitato promotore: l'organo costituito da giocatori promotori di un'iniziativa referendaria;",
-                "Quesito referendario: la domanda sottoposta a voto popolare."
+                "Quesito referendario: la domanda sottoposta a voto popolare;",
+                "Referendum di revoca: consultazione popolare per la revoca di una carica elettiva in caso di violazione del programma elettorale."
               ]
             }
           ]
@@ -2192,6 +2193,27 @@
                 "Referendum costituzionale: per l'approvazione di modifiche costituzionali;",
                 "Referendum di revoca: per la revoca delle cariche elettivo, disciplinato dalla apposita legge"
               ]
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Referendum propositivo",
+          "commi": [
+            {
+              "testo": "Il referendum propositivo è indetto:",
+              "sottocommi": [
+                "Su iniziativa popolare, ai sensi di cui all'art.5 e 6;",
+                "Su deliberazione di un organo legislativo di qualsiasi livello."
+              ]
+            },
+            {
+              "testo": "Il quesito referendario è formulato come proposta di legge,con articoli e commi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di approvazione, la proposta diventa legge con la procedura prevista dall'art.19.",
+              "sottocommi": []
             }
           ]
         }
