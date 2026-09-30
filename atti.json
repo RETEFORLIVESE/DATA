@@ -694,776 +694,6 @@
       ]
     },
     {
-      "id": "statuto-della-citta-metropolitana-di-taleen",
-      "categoria": "Statuto",
-      "numero": "3",
-      "anno": "2026",
-      "titolo": "Statuto della Città Metropolitana di Taleen",
-      "dataEmanazione": "03 Aprile 2026",
-      "promulgatoDa": "Congresso Metropolitano di Taleen",
-      "stato": "vigente",
-      "sommario": "Statuto della Città Metropolitana di Taleen",
-      "immagine": "/StemmaTaleen.png",
-      "didascalia": "",
-      "luogo": "ELIN-TLN",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Istituzione e territorio",
-          "commi": [
-            {
-              "testo": "La Città Metropolitana di Taleen è la capitale dell'Unione degli Stati Sociali degli Estji, delloo Stato Sociale di EstjiLinn ed è l’ente territoriale di governo del Congresso Metropolitano di Taleen.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Città Metropolitana di Taleen ospita tutte le sedi centrali delle istituzioni statali.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Città Metropolitana di Taleen comprende i seguenti Distretti membri:",
-              "sottocommi": [
-                "Ehime, con le Sezioni di Sars, Tampere, Estji e Tervetulloa;",
-                "Aömöry, con le Sezioni di Fiumana, Klosse, Fluvia, Ankita, Ost ed Ecles;",
-                "Katagaa, con la Sezione di Irinastok;",
-                "Fukura, con le Sezioni di 1 Ile, 2 Ile, 3 Ile, 4 Ile e 5 Ile;",
-                "Niigataa, con le Sezioni di Tegel, TegelGard e Minotte;",
-                "Kengoko, con le Sezioni di Finance, NewShinguku e Gallier;",
-                "Idame, con le Sezioni di Soyuz, Littoria, Lampugniano e Aprilia;",
-                "Yate, con le Sezioni di Rial e Tadam."
-              ]
-            },
-            {
-              "testo": "Il territorio della Città Metropolitana di Taleen è parte integrante dello Stato Sociale di EstjiLinn e della fazione USSE.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Principi Fondamentali",
-          "commi": [
-            {
-              "testo": "La Città Metropolitana di Taleen informa la propria azione ai principi di:",
-              "sottocommi": [
-                "sovranità popolare e democrazia assembleare;",
-                "partecipazione diretta dei cittadini;",
-                "trasparenza e pubblicità degli atti;",
-                "solidarietà, welfare universale e giustizia sociale;",
-                "sostenibilità ambientale e mobilità pubblica;",
-                "non speculazione immobiliare e uso sociale dei beni comuni."
-              ]
-            },
-            {
-              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria e gli atti dell’USSE prevalgono su ogni disposizione del presente Statuto.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "Definizioni",
-          "commi": [
-            {
-              "testo": "Ai fini del presente Statuto si intendono:",
-              "sottocommi": [
-                "per “Congresso Metropolitano”, l’organo legislativo della Città Metropolitana di Taleen;",
-                "per “Distretti membri”, i distretti elencati all’ art. 1, comma 3;",
-                "per “Sezioni”, le articolazioni territoriali elencate all’ art. 1, comma 3;",
-                "per “Bilancio Partecipativo Metropolitano”, la quota del 15% del bilancio metropolitano decisa dai cittadini;",
-                "per “Piattaforma del Cittadino”, il sistema pubblico di pubblicazione e partecipazione digitale;",
-                "per “Libro Elettorale”, il sistema di voto garantito da blockchain su libro incantato."
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - ORGANI E SISTEMA ELETTORALE"
-        },
-        {
-          "numero": "4",
-          "rubrica": "Organi della Città Metropolitana",
-          "commi": [
-            {
-              "testo": "Sono organi della Città Metropolitana di Taleen:",
-              "sottocommi": [
-                "il Congresso Metropolitano di Taleen;",
-                "il Presidente del Congresso Metropolitano;",
-                "l’Ufficio di Presidenza;",
-                "le Commissioni permanenti."
-              ]
-            },
-            {
-              "testo": "Il Congresso Metropolitano è l’organo legislativo della Città Metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Presidente e l’Ufficio di Presidenza esercitano le funzioni di coordinamento, rappresentanza e attuazione delle delibere.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "rubrica": "Composizione del Congresso  Metropolitano",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano è composto da 60 delegati.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I delegati sono eletti proporzionalmente dalle Assemblee di Sezione dei Distretti membri, in proporzione alla popolazione residente.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Presidenti delle Sezioni di Taleen sono membri di diritto del Congresso Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I membri di diritto hanno diritto di parola e di voto.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il numero dei membri di diritto non concorre al riparto dei 60 delegati.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il quorum e le maggioranze sono calcolati sul totale dei componenti, inclusi i membri di diritto.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "rubrica": "Elezione del Congresso Metropolitano",
-          "commi": [
-            {
-              "testo": "L’elezione dei 60 delegati avviene con sistema proporzionale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’assegnazione dei seggi tra i Distretti membri avviene con il metodo del quoziente Hare e dei resti più alti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "A ciascun Distretto membro è garantito almeno un seggio.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le candidature sono presentate dai Congressi Distrettuali o da gruppi di almeno 25 elettori del Distretto.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il voto si svolge tramite il Libro Elettorale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il voto è diritto e dovere. L’astensionismo prolungato per più di 3 elezioni consecutive comporta la sospensione temporanea dall’accesso ai beni non primari.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La durata del mandato è di 12 mesi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le elezioni suppletive si tengono entro 15 giorni dalla vacanza.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "rubrica": "Membri di Diritto",
-          "commi": [
-            {
-              "testo": "I Presidenti delle Sezioni di Taleen sono membri di diritto del Congresso Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Essi partecipano alle sedute con diritto di parola e di voto.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il loro mandato coincide con quello di Sindaco.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di cessazione dalla carica di Sindaco, cessano immediatamente anche dal Congresso Metropolitano.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "rubrica": "Presidente e Ufficio di Presidenza",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano elegge:",
-              "sottocommi": [
-                "un Presidente;",
-                "due Vicepresidenti;",
-                "un Segretario."
-              ]
-            },
-            {
-              "testo": "L’elezione avviene a maggioranza assoluta dei componenti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Se dopo due scrutini nessun candidato raggiunge la maggioranza assoluta, si procede al ballottaggio tra i due candidati più votati.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Presidente:",
-              "sottocommi": [
-                "convoca e presiede le sedute;",
-                "rappresenta la Città Metropolitana di Taleen;",
-                "firma e pubblica gli atti;",
-                "coordina l’Ufficio di Presidenza."
-              ]
-            },
-            {
-              "testo": "L’Ufficio di Presidenza è composto dal Presidente, dai Vicepresidenti e dal Segretario.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’Ufficio di Presidenza dura in carica 12 mesi ed è rinnovabile.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "rubrica": "Commissioni Permanenti",
-          "commi": [
-            {
-              "testo": "Sono istituite le seguenti Commissioni permanenti:",
-              "sottocommi": [
-                "Bilancio e Partecipazione;",
-                "Trasporti e Mobilità;",
-                "Agricoltura e DAC;",
-                "Risorse e BRT;",
-                "Welfare e Servizi Sociali;",
-                "Pianificazione e Riforme Petrenka;",
-                "Affari Istituzionali e Rapporti con l’USSE."
-              ]
-            },
-            {
-              "testo": "Le Commissioni sono composte in proporzione ai gruppi rappresentati nel Congresso Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Ogni gruppo ha diritto ad almeno un rappresentante in ciascuna Commissione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le Commissioni esprimono pareri obbligatori, ma non vincolanti, sui progetti di delibera di propria competenza.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "rubrica": "Durata e Sospensione",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano dura in carica 12 mesi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di dimissioni, revoca o decadenza di un delegato, si procede a elezioni suppletive entro 15 giorni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fino all’elezione del supplente, il seggio è considerato vacante e non concorre al quorum.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO III - FUNZIONI E COMPETENZE"
-        },
-        {
-          "numero": "11",
-          "rubrica": "Funzioni esclusive del Congresso Metropolitano",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano esercita le seguenti funzioni esclusive:",
-              "sottocommi": [
-                "gestire il sistema metropolitano integrato di trasporto, comprese la rete Île-de-USSE e la RATT, in coordinamento con il Ministero delle Risorse e Trasporti;",
-                "amministrare il Bilancio Partecipativo Metropolitano, pari al 15% del bilancio totale;",
-                "coordinare il Distretto Agricolo Capitolino (DAC);",
-                "coordinare la Borsa Risorse di Taleen (BRT);",
-                "supervisionare l’applicazione delle Riforme Petrenka nell’area metropolitana;",
-                "approvare il bilancio metropolitano;",
-                "approvare e modificare il presente Statuto;",
-                "nominare i responsabili degli uffici metropolitani;",
-                "deliberare su ogni altra materia attribuita dalla Costituzione e dalle leggi."
-              ]
-            },
-            {
-              "testo": "Il Congresso Metropolitano non può esercitare competenze riservate al Congresso Statale, agli organi dell’USSE o ai Congressi Distrettuali.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "rubrica": "Trasporti e Mobilità",
-          "commi": [
-            {
-              "testo": "La rete di trasporto per Taleen è proprietà pubblica ed è gestita dalla Commissione e Trasporti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il servizio di trasporto pubblico è gratuito per tutti i cittadini.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Sono garantiti:",
-              "sottocommi": [
-                "l’espansione della rete ciclabile e pedonale;",
-                "l’integrazione tariffaria e oraria tra Île-de-USSE e RATT;",
-                "la graduale eliminazione dei mezzi privati entro il 2026 nella città metropolitana;",
-                "la creazione di un <a href=\"https://ews-rose.vercel.app/IDU.html\" target=\"_blank\" rel=\"noopener noreferrer\">portale online</a> per consultare il sistema di trasporto più facilmente."
-              ]
-            },
-            {
-              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione dei Trasporti.",
-              "sottocommi": [
-                "Il piano viene pubblicato annualmente sul portale del <a href=\"https://ews-rose.vercel.app/lex/ctsu.html\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>"
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "rubrica": "Bilancio Partecipativo",
-          "commi": [
-            {
-              "testo": "Il 15% del bilancio metropolitano è deciso dai cittadini.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il processo di bilancio partecipativo si svolge annualmente secondo le seguenti fasi:",
-              "sottocommi": [
-                "entro il 31 gennaio: pubblicazione della quota disponibile e apertura delle proposte;",
-                "entro il 31 marzo: assemblee cittadine di Sezione e di Distretto;",
-                "entro il 30 aprile: voto sulla Piattaforma del Cittadino;",
-                "entro il 31 maggio: approvazione del bilancio partecipativo da parte del Congresso Metropolitano."
-              ]
-            },
-            {
-              "testo": "Possono partecipare al voto tutti i cittadini residenti nella Città Metropolitana di Taleen che abbiano compiuto 16 anni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I progetti più votati sono inseriti nel bilancio metropolitano, nei limiti della quota disponibile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La CEPUS del EstjiLinn verifica le votazioni in conformità con la legge Unitaria e Statale.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "rubrica": "Distretto Agricolo Capitolino (DAC)",
-          "commi": [
-            {
-              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal DAC.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il DAC:",
-              "sottocommi": [
-                "assegna i terreni alle comunità locali;",
-                "coordina la produzione agricola urbana;",
-                "promuove la distribuzione gratuita o a prezzo calmierato dei prodotti."
-              ]
-            },
-            {
-              "testo": "Il Congresso Metropolitano nomina il responsabile del DAC e ne approva il regolamento",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "rubrica": "Borsa Risorse di Taleen (BRT)",
-          "commi": [
-            {
-              "testo": "La BRT regola il commercio di risorse strategiche nell’area metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La BRT opera sotto la supervisione del Congresso Metropolitano e in collaborazione con l’Agenzia Unica Approvvigionamenti (AUA).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Congresso Metropolitano approva annualmente:",
-              "sottocommi": [
-                "l’elenco delle risorse strategiche;",
-                "i prezzi di riferimento in Estji;",
-                "le quote di risorse destinate al welfare."
-              ]
-            },
-            {
-              "testo": "È vietata ogni forma di speculazione sulle risorse strategiche.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "rubrica": "Riforme Petrenka",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano supervisiona l’applicazione delle Riforme Petrenka nell’area metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In particolare:",
-              "sottocommi": [
-                "garantisce il bilancio partecipativo al 15%;",
-                "pubblica tutti gli atti amministrativi in tempo reale sulla Piattaforma del Cittadino;",
-                "converte gli edifici abbandonati in alloggi sociali;",
-                "vieta la speculazione immobiliare;",
-                "attua la mobilità sostenibile e la graduale eliminazione dei mezzi privati."
-              ]
-            },
-            {
-              "testo": "Ogni anno il Congresso Metropolitano presenta al Congresso Statale un rapporto sullo stato di attuazione delle Riforme Petrenka.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "rubrica": "Wellfare e Servizi",
-          "commi": [
-            {
-              "testo": "Il Sistema Unificato di Welfare (SUW) certifica i bisogni e distribuisce beni in base ai Punti di Collaborazione Lavorativa (PCL).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Congresso Metropolitano coordina i servizi sociali metropolitani con i Congressi Distrettuali e le Assemblee di Sezione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Sono garantiti:",
-              "sottocommi": [
-                "diritto al lavoro;",
-                "diritto alla casa;",
-                "diritto all’istruzione;",
-                "diritto alla salute."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "rubrica": "Pianificazione Territoriale",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano approva il Piano Urbanistico Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Piano è conforme:",
-              "sottocommi": [
-                "alla Costituzione dello Stato Sociale di EstjiLinn;",
-                "alla Legge Unitaria e agli atti dell’USSE;",
-                "alle Riforme Petrenka;",
-                "ai principi di sostenibilità ambientale e sociale."
-              ]
-            },
-            {
-              "testo": "Il Piano prevede la conversione degli edifici abbandonati in alloggi sociali e la tutela dei beni comuni.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO IV -PARTECIPAZIONE, TRASPARENZA E REVOCA"
-        },
-        {
-          "numero": "19",
-          "rubrica": "Partecipazione diretta",
-          "commi": [
-            {
-              "testo": "Sono garantiti:",
-              "sottocommi": [
-                "referendum metropolitani;",
-                "iniziative popolari;",
-                "assemblee cittadine."
-              ]
-            },
-            {
-              "testo": "Un’iniziativa popolare può essere presentata da almeno il 10% degli elettori della Città Metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il referendum metropolitano è indetto dal Congresso Metropolitano su richiesta di:",
-              "sottocommi": [
-                "un terzo dei suoi componenti;",
-                "il 15% degli elettori;",
-                "il Presidente del Congresso Metropolitano."
-              ]
-            },
-            {
-              "testo": "Il referendum propositivo è valido se partecipa almeno il 50% degli aventi diritto.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "20",
-          "rubrica": "Revoca dei Delegati",
-          "commi": [
-            {
-              "testo": "In qualsiasi momento gli elettori possono revocare il proprio delegato tramite petizione firmata dal 30% degli elettori della circoscrizione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La revoca è automatica e immediata.",
-              "sottocommi": [
-                "Entro 5 giorni la CEPU verifica la veridicità della natura della revoca."
-              ]
-            },
-            {
-              "testo": "Entro 15 giorni si tengono elezioni suppletive.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La procedura è conforme ai principi della Costituzione e della Legge Unitaria [Lx n.33/2026].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "21",
-          "rubrica": "Trasparenza",
-          "commi": [
-            {
-              "testo": "Tutti gli atti amministrativi sono pubblicati in tempo reale sulla Piattaforma del Cittadino.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Piattaforma del Cittadino contiene:",
-              "sottocommi": [
-                "delibere e verbali delle sedute;",
-                "bilanci e rendiconti;",
-                "dati sui progetti di bilancio partecipativo;",
-                "informazioni su appalti, contratti e nomine."
-              ]
-            },
-            {
-              "testo": "I dati sono pubblicati in formato aperto e riutilizzabile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Ogni cittadino può presentare istanza di accesso agli atti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO V - RAPPORTI ISTITUZIONALI"
-        },
-        {
-          "numero": "22",
-          "rubrica": "Rapporti con l'USSE e l'EstjiLinn",
-          "commi": [
-            {
-              "testo": "La Città Metropolitana di Taleen aderisce alla fazione Unione Sociale degli Stati dell’Estji e riconosce e partecipa alla Legge Unitaria.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Mantiene autonomia in materia di:",
-              "sottocommi": [
-                "pianificazione urbana;",
-                "economia locale;",
-                "gestione delle risorse;",
-                "trasporti metropolitani;",
-                "bilancio partecipativo."
-              ]
-            },
-            {
-              "testo": "La Città Metropolitana partecipa alle politiche dell’USSE attraverso i propri rappresentanti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO VI - FINANZA E CONTROLLI"
-        },
-        {
-          "numero": "23",
-          "rubrica": "Risoluzione dei Conflitti",
-          "commi": [
-            {
-              "testo": "In caso di conflitto tra il presente Statuto e la Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria o gli atti dell’USSE, prevalgono le norme superiori.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Congresso Metropolitano può adire il Congresso Statale per la risoluzione di conflitti di competenza.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le decisioni del Congresso Statale sono vincolanti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "24",
-          "rubrica": "Bilancio",
-          "commi": [
-            {
-              "testo": "Il bilancio metropolitano è annuale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le entrate sono costituite da:",
-              "sottocommi": [
-                "trasferimenti dello Stato e dell’USSE;",
-                "quote della BRT;",
-                "contributi dei Distretti membri;",
-                "eventuali tributi metropolitani in RUK."
-              ]
-            },
-            {
-              "testo": "Il 15% del bilancio è destinato al Bilancio Partecipativo Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il bilancio è approvato a maggioranza assoluta dei componenti del Congresso Metropolitano.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "25",
-          "rubrica": "Controlli",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano istituisce un Collegio dei Revisori composto da 3 membri.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Revisori sono eletti a maggioranza assoluta e durano in carica 24 mesi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Revisori verificano:",
-              "sottocommi": [
-                "la regolarità contabile;",
-                "la conformità delle spese al bilancio;",
-                "l’attuazione del bilancio partecipativo."
-              ]
-            },
-            {
-              "testo": "Il Presidente e l’Ufficio di Presidenza possono essere revocati con mozione di sfiducia costruttiva approvata a maggioranza dei due terzi dei componenti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE"
-        },
-        {
-          "numero": "26",
-          "rubrica": "Modifiche allo Statuto",
-          "commi": [
-            {
-              "testo": "L’iniziativa di modifica spetta a:",
-              "sottocommi": [
-                "un terzo dei componenti del Congresso Metropolitano;",
-                "il 10% degli elettori;",
-                "il Presidente del Congresso Metropolitano."
-              ]
-            },
-            {
-              "testo": "La modifica è approvata con il voto favorevole dei due terzi dei componenti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Se la modifica incide su materie costituzionali, si applica la procedura prevista dalla Costituzione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Lo Statuto modificato è pubblicato sulla Piattaforma del Cittadino.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "27",
-          "rubrica": "Entrata in Vigore",
-          "commi": [
-            {
-              "testo": "Il presente Statuto entra in vigore il giorno della sua pubblicazione sulla Piattaforma del Cittadino.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Copia è depositata presso il Congresso Statale e presso gli organi competenti dell’USSE.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Sono abrogate tutte le norme precedenti in contrasto con il presente Statuto.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "28",
-          "rubrica": "Disposizioni Transitorie",
-          "commi": [
-            {
-              "testo": "Entro 6 mesi dall’entrata in vigore del presente Statuto si tengono le elezioni del Congresso Metropolitano di Taleen.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fino all’insediamento del Congresso Metropolitano, le funzioni sono esercitate da un Comitato di Transizione di 5 membri.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Comitato di Transizione è nominato dal Congresso Statale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Comitato di Transizione:",
-              "sottocommi": [
-                "adotta gli atti urgenti e indifferibili;",
-                "prepara le elezioni;",
-                "predispone i regolamenti attuativi;",
-                "riferisce al Congresso Statale ogni 30 giorni."
-              ]
-            },
-            {
-              "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "legge-sull-iniziativa-popolare-e-sui-referendum",
       "categoria": "Legge Applicativa",
       "numero": "1",
@@ -2234,6 +1464,776 @@
           "commi": [
             {
               "testo": "Approvato dal Congresso della Repubblica Democratica di Terlin Con decreto n. 126 del 2026 Ratificato dagli organi competenti dell’USSE, Validato dal <a href=\"https://ews-rose.vercel.app/CEPU.html?tipo=R&data=26%2F04%2F2026&comune=TDR%2C+Territori+di+Transizione\" target=\"_blank\" rel=\"noopener noreferrer\">voto popolare della TDR</a>.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "statuto-della-citta-metropolitana-di-taleen",
+      "categoria": "Statuto",
+      "numero": "3",
+      "anno": "2026",
+      "titolo": "Statuto della Città Metropolitana di Taleen",
+      "dataEmanazione": "03 Aprile 2026",
+      "promulgatoDa": "Congresso Metropolitano di Taleen",
+      "stato": "vigente",
+      "sommario": "Statuto della Città Metropolitana di Taleen",
+      "immagine": "/StemmaTaleen.png",
+      "didascalia": "",
+      "luogo": "ELIN-TLN",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Istituzione e territorio",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana di Taleen è la capitale dell'Unione degli Stati Sociali degli Estji, dello Stato Sociale di EstjiLinn ed è l’ente territoriale di governo del Congresso Metropolitano di Taleen.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Taleen ospita tutte le sedi centrali delle istituzioni statali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Taleen comprende i seguenti Distretti membri:",
+              "sottocommi": [
+                "Ehime, con le Sezioni di Sars, Tampere, Estji e Tervetulloa;",
+                "Aömöry, con le Sezioni di Fiumana, Klosse, Fluvia, Ankita, Ost ed Ecles;",
+                "Katagaa, con la Sezione di Irinastok;",
+                "Fukura, con le Sezioni di 1 Ile, 2 Ile, 3 Ile, 4 Ile e 5 Ile;",
+                "Niigataa, con le Sezioni di Tegel, TegelGard e Minotte;",
+                "Kengoko, con le Sezioni di Finance, NewShinguku e Gallier;",
+                "Idame, con le Sezioni di Soyuz, Littoria, Lampugniano e Aprilia;",
+                "Yate, con le Sezioni di Rial e Tadam."
+              ]
+            },
+            {
+              "testo": "Il territorio della Città Metropolitana di Taleen è parte integrante dello Stato Sociale di EstjiLinn e della fazione USSE.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Principi Fondamentali",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana di Taleen informa la propria azione ai principi di:",
+              "sottocommi": [
+                "sovranità popolare e democrazia assembleare;",
+                "partecipazione diretta dei cittadini;",
+                "trasparenza e pubblicità degli atti;",
+                "solidarietà, welfare universale e giustizia sociale;",
+                "sostenibilità ambientale e mobilità pubblica;",
+                "non speculazione immobiliare e uso sociale dei beni comuni."
+              ]
+            },
+            {
+              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria e gli atti dell’USSE prevalgono su ogni disposizione del presente Statuto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Ai fini del presente Statuto si intendono:",
+              "sottocommi": [
+                "per “Congresso Metropolitano”, l’organo legislativo della Città Metropolitana di Taleen;",
+                "per “Distretti membri”, i distretti elencati all’ art. 1, comma 3;",
+                "per “Sezioni”, le articolazioni territoriali elencate all’ art. 1, comma 3;",
+                "per “Bilancio Partecipativo Metropolitano”, la quota del 15% del bilancio metropolitano decisa dai cittadini;",
+                "per “Piattaforma del Cittadino”, il sistema pubblico di pubblicazione e partecipazione digitale;",
+                "per “Libro Elettorale”, il sistema di voto garantito da blockchain su libro incantato."
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - ORGANI E SISTEMA ELETTORALE"
+        },
+        {
+          "numero": "4",
+          "rubrica": "Organi della Città Metropolitana",
+          "commi": [
+            {
+              "testo": "Sono organi della Città Metropolitana di Taleen:",
+              "sottocommi": [
+                "il Congresso Metropolitano di Taleen;",
+                "il Presidente del Congresso Metropolitano;",
+                "l’Ufficio di Presidenza;",
+                "le Commissioni permanenti."
+              ]
+            },
+            {
+              "testo": "Il Congresso Metropolitano è l’organo legislativo della Città Metropolitana.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Presidente e l’Ufficio di Presidenza esercitano le funzioni di coordinamento, rappresentanza e attuazione delle delibere.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Composizione del Congresso  Metropolitano",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano è composto da 60 delegati.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I delegati sono eletti proporzionalmente dalle Assemblee di Sezione dei Distretti membri, in proporzione alla popolazione residente.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Presidenti delle Sezioni di Taleen sono membri di diritto del Congresso Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I membri di diritto hanno diritto di parola e di voto.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il numero dei membri di diritto non concorre al riparto dei 60 delegati.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il quorum e le maggioranze sono calcolati sul totale dei componenti, inclusi i membri di diritto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Elezione del Congresso Metropolitano",
+          "commi": [
+            {
+              "testo": "L’elezione dei 60 delegati avviene con sistema proporzionale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’assegnazione dei seggi tra i Distretti membri avviene con il metodo del quoziente Hare e dei resti più alti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "A ciascun Distretto membro è garantito almeno un seggio.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le candidature sono presentate dai Congressi Distrettuali o da gruppi di almeno 25 elettori del Distretto.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il voto si svolge tramite il Libro Elettorale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il voto è diritto e dovere. L’astensionismo prolungato per più di 3 elezioni consecutive comporta la sospensione temporanea dall’accesso ai beni non primari.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La durata del mandato è di 12 mesi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le elezioni suppletive si tengono entro 15 giorni dalla vacanza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Membri di Diritto",
+          "commi": [
+            {
+              "testo": "I Presidenti delle Sezioni di Taleen sono membri di diritto del Congresso Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Essi partecipano alle sedute con diritto di parola e di voto.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il loro mandato coincide con quello di Sindaco.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di cessazione dalla carica di Sindaco, cessano immediatamente anche dal Congresso Metropolitano.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Presidente e Ufficio di Presidenza",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano elegge:",
+              "sottocommi": [
+                "un Presidente;",
+                "due Vicepresidenti;",
+                "un Segretario."
+              ]
+            },
+            {
+              "testo": "L’elezione avviene a maggioranza assoluta dei componenti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se dopo due scrutini nessun candidato raggiunge la maggioranza assoluta, si procede al ballottaggio tra i due candidati più votati.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Presidente:",
+              "sottocommi": [
+                "convoca e presiede le sedute;",
+                "rappresenta la Città Metropolitana di Taleen;",
+                "firma e pubblica gli atti;",
+                "coordina l’Ufficio di Presidenza."
+              ]
+            },
+            {
+              "testo": "L’Ufficio di Presidenza è composto dal Presidente, dai Vicepresidenti e dal Segretario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’Ufficio di Presidenza dura in carica 12 mesi ed è rinnovabile.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Commissioni Permanenti",
+          "commi": [
+            {
+              "testo": "Sono istituite le seguenti Commissioni permanenti:",
+              "sottocommi": [
+                "Bilancio e Partecipazione;",
+                "Trasporti e Mobilità;",
+                "Agricoltura e DAC;",
+                "Risorse e BRT;",
+                "Welfare e Servizi Sociali;",
+                "Pianificazione e Riforme Petrenka;",
+                "Affari Istituzionali e Rapporti con l’USSE."
+              ]
+            },
+            {
+              "testo": "Le Commissioni sono composte in proporzione ai gruppi rappresentati nel Congresso Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Ogni gruppo ha diritto ad almeno un rappresentante in ciascuna Commissione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le Commissioni esprimono pareri obbligatori, ma non vincolanti, sui progetti di delibera di propria competenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Durata e Sospensione",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano dura in carica 12 mesi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di dimissioni, revoca o decadenza di un delegato, si procede a elezioni suppletive entro 15 giorni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fino all’elezione del supplente, il seggio è considerato vacante e non concorre al quorum.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - FUNZIONI E COMPETENZE"
+        },
+        {
+          "numero": "11",
+          "rubrica": "Funzioni esclusive del Congresso Metropolitano",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano esercita le seguenti funzioni esclusive:",
+              "sottocommi": [
+                "gestire il sistema metropolitano integrato di trasporto, comprese la rete Île-de-USSE e la RATT, in coordinamento con il Ministero delle Risorse e Trasporti;",
+                "amministrare il Bilancio Partecipativo Metropolitano, pari al 15% del bilancio totale;",
+                "coordinare il Distretto Agricolo Capitolino (DAC);",
+                "coordinare la Borsa Risorse di Taleen (BRT);",
+                "supervisionare l’applicazione delle Riforme Petrenka nell’area metropolitana;",
+                "approvare il bilancio metropolitano;",
+                "approvare e modificare il presente Statuto;",
+                "nominare i responsabili degli uffici metropolitani;",
+                "deliberare su ogni altra materia attribuita dalla Costituzione e dalle leggi."
+              ]
+            },
+            {
+              "testo": "Il Congresso Metropolitano non può esercitare competenze riservate al Congresso Statale, agli organi dell’USSE o ai Congressi Distrettuali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Trasporti e Mobilità",
+          "commi": [
+            {
+              "testo": "La rete di trasporto per Taleen è proprietà pubblica ed è gestita dalla Commissione e Trasporti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il servizio di trasporto pubblico è gratuito per tutti i cittadini.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sono garantiti:",
+              "sottocommi": [
+                "l’espansione della rete ciclabile e pedonale;",
+                "l’integrazione tariffaria e oraria tra Île-de-USSE e RATT;",
+                "la graduale eliminazione dei mezzi privati entro il 2026 nella città metropolitana;",
+                "la creazione di un <a href=\"https://ews-rose.vercel.app/IDU.html\" target=\"_blank\" rel=\"noopener noreferrer\">portale online</a> per consultare il sistema di trasporto più facilmente."
+              ]
+            },
+            {
+              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione dei Trasporti.",
+              "sottocommi": [
+                "Il piano viene pubblicato annualmente sul portale del <a href=\"https://ews-rose.vercel.app/lex/ctsu.html\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "rubrica": "Bilancio Partecipativo",
+          "commi": [
+            {
+              "testo": "Il 15% del bilancio metropolitano è deciso dai cittadini.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il processo di bilancio partecipativo si svolge annualmente secondo le seguenti fasi:",
+              "sottocommi": [
+                "entro il 31 gennaio: pubblicazione della quota disponibile e apertura delle proposte;",
+                "entro il 31 marzo: assemblee cittadine di Sezione e di Distretto;",
+                "entro il 30 aprile: voto sulla Piattaforma del Cittadino;",
+                "entro il 31 maggio: approvazione del bilancio partecipativo da parte del Congresso Metropolitano."
+              ]
+            },
+            {
+              "testo": "Possono partecipare al voto tutti i cittadini residenti nella Città Metropolitana di Taleen che abbiano compiuto 16 anni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I progetti più votati sono inseriti nel bilancio metropolitano, nei limiti della quota disponibile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPUS del EstjiLinn verifica le votazioni in conformità con la legge Unitaria e Statale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "rubrica": "Distretto Agricolo Capitolino (DAC)",
+          "commi": [
+            {
+              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal DAC.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il DAC:",
+              "sottocommi": [
+                "assegna i terreni alle comunità locali;",
+                "coordina la produzione agricola urbana;",
+                "promuove la distribuzione gratuita o a prezzo calmierato dei prodotti."
+              ]
+            },
+            {
+              "testo": "Il Congresso Metropolitano nomina il responsabile del DAC e ne approva il regolamento",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "rubrica": "Borsa Risorse di Taleen (BRT)",
+          "commi": [
+            {
+              "testo": "La BRT regola il commercio di risorse strategiche nell’area metropolitana.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La BRT opera sotto la supervisione del Congresso Metropolitano e in collaborazione con l’Agenzia Unica Approvvigionamenti (AUA).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Congresso Metropolitano approva annualmente:",
+              "sottocommi": [
+                "l’elenco delle risorse strategiche;",
+                "i prezzi di riferimento in Estji;",
+                "le quote di risorse destinate al welfare."
+              ]
+            },
+            {
+              "testo": "È vietata ogni forma di speculazione sulle risorse strategiche.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "rubrica": "Riforme Petrenka",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano supervisiona l’applicazione delle Riforme Petrenka nell’area metropolitana.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In particolare:",
+              "sottocommi": [
+                "garantisce il bilancio partecipativo al 15%;",
+                "pubblica tutti gli atti amministrativi in tempo reale sulla Piattaforma del Cittadino;",
+                "converte gli edifici abbandonati in alloggi sociali;",
+                "vieta la speculazione immobiliare;",
+                "attua la mobilità sostenibile e la graduale eliminazione dei mezzi privati."
+              ]
+            },
+            {
+              "testo": "Ogni anno il Congresso Metropolitano presenta al Congresso Statale un rapporto sullo stato di attuazione delle Riforme Petrenka.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "rubrica": "Wellfare e Servizi",
+          "commi": [
+            {
+              "testo": "Il Sistema Unificato di Welfare (SUW) certifica i bisogni e distribuisce beni in base ai Punti di Collaborazione Lavorativa (PCL).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Congresso Metropolitano coordina i servizi sociali metropolitani con i Congressi Distrettuali e le Assemblee di Sezione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sono garantiti:",
+              "sottocommi": [
+                "diritto al lavoro;",
+                "diritto alla casa;",
+                "diritto all’istruzione;",
+                "diritto alla salute."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "rubrica": "Pianificazione Territoriale",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano approva il Piano Urbanistico Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Piano è conforme:",
+              "sottocommi": [
+                "alla Costituzione dello Stato Sociale di EstjiLinn;",
+                "alla Legge Unitaria e agli atti dell’USSE;",
+                "alle Riforme Petrenka;",
+                "ai principi di sostenibilità ambientale e sociale."
+              ]
+            },
+            {
+              "testo": "Il Piano prevede la conversione degli edifici abbandonati in alloggi sociali e la tutela dei beni comuni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO IV -PARTECIPAZIONE, TRASPARENZA E REVOCA"
+        },
+        {
+          "numero": "19",
+          "rubrica": "Partecipazione diretta",
+          "commi": [
+            {
+              "testo": "Sono garantiti:",
+              "sottocommi": [
+                "referendum metropolitani;",
+                "iniziative popolari;",
+                "assemblee cittadine."
+              ]
+            },
+            {
+              "testo": "Un’iniziativa popolare può essere presentata da almeno il 10% degli elettori della Città Metropolitana.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il referendum metropolitano è indetto dal Congresso Metropolitano su richiesta di:",
+              "sottocommi": [
+                "un terzo dei suoi componenti;",
+                "il 15% degli elettori;",
+                "il Presidente del Congresso Metropolitano."
+              ]
+            },
+            {
+              "testo": "Il referendum propositivo è valido se partecipa almeno il 50% degli aventi diritto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "rubrica": "Revoca dei Delegati",
+          "commi": [
+            {
+              "testo": "In qualsiasi momento gli elettori possono revocare il proprio delegato tramite petizione firmata dal 30% degli elettori della circoscrizione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La revoca è automatica e immediata.",
+              "sottocommi": [
+                "Entro 5 giorni la CEPU verifica la veridicità della natura della revoca."
+              ]
+            },
+            {
+              "testo": "Entro 15 giorni si tengono elezioni suppletive.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La procedura è conforme ai principi della Costituzione e della Legge Unitaria [Lx n.33/2026].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "rubrica": "Trasparenza",
+          "commi": [
+            {
+              "testo": "Tutti gli atti amministrativi sono pubblicati in tempo reale sulla Piattaforma del Cittadino.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Piattaforma del Cittadino contiene:",
+              "sottocommi": [
+                "delibere e verbali delle sedute;",
+                "bilanci e rendiconti;",
+                "dati sui progetti di bilancio partecipativo;",
+                "informazioni su appalti, contratti e nomine."
+              ]
+            },
+            {
+              "testo": "I dati sono pubblicati in formato aperto e riutilizzabile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Ogni cittadino può presentare istanza di accesso agli atti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO V - RAPPORTI ISTITUZIONALI"
+        },
+        {
+          "numero": "22",
+          "rubrica": "Rapporti con l'USSE e l'EstjiLinn",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana di Taleen aderisce alla fazione Unione Sociale degli Stati dell’Estji e riconosce e partecipa alla Legge Unitaria.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Mantiene autonomia in materia di:",
+              "sottocommi": [
+                "pianificazione urbana;",
+                "economia locale;",
+                "gestione delle risorse;",
+                "trasporti metropolitani;",
+                "bilancio partecipativo."
+              ]
+            },
+            {
+              "testo": "La Città Metropolitana partecipa alle politiche dell’USSE attraverso i propri rappresentanti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VI - FINANZA E CONTROLLI"
+        },
+        {
+          "numero": "23",
+          "rubrica": "Risoluzione dei Conflitti",
+          "commi": [
+            {
+              "testo": "In caso di conflitto tra il presente Statuto e la Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria o gli atti dell’USSE, prevalgono le norme superiori.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Congresso Metropolitano può adire il Congresso Statale per la risoluzione di conflitti di competenza.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le decisioni del Congresso Statale sono vincolanti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "rubrica": "Bilancio",
+          "commi": [
+            {
+              "testo": "Il bilancio metropolitano è annuale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le entrate sono costituite da:",
+              "sottocommi": [
+                "trasferimenti dello Stato e dell’USSE;",
+                "quote della BRT;",
+                "contributi dei Distretti membri;",
+                "eventuali tributi metropolitani in RUK."
+              ]
+            },
+            {
+              "testo": "Il 15% del bilancio è destinato al Bilancio Partecipativo Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il bilancio è approvato a maggioranza assoluta dei componenti del Congresso Metropolitano.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "rubrica": "Controlli",
+          "commi": [
+            {
+              "testo": "Il Congresso Metropolitano istituisce un Collegio dei Revisori composto da 3 membri.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Revisori sono eletti a maggioranza assoluta e durano in carica 24 mesi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Revisori verificano:",
+              "sottocommi": [
+                "la regolarità contabile;",
+                "la conformità delle spese al bilancio;",
+                "l’attuazione del bilancio partecipativo."
+              ]
+            },
+            {
+              "testo": "Il Presidente e l’Ufficio di Presidenza possono essere revocati con mozione di sfiducia costruttiva approvata a maggioranza dei due terzi dei componenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE"
+        },
+        {
+          "numero": "26",
+          "rubrica": "Modifiche allo Statuto",
+          "commi": [
+            {
+              "testo": "L’iniziativa di modifica spetta a:",
+              "sottocommi": [
+                "un terzo dei componenti del Congresso Metropolitano;",
+                "il 10% degli elettori;",
+                "il Presidente del Congresso Metropolitano."
+              ]
+            },
+            {
+              "testo": "La modifica è approvata con il voto favorevole dei due terzi dei componenti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se la modifica incide su materie costituzionali, si applica la procedura prevista dalla Costituzione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Lo Statuto modificato è pubblicato sulla Piattaforma del Cittadino.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "rubrica": "Entrata in Vigore",
+          "commi": [
+            {
+              "testo": "Il presente Statuto entra in vigore il giorno della sua pubblicazione sulla Piattaforma del Cittadino.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Copia è depositata presso il Congresso Statale e presso gli organi competenti dell’USSE.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sono abrogate tutte le norme precedenti in contrasto con il presente Statuto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "28",
+          "rubrica": "Disposizioni Transitorie",
+          "commi": [
+            {
+              "testo": "Entro 6 mesi dall’entrata in vigore del presente Statuto si tengono le elezioni del Congresso Metropolitano di Taleen.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fino all’insediamento del Congresso Metropolitano, le funzioni sono esercitate da un Comitato di Transizione di 5 membri.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Comitato di Transizione è nominato dal Congresso Statale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Comitato di Transizione:",
+              "sottocommi": [
+                "adotta gli atti urgenti e indifferibili;",
+                "prepara le elezioni;",
+                "predispone i regolamenti attuativi;",
+                "riferisce al Congresso Statale ogni 30 giorni."
+              ]
+            },
+            {
+              "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
               "sottocommi": []
             }
           ]
