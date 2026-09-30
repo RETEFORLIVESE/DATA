@@ -342,6 +342,31 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi ordinari",
+          "testo": "Interventi da effettuare entro 180 giorni:",
+          "commi": [
+            {
+              "testo": "(n.7-TER26) - Costruzione di un complesso culturale sulla riva est del progetto (n.1-TER26), comprendente, un museo di storia moderna del server, un emiscopio e una agorà per discussioni;",
+              "sottocommi": []
+            },
+            {
+              "testo": "(n.8-TER26) - Ristrutturazione completa del quartere di AchtStag, bonifica dei territori ancora in dis-uso dalla 7° guerra continentale;",
+              "sottocommi": [
+                {
+                  "testo": "(n.8a-TER26) - Guadagno di 270 bl^2 abitativi ristrutturando i vecchi palazzi sfitti;"
+                },
+                {
+                  "testo": "(n.8b-TER26) - Collegameto ferrato diretto con il centro di Est Tabara;"
+                },
+                {
+                  "testo": "(n.8c-TER26) - Bonifica e riammodernamento del monumeto \"a tutti i caduti\" situato nel ZhongPark di AchtStag."
+                }
+              ]
+            }
+          ]
         }
       ],
       "galleria": [],
