@@ -289,7 +289,7 @@
       "data_approvazione": "06/06/2026",
       "risorse_totali": "E. 18.400.000",
       "sommario": "Progetto di riqualificazione completa della Città Metropolitana di Terlin a seguito dell'Unificazione.",
-      "copertina": "/VST.png",
+      "copertina": "/TDRcoat.png",
       "sezioni": [
         {
           "tipo": "sezione",
@@ -308,8 +308,14 @@
         },
         {
           "tipo": "sezione",
+          "titolo": "Interventi",
+          "testo": "Interfenti Fondamentali \n<table class=\"tabella-progetto\">\n<thead><tr><th>Numero</th><th>Sezione</th><th>Stima Costo</th></tr></thead>\n<tbody>\n<tr><td>(n.1-TER26) [Fiume Tùria]</td><td>Ost-Tabara</td><td>4.200.000</td></tr>\n<tr><td>(n.2-TER26) [Metro 1]</td><td>InterSezione</td><td>700.000</td></tr>\n<tr><td>(n.3-TER26) [Metro 2]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.4-TER26) [TabaraINT]</td><td>Ost-Tabara</td><td>3.500.000</td></tr>\n<tr><td>(n.5-TER26) [NordischerAxse]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.6-TER26) [Passante]</td><td>InterSezione</td><td>7.500.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n\n<table class=\"tabella-progetto\">\n<thead><tr><th>Numero</th><th>Sezione</th><th>Stima Costo</th></tr></thead>\n<tbody>\n<tr><td>(n.7-TER26) [Stad der Wissenshaft]</td><td>West-Tabara</td><td>1.250.000</td></tr>\n<tr><td>(n.8-TER26) [AchtStag]</td><td>Est-Tabara</td><td>1.500.000</td></tr>\n<tr><td>(n.9-TER26) [TETA]</td><td>InterSezione</td><td>2.000</td></tr>\n</tbody>\n</table>",
+          "commi": []
+        },
+        {
+          "tipo": "sezione",
           "titolo": "Interventi Fondamentali",
-          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Numero</th><th>Sezione</th><th>Stima Costo</th></tr></thead>\n<tbody>\n<tr><td>(n.1-TER26) [Fiume Tùria]</td><td>Ost-Tabara</td><td>4.200.000</td></tr>\n<tr><td>(n.2-TER26) [Metro 1]</td><td>InterSezione</td><td>700.000</td></tr>\n<tr><td>(n.3-TER26) [Metro 2]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.4-TER26) [TabaraINT]</td><td>Ost-Tabara</td><td>3.500.000</td></tr>\n<tr><td>(n.5-TER26) [NordischerAxse]</td><td>InterSezione</td><td>1.500.000</td></tr>\n<tr><td>(n.6-TER26) [Passante]</td><td>InterSezione</td><td>7.500.000</td></tr>\n</tbody>\n</table>",
+          "testo": "Interventi da effettuare entro 90 giorni dall'approvazione del piano:",
           "commi": [
             {
               "testo": "(n.1-TER26) - Bonifica del fiume Tùria con deviazione del tracciato verso Terlin Est;",
