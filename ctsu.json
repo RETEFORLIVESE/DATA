@@ -287,7 +287,7 @@
       "responsabile": "Pyrre Hankonen",
       "periodo_validita": "2 Anni",
       "data_approvazione": "",
-      "risorse_totali": "E. 21.652.000",
+      "risorse_totali": "E. 22.407.500",
       "sommario": "Progetto di riqualificazione completa della Città Metropolitana di Terlin a seguito dell'Unificazione.",
       "copertina": "/TDRcoat.png",
       "sezioni": [
@@ -356,13 +356,13 @@
               "testo": "(n.8-TER26) - Ristrutturazione completa del quartiere di AchtStag, bonifica dei territori ancora in disuso dalla 7° guerra continentale;",
               "sottocommi": [
                 {
-                  "testo": "(n.8a-TER26) - Guadagno di 270 bl^2 abitativi ristrutturando i vecchi palazzi sfitti;"
+                  "testo": "(n.8a-TER26) - Guadagno di 270 bl^2 abitativi ristrutturando i vecchi palazzi sfitti [E. 750.000];"
                 },
                 {
-                  "testo": "(n.8b-TER26) - Collegameto ferrato diretto con il centro di Est Tabara;"
+                  "testo": "(n.8b-TER26) - Collegameto ferrato diretto con il centro di Est Tabara [E. 6.500];"
                 },
                 {
-                  "testo": "(n.8c-TER26) - Bonifica e riammodernamento del monumeto \"a tutti i caduti\" situato nel ZhongPark di AchtStag."
+                  "testo": "(n.8c-TER26) - Bonifica e riammodernamento del monumeto \"a tutti i caduti\" situato nel ZhongPark di AchtStag [E. 1.000]."
                 }
               ]
             }
