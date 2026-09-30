@@ -2160,7 +2160,7 @@
               ]
             },
             {
-              "testo": "La Commissione opera per un periodo massimo di 12 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+              "testo": "La Commissione opera per un periodo massimo di 18 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
               "sottocommi": []
             }
           ]
@@ -2209,6 +2209,27 @@
         },
         {
           "numero": "10",
+          "rubrica": "Seconda Costituente",
+          "commi": [
+            {
+              "testo": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+              "sottocommi": [
+                "Riscrivere la Costituzione Statale della TDR;",
+                "Stabilire durata e regolamento interno;",
+                "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
+                "Approvare le leggi applicative della costitzione della TDR;",
+                "Vigilare sulla normalizzazione normativa;",
+                "Verificare l'operato della Commissione di Transizione;",
+                "Gestire le questioni patrimoniali e finanziarie;",
+                "Garantire il raccordo con l'USSE;",
+                "Risolvere le controverisie transitorie;",
+                "Assicurare trasparenza e partecipazione ai lavori"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "11",
           "rubrica": "Finale",
           "commi": [
             {
