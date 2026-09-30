@@ -340,32 +340,6 @@
         }
       ],
       "allegati": []
-    },
-    {
-      "id": "a",
-      "tipo_documento": "piano_economico",
-      "ambito": "statale",
-      "titolo": "prova",
-      "categoria": "Piano economico statale",
-      "stato": "In elaborazione",
-      "organo_responsabile": "a",
-      "luogo_piano": "",
-      "responsabile": "a",
-      "periodo_validita": "a",
-      "data_approvazione": "a",
-      "risorse_totali": "a",
-      "sommario": "a",
-      "copertina": "a",
-      "sezioni": [
-        {
-          "tipo": "sezione",
-          "titolo": "a",
-          "testo": "a",
-          "commi": []
-        }
-      ],
-      "galleria": [],
-      "allegati": []
     }
   ]
 }
