@@ -546,7 +546,7 @@
               "testo": "La Capitale ospita tutte le sedi centrali delle istituzioni statali.",
               "sottocommi": []
             }
-          ]
+          ] 
         },
         {
           "numero": "3",
@@ -2253,68 +2253,179 @@
       "articoli": [
         {
           "tipo": "titolo",
-          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+          "testo": "TITOLO I - FORMA DELLO STATO"
         },
         {
           "numero": "1",
-          "rubrica": "Istituzione e Territorio",
+          "rubrica": "Sistema",
           "commi": [
             {
-              "testo": "La Città Metropolitana di Ikedong comprende territori appartenenti al EstjiFall, ed è l'ente territoriale di governo del Congresso Metropolitano.",
+              "testo": "Lo Stato Sociale di EstjiLinn è membro della fazione “Unione Sociale degli Stati dell’Estji.",
               "sottocommi": []
             },
             {
-              "testo": "La Città Metropolitana di Ikedong ospita tutte le sedi centrali delle istituzioni metropolitane.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Città Metropolitana di Ikedong comprende i seguenti Distretti:",
-              "sottocommi": [
-                "Flord Wor, formato dalle sezioni di Chongquing, Ikedong, Pyongyang, Chengdu, Congmei e Saint-Sarge;",
-                "Occitane, formato dalle sezioni di INSERISCI"
-              ]
-            },
-            {
-              "testo": "Il territorio della Città Metropolitana di Ikedong è parte dello Stato Sociale dell'EstjiFall e della fazione USSE.",
+              "testo": "Lo Stato adotta un sistema amministrativo basato sulle Assemblee e i Congressi in conformità con la Legge Unitaria",
               "sottocommi": []
             }
           ]
         },
         {
           "numero": "2",
-          "rubrica": "Principi Fondamentali",
+          "rubrica": "Capitale",
           "commi": [
             {
-              "testo": "La Città Metropolitana di Ikedong forma la popia azione ai principi di:",
-              "sottocommi": [
-                "sovranità popolare e democrazia assembleare;",
-                "partecipazione diretta dei giocatori;",
-                "rasparenza e pubblicità degli atti;",
-                "solidarietà ambientale e mobilità pubblica;"
-              ]
+              "testo": "La capitale dell’EstjiLinn è la Città Metropolitana di Taleen.",
+              "sottocommi": []
             },
             {
-              "testo": "La Costituzione dello Stato Sociale del EstjiFall, la Legge Unitaria e gli atti dell'USSE prevalgono su ogni disposizione del presente Statuto.",
+              "testo": "La Capitale ospita tutte le sedi centrali delle istituzioni statali.",
+              "sottocommi": []
+            }
+          ] 
+        },
+        {
+          "numero": "3",
+          "rubrica": "Lingua",
+          "commi": [
+            {
+              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
               "sottocommi": []
             }
           ]
         },
         {
-          "numero": "3",
-          "rubrica": "Definizioni",
+          "numero": "4",
+          "rubrica": "Impegni",
           "commi": [
             {
-              "testo": "Ai fini del presente statuto si intendono:",
+              "testo": "Lo Stato si impegna a sperimentare modelli innovativi di governance, economia partecipativa e\nwelfare universale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
+        },
+        {
+          "numero": "5",
+          "rubrica": "Assemblee",
+          "commi": [
+            {
+              "testo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
               "sottocommi": [
-                "per \"congresso Metropolitano\", l'organo legislativo della Città Metropolitana di Ikedong;",
-                "per \"Distretti Membri\", i distretti elencati all'art. 1,comma 3;",
-                "per \"Sezioni\", le articolazioni territoriali elencate all'art.1, comma 3;",
-                "per \"Libro Elettorale\", il sistema di voto garantito da blockchain su libro incantato;",
-                "per \"Piattaforma del Cittadino\" il sistema pubblico di pubblicazione e partecipazione digitale."
+                "Assemblee di Sezione",
+                "Congresso Distrettuale",
+                "Congresso Metropolitano"
               ]
             }
           ]
-        }
+        },
+        {
+          "numero": "6",
+          "rubrica": "Elettorato",
+          "commi": [
+            {
+              "testo": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Congresso Statale",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Distretti e Assemblee",
+          "commi": [
+            {
+              "testo": "Distretti non membri della Città Metropolitana di Taleen:",
+              "sottocommi": [
+                "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                "Konko (Mikita, Royale);",
+                "Arcipelago di Alinesjia."
+              ]
+            },
+            {
+              "testo": "Distretti membri della Città Metropolitana di Taleen:",
+              "sottocommi": [
+                "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                "Katagaa (Irinastok);",
+                "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                "Niigataa (Tegel, TegelGard, Minotte);",
+                "Kengoko (Finance, NewShinguku, Gallier);",
+                "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                "Yate (Rial, Tadam)."
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - ECONOMIA E RISORSE"
+        },
+        {
+          "numero": "9",
+          "rubrica": "Territori pubblici",
+          "commi": [
+            {
+              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Rete di Trasporto",
+          "commi": [
+            {
+              "testo": "La rete di trasporto per Taleen è proprietà pubblica e gestita dalla Commissione per le Risorse e i Trasporti. Il servizio è gratuito per tutti i giocatori.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "rubrica": "Borsa Risorse di Taleen",
+          "commi": [
+            {
+              "testo": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Valuta",
+          "commi": [
+            {
+              "testo": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "rubrica": "Agenzia Unica Approvvigionamenti",
+          "commi": [
+            {
+              "testo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+              "sottocommi": []
+            }
+          ]
+        }            
       ]
     }
   ]
