@@ -2240,6 +2240,48 @@
           ]
         }
       ]
+    },
+    {
+      "id": "trattato-di-formazione-della-citta-metropolitana-di-ikedong",
+      "categoria": "Decreto",
+      "numero": "",
+      "anno": "2026",
+      "titolo": "Trattato di formazione della Città Metropolitana di IkeDong",
+      "dataEmanazione": "",
+      "promulgatoDa": "Congresso Statale del EstjiFall.",
+      "stato": "vigente",
+      "sommario": "",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "Preamolo",
+          "commi": [
+            {
+              "testo": "Oggi, i popoli di ChegDu, CongMei, ChongQuing, IkeDong e PyongYang si sono riuniti a SaeDong per approvare il seguente testo.\nChiediamo al Congresso Statale dell'EstjiFall l'approvazione di questo testo per poter istituire la Città Metropolitana di IkeDong",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - TRATTATO DI FORMAZIONE"
+        },
+        {
+          "numero": "2",
+          "rubrica": "Libero Transito di Merci e Persone",
+          "commi": [
+            {
+              "testo": "Con l'entrata in vigore di questo documento sarà possibile il transito di merci evitando la scrittura della \"Bolla di Transito\".",
+              "sottocommi": [
+                "Per il transito dei giocatori è richiesto solo un documento identificativo."
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
