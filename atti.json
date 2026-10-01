@@ -546,7 +546,7 @@
               "testo": "La Capitale ospita tutte le sedi centrali delle istituzioni statali.",
               "sottocommi": []
             }
-          ] 
+          ]
         },
         {
           "numero": "3",
@@ -2246,7 +2246,7 @@
       "dataEmanazione": "20 Aprile 2025",
       "promulgatoDa": "Congresso Statale del EstjiFall.",
       "stato": "vigente",
-      "sommario": "",
+      "sommario": "Statito della Città Metropolitana di Iledong.",
       "immagine": "/ikedong.png",
       "didascalia": "",
       "luogo": "EFAL-IKD",
@@ -2260,28 +2260,19 @@
           "rubrica": "Istituzione e territorio",
           "commi": [
             {
-              "testo": "La Città Metropolitana di Taleen è la capitale dell'Unione degli Stati Sociali degli Estji, dello Stato Sociale di EstjiLinn ed è l’ente territoriale di governo del Congresso Metropolitano di Taleen.",
+              "testo": "La Città Metropolitana di Ikedong è parte dell'Unione degli Stati Sociali degli Estji, dello Stato Sociale del EstjiFall ed è l’ente territoriale di governo del Congresso Metropolitano di Ikedong.",
               "sottocommi": []
             },
             {
-              "testo": "La Città Metropolitana di Taleen ospita tutte le sedi centrali delle istituzioni statali.",
+              "testo": "La Città Metropolitana di Ikedong ospita tutte le sedi centrali delle istituzioni statali.",
               "sottocommi": []
             },
             {
-              "testo": "La Città Metropolitana di Taleen comprende i seguenti Distretti membri:",
-              "sottocommi": [
-                "Ehime, con le Sezioni di Sars, Tampere, Estji e Tervetulloa;",
-                "Aömöry, con le Sezioni di Fiumana, Klosse, Fluvia, Ankita, Ost ed Ecles;",
-                "Katagaa, con la Sezione di Irinastok;",
-                "Fukura, con le Sezioni di 1 Ile, 2 Ile, 3 Ile, 4 Ile e 5 Ile;",
-                "Niigataa, con le Sezioni di Tegel, TegelGard e Minotte;",
-                "Kengoko, con le Sezioni di Finance, NewShinguku e Gallier;",
-                "Idame, con le Sezioni di Soyuz, Littoria, Lampugniano e Aprilia;",
-                "Yate, con le Sezioni di Rial e Tadam."
-              ]
+              "testo": "La Città Metropolitana di Ikedong comprende le seguenti sezioni membre:",
+              "sottocommi": []
             },
             {
-              "testo": "Il territorio della Città Metropolitana di Taleen è parte integrante dello Stato Sociale di EstjiLinn e della fazione USSE.",
+              "testo": "Il territorio della Città Metropolitana di Ikedong è parte integrante dello Stato Sociale del EstjiFall e della fazione USSE.",
               "sottocommi": []
             }
           ]
@@ -2302,7 +2293,7 @@
               ]
             },
             {
-              "testo": "La Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria e gli atti dell’USSE prevalgono su ogni disposizione del presente Statuto.",
+              "testo": "La Costituzione dello Stato Sociale di EstjiFall, la Legge Unitaria e gli atti dell’USSE prevalgono su ogni disposizione del presente Statuto.",
               "sottocommi": []
             }
           ]
@@ -2314,10 +2305,8 @@
             {
               "testo": "Ai fini del presente Statuto si intendono:",
               "sottocommi": [
-                "per “Congresso Metropolitano”, l’organo legislativo della Città Metropolitana di Taleen;",
-                "per “Distretti membri”, i distretti elencati all’ art. 1, comma 3;",
+                "per “Congresso Metropolitano”, l’organo legislativo della Città Metropolitana di Ikedong;",
                 "per “Sezioni”, le articolazioni territoriali elencate all’ art. 1, comma 3;",
-                "per “Bilancio Partecipativo Metropolitano”, la quota del 15% del bilancio metropolitano decisa dai cittadini;",
                 "per “Piattaforma del Cittadino”, il sistema pubblico di pubblicazione e partecipazione digitale;",
                 "per “Libro Elettorale”, il sistema di voto garantito da blockchain su libro incantato."
               ]
@@ -2333,13 +2322,13 @@
           "rubrica": "Organi della Città Metropolitana",
           "commi": [
             {
-              "testo": "Sono organi della Città Metropolitana di Taleen:",
+              "testo": "Sono organi della Città Metropolitana di Ikedong:",
               "sottocommi": [
-                "il Congresso Metropolitano di Taleen;",
+                "il Congresso Metropolitano;",
                 "il Presidente del Congresso Metropolitano;",
                 "l’Ufficio di Presidenza;",
                 "le Commissioni permanenti;",
-                "Le sezioni che formano il Confresso."
+                "Le sezioni che formano il Congresso."
               ]
             },
             {
@@ -2357,7 +2346,7 @@
           "rubrica": "Composizione del Congresso  Metropolitano",
           "commi": [
             {
-              "testo": "Il Congresso Metropolitano è composto da 60 delegati.",
+              "testo": "Il Congresso Metropolitano è composto da 40 delegati.",
               "sottocommi": []
             },
             {
@@ -2373,7 +2362,7 @@
               "sottocommi": []
             },
             {
-              "testo": "Il numero dei membri di diritto non concorre al riparto dei 60 delegati.",
+              "testo": "Il numero dei membri di diritto non concorre al riparto dei 40 delegati.",
               "sottocommi": []
             },
             {
@@ -2387,7 +2376,7 @@
           "rubrica": "Elezione del Congresso Metropolitano",
           "commi": [
             {
-              "testo": "L’elezione dei 60 delegati avviene con sistema proporzionale.",
+              "testo": "L’elezione dei 40 delegati avviene con sistema proporzionale , secondo la <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=legge-elettorale-dell-unione\" target=\"_blank\" rel=\"noopener noreferrer\">legge unitaria n.2/2026</a>",
               "sottocommi": []
             },
             {
@@ -2395,11 +2384,11 @@
               "sottocommi": []
             },
             {
-              "testo": "A ciascun Distretto membro è garantito almeno un seggio.",
+              "testo": "A ciascuna Sezione membra è garantito almeno un seggio.",
               "sottocommi": []
             },
             {
-              "testo": "Le candidature sono presentate dai Congressi Distrettuali o da gruppi di almeno 25 elettori del Distretto.",
+              "testo": "Le candidature sono presentate dalle Assemblee di sezione o da gruppi di almeno 11 elettori del Distretto.",
               "sottocommi": []
             },
             {
@@ -2425,7 +2414,7 @@
           "rubrica": "Membri di Diritto",
           "commi": [
             {
-              "testo": "I Presidenti delle Sezioni di Taleen sono membri di diritto del Congresso Metropolitano.",
+              "testo": "I Presidenti delle Sezioni di Ikedong sono membri di diritto del Congresso Metropolitano.",
               "sottocommi": []
             },
             {
@@ -2466,7 +2455,7 @@
               "testo": "Il Presidente:",
               "sottocommi": [
                 "convoca e presiede le sedute;",
-                "rappresenta la Città Metropolitana di Taleen;",
+                "rappresenta la Città Metropolitana di Ikedong ;",
                 "firma e pubblica gli atti;",
                 "coordina l’Ufficio di Presidenza."
               ]
