@@ -2298,6 +2298,22 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Ai fini del presente statuto si intendono:",
+              "sottocommi": [
+                "per \"congresso Metropolitano\", l'organo legislativo della Città Metropolitana di Ikedong;",
+                "per \"Distretti Membri\", i distretti elencati all'art. 1,comma 3;",
+                "per \"Sezioni\", le articolazioni territoriali elencate all'art.1, comma 3;",
+                "per \"Libro Elettorale\", il sistema di voto garantito da blockchain su libro incantato;",
+                "per \"Piattaforma del Cittadino\" il sistema pubblico di pubblicazione e partecipazione digitale."
+              ]
+            }
+          ]
         }
       ]
     }
