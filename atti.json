@@ -1471,6 +1471,70 @@
       ]
     },
     {
+      "id": "trattato-di-formazione-della-citta-metropolitana-di-ikedong",
+      "categoria": "Decreto",
+      "numero": "5",
+      "anno": "2025",
+      "titolo": "Statuto della Città Metropolitana di IkeDong",
+      "dataEmanazione": "20 Aprile 2025",
+      "promulgatoDa": "Congresso Statale del EstjiFall.",
+      "stato": "vigente",
+      "sommario": "",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "EFAL-IKD",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Istituzione e Territorio",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana di Ikedong comprende territori appartenenti al EstjiFall, ed è l'ente territoriale di governo del Congresso Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Ikedong ospita tutte le sedi centrali delle istituzioni metropolitane.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Ikedong comprende i seguenti Distretti:",
+              "sottocommi": [
+                "Flord Wor, formato dalle sezioni di Chongquing, Ikedong, Pyongyang, Chengdu, Congmei e Saint-Sarge;",
+                "Occitane, formato dalle sezioni di INSERISCI"
+              ]
+            },
+            {
+              "testo": "Il territorio della Città Metropolitana di Ikedong è parte dello Stato Sociale dell'EstjiFall e della fazione USSE.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Principi Fondamentali",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana di Ikedong forma la popia azione ai principi di:",
+              "sottocommi": [
+                "sovranità popolare e democrazia assembleare;",
+                "partecipazione diretta dei giocatori;",
+                "rasparenza e pubblicità degli atti;",
+                "solidarietà ambientale e mobilità pubblica;"
+              ]
+            },
+            {
+              "testo": "La Costituzione dello Stato Sociale del EstjiFall, la Legge Unitaria e gli atti dell'USSE prevalgono su ogni disposizione del presente Statuto.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "statuto-della-citta-metropolitana-di-taleen",
       "categoria": "Statuto",
       "numero": "3",
@@ -1531,12 +1595,8 @@
                 "trasparenza e pubblicità degli atti;",
                 "solidarietà, welfare universale e giustizia sociale;",
                 "sostenibilità ambientale e mobilità pubblica;",
-                "non speculazione immobiliare e uso sociale dei beni comuni."
+                "uso sociale dei beni comuni."
               ]
-            },
-            {
-              "testo": "Lo Stato Sociale dell’EstjiLinn riconosce tutte le lingue della Fazione.",
-              "sottocommi": []
             },
             {
               "testo": "La Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria e gli atti dell’USSE prevalgono su ogni disposizione del presente Statuto.",
@@ -2235,70 +2295,6 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "trattato-di-formazione-della-citta-metropolitana-di-ikedong",
-      "categoria": "Decreto",
-      "numero": "5",
-      "anno": "2025",
-      "titolo": "Statuto della Città Metropolitana di IkeDong",
-      "dataEmanazione": "20 Aprile 2025",
-      "promulgatoDa": "Congresso Statale del EstjiFall.",
-      "stato": "vigente",
-      "sommario": "",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "EFAL-IKD",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Istituzione e Territorio",
-          "commi": [
-            {
-              "testo": "La Città Metropolitana di Ikedong comprende territori appartenenti al EstjiFall, ed è l'ente territoriale di governo del Congresso Metropolitano.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Città Metropolitana di Ikedong ospita tutte le sedi centrali delle istituzioni metropolitane.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La Città Metropolitana di Ikedong comprende i seguenti Distretti:",
-              "sottocommi": [
-                "Flord Wor, formato dalle sezioni di Chongquing, Ikedong, Pyongyang, Chengdu, Congmei e Saint-Sarge;",
-                "Occitane, formato dalle sezioni di INSERISCI"
-              ]
-            },
-            {
-              "testo": "Il territorio della Città Metropolitana di Ikedong è parte dello Stato Sociale dell'EstjiFall e della fazione USSE.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Principi Fondamentali",
-          "commi": [
-            {
-              "testo": "La Città Metropolitana di Ikedong forma la popia azione ai principi di:",
-              "sottocommi": [
-                "sovranità popolare e democrazia assembleare;",
-                "partecipazione diretta dei giocatori;",
-                "rasparenza e pubblicità degli atti;",
-                "solidarietà ambientale e mobilità pubblica;"
-              ]
-            },
-            {
-              "testo": "La Costituzione dello Stato Sociale del EstjiFall, la Legge Unitaria e gli atti dell'USSE prevalgono su ogni disposizione del presente Statuto.",
               "sottocommi": []
             }
           ]
