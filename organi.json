@@ -25,7 +25,11 @@
         "nome": "Terlin",
         "tipo": "citta_metropolitana"
       },
-      "EBHAN-KLN": "Köln"
+      "EBHAN-KLN": "Köln",
+      "EFAL-IKD": {
+        "nome": "Ikedong",
+        "tipo": "citta_metropolitana"
+      }
     },
     "distretti": {
       "ELIN-TLN-NII": {
@@ -101,8 +105,7 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "EFAL-IKD": "Ikedong"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
