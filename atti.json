@@ -2244,40 +2244,62 @@
     {
       "id": "trattato-di-formazione-della-citta-metropolitana-di-ikedong",
       "categoria": "Decreto",
-      "numero": "",
-      "anno": "2026",
-      "titolo": "Trattato di formazione della Città Metropolitana di IkeDong",
-      "dataEmanazione": "",
+      "numero": "5",
+      "anno": "2025",
+      "titolo": "Statuto della Città Metropolitana di IkeDong",
+      "dataEmanazione": "20 Aprile 2025",
       "promulgatoDa": "Congresso Statale del EstjiFall.",
       "stato": "vigente",
       "sommario": "",
       "immagine": "",
       "didascalia": "",
-      "luogo": "",
+      "luogo": "EFAL-IKD",
       "articoli": [
         {
+          "tipo": "titolo",
+          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+        },
+        {
           "numero": "1",
-          "rubrica": "Preamolo",
+          "rubrica": "Istituzione e Territorio",
           "commi": [
             {
-              "testo": "Oggi, i popoli di ChegDu, CongMei, ChongQuing, IkeDong e PyongYang si sono riuniti a SaeDong per approvare il seguente testo.\nChiediamo al Congresso Statale dell'EstjiFall l'approvazione di questo testo per poter istituire la Città Metropolitana di IkeDong",
+              "testo": "La Città Metropolitana di Ikedong comprende territori appartenenti al EstjiFall, ed è l'ente territoriale di governo del Congresso Metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Ikedong ospita tutte le sedi centrali delle istituzioni metropolitane.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Città Metropolitana di Ikedong comprende i seguenti Distretti:",
+              "sottocommi": [
+                "Flord Wor, formato dalle sezioni di Chongquing, Ikedong, Pyongyang, Chengdu, Congmei e Saint-Sarge;",
+                "Occitane, formato dalle sezioni di INSERISCI"
+              ]
+            },
+            {
+              "testo": "Il territorio della Città Metropolitana di Ikedong è parte dello Stato Sociale dell'EstjiFall e della fazione USSE.",
               "sottocommi": []
             }
           ]
         },
         {
-          "tipo": "titolo",
-          "testo": "TITOLO I - TRATTATO DI FORMAZIONE"
-        },
-        {
           "numero": "2",
-          "rubrica": "Libero Transito di Merci e Persone",
+          "rubrica": "Principi Fondamentali",
           "commi": [
             {
-              "testo": "Con l'entrata in vigore di questo documento sarà possibile il transito di merci evitando la scrittura della \"Bolla di Transito\".",
+              "testo": "La Città Metropolitana di Ikedong forma la popia azione ai principi di:",
               "sottocommi": [
-                "Per il transito dei giocatori è richiesto solo un documento identificativo."
+                "sovranità popolare e democrazia assembleare;",
+                "partecipazione diretta dei giocatori;",
+                "rasparenza e pubblicità degli atti;",
+                "solidarietà ambientale e mobilità pubblica;"
               ]
+            },
+            {
+              "testo": "La Costituzione dello Stato Sociale del EstjiFall, la Legge Unitaria e gli atti dell'USSE prevalgono su ogni disposizione del presente Statuto.",
+              "sottocommi": []
             }
           ]
         }
