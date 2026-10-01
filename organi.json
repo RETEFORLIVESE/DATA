@@ -101,7 +101,8 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "EFAL-IKD": "Ikedong"
     },
     "regione": {
       "EFAL-AFD": {
@@ -675,6 +676,15 @@
               "figli": []
             }
           ]
+        },
+        {
+          "id_organo": "EFAL-IKD",
+          "nome_display": "Ikedong",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
         }
       ]
     },
