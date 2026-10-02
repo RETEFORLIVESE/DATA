@@ -2422,11 +2422,11 @@
               "sottocommi": []
             },
             {
-              "testo": "Il loro mandato coincide con quello di Sindaco.",
+              "testo": "Il loro mandato coincide con quello di Presidente di Sezzione.",
               "sottocommi": []
             },
             {
-              "testo": "In caso di cessazione dalla carica di Sindaco, cessano immediatamente anche dal Congresso Metropolitano.",
+              "testo": "In caso di cessazione dalla carica di Presidente di sezione, cessano immediatamente anche dal Congresso Metropolitano.",
               "sottocommi": []
             }
           ]
@@ -2436,7 +2436,7 @@
           "rubrica": "Presidente e Ufficio di Presidenza",
           "commi": [
             {
-              "testo": "Il Congresso Metropolitano elegge:",
+              "testo": "Il Congresso Metropolitano elegge il Consiglio Esecutivo, formato da:",
               "sottocommi": [
                 "un Presidente;",
                 "due Vicepresidenti;",
