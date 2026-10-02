@@ -2269,7 +2269,11 @@
             },
             {
               "testo": "La Città Metropolitana di Ikedong comprende le seguenti sezioni membre:",
-              "sottocommi": []
+              "sottocommi": [
+                "ChengDu;",
+                "CongMei;",
+                "ChongQuing;"
+              ]
             },
             {
               "testo": "Il territorio della Città Metropolitana di Ikedong è parte integrante dello Stato Sociale del EstjiFall e della fazione USSE.",
