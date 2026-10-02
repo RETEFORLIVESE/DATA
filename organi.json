@@ -14,7 +14,10 @@
       "EFAL": "EstjiFall",
       "EBHN": "EstjiBhan",
       "EBIA": "EstjjiBia",
-      "ELIN": "EstjiLinn"
+      "ELIN": "EstjiLinn",
+      "SPLZ": "СашаПлотц",
+      "LMGU": "LanMaoGuo",
+      "BSHS": "BundestagHessex"
     },
     "citta_principali": {
       "ELIN-TLN": {
@@ -105,10 +108,7 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "SPLZ": "СашаПлотц",
-      "LMGU": "LanMaoGuo",
-      "BSHS": "BundestagHessex"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
