@@ -108,7 +108,8 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "SPLZ-VKS": "ВинкаСток"
     },
     "regione": {
       "EFAL-AFD": {
@@ -732,16 +733,26 @@
       "id_organo": "SPLZ",
       "nome_display": "СашаПлотц",
       "categoria": "congresso",
-      "luogo": "",
+      "luogo": "SPLZ",
       "link_sito": "",
       "icona": "",
-      "figli": []
+      "figli": [
+        {
+          "id_organo": "SPLZ-VKS",
+          "nome_display": "ВинкаСток",
+          "categoria": "assemblea",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        }
+      ]
     },
     {
       "id_organo": "LMGU",
       "nome_display": "LanMaoGuo",
       "categoria": "congresso",
-      "luogo": "",
+      "luogo": "LMGU",
       "link_sito": "",
       "icona": "",
       "figli": []
@@ -750,7 +761,7 @@
       "id_organo": "BSHS",
       "nome_display": "BundestagHessex",
       "categoria": "congresso",
-      "luogo": "",
+      "luogo": "BSHS",
       "link_sito": "",
       "icona": "",
       "figli": []
