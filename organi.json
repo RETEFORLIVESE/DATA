@@ -105,11 +105,15 @@
       "ELIN-TLN-IRI-IRI": "Irinastok",
       "EBIA-ARB": "Arbabia",
       "ELIN-TLN-IDM-SYZ": "Soyuz",
-      "ELIN-TLN-KNG-NTC": "NTC"
+      "ELIN-TLN-KNG-NTC": "NTC",
+      "SPLZ-VKS": "ВинкаСток"
     },
     "organi": {
       "ENOR-PTL": "PatHel",
-      "SPLZ-VKS": "ВинкаСток"
+      "BSHS-UTK": "Utika",
+      "BSHS-MRW": "Morrowing",
+      "BSHS-BLM": "Baltmoral",
+      "BSHS-VTS": "Vistos"
     },
     "regione": {
       "EFAL-AFD": {
@@ -741,7 +745,7 @@
           "id_organo": "SPLZ-VKS",
           "nome_display": "ВинкаСток",
           "categoria": "assemblea",
-          "luogo": "",
+          "luogo": "SPLZ-VKS",
           "link_sito": "",
           "icona": "",
           "figli": []
@@ -764,7 +768,44 @@
       "luogo": "BSHS",
       "link_sito": "",
       "icona": "",
-      "figli": []
+      "figli": [
+        {
+          "id_organo": "BSHS-UTK",
+          "nome_display": "Utika",
+          "categoria": "congresso",
+          "luogo": "BSHS-UTK",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        },
+        {
+          "id_organo": "BSHS-MRW",
+          "nome_display": "Morrowing",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        },
+        {
+          "id_organo": "BSHS-BLM",
+          "nome_display": "Baltmoral",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        },
+        {
+          "id_organo": "BSHS-VTS",
+          "nome_display": "Vistos",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        }
+      ]
     }
   ],
   "alberoLuoghi": []
