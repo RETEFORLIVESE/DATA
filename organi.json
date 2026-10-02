@@ -105,7 +105,10 @@
       "ELIN-TLN-KNG-NTC": "NTC"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "SPLZ": "СашаПлотц",
+      "LMGU": "LanMaoGuo",
+      "BSHS": "BundestagHessex"
     },
     "regione": {
       "EFAL-AFD": {
@@ -685,7 +688,7 @@
           "nome_display": "Ikedong",
           "categoria": "congresso",
           "luogo": "",
-          "link_sito": "",
+          "link_sito": "https://ews-rose.vercel.app/ikedong.html",
           "icona": "",
           "figli": []
         }
@@ -724,6 +727,33 @@
           "figli": []
         }
       ]
+    },
+    {
+      "id_organo": "SPLZ",
+      "nome_display": "СашаПлотц",
+      "categoria": "congresso",
+      "luogo": "",
+      "link_sito": "",
+      "icona": "",
+      "figli": []
+    },
+    {
+      "id_organo": "LMGU",
+      "nome_display": "LanMaoGuo",
+      "categoria": "congresso",
+      "luogo": "",
+      "link_sito": "",
+      "icona": "",
+      "figli": []
+    },
+    {
+      "id_organo": "BSHS",
+      "nome_display": "BundestagHessex",
+      "categoria": "congresso",
+      "luogo": "",
+      "link_sito": "",
+      "icona": "",
+      "figli": []
     }
   ],
   "alberoLuoghi": []
