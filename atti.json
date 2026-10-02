@@ -2692,10 +2692,10 @@
         },
         {
           "numero": "17",
-          "rubrica": "Rapporti con l'USSE e l'EstjiLinn",
+          "rubrica": "Rapporti con l'USSE e l'EstjiFall",
           "commi": [
             {
-              "testo": "La Città Metropolitana di Taleen aderisce alla fazione Unione Sociale degli Stati dell’Estji e riconosce e partecipa alla Legge Unitaria.",
+              "testo": "La Città Metropolitana di Ikedong aderisce alla fazione Unione Sociale degli Stati dell’Estji, riconosce e partecipa alla Legge Unitaria.",
               "sottocommi": []
             },
             {
@@ -2705,7 +2705,7 @@
                 "economia locale;",
                 "gestione delle risorse;",
                 "trasporti metropolitani;",
-                "bilancio partecipativo."
+                "bilancio metropolitano;"
               ]
             },
             {
@@ -2723,7 +2723,7 @@
           "rubrica": "Risoluzione dei Conflitti",
           "commi": [
             {
-              "testo": "In caso di conflitto tra il presente Statuto e la Costituzione dello Stato Sociale di EstjiLinn, la Legge Unitaria o gli atti dell’USSE, prevalgono le norme superiori.",
+              "testo": "In caso di conflitto tra il presente Statuto e la Costituzione dello Stato Sociale di EstjiFall, la Legge Unitaria o gli atti dell’USSE, prevalgono le norme superiori.",
               "sottocommi": []
             },
             {
@@ -2748,14 +2748,10 @@
               "testo": "Le entrate sono costituite da:",
               "sottocommi": [
                 "trasferimenti dello Stato e dell’USSE;",
-                "quote della BRT;",
+                "quote delle partecipate;",
                 "contributi dei Distretti membri;",
-                "eventuali tributi metropolitani in RUK."
+                "eventuali tributi metropolitani."
               ]
-            },
-            {
-              "testo": "Il 15% del bilancio è destinato al Bilancio Partecipativo Metropolitano.",
-              "sottocommi": []
             },
             {
               "testo": "Il bilancio è approvato a maggioranza assoluta dei componenti del Congresso Metropolitano.",
