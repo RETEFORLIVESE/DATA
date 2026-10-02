@@ -106,12 +106,11 @@
       "EBIA-ARB": "Arbabia",
       "ELIN-TLN-IDM-SYZ": "Soyuz",
       "ELIN-TLN-KNG-NTC": "NTC",
-      "SPLZ-VKS": "ВинкаСток"
+      "SPLZ-VKS": "ВинкаСток",
+      "BSHS-MRW-VVC": "Vivec"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "BSHS-MRW-VVC": "Vivec",
-      "BSHS-MRW-BRL": "Barel"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
@@ -137,7 +136,8 @@
     },
     "Unione": "Unione",
     "assemblee_lavorative": {
-      "ENOR-PTL-ATC": "Trade Center"
+      "ENOR-PTL-ATC": "Trade Center",
+      "BSHS-MRW-BRL": "Barel"
     }
   },
   "alberoOrgani": [
