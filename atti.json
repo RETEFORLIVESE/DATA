@@ -2245,8 +2245,8 @@
       "titolo": "Statuto della Città Metropolitana di IkeDong",
       "dataEmanazione": "20 Aprile 2025",
       "promulgatoDa": "Congresso Statale del EstjiFall.",
-      "stato": "vigente",
-      "sommario": "Statito della Città Metropolitana di Iledong.",
+      "stato": "abrogato",
+      "sommario": "[IN ELABORAZIONE] Statuto della Città Metropolitana di Ikedong.",
       "immagine": "/ikedong.png",
       "didascalia": "",
       "luogo": "EFAL-IKD",
@@ -2479,10 +2479,8 @@
               "sottocommi": [
                 "Bilancio e Partecipazione;",
                 "Trasporti e Mobilità;",
-                "Agricoltura e DAC;",
-                "Risorse e BRT;",
-                "Welfare e Servizi Sociali;",
-                "Pianificazione e Riforme Petrenka;",
+                "Agricoltura e Risorse;",
+                "Pianificazione;",
                 "Affari Istituzionali e Rapporti con l’USSE."
               ]
             },
@@ -2495,7 +2493,7 @@
               "sottocommi": []
             },
             {
-              "testo": "Le Commissioni esprimono pareri obbligatori, ma non vincolanti, sui progetti di delibera di propria competenza.",
+              "testo": "Le Commissioni legiferano obbligatoriamente sui progetti di delibera di propria competenza.",
               "sottocommi": []
             }
           ]
@@ -2551,7 +2549,7 @@
           "rubrica": "Trasporti e Mobilità",
           "commi": [
             {
-              "testo": "La rete di trasporto per Taleen è proprietà pubblica ed è gestita dalla Commissione e Trasporti.",
+              "testo": "La rete di trasporto per Ikedongè proprietà pubblica ed è gestita dalla Commissione Trasporti, tramite la GrandTourEstji.",
               "sottocommi": []
             },
             {
@@ -2562,13 +2560,13 @@
               "testo": "Sono garantiti:",
               "sottocommi": [
                 "l’espansione della rete ciclabile e pedonale;",
-                "l’integrazione tariffaria e oraria tra Île-de-USSE e RATT;",
-                "la graduale eliminazione dei mezzi privati entro il 2026 nella città metropolitana;",
+                "l’integrazione tariffaria e oraria tra GTE e TachBhan;",
+                "la graduale eliminazione dei mezzi privati entro il 2027 nella città metropolitana;",
                 "la creazione di un <a href=\"https://ews-rose.vercel.app/IDU.html\" target=\"_blank\" rel=\"noopener noreferrer\">portale online</a> per consultare il sistema di trasporto più facilmente."
               ]
             },
             {
-              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione dei Trasporti.",
+              "testo": "Il Congresso Metropolitano approva annualmente il Piano Metropolitano della Mobilità Sostenibile, in conformità con le direttive della Commissione Trasporti.",
               "sottocommi": [
                 "Il piano viene pubblicato annualmente sul portale del <a href=\"https://ews-rose.vercel.app/lex/ctsu.html\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>"
               ]
@@ -2577,132 +2575,6 @@
         },
         {
           "numero": "13",
-          "rubrica": "Bilancio Partecipativo",
-          "commi": [
-            {
-              "testo": "Il 15% del bilancio metropolitano è deciso dai cittadini.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il processo di bilancio partecipativo si svolge annualmente secondo le seguenti fasi:",
-              "sottocommi": [
-                "entro il 31 gennaio: pubblicazione della quota disponibile e apertura delle proposte;",
-                "entro il 31 marzo: assemblee cittadine di Sezione e di Distretto;",
-                "entro il 30 aprile: voto sulla Piattaforma del Cittadino;",
-                "entro il 31 maggio: approvazione del bilancio partecipativo da parte del Congresso Metropolitano."
-              ]
-            },
-            {
-              "testo": "Possono partecipare al voto tutti i cittadini residenti nella Città Metropolitana di Taleen che abbiano compiuto 16 anni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I progetti più votati sono inseriti nel bilancio metropolitano, nei limiti della quota disponibile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La CEPUS del EstjiLinn verifica le votazioni in conformità con la legge Unitaria e Statale.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "rubrica": "Distretto Agricolo Capitolino (DAC)",
-          "commi": [
-            {
-              "testo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal DAC.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il DAC:",
-              "sottocommi": [
-                "assegna i terreni alle comunità locali;",
-                "coordina la produzione agricola urbana;",
-                "promuove la distribuzione gratuita o a prezzo calmierato dei prodotti."
-              ]
-            },
-            {
-              "testo": "Il Congresso Metropolitano nomina il responsabile del DAC e ne approva il regolamento",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "rubrica": "Borsa Risorse di Taleen (BRT)",
-          "commi": [
-            {
-              "testo": "La BRT regola il commercio di risorse strategiche nell’area metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La BRT opera sotto la supervisione del Congresso Metropolitano e in collaborazione con l’Agenzia Unica Approvvigionamenti (AUA).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Congresso Metropolitano approva annualmente:",
-              "sottocommi": [
-                "l’elenco delle risorse strategiche;",
-                "i prezzi di riferimento in Estji;",
-                "le quote di risorse destinate al welfare."
-              ]
-            },
-            {
-              "testo": "È vietata ogni forma di speculazione sulle risorse strategiche.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "rubrica": "Riforme Petrenka",
-          "commi": [
-            {
-              "testo": "Il Congresso Metropolitano supervisiona l’applicazione delle Riforme Petrenka nell’area metropolitana.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In particolare:",
-              "sottocommi": [
-                "garantisce il bilancio partecipativo al 15%;",
-                "pubblica tutti gli atti amministrativi in tempo reale sulla Piattaforma del Cittadino;",
-                "converte gli edifici abbandonati in alloggi sociali;",
-                "vieta la speculazione immobiliare;",
-                "attua la mobilità sostenibile e la graduale eliminazione dei mezzi privati."
-              ]
-            },
-            {
-              "testo": "Ogni anno il Congresso Metropolitano presenta al Congresso Statale un rapporto sullo stato di attuazione delle Riforme Petrenka.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "17",
-          "rubrica": "Wellfare e Servizi",
-          "commi": [
-            {
-              "testo": "Il Sistema Unificato di Welfare (SUW) certifica i bisogni e distribuisce beni in base ai Punti di Collaborazione Lavorativa (PCL).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Congresso Metropolitano coordina i servizi sociali metropolitani con i Congressi Distrettuali e le Assemblee di Sezione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Sono garantiti:",
-              "sottocommi": [
-                "diritto al lavoro;",
-                "diritto alla casa;",
-                "diritto all’istruzione;",
-                "diritto alla salute."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "18",
           "rubrica": "Pianificazione Territoriale",
           "commi": [
             {
@@ -2729,7 +2601,7 @@
           "testo": "TITOLO IV -PARTECIPAZIONE, TRASPARENZA E REVOCA"
         },
         {
-          "numero": "19",
+          "numero": "14",
           "rubrica": "Partecipazione diretta",
           "commi": [
             {
@@ -2759,7 +2631,7 @@
           ]
         },
         {
-          "numero": "20",
+          "numero": "15",
           "rubrica": "Revoca dei Delegati",
           "commi": [
             {
@@ -2783,7 +2655,7 @@
           ]
         },
         {
-          "numero": "21",
+          "numero": "16",
           "rubrica": "Trasparenza",
           "commi": [
             {
@@ -2814,7 +2686,7 @@
           "testo": "TITOLO V - RAPPORTI ISTITUZIONALI"
         },
         {
-          "numero": "22",
+          "numero": "17",
           "rubrica": "Rapporti con l'USSE e l'EstjiLinn",
           "commi": [
             {
@@ -2842,7 +2714,7 @@
           "testo": "TITOLO VI - FINANZA E CONTROLLI"
         },
         {
-          "numero": "23",
+          "numero": "18",
           "rubrica": "Risoluzione dei Conflitti",
           "commi": [
             {
@@ -2860,7 +2732,7 @@
           ]
         },
         {
-          "numero": "24",
+          "numero": "19",
           "rubrica": "Bilancio",
           "commi": [
             {
@@ -2887,7 +2759,7 @@
           ]
         },
         {
-          "numero": "25",
+          "numero": "20",
           "rubrica": "Controlli",
           "commi": [
             {
@@ -2917,7 +2789,7 @@
           "testo": "TITOLO VII - DISPOSIZIONI FINALI E TRANSITORIE"
         },
         {
-          "numero": "26",
+          "numero": "21",
           "rubrica": "Modifiche allo Statuto",
           "commi": [
             {
@@ -2943,7 +2815,7 @@
           ]
         },
         {
-          "numero": "27",
+          "numero": "22",
           "rubrica": "Entrata in Vigore",
           "commi": [
             {
@@ -2961,7 +2833,7 @@
           ]
         },
         {
-          "numero": "28",
+          "numero": "23",
           "rubrica": "Disposizioni Transitorie",
           "commi": [
             {
