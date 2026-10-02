@@ -109,7 +109,9 @@
       "SPLZ-VKS": "ВинкаСток"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "BSHS-MRW-VVC": "Vivec",
+      "BSHS-MRW-BRL": "Barel"
     },
     "regione": {
       "EFAL-AFD": {
@@ -797,7 +799,26 @@
           "luogo": "",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "BSHS-MRW-VVC",
+              "nome_display": "Vivec",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "BSHS-MRW-BRL",
+              "nome_display": "Barel",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         },
         {
           "id_organo": "BSHS-BLM",
