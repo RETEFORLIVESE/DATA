@@ -109,15 +109,27 @@
       "SPLZ-VKS": "ВинкаСток"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "BSHS-UTK": "Utika",
-      "BSHS-MRW": "Morrowing",
-      "BSHS-BLM": "Baltmoral",
-      "BSHS-VTS": "Vistos"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
         "nome": "Al-Fahad",
+        "tipo": "regione"
+      },
+      "BSHS-UTK": {
+        "nome": "Utika",
+        "tipo": "regione"
+      },
+      "BSHS-MRW": {
+        "nome": "Morrowing",
+        "tipo": "regione"
+      },
+      "BSHS-BLM": {
+        "nome": "Baltmoral",
+        "tipo": "regione"
+      },
+      "BSHS-VTS": {
+        "nome": "Vistos",
         "tipo": "regione"
       }
     },
