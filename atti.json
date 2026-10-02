@@ -2368,6 +2368,10 @@
             {
               "testo": "Il quorum e le maggioranze sono calcolati sul totale dei componenti, inclusi i membri di diritto.",
               "sottocommi": []
+            },
+            {
+              "testo": "I delegati eletti sono titolari di mandato imperativo, ai sensi della lex n.31/2026",
+              "sottocommi": []
             }
           ]
         },
@@ -2646,7 +2650,8 @@
             {
               "testo": "La revoca è automatica e immediata.",
               "sottocommi": [
-                "Entro 5 giorni la CEPU verifica la veridicità della natura della revoca."
+                "Entro 5 giorni la CEPU verifica la veridicità della natura della revoca;",
+                "La CEPU può richiedere un parere all'IVIdU e al CTSU."
               ]
             },
             {
