@@ -2527,11 +2527,8 @@
             {
               "testo": "Il Congresso Metropolitano esercita le seguenti funzioni esclusive:",
               "sottocommi": [
-                "gestire il sistema metropolitano integrato di trasporto, comprese la rete Île-de-USSE e la RATT, in coordinamento con il Ministero delle Risorse e Trasporti;",
-                "amministrare il Bilancio Partecipativo Metropolitano, pari al 15% del bilancio totale;",
-                "coordinare il Distretto Agricolo Capitolino (DAC);",
-                "coordinare la Borsa Risorse di Taleen (BRT);",
-                "supervisionare l’applicazione delle Riforme Petrenka nell’area metropolitana;",
+                "gestire il sistema metropolitano integrato di trasporto, comprese la rete Île-de-USSE e la RATT, in coordinamento con la Commissione Trasporti;",
+                "coordinare la politica agricola cittadina;",
                 "approvare il bilancio metropolitano;",
                 "approvare e modificare il presente Statuto;",
                 "nominare i responsabili degli uffici metropolitani;",
@@ -2549,7 +2546,7 @@
           "rubrica": "Trasporti e Mobilità",
           "commi": [
             {
-              "testo": "La rete di trasporto per Ikedongè proprietà pubblica ed è gestita dalla Commissione Trasporti, tramite la GrandTourEstji.",
+              "testo": "La rete di trasporto per Ikedong è proprietà pubblica ed è gestita dalla Commissione Trasporti, tramite la GrandTourEstji.",
               "sottocommi": []
             },
             {
@@ -2578,20 +2575,28 @@
           "rubrica": "Pianificazione Territoriale",
           "commi": [
             {
-              "testo": "Il Congresso Metropolitano approva il Piano Urbanistico Metropolitano.",
+              "testo": "Il Congresso Metropolitano coordina e integra i Piani di Sezione e redige il Piano Economico Locale con la collaborazione del CTSU e del CSP.",
               "sottocommi": []
             },
             {
-              "testo": "Il Piano è conforme:",
+              "testo": "Il Piano Economico Locale contiene:",
               "sottocommi": [
-                "alla Costituzione dello Stato Sociale di EstjiLinn;",
-                "alla Legge Unitaria e agli atti dell’USSE;",
-                "alle Riforme Petrenka;",
-                "ai principi di sostenibilità ambientale e sociale."
+                "La sintesi dei piani di sezione;",
+                "Le integrazione e le correzioni necessarie per la coerenza territoriale",
+                "Le priorità di sviluppo locale;",
+                "Le risorse disponibili a livello locale."
               ]
             },
             {
-              "testo": "Il Piano prevede la conversione degli edifici abbandonati in alloggi sociali e la tutela dei beni comuni.",
+              "testo": "Il Congresso Metropolitano acquisisce il parere della Sezione Territoriale del CTSU sulla fattibilità tecnica del Piano Economico Locale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il piano locale è approvato dal Congresso Metropolitano e dalle Assemblee entro il 31 maggio.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Piano Economico Locale è trasmesso al Congresso Statale entro il 15 giugno.",
               "sottocommi": []
             }
           ]
