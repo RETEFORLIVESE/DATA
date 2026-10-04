@@ -115,14 +115,14 @@
       "BSHS-MRW-BRL": "Barel",
       "BSHSX-UTK-VSG": "Visegrad",
       "BSHS-UTK-ZRT": "Zarathustra",
-      "BSHS-BLM-LYW": "LeyaWinn"
+      "BSHS-BLM-LYW": "LeyaWinn",
+      "TDR-HBR-BRN": "Brenta",
+      "TDR-HBR-HTM": "Hittemen",
+      "TDR-HBR-SDN": "Saint-Denis",
+      "TDR-HBR-HBR": "UraHabara"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "TDR-HBR-HBR": "UraHabara",
-      "TDR-HBR-SDN": "Saint-Denis",
-      "TDR-HBR-HTM": "Hittemen",
-      "TDR-HBR-BRN": "Brenta"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
