@@ -112,7 +112,9 @@
       "TDR-TRN-KER": "Kerosjine"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "BSHS-MRW-DGF": "Dagonfel",
+      "BSHS-MRW-FHR": "Fahrun"
     },
     "regione": {
       "EFAL-AFD": {
@@ -825,6 +827,24 @@
               "nome_display": "Vivec",
               "categoria": "assemblea",
               "luogo": "BSHS-MRW-VVC",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "BSHS-MRW-DGF",
+              "nome_display": "Dagonfel",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "BSHS-MRW-FHR",
+              "nome_display": "Fahrun",
+              "categoria": "assemblea",
+              "luogo": "",
               "link_sito": "",
               "icona": "",
               "figli": []
