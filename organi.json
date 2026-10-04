@@ -118,7 +118,11 @@
       "BSHS-BLM-LYW": "LeyaWinn"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "TDR-HBR-HBR": "UraHabara",
+      "TDR-HBR-SDN": "Saint-Denis",
+      "TDR-HBR-HTM": "Hittemen",
+      "TDR-HBR-BRN": "Brenta"
     },
     "regione": {
       "EFAL-AFD": {
@@ -579,10 +583,48 @@
         {
           "id_organo": "TDR-HBR",
           "nome_display": "Habara",
-          "categoria": "assemblea",
+          "categoria": "congresso",
           "luogo": "TDR-HBR",
           "link_sito": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "TDR-HBR-HBR",
+              "nome_display": "UraHabara",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-HBR-SDN",
+              "nome_display": "Saint-Denis",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-HBR-HTM",
+              "nome_display": "Hittemen",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-HBR-BRN",
+              "nome_display": "Brenta",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ],
+          "icona": ""
         }
       ]
     },
