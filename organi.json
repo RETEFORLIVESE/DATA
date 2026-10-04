@@ -109,12 +109,12 @@
       "SPLZ-VKS": "ВинкаСток",
       "BSHS-MRW-VVC": "Vivec",
       "TDR-TRN-ACS": "AchtStag",
-      "TDR-TRN-KER": "Kerosjine"
-    },
-    "organi": {
-      "ENOR-PTL": "PatHel",
+      "TDR-TRN-KER": "Kerosjine",
       "BSHS-MRW-DGF": "Dagonfel",
       "BSHS-MRW-FHR": "Fahrun"
+    },
+    "organi": {
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
