@@ -122,8 +122,7 @@
       "TDR-HBR-HBR": "UraHabara"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "TDR-TRN-EST": "EstjiSider-Terlin"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
@@ -149,7 +148,8 @@
     },
     "Unione": "Unione",
     "assemblee_lavorative": {
-      "ENOR-PTL-ATC": "Trade Center"
+      "ENOR-PTL-ATC": "Trade Center",
+      "TDR-TRN-EST": "EstjiSider-Terlin"
     }
   },
   "alberoOrgani": [
