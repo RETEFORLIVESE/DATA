@@ -114,11 +114,11 @@
       "BSHS-MRW-FHR": "Fahrun",
       "BSHS-MRW-BRL": "Barel",
       "BSHSX-UTK-VSG": "Visegrad",
-      "BSHS-UTK-ZRT": "Zarathustra"
+      "BSHS-UTK-ZRT": "Zarathustra",
+      "BSHS-BLM-LYW": "LeyaWinn"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "BSHS-BLM-LYW": "LeyaWinn"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
