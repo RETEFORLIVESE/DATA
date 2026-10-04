@@ -126,7 +126,7 @@
         "tipo": "regione"
       },
       "BSHS-MRW": {
-        "nome": "Morrowing",
+        "nome": "Morrowind",
         "tipo": "regione"
       },
       "BSHS-BLM": {
@@ -816,9 +816,9 @@
         },
         {
           "id_organo": "BSHS-MRW",
-          "nome_display": "Morrowing",
+          "nome_display": "Morrowind",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "BSHS-MRW",
           "link_sito": "",
           "icona": "",
           "figli": [
@@ -835,7 +835,7 @@
               "id_organo": "BSHS-MRW-DGF",
               "nome_display": "Dagonfel",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "BSHS-MRW-DGF",
               "link_sito": "",
               "icona": "",
               "figli": []
