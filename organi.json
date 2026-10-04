@@ -113,11 +113,11 @@
       "BSHS-MRW-DGF": "Dagonfel",
       "BSHS-MRW-FHR": "Fahrun",
       "BSHS-MRW-BRL": "Barel",
-      "BSHSX-UTK-VSG": "Visegrad"
+      "BSHSX-UTK-VSG": "Visegrad",
+      "BSHS-UTK-ZRT": "Zarathustra"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "BSHS-UTK-ZRT": "Zarathustra"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
