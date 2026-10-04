@@ -117,7 +117,8 @@
       "BSHS-UTK-ZRT": "Zarathustra"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "BSHS-BLM-LYW": "LeyaWinn"
     },
     "regione": {
       "EFAL-AFD": {
@@ -828,7 +829,7 @@
               "id_organo": "BSHS-UTK-ZRT",
               "nome_display": "Zarathustra",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "BSHS-UTK-ZRT",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -888,7 +889,17 @@
           "luogo": "",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "BSHS-BLM-LYW",
+              "nome_display": "LeyaWinn",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         },
         {
           "id_organo": "BSHS-VTS",
