@@ -110,7 +110,9 @@
       "BSHS-MRW-VVC": "Vivec"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "TDR-TRN-ACS": "AchtStag",
+      "TDR-TRN-KER": "Kerosjine"
     },
     "regione": {
       "EFAL-AFD": {
@@ -547,6 +549,24 @@
               "categoria": "assemblea",
               "luogo": "TDR-TRN-HTB",
               "link_sito": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-ACS",
+              "nome_display": "AchtStag",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-KER",
+              "nome_display": "Kerosjine",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
               "figli": []
             }
           ]
