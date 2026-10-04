@@ -555,7 +555,7 @@
               "id_organo": "TDR-TRN-ACS",
               "nome_display": "AchtStag",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "TDR-TRN-ACS",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -564,7 +564,7 @@
               "id_organo": "TDR-TRN-KER",
               "nome_display": "Kerosjine",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "TDR-TRN-KER",
               "link_sito": "",
               "icona": "",
               "figli": []
