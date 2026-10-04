@@ -116,7 +116,8 @@
       "BSHSX-UTK-VSG": "Visegrad"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "BSHS-UTK-ZRT": "Zarathustra"
     },
     "regione": {
       "EFAL-AFD": {
@@ -817,6 +818,15 @@
             {
               "id_organo": "BSHSX-UTK-VSG",
               "nome_display": "Visegrad",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "BSHS-UTK-ZRT",
+              "nome_display": "Zarathustra",
               "categoria": "assemblea",
               "luogo": "",
               "link_sito": "",
