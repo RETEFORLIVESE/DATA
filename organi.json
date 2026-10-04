@@ -122,7 +122,8 @@
       "TDR-HBR-HBR": "UraHabara"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "TDR-TRN-EST": "EstjiSider-Terlin"
     },
     "regione": {
       "EFAL-AFD": {
@@ -574,6 +575,15 @@
               "nome_display": "Kerosjine",
               "categoria": "assemblea",
               "luogo": "TDR-TRN-KER",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "TDR-TRN-EST",
+              "nome_display": "EstjiSider-Terlin",
+              "categoria": "assemblea",
+              "luogo": "",
               "link_sito": "",
               "icona": "",
               "figli": []
