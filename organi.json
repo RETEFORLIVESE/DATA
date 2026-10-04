@@ -848,6 +848,15 @@
               "link_sito": "",
               "icona": "",
               "figli": []
+            },
+            {
+              "id_organo": "BSHS-MRW-BRL",
+              "nome_display": "Barel",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
             }
           ]
         },
