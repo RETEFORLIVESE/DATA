@@ -115,7 +115,8 @@
       "BSHS-MRW-BRL": "Barel"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "BSHSX-UTK-VSG": "Visegrad"
     },
     "regione": {
       "EFAL-AFD": {
@@ -812,7 +813,17 @@
           "luogo": "BSHS-UTK",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "BSHSX-UTK-VSG",
+              "nome_display": "Visegrad",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         },
         {
           "id_organo": "BSHS-MRW",
