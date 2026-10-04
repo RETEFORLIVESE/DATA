@@ -112,11 +112,11 @@
       "TDR-TRN-KER": "Kerosjine",
       "BSHS-MRW-DGF": "Dagonfel",
       "BSHS-MRW-FHR": "Fahrun",
-      "BSHS-MRW-BRL": "Barel"
+      "BSHS-MRW-BRL": "Barel",
+      "BSHSX-UTK-VSG": "Visegrad"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "BSHSX-UTK-VSG": "Visegrad"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
