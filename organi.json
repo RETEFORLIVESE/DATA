@@ -107,12 +107,12 @@
       "ELIN-TLN-IDM-SYZ": "Soyuz",
       "ELIN-TLN-KNG-NTC": "NTC",
       "SPLZ-VKS": "ВинкаСток",
-      "BSHS-MRW-VVC": "Vivec"
-    },
-    "organi": {
-      "ENOR-PTL": "PatHel",
+      "BSHS-MRW-VVC": "Vivec",
       "TDR-TRN-ACS": "AchtStag",
       "TDR-TRN-KER": "Kerosjine"
+    },
+    "organi": {
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
