@@ -2903,6 +2903,208 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "numero": "14",
+          "rubrica": "Referendum conultivo",
+          "commi": [
+            {
+              "testo": "Il referendum consultivo è indetto su iniziativa:",
+              "sottocommi": [
+                "1. Del Congresso Unitario, del Congresso Statale o dell'Assemblea di Sezione;",
+                "2. Di almeno il 2% degli elettori della circoscrizione interessata."
+              ]
+            },
+            {
+              "testo": "Il quesito referendario chiede il parere dei cittadini su questioni di rilevanza\npubblica.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il risultato del referendum consultivo non è vincolante, ma l'organo competente è\ntenuto a discuterne e a motivare pubblicamente le decisioni assunte in merito.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "rubrica": "Indizione del referendum",
+          "commi": [
+            {
+              "testo": "La CEPU, o la CEPUS per i referendum statali e locali, indice il referendum entro\nsessanta giorni dalla verifica di ammissibilità.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La data del referendum è fissata dalla CEPU, di concerto con l'Alto Moderatore.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il referendum si svolge in una domenica, tra i giorni 15 aprile e 15 giugno o tra i\ngiorni 15 settembre e 15 novembre.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di referendum di urgenza, il termine di cui al comma 1 è ridotto a trenta\ngiorni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "rubrica": "Scheda referendaria",
+          "commi": [
+            {
+              "testo": "La scheda referendaria riporta:",
+              "sottocommi": [
+                "Il quesito referendario, formulato in modo chiaro e univoco;",
+                "Le opzioni di voto: \"Sì\" e \"No\";",
+                "Una breve sintesi della proposta e delle ragioni del comitato promotore;",
+                "La data del referendum e le istruzioni per il voto."
+              ]
+            },
+            {
+              "testo": "La formulazione del quesito è sottoposta alla CEPU e al CTSU per la verifica di\nchiarezza, correttezza e neutralità.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La scheda è redatta in tutte le lingue ufficiali dell'Unione e nelle lingue delle\nminoranze riconosciute nelle circoscrizioni interessate.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU pubblica un dossier informativo sulla proposta, contenente dati,\nvalutazioni tecniche e le posizioni favorevoli e contrarie.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "rubrica": "Campagna referendaria",
+          "commi": [
+            {
+              "testo": "La CEPU garantisce l'accesso equo e gratuito ai media pubblici per le posizioni\nfavorevoli e contrarie alla proposta.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il finanziamento della campagna referendaria è esclusivamente pubblico, gestito\ndalla CEPU.",
+              "sottocommi": []
+            },
+            {
+              "testo": "È vietato il finanziamento privato delle campagne referendarie.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU, in collaborazione con il CTSU, pubblica un dossier informativo sulla\nproposta, contenente dati e valutazioni tecniche.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Durante i quindici giorni antecedenti il referendum, è vietata la pubblicazione di\nsondaggi e rilevazioni di opinione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "rubrica": "Quorum e validità",
+          "commi": [
+            {
+              "testo": "Il referendum è valido con la partecipazione di qualsiasi numero di elettori (quorum\nabolito eccetto propositivo) [cost. Modifica del 29/12/2024].",
+              "sottocommi": []
+            },
+            {
+              "testo": "La proposta è approvata se ottiene la maggioranza dei voti validi espressi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per i referendum costituzionali, è richiesta la maggioranza dei due terzi dei voti\nvalidi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le schede bianche e nulle non sono computate ai fini del calcolo della\nmaggioranza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "rubrica": "Effetti del referendum propositivo",
+          "commi": [
+            {
+              "testo": "In caso di approvazione del referendum propositivo:",
+              "sottocommi": [
+                "Il Congresso Unitario (o l'organo competente) è tenuto a discutere la\nproposta entro sei mesi;",
+                "La proposta, se approvata dal Congresso, diventa legge con la procedura\nordinaria;",
+                "Se il Congresso respinge la proposta, il testo può essere sottoposto a nuovo\nreferendum su richiesta del Comitato promotore;",
+                "Decorsi sei mesi senza che il Congresso si sia pronunciato, la proposta entra\nin vigore come legge."
+              ]
+            },
+            {
+              "testo": "La legge approvata per via referendaria è sottoposta al controllo di costituzionalità\ndella Corte Costituzionale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "20",
+          "rubrica": "Effetti del referendum abrogativo",
+          "commi": [
+            {
+              "testo": "In caso di approvazione del referendum abrogativo:",
+              "sottocommi": [
+                "La legge oggetto del referendum è abrogata dalla data di pubblicazione del\nrisultato nella Bolla Ufficiale Unitaria;",
+                "La CEPU comunica il risultato al Congresso Unitario e al Consolato per\nl'attuazione;",
+                "L'abrogazione ha effetto per l'intero territorio della circoscrizione interessata."
+              ]
+            },
+            {
+              "testo": "La legge abrogata può essere riproposta solo dopo due anni dalla data di\nabrogazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "rubrica": "Effetti del referendum consultivo",
+          "commi": [
+            {
+              "testo": "In caso di approvazione del referendum consultivo:",
+              "sottocommi": [
+                "Il risultato è trasmesso al Congresso Unitario e al Consolato (o agli organi\ncompetenti);",
+                "Gli organi competenti sono tenuti a discuterne entro tre mesi;",
+                "Le decisioni assunte in merito devono essere motivate e pubblicate."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "rubrica": "Referendum costituzionali obbligatori",
+          "commi": [
+            {
+              "testo": "Sono obbligatoriamente sottoposti a referendum popolare confermativo:",
+              "sottocommi": [
+                "Le modifiche costituzionali che riguardano i principi fondamentali dell'Unione;",
+                "Le modifiche che riguardano i diritti e i doveri dei cittadini;",
+                "Le modifiche che riguardano la forma dello Stato;",
+                "Le modifiche che riguardano i poteri dell'Alto Moderatore, del CTSU o\ndell'IVIdU."
+              ]
+            },
+            {
+              "testo": "Il referendum costituzionale è indetto entro tre mesi dall'approvazione della modifica\nda parte del Congresso Unitario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La modifica entra in vigore solo se approvata dalla maggioranza dei due terzi dei\nvoti validi espressi.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "rubrica": "Disposizioni Finali",
+          "commi": [
+            {
+              "testo": "a",
+              "sottocommi": []
+            }
+          ]
         }
       ]
     }
