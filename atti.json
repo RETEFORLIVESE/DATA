@@ -694,301 +694,6 @@
       ]
     },
     {
-      "id": "legge-sull-iniziativa-popolare-e-sui-referendum",
-      "categoria": "Legge Applicativa",
-      "numero": "1",
-      "anno": "2026",
-      "titolo": "Legge sull' iniziativa popolare e sui referendum",
-      "dataEmanazione": "15 Gennaio 2026",
-      "promulgatoDa": "Congresso Unitario",
-      "stato": "vigente",
-      "sommario": "Legge che disciplina le iniziative popolari e i referendum.",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ESTJI",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I -DISPOSIZIONI GENERALI"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Oggetto e finalità",
-          "commi": [
-            {
-              "testo": "La presentelegge dusciplina le modalità di esercizio dell'iniziativa popolare e dei referendum propositivi, abrogrativi e consultivi, i attuazione degli articoli I-7 e I-8 della Costituzione dell'USSE",
-              "sottocommi": []
-            },
-            {
-              "testo": "Essa garantisce ai giocatori dell'USSE il diritto di partecipare direttamente alla vita politica attraverso la proposta di leggi, la richiesta di referendum e l'abrogazione di atti normativi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La presente legge si applica a tutte le iniziative popolare e referendare in tutti i livelli amministrativi dell'Unione.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Definizioni",
-          "commi": [
-            {
-              "testo": "Ai fini della presente legge si intende:",
-              "sottocommi": [
-                "Iniziativa popolare: Il diritto dei cittadini di sottoporre ai Congressi o alle Assemblee proposte di leggi o di modifica costituzionale;",
-                "Referendum propositivo: consultazione popolare volta ad approvare una proposta di legge o di un atto normativo;",
-                "Referendum abrogativo: consultazione popolare volta ad abrogare una legge o un atto normativo già in vigore;",
-                "Referendum consultivo: consultazione popolare non vincolante su questioni di rilevanda pubblica;",
-                "Comitato promotore: l'organo costituito da giocatori promotori di un'iniziativa referendaria;",
-                "Quesito referendario: la domanda sottoposta a voto popolare;",
-                "Referendum di revoca: consultazione popolare per la revoca di una carica elettiva in caso di violazione del programma elettorale."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "Diritti dei giocatori",
-          "commi": [
-            {
-              "testo": "I giocatori dell'USSE che abbiano compiuto il 16simo anno di età hnno il diritto di:",
-              "sottocommi": [
-                "Promuovere iniziative legislative popolare;",
-                "Rucguedere referendum propositivi, abrogativi e consultivi;",
-                "Partecipare ai referendum e alle consultazioni popolari;",
-                "Presentare istanze e petizioni agli organi legislativi ed esecutivi."
-              ]
-            },
-            {
-              "testo": "L'esercizio di tali diritti non può essere limitato o condizionato da discriminazioni di genere, etrnia, religione, condizione sociale o classe.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "rubrica": "Limite all'Iniziativa popolare",
-          "commi": [
-            {
-              "testo": "L'iniziatia popolare non può riguradare:",
-              "sottocommi": [
-                "Le leggi di approvazione del bilancio Unitario;",
-                "Le leggi tributarie e di istituzione di tributi locali;",
-                "Le leggi di autorizzazione alla ratifica dei trattati internazionali;",
-                "Le leggi di amnistia e indulto;",
-                "Le leggi che attuano disposizioni costituzionali in materia di diritti fondamentali;",
-                "Le leggi di modifica della Costituzione riguardanti i principi fondamentali dell'Unione, la forma dello Stato e i diritti inviolabili della persona."
-              ]
-            },
-            {
-              "testo": "La CEPU, sentito il parere del CTSU, verifica il rispetto dei limiti al cui comma 1.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - INIZIATIVA LEGISLATIVA POPOLARE"
-        },
-        {
-          "numero": "5",
-          "rubrica": "Ambiti di esercizio",
-          "commi": [
-            {
-              "testo": "L'iniziativa popolare può essere esercitata per:",
-              "sottocommi": [
-                "Proporre nuove leggi ai Congressi e alle Assemblee;",
-                "Proportte modifiche di leggi ai Congressi e alle Assemblee;",
-                "Proporre modifiche costituzionali;",
-                "Richiedere l'approvazione di regolamenti attuativi."
-              ]
-            },
-            {
-              "testo": "L'iniziativa legislativa popolare è esercitata da almeno il 3% degli elettori iscritti nelle liste elettorali della circoscrizione interessata, con un minimo di 15 firme per le iniziative popolare e di 50 firme per le iniziative unitarie.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "rubrica": "Comitato promotore",
-          "commi": [
-            {
-              "testo": "L'iniziativa popolare è promossa da un Comitato promotore composto da almeno 5 giocatori elettori.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Comitato promotore:",
-              "sottocommi": [
-                "Redige il testo della proposta;",
-                "Cura la raccolta delle firme secondo le modalità di cui all'art. 7;",
-                "Presenta la proposta alla CEPU per la verifica di ammissibilità;",
-                "Designa un rappresentante leale per i rapporti con le autorità"
-              ]
-            },
-            {
-              "testo": "Il comitato promotore ha diritto di accedere ai media pubblici per la rappresentazione della propost, secondo modalità definite dalla CEPU in collaborazione con il CTSU.",
-              "sottocommi": []
-            },
-            {
-              "testo": "il Comitato promotore può ricevere finanziamento pubblico per al campagna di promozione, secondo le modalità definite dalla CEPU.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "rubrica": "Modalità di raccolta firme",
-          "commi": [
-            {
-              "testo": "La raccolta delle firme è effettuata secondo le seguenti modalità:",
-              "sottocommi": [
-                "Le firme possono essere raccolte in formato digitale attraverso la piattaforma ufficiale gestita dalla CEPU;",
-                "Ogni firmatario deve indicare nickname, data di registrazione, codice identificativo permanente e circoscrizione di residenza;",
-                "Le firme digitali sono autenticate attraverso il sistema di identificazione elettronica dell'USSE."
-              ]
-            },
-            {
-              "testo": "La CEPU verifica l'autenticità delle firme entro 30 giorni dalla presentazione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Sono nulle le firme:",
-              "sottocommi": [
-                "Di giocatori non aventi diritto di voto;",
-                "Di persone decedute o concellate dalle liste elettorali;",
-                "Duplicate;",
-                "Mancanti dei dati identificati richiesti;"
-              ]
-            },
-            {
-              "testo": "Il termine delle raccolte firme è di 6 mesi dalla data di pubblicazione dell'avviso di iniziativa nella Bolla Ufficiale Unitaria e sul portale della CEPU.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "rubrica": "Verifica di ammissibilità",
-          "commi": [
-            {
-              "testo": "La CEPU verifica la conformabilità della proposta ai principi costituzionali e ne valuta la fattibilità tecnica, acquisendo il parere del CTSU",
-              "sottocommi": []
-            },
-            {
-              "testo": "Entro 60 giorni dalla presentazione, la CEPU dichiara l'ammissibilità o l'inammissibilità della proposta, motivando il provvedimento.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I motivi di inammissibilità includono:",
-              "sottocommi": [
-                "Violazione dei limiti di cui all'art.4;",
-                "Contenuto manifestamente incostituzionale;",
-                "Impossibilità tecnica di attuazione, accertata dal CTSU;",
-                "Mancanza del numero minimo di firme valide;",
-                "Identità sostanziale con una proposta già respinta nei 2 anni precedenti."
-              ]
-            },
-            {
-              "testo": "In caso di inammissibilità, il Comitato promotore può ricorrere alla Corte Costituzionale entro 30 giorni.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "rubrica": "Esame della proposta",
-          "commi": [
-            {
-              "testo": "La proposta dichiarata ammissibile è trasmessa all'organo legislativo competente per l'esame.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L'organo è tenuto a discutere la proposta entro 6 mesi dalla trasmissione",
-              "sottocommi": []
-            },
-            {
-              "testo": "L'organo può:",
-              "sottocommi": [
-                "Approvare la proposta con le procedure ordinarie;",
-                "Modificare la proposta, previo acordo con il comitato promotore;",
-                "Respingere la proposta, motivando il rigetto;",
-                "Disporre la sottoposizione a referendum della proposta."
-              ]
-            },
-            {
-              "testo": "Se l'organo non si pronuncia entro il termine al cui comma 2, la proposta è automaticamente sottoposta a referendum propositivo;",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "rubrica": "Iniziativa costituzionale",
-          "commi": [
-            {
-              "testo": "L'iniziativa popolare per la revisione costituzionale è esercitata da almeno il 5% degli elettori iscritti nlle liste elettorali dell'Unione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La proposta di modifica costituzionale è sottoposta all'esame del Congresso Unitario.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Se il Congresso approva la modifica, essa è sottoposta a referenduum costituzionale ai sensi dell'art. 12.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Se il Congresso respinge la modifica, essa può essere sottoposta direttamente a referendum costituzionale su richiesta del Comitato promotore.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO III - REFERENDUM"
-        },
-        {
-          "numero": "11",
-          "rubrica": "Tipologie di referendum",
-          "commi": [
-            {
-              "testo": "L?USSE prevede le seguenti tipologie di referendum:",
-              "sottocommi": [
-                "Referebdum propositivo:  per l'approvazione di una proposta di legge o di un atto normativo;",
-                "Referendum abrogativo: per l'abrogazione totale o parziale di una legge o di un atto normatvo;",
-                "Referendum consultivo: per la raccolta del parere dei giocatori su questioni di rilevanza pubblica;",
-                "Referendum costituzionale: per l'approvazione di modifiche costituzionali;",
-                "Referendum di revoca: per la revoca delle cariche elettivo, disciplinato dalla apposita legge"
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "rubrica": "Referendum propositivo",
-          "commi": [
-            {
-              "testo": "Il referendum propositivo è indetto:",
-              "sottocommi": [
-                "Su iniziativa popolare, ai sensi di cui all'art.5 e 6;",
-                "Su deliberazione di un organo legislativo di qualsiasi livello."
-              ]
-            },
-            {
-              "testo": "Il quesito referendario è formulato come proposta di legge,con articoli e commi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di approvazione, la proposta diventa legge con la procedura prevista dall'art.19.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "statuto-della-terlin-transit-authority",
       "categoria": "Statuto",
       "numero": "4",
@@ -2872,6 +2577,329 @@
             },
             {
               "testo": "Il Sistema dei Punti di Collaborazione Lavorativa (PCL) è integrato nel registro del Congresso Statale per la determinazione dei bisogni e la redistribuzione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legge-sull-iniziativa-popolare-e-sui-referendum",
+      "categoria": "Legge Applicativa",
+      "numero": "1",
+      "anno": "2026",
+      "titolo": "Legge sull' iniziativa popolare e sui referendum",
+      "dataEmanazione": "15 Gennaio 2026",
+      "promulgatoDa": "Congresso Unitario",
+      "stato": "vigente",
+      "sommario": "Legge che disciplina le iniziative popolari e i referendum.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I -DISPOSIZIONI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Oggetto e finalità",
+          "commi": [
+            {
+              "testo": "La presentelegge dusciplina le modalità di esercizio dell'iniziativa popolare e dei referendum propositivi, abrogrativi e consultivi, i attuazione degli articoli I-7 e I-8 della Costituzione dell'USSE",
+              "sottocommi": []
+            },
+            {
+              "testo": "Essa garantisce ai giocatori dell'USSE il diritto di partecipare direttamente alla vita politica attraverso la proposta di leggi, la richiesta di referendum e l'abrogazione di atti normativi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La presente legge si applica a tutte le iniziative popolare e referendare in tutti i livelli amministrativi dell'Unione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Definizioni",
+          "commi": [
+            {
+              "testo": "Ai fini della presente legge si intende:",
+              "sottocommi": [
+                "Iniziativa popolare: Il diritto dei cittadini di sottoporre ai Congressi o alle Assemblee proposte di leggi o di modifica costituzionale;",
+                "Referendum propositivo: consultazione popolare volta ad approvare una proposta di legge o di un atto normativo;",
+                "Referendum abrogativo: consultazione popolare volta ad abrogare una legge o un atto normativo già in vigore;",
+                "Referendum consultivo: consultazione popolare non vincolante su questioni di rilevanda pubblica;",
+                "Comitato promotore: l'organo costituito da giocatori promotori di un'iniziativa referendaria;",
+                "Quesito referendario: la domanda sottoposta a voto popolare;",
+                "Referendum di revoca: consultazione popolare per la revoca di una carica elettiva in caso di violazione del programma elettorale."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Diritti dei giocatori",
+          "commi": [
+            {
+              "testo": "I giocatori dell'USSE che abbiano compiuto il 16simo anno di età hnno il diritto di:",
+              "sottocommi": [
+                "Promuovere iniziative legislative popolare;",
+                "Rucguedere referendum propositivi, abrogativi e consultivi;",
+                "Partecipare ai referendum e alle consultazioni popolari;",
+                "Presentare istanze e petizioni agli organi legislativi ed esecutivi."
+              ]
+            },
+            {
+              "testo": "L'esercizio di tali diritti non può essere limitato o condizionato da discriminazioni di genere, etrnia, religione, condizione sociale o classe.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Limite all'Iniziativa popolare",
+          "commi": [
+            {
+              "testo": "L'iniziatia popolare non può riguradare:",
+              "sottocommi": [
+                "Le leggi di approvazione del bilancio Unitario;",
+                "Le leggi tributarie e di istituzione di tributi locali;",
+                "Le leggi di autorizzazione alla ratifica dei trattati internazionali;",
+                "Le leggi di amnistia e indulto;",
+                "Le leggi che attuano disposizioni costituzionali in materia di diritti fondamentali;",
+                "Le leggi di modifica della Costituzione riguardanti i principi fondamentali dell'Unione, la forma dello Stato e i diritti inviolabili della persona."
+              ]
+            },
+            {
+              "testo": "La CEPU, sentito il parere del CTSU, verifica il rispetto dei limiti al cui comma 1.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - INIZIATIVA LEGISLATIVA POPOLARE"
+        },
+        {
+          "numero": "5",
+          "rubrica": "Ambiti di esercizio",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare può essere esercitata per:",
+              "sottocommi": [
+                "Proporre nuove leggi ai Congressi e alle Assemblee;",
+                "Proportte modifiche di leggi ai Congressi e alle Assemblee;",
+                "Proporre modifiche costituzionali;",
+                "Richiedere l'approvazione di regolamenti attuativi."
+              ]
+            },
+            {
+              "testo": "L'iniziativa legislativa popolare è esercitata da almeno il 3% degli elettori iscritti nelle liste elettorali della circoscrizione interessata, con un minimo di 15 firme per le iniziative popolare e di 50 firme per le iniziative unitarie.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Comitato promotore",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare è promossa da un Comitato promotore composto da almeno 5 giocatori elettori.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Comitato promotore:",
+              "sottocommi": [
+                "Redige il testo della proposta;",
+                "Cura la raccolta delle firme secondo le modalità di cui all'art. 7;",
+                "Presenta la proposta alla CEPU per la verifica di ammissibilità;",
+                "Designa un rappresentante leale per i rapporti con le autorità"
+              ]
+            },
+            {
+              "testo": "Il comitato promotore ha diritto di accedere ai media pubblici per la rappresentazione della propost, secondo modalità definite dalla CEPU in collaborazione con il CTSU.",
+              "sottocommi": []
+            },
+            {
+              "testo": "il Comitato promotore può ricevere finanziamento pubblico per al campagna di promozione, secondo le modalità definite dalla CEPU.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Modalità di raccolta firme",
+          "commi": [
+            {
+              "testo": "La raccolta delle firme è effettuata secondo le seguenti modalità:",
+              "sottocommi": [
+                "Le firme possono essere raccolte in formato digitale attraverso la piattaforma ufficiale gestita dalla CEPU;",
+                "Ogni firmatario deve indicare nickname, data di registrazione, codice identificativo permanente e circoscrizione di residenza;",
+                "Le firme digitali sono autenticate attraverso il sistema di identificazione elettronica dell'USSE."
+              ]
+            },
+            {
+              "testo": "La CEPU verifica l'autenticità delle firme entro 30 giorni dalla presentazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Sono nulle le firme:",
+              "sottocommi": [
+                "Di giocatori non aventi diritto di voto;",
+                "Di persone decedute o concellate dalle liste elettorali;",
+                "Duplicate;",
+                "Mancanti dei dati identificati richiesti;"
+              ]
+            },
+            {
+              "testo": "Il termine delle raccolte firme è di 6 mesi dalla data di pubblicazione dell'avviso di iniziativa nella Bolla Ufficiale Unitaria e sul portale della CEPU.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Verifica di ammissibilità",
+          "commi": [
+            {
+              "testo": "La CEPU verifica la conformabilità della proposta ai principi costituzionali e ne valuta la fattibilità tecnica, acquisendo il parere del CTSU",
+              "sottocommi": []
+            },
+            {
+              "testo": "Entro 60 giorni dalla presentazione, la CEPU dichiara l'ammissibilità o l'inammissibilità della proposta, motivando il provvedimento.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I motivi di inammissibilità includono:",
+              "sottocommi": [
+                "Violazione dei limiti di cui all'art.4;",
+                "Contenuto manifestamente incostituzionale;",
+                "Impossibilità tecnica di attuazione, accertata dal CTSU;",
+                "Mancanza del numero minimo di firme valide;",
+                "Identità sostanziale con una proposta già respinta nei 2 anni precedenti."
+              ]
+            },
+            {
+              "testo": "In caso di inammissibilità, il Comitato promotore può ricorrere alla Corte Costituzionale entro 30 giorni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Esame della proposta",
+          "commi": [
+            {
+              "testo": "La proposta dichiarata ammissibile è trasmessa all'organo legislativo competente per l'esame.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L'organo è tenuto a discutere la proposta entro 6 mesi dalla trasmissione",
+              "sottocommi": []
+            },
+            {
+              "testo": "L'organo può:",
+              "sottocommi": [
+                "Approvare la proposta con le procedure ordinarie;",
+                "Modificare la proposta, previo acordo con il comitato promotore;",
+                "Respingere la proposta, motivando il rigetto;",
+                "Disporre la sottoposizione a referendum della proposta."
+              ]
+            },
+            {
+              "testo": "Se l'organo non si pronuncia entro il termine al cui comma 2, la proposta è automaticamente sottoposta a referendum propositivo;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Iniziativa costituzionale",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare per la revisione costituzionale è esercitata da almeno il 5% degli elettori iscritti nlle liste elettorali dell'Unione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La proposta di modifica costituzionale è sottoposta all'esame del Congresso Unitario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se il Congresso approva la modifica, essa è sottoposta a referenduum costituzionale ai sensi dell'art. 12.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se il Congresso respinge la modifica, essa può essere sottoposta direttamente a referendum costituzionale su richiesta del Comitato promotore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - REFERENDUM"
+        },
+        {
+          "numero": "11",
+          "rubrica": "Tipologie di referendum",
+          "commi": [
+            {
+              "testo": "L?USSE prevede le seguenti tipologie di referendum:",
+              "sottocommi": [
+                "Referebdum propositivo:  per l'approvazione di una proposta di legge o di un atto normativo;",
+                "Referendum abrogativo: per l'abrogazione totale o parziale di una legge o di un atto normatvo;",
+                "Referendum consultivo: per la raccolta del parere dei giocatori su questioni di rilevanza pubblica;",
+                "Referendum costituzionale: per l'approvazione di modifiche costituzionali;",
+                "Referendum di revoca: per la revoca delle cariche elettivo, disciplinato dalla apposita legge"
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Referendum propositivo",
+          "commi": [
+            {
+              "testo": "Il referendum propositivo è indetto:",
+              "sottocommi": [
+                "Su iniziativa popolare, ai sensi di cui all'art.5 e 6;",
+                "Su deliberazione di un organo legislativo di qualsiasi livello."
+              ]
+            },
+            {
+              "testo": "Il quesito referendario è formulato come proposta di legge,con articoli e commi.",
+              "sottocommi": [
+                "Il quesito referendario è sottoposto al superamento del quorum pari al 50% degli aventi diritto."
+              ]
+            },
+            {
+              "testo": "In caso di approvazione, la proposta diventa legge con la procedura prevista dall'art.19.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "rubrica": "Referendum Abrogativo",
+          "commi": [
+            {
+              "testo": ". Il referendum abrogativo è indetto su richiesta di almeno il 3% degli elettori della circoscrizione interessata.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il quesito referendario chiede l'abrogazione totale o parziale di una legge o di un atto normativo.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Non sono soggetti a referendum abrogativo:",
+              "sottocommi": [
+                "Le leggi di cui all'art. 4, comma 1;",
+                "Le leggi entrate in vigore da meno di sei mesi;",
+                "Le leggi che hanno già superato un referendum abrogativo nei cinque anni\nprecedenti."
+              ]
+            },
+            {
+              "testo": "In caso di approvazione, la legge è abrogata a decorrere dalla data di pubblicazione\ndel risultato nella Bolla Ufficiale Unitaria e sul <a href=\"https://ews-rose.vercel.app/lex/ctsu.html\" target=\"_blank\" rel=\"noopener noreferrer\">sito della CEPU</a>.",
               "sottocommi": []
             }
           ]
