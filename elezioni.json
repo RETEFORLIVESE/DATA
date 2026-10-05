@@ -138,7 +138,7 @@
           "percentuale": "25,0%",
           "seggi": 25,
           "colore": "#6b0000",
-          "logo": "https://user33424.na.imgto.link/public/20260918/pcs-1.avif"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/pcs.avif"
         },
         {
           "nome": "PCE",
@@ -146,7 +146,7 @@
           "percentuale": "40,0%",
           "seggi": 65,
           "colore": "#8a0000",
-          "logo": "https://user33424.na.imgto.link/public/20260918/pce.avif"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/pce.avif"
         },
         {
           "nome": "FAJP",
@@ -154,7 +154,7 @@
           "percentuale": "15,0%",
           "seggi": 15,
           "colore": "#ffcc02",
-          "logo": "https://user33424.na.imgto.link/public/20260918/fajp.avif"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/fajp.avif"
         },
         {
           "nome": "VolksPartei",
@@ -162,7 +162,7 @@
           "percentuale": "20,0%",
           "seggi": 20,
           "colore": "#1B5FA8",
-          "logo": "https://www.image2url.com/r2/default/files/1789681307568-1702d8b5-d7bf-409d-b42c-5d4f00478d91.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/VPK.png"
         }
       ],
       "id_organo": "ELIN"
