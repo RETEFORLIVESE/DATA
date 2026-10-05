@@ -3101,7 +3101,19 @@
           "rubrica": "Disposizioni Finali",
           "commi": [
             {
-              "testo": "a",
+              "testo": "La CEPU emana regolamenti attuativi per le modalità tecniche di raccolta delle\nfirme digitali e cartacee.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU, in collaborazione con il CTSU, definisce i criteri per la formulazione dei\nquesiti referendari.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per quanto non previsto dalla presente legge, si fa riferimento alla Costituzione\ndell'USSE e ai regolamenti attuativi emanati dalla CEPU.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La presente legge entra in vigore il giorno successivo alla sua pubblicazione nella\nBolla Ufficiale Unitaria dell'USSE.",
               "sottocommi": []
             }
           ]
