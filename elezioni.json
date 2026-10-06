@@ -327,7 +327,7 @@
           "percentuale": "1,0%",
           "seggi": 1,
           "colore": "#f66151",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/ALPHA.ico"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
           "nome": "CA",
@@ -338,10 +338,18 @@
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
         {
+          "nome": "AgAnAt",
+          "voti": 1,
+          "percentuale": "0,1%",
+          "seggi": 1,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/AgAnAt.png"
+        },
+        {
           "nome": "5RE",
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 1,
+          "colore": "#3d3846",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
         }
       ],
