@@ -295,6 +295,58 @@
         }
       ],
       "id_organo": "ELIN-TLN"
+    },
+    {
+      "tipo": "Costituzionale",
+      "tipo_codice": "K",
+      "data": "15/08/2023",
+      "comune": "Circoscrizione Unica",
+      "area": "S",
+      "affluenza": "96,0%",
+      "candidato_vincente": "S",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#a51d2d",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
+        },
+        {
+          "nome": "DEMOS",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#c01c28",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
+        },
+        {
+          "nome": "ALPH",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#f66151",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/ALPHA.ico"
+        },
+        {
+          "nome": "CA",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#1a5fb4",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "5RE",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione"
     }
   ]
 }
