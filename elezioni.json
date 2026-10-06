@@ -330,6 +330,30 @@
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
+          "nome": "FAJP",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#f5c211",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.ico"
+        },
+        {
+          "nome": "FSD",
+          "voti": 1,
+          "percentuale": "0,1%",
+          "seggi": 1,
+          "colore": "#f8e45c",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/FSD.png"
+        },
+        {
+          "nome": "AgAnAt",
+          "voti": 1,
+          "percentuale": "0,1%",
+          "seggi": 1,
+          "colore": "#62a0ea",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/AgAnAt.png"
+        },
+        {
           "nome": "CA",
           "voti": 1,
           "percentuale": "1,0%",
@@ -338,19 +362,12 @@
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
         {
-          "nome": "AgAnAt",
-          "voti": 1,
-          "percentuale": "0,1%",
-          "seggi": 1,
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/AgAnAt.png"
-        },
-        {
           "nome": "5RE",
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 1,
           "colore": "#3d3846",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/5RE.ico"
         }
       ],
       "consultazione_unitaria": true,
