@@ -335,7 +335,7 @@
           "percentuale": "1,0%",
           "seggi": 1,
           "colore": "#f5c211",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/fajp.ico"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.ico"
         },
         {
           "nome": "FSD",
@@ -367,13 +367,14 @@
           "percentuale": "1,0%",
           "seggi": 1,
           "colore": "#3d3846",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/OPOL/PAR/5RE.ico"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
         },
         {
           "nome": "PerusE",
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 1,
+          "colore": "#000000",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/PerusE.png"
         }
       ],
