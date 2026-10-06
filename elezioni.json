@@ -403,6 +403,7 @@
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 5,
+          "colore": "#bc0234",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avif"
         },
         {
@@ -410,6 +411,7 @@
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 22,
+          "colore": "#ff3a30",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
@@ -417,6 +419,7 @@
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 25,
+          "colore": "#1B5FA8",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
         {
@@ -424,6 +427,7 @@
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 3,
+          "colore": "#1b35a8",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/DP2.png"
         }
       ],
