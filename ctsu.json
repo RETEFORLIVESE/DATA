@@ -276,6 +276,38 @@
       "allegati": []
     },
     {
+      "id": "dinamiche-rivoluzionarie-nelle-prime-fasi-dell-usse",
+      "titolo": "Dinamiche Rivoluzionarie nelle Prime Fasi dell' USSE",
+      "categoria": "Rapporto",
+      "stato": "In progettazione",
+      "organo_responsabile": "CTSU-Unitario",
+      "luogo": "ESTJI",
+      "responsabile": "TandeePetrenka - HanaShtraub",
+      "data_inizio": "-",
+      "data_fine_prevista": "-",
+      "data_completamento": "-",
+      "budget_previsto": "-",
+      "costo_effettivo": "-",
+      "sommario": "Evidenziamo le dinamiche rivoluzionarie interne all'evoluzione dell'USSE nelle prime fasi della sua esistenza",
+      "copertina": "",
+      "sezioni": [
+        {
+          "tipo": "sezione",
+          "titolo": "Prefazione",
+          "testo": "A cura di TandeePetrenka:\nQuesto rapporto è l'esemplificazione migliore dell'anti \"rivoluzione senza rivoluzione\", la scelta del titolo è un chiaro segno, \"dinamiche rivoluzionarie nelle prime fasi dell'USSE\" implica il continuo mutamento della rivoluzione tramite ripetizione, essa è riuscita ad adattare e a rivoluzionare i suoi presupposti di partenza.",
+          "commi": []
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Rivoluzione Territoriale",
+          "testo": "A seguito della caduta di \"imperia\" in favore della formazione dell'Unione degli Stati Sociali degli Estji è stato applicato il testo \"Lant\" per la ripartizione dei poteri sui territori, esso era stato scritto dal CRU con l'intento di decentralizzare completamente la fazione, rendendolo un corpo eterogeneo che però poteva essere coordinato in modo comune tramite il Congresso Unitario:",
+          "commi": []
+        }
+      ],
+      "galleria": [],
+      "allegati": []
+    },
+    {
       "id": "piano-riqualificazione-della-citta-metropolitana-di-terlin",
       "tipo_documento": "piano_economico",
       "ambito": "statale",
