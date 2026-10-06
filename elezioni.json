@@ -307,24 +307,24 @@
       "risultati_partiti": [
         {
           "nome": "PCE",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 310,
+          "percentuale": "21,2%",
           "seggi": 106,
           "colore": "#a51d2d",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
         },
         {
           "nome": "DEMOS",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 93,
+          "percentuale": "6,4%",
           "seggi": 32,
           "colore": "#e01b24",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
         },
         {
           "nome": "ALPH",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 105,
+          "percentuale": "7,2%",
           "seggi": 36,
           "colore": "#f66151",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
@@ -339,16 +339,16 @@
         },
         {
           "nome": "FAJP",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 117,
+          "percentuale": "8,0%",
           "seggi": 31,
           "colore": "#f5c211",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
         },
         {
           "nome": "FachesSocialDemokratic",
-          "voti": 1,
-          "percentuale": "0,1%",
+          "voti": 149,
+          "percentuale": "10,2%",
           "seggi": 51,
           "colore": "#f8e45c",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/FSD.png"
@@ -363,24 +363,24 @@
         },
         {
           "nome": "ChristianAlliance",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 251,
+          "percentuale": "17,2%",
           "seggi": 86,
           "colore": "#1a5fb4",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
         {
           "nome": "PerusE",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 58,
+          "percentuale": "4,0%",
           "seggi": 20,
           "colore": "#3d3846",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/PerusE.png"
         },
         {
           "nome": "5°Republika",
-          "voti": 1,
-          "percentuale": "1,0%",
+          "voti": 17,
+          "percentuale": "1,2%",
           "seggi": 6,
           "colore": "#000000",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
