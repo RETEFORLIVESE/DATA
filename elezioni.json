@@ -275,7 +275,7 @@
           "percentuale": "75,0%",
           "seggi": 36,
           "colore": "#1da71b",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/EElV.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
         },
         {
           "nome": "PCE",
@@ -283,7 +283,7 @@
           "percentuale": "20,0%",
           "seggi": 14,
           "colore": "#a71b1b",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/pce.avif"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avif"
         },
         {
           "nome": "VolksePartei",
@@ -291,7 +291,7 @@
           "percentuale": "5,0%",
           "seggi": 5,
           "colore": "#1B5FA8",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/VPK.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/VPK.png"
         }
       ],
       "id_organo": "ELIN-TLN"
