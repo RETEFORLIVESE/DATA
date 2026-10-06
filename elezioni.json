@@ -56,7 +56,7 @@
           "percentuale": "48,0%",
           "seggi": 120,
           "colore": "#a71b1b",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/GLK.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/GLK.png"
         },
         {
           "nome": "Democratisher Partei",
@@ -64,7 +64,7 @@
           "percentuale": "20,4%",
           "seggi": 51,
           "colore": "#2b49bf",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/DP2.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/DP2.png"
         },
         {
           "nome": "FAJP",
@@ -72,7 +72,7 @@
           "percentuale": "1,2%",
           "seggi": 3,
           "colore": "#ffcc02",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/fajp.avif"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
         },
         {
           "nome": "Partito Popolare",
@@ -80,7 +80,7 @@
           "percentuale": "18,4%",
           "seggi": 46,
           "colore": "#C9A227",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/VPK.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/VPK.png"
         },
         {
           "nome": "Estji Ecologise les Vert",
@@ -88,7 +88,7 @@
           "percentuale": "9,6%",
           "seggi": 24,
           "colore": "#2E9E5B",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL-PAR/EElV.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
         }
       ],
       "id_organo": "Unione"
