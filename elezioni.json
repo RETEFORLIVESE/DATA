@@ -402,28 +402,28 @@
           "nome": "PCE",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 1,
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avit"
+          "seggi": 5,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avif"
         },
         {
           "nome": "ALPH",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 1,
+          "seggi": 22,
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
           "nome": "CA",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 10,
+          "seggi": 25,
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
         {
           "nome": "DP",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 0,
+          "seggi": 3,
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/DP2.png"
         }
       ],
