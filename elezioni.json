@@ -411,14 +411,16 @@
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 21,
-          "colore": "#ff3a30",
+          "colore": "#ff1430",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
           "nome": "VolksePartei",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 4
+          "seggi": 4,
+          "colore": "#1b80a8",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/VPK.png"
         },
         {
           "nome": "CA",
