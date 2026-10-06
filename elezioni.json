@@ -330,12 +330,20 @@
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
         {
+          "nome": "EElV",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "colore": "#33d17a",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.avif"
+        },
+        {
           "nome": "FAJP",
           "voti": 1,
           "percentuale": "1,0%",
           "seggi": 1,
           "colore": "#f5c211",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.ico"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
         },
         {
           "nome": "FSD",
