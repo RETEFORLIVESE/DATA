@@ -388,6 +388,46 @@
       ],
       "consultazione_unitaria": true,
       "id_organo": "Unione"
+    },
+    {
+      "tipo": "Congresso Metropolitano",
+      "tipo_codice": "M",
+      "data": "19/09/2026",
+      "comune": "Ikedong",
+      "area": "Città Metropolitana di Ikedong",
+      "affluenza": "89,0%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avit"
+        },
+        {
+          "nome": "ALPH",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
+        },
+        {
+          "nome": "CA",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 10,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "DP",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 0,
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/DP2.png"
+        }
+      ],
+      "id_organo": "EFAL-IKD"
     }
   ]
 }
