@@ -410,15 +410,21 @@
           "nome": "ALPH",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 22,
+          "seggi": 21,
           "colore": "#ff3a30",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
+        },
+        {
+          "nome": "VolksePartei",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 4
         },
         {
           "nome": "CA",
           "voti": 1,
           "percentuale": "1,0%",
-          "seggi": 25,
+          "seggi": 22,
           "colore": "#1B5FA8",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
         },
