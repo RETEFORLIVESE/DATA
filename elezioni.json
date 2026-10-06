@@ -46,15 +46,15 @@
           "nome": "PCE",
           "voti": 16,
           "percentuale": "2,4%",
-          "seggi": 6,
+          "seggi": 30,
           "colore": "#6f0000",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avif"
         },
         {
           "nome": "Grosse Linke Koalizion",
-          "voti": 360,
+          "voti": 323,
           "percentuale": "48,0%",
-          "seggi": 120,
+          "seggi": 96,
           "colore": "#a71b1b",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/GLK.png"
         },
@@ -70,7 +70,7 @@
           "nome": "FAJP",
           "voti": 8,
           "percentuale": "1,2%",
-          "seggi": 3,
+          "seggi": 40,
           "colore": "#ffcc02",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
         },
