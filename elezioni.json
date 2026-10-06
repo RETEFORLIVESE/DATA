@@ -351,7 +351,7 @@
           "percentuale": "0,1%",
           "seggi": 1,
           "colore": "#62a0ea",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/AgAnAt.png"
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/AgAnAt.png"
         },
         {
           "nome": "CA",
@@ -368,6 +368,12 @@
           "seggi": 1,
           "colore": "#3d3846",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/5RE.ico"
+        },
+        {
+          "nome": "PerusE",
+          "voti": 1,
+          "percentuale": "1,0%",
+          "seggi": 1
         }
       ],
       "consultazione_unitaria": true,
