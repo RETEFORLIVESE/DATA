@@ -2,30 +2,39 @@
   "testi": [
     {
       "id": "esempio-struttura-di-un-saggio",
-      "titolo": "Esempio: la struttura di un saggio su UniText",
-      "sottotitolo": "Testo dimostrativo, da eliminare dalla redazione",
-      "autore": "Redazione",
+      "titolo": "Dinamiche rivoluzionarie nelle Prime Fasi dell'USSE",
+      "sottotitolo": "Evidenziamo le dinamiche rivoluzionarie interne all'evoluzione dell'USSE nelle prime fasi della sua esistenza",
+      "autore": "TandeePetrenka - HanaShtraub",
       "categoria": "Appunti",
-      "stato": "Pubblicato",
+      "stato": "Bozza",
       "data": "2026-10-06",
-      "abstract": "Un breve testo che mostra capitoli, sottocapitoli, citazioni, note a piè di pagina e bibliografia.",
-      "parole_chiave": ["esempio", "struttura", "note"],
-      "copertina": "",
+      "abstract": "Questo rapporto è l'esemplificazione migliore dell'anti \"rivoluzione senza rivoluzione\", la scelta del titolo è un chiaro segno, \"dinamiche rivoluzionarie nelle prime fasi dell'USSE\" implica il continuo mutamento della rivoluzione tramite ripetizione, essa è riuscita ad adattare e a rivoluzionare i suoi presupposti di partenza.",
+      "parole_chiave": [
+        "esempio",
+        "struttura",
+        "note"
+      ],
+      "copertina": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/LOGO/CHAIN.ico",
       "corpo": [
-        { "tipo": "capitolo", "titolo": "Capitoli e sottocapitoli" },
-        { "tipo": "paragrafo", "testo": "Ogni testo è fatto di <b>blocchi</b>: capitoli, sottocapitoli, paragrafi, citazioni e immagini. La numerazione (1, 1.1, 2...) non si scrive: si calcola dall'ordine.[^1]\n\nUna riga vuota nel campo di testo separa i capoversi." },
-        { "tipo": "sottocapitolo", "titolo": "Le citazioni" },
-        { "tipo": "citazione", "testo": "Una citazione è un blocco a sé, con l'indicazione della fonte.", "fonte": "Autore, Opera, anno" },
-        { "tipo": "capitolo", "titolo": "Note e bibliografia" },
-        { "tipo": "paragrafo", "testo": "Le note si richiamano nel testo con un numero in apice e compaiono in fondo, con il collegamento per tornare alla lettura.[^2]" }
+        {
+          "tipo": "capitolo",
+          "titolo": "Rivoluzione Territoriale"
+        },
+        {
+          "tipo": "paragrafo",
+          "testo": "A seguito della caduta di \"imperia\" in favore della formazione dell'Unione degli Stati Sociali degli Estji è stato applicato il sistema <b>\"Lant\"<b> per la ripartizione dei poteri sui territori, esso era stato scritto dal Comitato Rivoluzionario Unito con l'intento di decentralizzare completamente la fazione, rendendolo un corpo eterogeneo formato da Sezioni Locali che però poteva essere coordinato in modo comune tramite un Congresso Unitario senza intermediari, con competenze per l'amministrazione al livello unitario:"
+        },
+        {
+          "tipo": "paragrafo",
+          "testo": "Il sistema Lant, pur dotato di un alto potenziale iniziale, si rivelò troppo decentralizzato. A un anno dalla sua applicazione, nel 2024, il CTSU rilevò che le sezioni territoriali comunicavano sempre meno tra loro: la gestione del territorio era discussa solo marginalmente nel Congresso Unitario, mentre i coordinatori locali prendevano decisioni autonome. Ne derivarono confini sovrapposti, dispute non regolate e una difesa inefficace delle aree periferiche."
+        },
+        {
+          "tipo": "paragrafo",
+          "testo": "****La trasformazione territoriale che ne seguì non abolì il sistema Lant, ma lo svuotò parzialmente: il Congresso Unitario introdusse un coordinamento obbligatorio tra le sezioni e un registro centralizzato dei claim, suddivisi in Distretti, Regioni e Stato. Formalmente l’autonomia locale restava, ma nella pratica il CTSU acquisiva un potere di veto sulle dispute territoriali. Così la rivoluzione decentrante veniva ritrattata proprio nel momento in cui si presentava come il suo completamento."
+        }
       ],
-      "note": [
-        { "testo": "Nell'editor il pulsante «+ Nota» inserisce il richiamo e crea la nota." },
-        { "testo": "I richiami vengono rinumerati da soli se si elimina una nota." }
-      ],
-      "bibliografia": [
-        { "testo": "Cognome, N., <i>Titolo dell'opera</i>, Luogo, Editore, anno." }
-      ]
+      "note": [],
+      "bibliografia": []
     }
   ]
 }
