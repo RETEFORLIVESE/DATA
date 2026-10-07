@@ -1,0 +1,31 @@
+{
+  "testi": [
+    {
+      "id": "esempio-struttura-di-un-saggio",
+      "titolo": "Esempio: la struttura di un saggio su UniText",
+      "sottotitolo": "Testo dimostrativo, da eliminare dalla redazione",
+      "autore": "Redazione",
+      "categoria": "Appunti",
+      "stato": "Pubblicato",
+      "data": "2026-10-06",
+      "abstract": "Un breve testo che mostra capitoli, sottocapitoli, citazioni, note a piè di pagina e bibliografia.",
+      "parole_chiave": ["esempio", "struttura", "note"],
+      "copertina": "",
+      "corpo": [
+        { "tipo": "capitolo", "titolo": "Capitoli e sottocapitoli" },
+        { "tipo": "paragrafo", "testo": "Ogni testo è fatto di <b>blocchi</b>: capitoli, sottocapitoli, paragrafi, citazioni e immagini. La numerazione (1, 1.1, 2...) non si scrive: si calcola dall'ordine.[^1]\n\nUna riga vuota nel campo di testo separa i capoversi." },
+        { "tipo": "sottocapitolo", "titolo": "Le citazioni" },
+        { "tipo": "citazione", "testo": "Una citazione è un blocco a sé, con l'indicazione della fonte.", "fonte": "Autore, Opera, anno" },
+        { "tipo": "capitolo", "titolo": "Note e bibliografia" },
+        { "tipo": "paragrafo", "testo": "Le note si richiamano nel testo con un numero in apice e compaiono in fondo, con il collegamento per tornare alla lettura.[^2]" }
+      ],
+      "note": [
+        { "testo": "Nell'editor il pulsante «+ Nota» inserisce il richiamo e crea la nota." },
+        { "testo": "I richiami vengono rinumerati da soli se si elimina una nota." }
+      ],
+      "bibliografia": [
+        { "testo": "Cognome, N., <i>Titolo dell'opera</i>, Luogo, Editore, anno." }
+      ]
+    }
+  ]
+}
