@@ -293,9 +293,121 @@
       "sezioni": [
         {
           "tipo": "sezione",
-          "titolo": "1",
-          "testo": "a",
-          "commi": []
+          "titolo": "Quadro Normativo",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "<b>Competenze statali.</b> Urbanistica, cultura, salute e bilancio regionale sono competenza esclusiva degli Stati Sociali (Cost. VII-3, TU art. 9). Il territorio di uno Stato non si tocca senza il suo consenso (Cost. VI-6).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Città Metropolitane (TU artt. 41-50). Sono enti intermedi tra Stato e Sezione, con Congresso e Consiglio Esecutivo eletti. Hanno competenza su trasporti, pianificazione sovracomunale, reti di servizi e polizia urbana. Oggi esistono solo Taleen e Beijing, e ciascuna \"collabora con il governo dello Stato di appartenenza\", al singolare (art. 45).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Distretti (TU art. 53-bis/ter). Sono associazioni di Assemblee di Sezione, con delega di funzioni solo all'unanimità, statuto proprio e Consiglio Esecutivo Distrettuale. La Legge 03/2026 li inserisce già nella catena della pianificazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Territori Speciali (Cost. VIII-3, TU artt. 36-40). Sono amministrati dal Congresso Unitario tramite un Commissario, con riesame ogni 5 anni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Organi già unitari. IVIdU, CEPU (che può coordinare le CEPUS) e Camera di Bilancio operano a livello di Unione. Il CTSU invece ha una Sezione Territoriale per Stato, quindi oggi una conurbazione è divisa tra più sezioni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Conflitti tra enti. La Corte Costituzionale risolve i conflitti di attribuzione tra Unione e Stati Sociali (Legge 16/2026, art. 10).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Opzioni",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Distretto transstatale. Legalmente è la via più rapida, perché il testo non vieta Sezioni di Stati diversi. Ha però tre limiti, va bene per la cooperazione di base, non per trasporti o piani regolatori di un'intera conurbazione:",
+              "sottocommi": [
+                {
+                  "testo": "richiede l'unanimità;"
+                },
+                {
+                  "testo": "delega solo funzioni di Sezione;"
+                },
+                {
+                  "testo": "non può prevalere sulle leggi dei due Stati, per il centralismo democratico (Cost. IX-4/5)."
+                }
+              ]
+            },
+            {
+              "testo": "Territorio Speciale. Risolve il problema con un colpo solo, ma sottrae di fatto la gestione agli Stati. Contrasta con VII-5 (ingerenza illegittima) e VI-6 e richiede comunque il loro consenso. Lo terrei come ultima risorsa.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Città Metropolitana interstatale (la mia raccomandazione). Le competenze dell'art. 46 sono esattamente quelle che servono. Non serve emendare la Costituzione, che cita già le Città Metropolitane (VI-2). Basta una legge unitaria che modifichi gli artt. 41 e 45 del TU, che oggi presuppongono un solo Stato di appartenenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Struttura proposta",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Istituzione per intesa. Congressi Statali interessati e Congresso Unitario ratificano, sul modello degli artt. 11 e 27 del TU. Gli Stati cedono con leggi gemelle la sola quota di urbanistica e servizi, senza alterare i confini.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Due livelli modulari. Il livello 1 è una Conferenza di coordinamento per piano territoriale (PTC), trasporti e servizi. Il livello 2 è il Congresso Metropolitano diretto con Consiglio Esecutivo.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Elezione. STV con circoscrizioni definite dalla CEPU insieme alle CEPUS, con minimo di seggi per Stato (si adatta al minimo di 3 della Legge 11/2025) per evitare che lo Stato più grande domini. Restano mandato imperativo e revoca.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Garanzie. Maggioranza dei 2/3 sulle materie che toccano competenze statali. Prevale la legge unitaria in caso di contrasto, come già in Cost. VI-8.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Innesto nella pianificazione. Il piano metropolitano si colloca tra Distretto e Stato nel calendario della Legge 03/2026. Servirebbe una scadenza dedicata, ad esempio entro il 15 giugno.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Controlli. IVIdU e IUVF sono già unitari. Per il CTSU si costituisce una sezione congiunta o un comitato speciale (Legge 12/2025, art. 13). L'IRE apre un ufficio metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Risorse. Quote concordate di tributi locali (TU art. 97), trasferimenti secondo i criteri dell'art. 98 e bilancio proprio vigilato dalla Camera di Bilancio.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Polizia. Le milizie sono competenza statale, quindi la polizia metropolitana andrebbe costruita per delega concordata o con comando coordinato.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Punti da decidere",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Se la Città Metropolitana interstatale debba rappresentare gli Stati come enti (delegati) oltre che i cittadini.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Come risolvere le differenze tra leggi statali, ad esempio tributi o urbanistica, tramite armonizzazione obbligatoria o prevalenza del piano metropolitano.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Se il blocco di Taleen rientri già nella Città Metropolitana Capitale. In tal caso basterebbe estenderla invece di crearne una nuova.",
+              "sottocommi": []
+            }
+          ]
         }
       ],
       "galleria": [],
