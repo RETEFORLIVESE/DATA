@@ -276,6 +276,32 @@
       "allegati": []
     },
     {
+      "id": "relazione-preliminare-sul-progetto-metrostag",
+      "titolo": "Relazione preliminare sul progetto \"MetroStag\"",
+      "categoria": "Ambiente",
+      "stato": "In progettazione",
+      "organo_responsabile": "CTSU",
+      "luogo": "ESTJI",
+      "responsabile": "",
+      "data_inizio": "",
+      "data_fine_prevista": "",
+      "data_completamento": "",
+      "budget_previsto": "",
+      "costo_effettivo": "",
+      "sommario": "",
+      "copertina": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/STDMETROPOLI/MappaMetropolitani.png",
+      "sezioni": [
+        {
+          "tipo": "sezione",
+          "titolo": "1",
+          "testo": "a",
+          "commi": []
+        }
+      ],
+      "galleria": [],
+      "allegati": []
+    },
+    {
       "id": "piano-riqualificazione-della-citta-metropolitana-di-terlin",
       "tipo_documento": "piano_economico",
       "ambito": "statale",
