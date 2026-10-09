@@ -34,14 +34,16 @@
     {
       "id": "consiglio-rivoluzionario-unitario",
       "titolo": "Consiglio Rivoluzionario Unitario",
-      "categoria": "",
-      "tag": [],
+      "categoria": "Storia",
+      "tag": [
+        "Storia"
+      ],
       "sommario": "",
       "immagine": "",
-      "contenuto": "",
+      "contenuto": "## Istituzione\nIl Consiglio Rivoluzionario Unitario è stato istituito nel 2021 a [[Yvrean]] in risposta alla maggior repressione da parte di [[Imperia]], fazione che dominava il continente degli Estji centralizzando il potere nel territorio di [[Ikebukuro]].\nEsso era formato da tutte le parti escuse dai processi decisionali e da tutti i giocatori del server contrari a [[Imperia]].\n### Composizione",
       "autore": "TandeePetrenka",
       "creata": "2026-10-09T16:26:30.808Z",
-      "modificata": "2026-10-09T16:26:30.808Z",
+      "modificata": "2026-10-09T16:46:17.852Z",
       "modificataDa": "TandeePetrenka"
     }
   ]
