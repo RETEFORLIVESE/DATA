@@ -4,14 +4,17 @@
       "id": "benvenuto",
       "titolo": "Benvenuto nella Wiki",
       "categoria": "Guide",
-      "tag": ["guida", "inizio"],
+      "tag": [
+        "guida",
+        "inizio"
+      ],
       "sommario": "Come si usa la wiki e come si scrivono le pagine.",
       "immagine": "",
-      "contenuto": "## Cos'è\nLa wiki raccoglie le voci della fazione. Usa la barra di ricerca per trovare una pagina per titolo, tag o contenuto.\n\n## Collegare le pagine\nScrivi `[[Titolo della pagina]]` per collegare un'altra voce, ad esempio [[Benvenuto nella Wiki]].",
+      "contenuto": "## Cos'è\nLa wiki raccoglie le voci della fazione. Usa la barra di ricerca per trovare una pagina per titolo, tag o contenuto.\n\n## Collegare le pagine\nScrivi `[[Titolo della pagina]]` per collegare un'altra voce, ad esempio [[Benvenuto nella Wiki]].\n![didascalia](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/EU.ico)",
       "autore": "redazione",
       "creata": "2026-10-09T00:00:00.000Z",
-      "modificata": "2026-10-09T00:00:00.000Z",
-      "modificataDa": "redazione"
+      "modificata": "2026-10-09T15:06:33.840Z",
+      "modificataDa": "TandeePetrenka"
     }
   ]
 }
