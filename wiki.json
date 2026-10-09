@@ -15,6 +15,21 @@
       "creata": "2026-10-09T00:00:00.000Z",
       "modificata": "2026-10-09T15:06:33.840Z",
       "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "storia-usse",
+      "titolo": "USSE",
+      "categoria": "Fazione",
+      "tag": [
+        "storia"
+      ],
+      "sommario": "Storia della Fazione \"Unione degli Stati Sociali degli Estji\"",
+      "immagine": "",
+      "contenuto": "### **Istituzione**\nA seguito della rivolta di Imperia, il 14 Agosto 2022, fù sciolta la fazione di Imperia, sostituita dal governo provvisorio del CRU con sede a Yvrean.",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-09T15:43:56.591Z",
+      "modificata": "2026-10-09T15:43:56.591Z",
+      "modificataDa": "TandeePetrenka"
     }
   ]
 }
