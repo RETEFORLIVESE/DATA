@@ -408,6 +408,235 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "MODELLO ALTERNATIVO: AGENZIE CONSORTILI INTERSTATALI"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Principio guida: sussidiarietà con delega reversibile",
+          "testo": "Proposta di metodo per mantenere l'indipendenza di Sezioni, città e Stati Sociali, con un coordinamento operativo a partire dalle agenzie già comuni (ad esempio i trasporti).",
+          "commi": [
+            {
+              "testo": "<b>Delega reversibile.</b> Nessun ente perde una competenza. Gli enti delegano a un'agenzia comune la sola gestione operativa di un servizio, mantenendo indirizzo, bilancio e revoca. Questo si regge sul testo vigente:",
+              "sottocommi": [
+                {
+                  "testo": "le Sezioni possono delegare funzioni al Distretto (TU art. 53-ter);"
+                },
+                {
+                  "testo": "gli Stati possono cooperare tra loro con intese ratificate (Cost. VI-6, TU art. 11);"
+                },
+                {
+                  "testo": "il mandato imperativo si applica a ogni organo (Cost. IX-3)."
+                }
+              ]
+            },
+            {
+              "testo": "<b>Rischio principale.</b> È il centralismo democratico (Cost. IX-4/5): un organo superiore vincola gli inferiori. Un'agenzia comune non deve diventare un livello superiore. Va quindi costruita come strumento degli enti che la compongono, non come ente sovraordinato.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Il modello: Agenzia Consortile Interstatale (ACI)",
+          "testo": "Un'agenzia per servizio, creata con convenzione, con statuto-tipo uguale per tutte.",
+          "commi": [
+            {
+              "testo": "<b>Assemblea dei delegati.</b> Ogni ente aderente (Sezione, Distretto, Città Metropolitana, Stato) nomina uno o più delegati, con mandato imperativo e revocabile dall'Assemblea o dal Congresso che li ha eletti. Il peso del voto è misto: una quota per ente (tutela dei piccoli) e una per popolazione servita (tutela dei grandi), ad esempio 40/60.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Consiglio di gestione.</b> Eletto dall'Assemblea dei delegati con voto limitato, come i Consigli Esecutivi (Legge 11/2025, art. 7), per garantire rappresentanza alle minoranze.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Comitato dei Lavoratori.</b> Obbligatorio per la Legge 43/2025 (artt. 5-10). I lavoratori dell'agenzia eleggono il proprio comitato, che gestisce l'operatività.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Comitato degli utenti.</b> Segue TU art. 115 sulla partecipazione ai servizi: fa da canale diretto dei cittadini, con diritto di petizione (Legge 02/2026).",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Controlli.</b> IVIdU per integrità, IUVF per i conti, sezione CTSU congiunta per la fattibilità tecnica.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Regole di indipendenza",
+          "testo": "È la parte più importante del modello.",
+          "commi": [
+            {
+              "testo": "<b>Delega limitata e a tempo.</b> Ogni delega dura 3 anni, in linea con il ciclo di pianificazione triennale, ed è rinnovabile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Recesso garantito.</b> Ogni ente può uscire con preavviso (ad esempio 12 mesi) e recuperare asset e personale in proporzione. È l'equivalente funzionale del diritto di recesso degli Stati.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Diritto di opt-out sulle decisioni sensibili.</b> Per scelte che toccano competenze esclusive statali (tributi, salute, ambiente) serve il consenso di tutti gli Stati interessati, non solo la maggioranza.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Maggioranze graduate.</b> Maggioranza semplice per la gestione ordinaria, 2/3 dei delegati per investimenti oltre soglia o modifiche statutarie (come nella Legge 43/2025, art. 9), unanimità degli Stati per nuove competenze.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Nessuna imposizione fiscale propria.</b> L'agenzia si finanzia con quote contributive degli enti, tariffe e trasferimenti concordati. Così non può diventare un livello di governo autonomo.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Prevalenza della legge.</b> Resta sovraordinata la legge unitaria. La Corte Costituzionale risolve i conflitti di attribuzione (Legge 16/2026, art. 10).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Fase 1: federare ciò che già esiste",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Si parte dalle agenzie già comuni a più città, come i trasporti. Non si crea nulla di nuovo, si regolarizza quello che funziona:",
+              "sottocommi": [
+                {
+                  "testo": "si censiscono le agenzie esistenti e se ne copia lo statuto reale;"
+                },
+                {
+                  "testo": "si adotta lo statuto-tipo ACI, senza imporre cambiamenti organizzativi;"
+                },
+                {
+                  "testo": "si inserisce l'agenzia nel ciclo di pianificazione (Legge 03/2026): propone un piano di settore che gli enti recepiscono nei propri piani;"
+                },
+                {
+                  "testo": "si coordina il CTSU, che dà parere comune invece di quattro pareri separati."
+                }
+              ]
+            },
+            {
+              "testo": "<b>Vantaggio politico.</b> È alto: nessuno cede nulla di nuovo e il beneficio è visibile subito (biglietto unico, orari integrati, manutenzione condivisa).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Fase 2: allargare ai servizi di rete",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Seguono i servizi che per natura sono transconfinari: acqua, energia, rifiuti (TU art. 46c) e poi mobilità e protezione civile. Ogni servizio ha la sua ACI, con perimetro geografico proprio. Il perimetro dell'acqua, ad esempio, segue il bacino idrografico e non coincide con quello dei trasporti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Geometria variabile.</b> È un punto di forza: non serve un unico confine metropolitano per tutto, ogni servizio ha il territorio che gli è funzionale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Fase 3: la Conferenza metropolitana",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Quando le ACI sono più di due o tre, serve un luogo che le tenga insieme. Nasce la Conferenza di coordinamento, composta dai presidenti delle ACI e da delegati degli enti. Ha tre compiti:",
+              "sottocommi": [
+                {
+                  "testo": "armonizzare i piani di settore in un Piano Territoriale Metropolitano non vincolante, che poi gli enti recepiscono;"
+                },
+                {
+                  "testo": "risolvere i conflitti tra agenzie prima che arrivino alla Corte;"
+                },
+                {
+                  "testo": "proporre al Congresso Unitario, solo se gli enti lo vogliono, la trasformazione in Città Metropolitana interstatale."
+                }
+              ]
+            },
+            {
+              "testo": "<b>Approdo opzionale.</b> La Città Metropolitana diventa così un approdo opzionale e non il punto di partenza. Se gli enti sono soddisfatti del coordinamento leggero, possono restare lì.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Strumenti trasversali",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "<b>Dati comuni.</b> Un registro unico di infrastrutture e servizi, gestito dall'IRE con il CTSU (Legge 43/2025, art. 16 sull'Anagrafe). Senza dati condivisi, qualsiasi coordinamento resta debole.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Carta dei servizi metropolitana.</b> Standard minimi uguali per tutti i cittadini della conurbazione, a prescindere dallo Stato di residenza.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Fondo di perequazione.</b> Alimentato dagli enti più ricchi per compensare i servizi in aree più povere, sul modello dei criteri dell'art. 98 TU (popolazione, fabbisogno, capacità fiscale, riequilibrio).",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Clausola di sperimentazione.</b> Una ACI può essere istituita in via sperimentale per 3 anni, con valutazione finale del CTSU e voto degli enti. Se fallisce si scioglie senza costi politici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Rischi e contromisure",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "<b>L'agenzia diventa un potere autonomo.</b> Delega a tempo, recesso, nessun potere fiscale, delegati revocabili.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Lo Stato più grande domina.</b> Voto misto, consenso unanime sulle materie statali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Sovrapposizione tra agenzie.</b> Conferenza di coordinamento e dati comuni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Conflitto con leggi statali diverse.</b> Prevalenza della legge unitaria, armonizzazione per intesa, Corte Costituzionale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Disaffezione dei cittadini.</b> Comitato utenti, petizioni, pubblicità degli atti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "<b>Opacità e clientelismo.</b> IVIdU, dichiarazioni patrimoniali, bilanci pubblici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Prossimi passi",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Bozza di legge quadro (stile Legge n. X/2026) sulle Agenzie Consortili Interstatali, con statuto-tipo, regole di delega, recesso e raccordo con le leggi esistenti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Scheda per una singola agenzia, ad esempio i trasporti, con statuto concreto, composizione dell'assemblea e calendario di integrazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per adattare il modello ai casi reali servono l'elenco delle agenzie comuni già esistenti e gli enti (città o Stati) coinvolti.",
+              "sottocommi": []
+            }
+          ]
         }
       ],
       "galleria": [],
