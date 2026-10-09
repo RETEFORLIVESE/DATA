@@ -440,6 +440,35 @@
         }
       ],
       "id_organo": "EFAL-IKD"
+    },
+    {
+      "tipo": "Referendum",
+      "tipo_codice": "R",
+      "data": "05/09/2023",
+      "comune": "Circoscrizione Unica",
+      "area": "Sostenete la formazione basata su uguaglianza, redistribuzione e autodifesa collettiva, seguendo il volere popolare?",
+      "affluenza": "96,0%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "Sì",
+          "voti": 445,
+          "percentuale": "89,0%",
+          "seggi": 0
+        },
+        {
+          "nome": "No",
+          "voti": 55,
+          "percentuale": "11,0%",
+          "seggi": 0
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione",
+      "sezioni_scrutinate": 230,
+      "sezioni_totali": 240,
+      "elettori": 512,
+      "votanti": 500
     }
   ]
 }
