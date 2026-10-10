@@ -46,22 +46,6 @@
       "modificataDa": "TandeePetrenka"
     },
     {
-      "id": "estjilinn",
-      "titolo": "EstjiLinn",
-      "categoria": "Stati",
-      "tag": [
-        "USSE",
-        "EstjiLinn"
-      ],
-      "sommario": "Stato Sociale dell'Unione confinante con EstjiNor, EstjiKuro, EstjiBia ed EstjiBhan, ospita la capitale dell'Unione, Taleen.",
-      "immagine": "",
-      "contenuto": "{{infobox EstjiLinn\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CBALL/STATES/ELINN.ico) ![|50](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/refs/heads/main/USSEcoat.png)\n![|250](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/refs/heads/main/TaleenMap.png)\nMappa\n## Dati amministrativi\nNome completo:\nFazione: [[USSE]]\nCapitale: [[Taleen]]\nData d'Istituzione: 1 Gennaio 2024\nLingue ufficiali: IT-EN-FR-ES-E-SU-SW-EI-SH-EL-PC-SC \n## Politica\nForma di governo: Stato Congressuale\n}}\n## Etimologia\n### Istituzione alla \n## Storia\n## Geografia\n## Taleen",
-      "autore": "TandeePetrenka",
-      "creata": "2026-10-10T16:49:55.049Z",
-      "modificata": "2026-10-10T16:57:56.110Z",
-      "modificataDa": "TandeePetrenka"
-    },
-    {
       "id": "taleen",
       "titolo": "Taleen",
       "categoria": "Città",
@@ -72,6 +56,22 @@
       "autore": "TandeePetrenka",
       "creata": "2026-10-10T16:29:27.340Z",
       "modificata": "2026-10-10T17:15:49.203Z",
+      "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "estjilinn",
+      "titolo": "EstjiLinn",
+      "categoria": "Stati",
+      "tag": [
+        "USSE",
+        "EstjiLinn"
+      ],
+      "sommario": "Stato Sociale dell'Unione confinante con EstjiNor, EstjiKuro, EstjiBia ed EstjiBhan, ospita la capitale dell'Unione, Taleen.",
+      "immagine": "",
+      "contenuto": "{{infobox EstjiLinn\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CBALL/STATES/ELINN.ico) ![|50](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/refs/heads/main/USSEcoat.png)\n![|250](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/MAPS/ELINmap.png)\nMappa\n## Dati amministrativi\nNome completo:\nFazione: [[USSE]]\nCapitale: [[Taleen]]\nData d'Istituzione: 1 Gennaio 2024\nLingue ufficiali: IT-EN-FR-ES-E-SU-SW-EI-SH-EL-PC-SC \n## Politica\nForma di governo: Stato Congressuale\n}}\n## Etimologia\n### Istituzione alla \n## Storia\n## Geografia\n## Taleen",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-10T16:49:55.049Z",
+      "modificata": "2026-10-10T17:19:03.186Z",
       "modificataDa": "TandeePetrenka"
     }
   ]
