@@ -57,6 +57,22 @@
       "creata": "2026-10-09T15:43:56.591Z",
       "modificata": "2026-10-10T16:47:52.889Z",
       "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "estjilinn",
+      "titolo": "EstjiLinn",
+      "categoria": "Stati",
+      "tag": [
+        "USSE",
+        "EstjiLinn"
+      ],
+      "sommario": "Stato Sociale dell'Unione confinante con EstjiNor, EstjiKuro, EstjiBia ed EstjiBhan, ospita la capitale dell'Unione, Taleen.",
+      "immagine": "",
+      "contenuto": "{{infobox EstjiLinn\n![Bandiera](https://) ![Stemma](https://)\n![Mappa](https://)\nDidascalia della mappa\n## Dati amministrativi\nNome completo: \nCapitale: \nLingue ufficiali: \n## Politica\nForma di governo: \n}}",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-10T16:49:55.049Z",
+      "modificata": "2026-10-10T16:49:55.049Z",
+      "modificataDa": "TandeePetrenka"
     }
   ]
 }
