@@ -583,16 +583,16 @@
         {
           "nome": "DEMOS",
           "voti": 0,
-          "percentuale": "1,3%",
-          "seggi": 6,
+          "percentuale": "2,2%",
+          "seggi": 11,
           "colore": "#e01b24",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
         },
         {
           "nome": "ALPH",
           "voti": 0,
-          "percentuale": "2,2%",
-          "seggi": 11,
+          "percentuale": "1,3%",
+          "seggi": 7,
           "colore": "#f66151",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         },
