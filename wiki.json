@@ -45,19 +45,6 @@
       "modificataDa": "TandeePetrenka"
     },
     {
-      "id": "commissione-di-formazione-degli-estji",
-      "titolo": "Commissione di Formazione degli Estji",
-      "categoria": "Storia",
-      "tag": [],
-      "sommario": "Chiamata anche Costituente Unitaria fu, nei Territori Liberi degli Estji, l'organo elettivo preposto alla stesura della Costituzione Unitaria degli Estji.",
-      "immagine": "",
-      "contenuto": "{{infobox Costituente Unitaria\n![|90](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/main//CRU.png) ![|60](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/main//USSEcoat.png)\nBandiera ed Emblema dell'Unione\n\n![|scuro|noseggi](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n![|scuro|noseggi|barre](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n## Info\nNome completo: Commissione di Formazione degli Estji\nTipo: Assemblea Costituente\nOperativa dal: 12 settembre 2023\nTramite: [Elezione della Costituente](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\nSoppressa il: 1 gennaio 2025\nTramite: Elezione Ordinaria del Congresso Unitario\nNumero di Membri: 500\nSede: [[Palazzo Blu]], [[Taleen]] \n}}\n\n\nLa *Commissione di Formazione degli Estji*, chiamata anche *Costituente Unitaria* fu, nei ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/OSTATES/PROVVISORY_USAE.ico)[[Territori Liberi degli Estji]], l'organo elettivo preposto alla stesura della [[Costituzione Unitaria]] degli Estji.\n## Storia\n### decreto imperiale\n### referendum e risultati\n### elezione del capo di fazione\n### Lavori della commissione\n## Procedura elettorale\n### La Composizione\n### Personalità e Ideologie\n### Le funzioni\n### Le commissioni\n### La fiducia ai congressi",
-      "autore": "PyrreHankonen",
-      "creata": "2026-10-11T16:05:33.140Z",
-      "modificata": "2026-10-11T17:38:21.293Z",
-      "modificataDa": "PyrreHankonen"
-    },
-    {
       "id": "usse",
       "titolo": "Unione degli Stati Sociali degli Estji",
       "categoria": "Fazione",
@@ -70,6 +57,19 @@
       "autore": "TandeePetrenka",
       "creata": "2026-10-09T15:43:56.591Z",
       "modificata": "2026-10-11T17:40:53.706Z",
+      "modificataDa": "PyrreHankonen"
+    },
+    {
+      "id": "commissione-di-formazione-degli-estji",
+      "titolo": "Commissione di Formazione degli Estji",
+      "categoria": "Storia",
+      "tag": [],
+      "sommario": "Chiamata anche Costituente Unitaria fu, nei Territori Liberi degli Estji, l'organo elettivo preposto alla stesura della Costituzione Unitaria degli Estji.",
+      "immagine": "",
+      "contenuto": "{{infobox Costituente Unitaria\n![|90](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/main//CRU.png) ![|60](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/main//USSEcoat.png)\nBandiera ed Emblema dell'Unione\n\n![|scuro|noseggi](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n![|scuro|noseggi|barre](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n## Info\nNome completo: Commissione di Formazione degli Estji\nTipo: Assemblea Costituente\nOperativa dal: 12 settembre 2023\nTramite: [Elezione della Costituente](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\nSoppressa il: 1 gennaio 2025\nTramite: Elezione Ordinaria del Congresso Unitario\nNumero di Membri: 500\nSede: [[Palazzo Blu]], [[Taleen]] \n}}\n\n\nLa *Commissione di Formazione degli Estji*, chiamata anche *Costituente Unitaria* fu, nei ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/OSTATES/PROVVISORY_USAE.ico)[[Territori Liberi degli Estji]], l'organo elettivo preposto alla stesura della [[Costituzione Unitaria]] degli Estji.\n## Storia\nA seguito della nomina di Lev Hankonen come presidente temporaneo dei [[Territori Liberi degli Estji]] e con la caduta del regime [[Imperiale]].\n### decreto imperiale\nil 18 agosto furono annunciati tramite il *Decreto Imperiale n.318* il referendum del [5 settembre 2023](https://ews-rose.vercel.app/CEPU.html?tipo=R&data=05%2F09%2F2023), rigurado la forma dell'Unione e le elezioni del [12 settembre 2023](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023) per formare la commissione incaricata di redigere una nuova costituzione.\n### referendum e risultati\n### elezione del capo di fazione\n### Lavori della commissione\n## Procedura elettorale\n### La Composizione\n### Personalità e Ideologie\n### Le funzioni\n### Le commissioni\n### La fiducia ai congressi",
+      "autore": "PyrreHankonen",
+      "creata": "2026-10-11T16:05:33.140Z",
+      "modificata": "2026-10-11T17:48:25.143Z",
       "modificataDa": "PyrreHankonen"
     }
   ]
