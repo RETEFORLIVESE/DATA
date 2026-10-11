@@ -576,7 +576,7 @@
           "nome": "PCE",
           "voti": 0,
           "percentuale": "31,3%",
-          "seggi": 0,
+          "seggi": 156,
           "colore": "#a51d2d",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
         },
@@ -584,7 +584,7 @@
           "nome": "DEMOS",
           "voti": 0,
           "percentuale": "1,3%",
-          "seggi": 0,
+          "seggi": 6,
           "colore": "#e01b24",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
         },
@@ -592,7 +592,7 @@
           "nome": "ALPH",
           "voti": 0,
           "percentuale": "2,2%",
-          "seggi": 0,
+          "seggi": 11,
           "colore": "#f66151",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
         }
