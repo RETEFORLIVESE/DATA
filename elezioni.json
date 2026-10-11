@@ -390,6 +390,99 @@
       "id_organo": "Unione"
     },
     {
+      "tipo": "Costituzionale",
+      "tipo_codice": "K",
+      "data": "12/09/2023",
+      "comune": "Circoscrizione Uniasdca",
+      "area": "USSE",
+      "affluenza": "96,0%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 310,
+          "percentuale": "21,2%",
+          "seggi": 106,
+          "colore": "#a51d2d",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
+        },
+        {
+          "nome": "DEMOS",
+          "voti": 93,
+          "percentuale": "6,4%",
+          "seggi": 32,
+          "colore": "#e01b24",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
+        },
+        {
+          "nome": "ALPH",
+          "voti": 105,
+          "percentuale": "7,2%",
+          "seggi": 36,
+          "colore": "#f66151",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
+        },
+        {
+          "nome": "Estji Ecologistes les Verts",
+          "voti": 117,
+          "percentuale": "8,0%",
+          "seggi": 40,
+          "colore": "#33d17a",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 91,
+          "percentuale": "6,2%",
+          "seggi": 31,
+          "colore": "#f5c211",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
+        },
+        {
+          "nome": "FachesSocialDemokratic",
+          "voti": 149,
+          "percentuale": "10,2%",
+          "seggi": 51,
+          "colore": "#f8e45c",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/FSD.png"
+        },
+        {
+          "nome": "AgAnAt",
+          "voti": 269,
+          "percentuale": "18,4%",
+          "seggi": 92,
+          "colore": "#62a0ea",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/AgAnAt.png"
+        },
+        {
+          "nome": "ChristianAlliance",
+          "voti": 251,
+          "percentuale": "17,2%",
+          "seggi": 86,
+          "colore": "#1a5fb4",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "PerusE",
+          "voti": 58,
+          "percentuale": "4,0%",
+          "seggi": 20,
+          "colore": "#5e5c64",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/PerusE.png"
+        },
+        {
+          "nome": "5°Republika",
+          "voti": 17,
+          "percentuale": "1,2%",
+          "seggi": 6,
+          "colore": "#000000",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/5RE.ico"
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione"
+    },
+    {
       "tipo": "Congresso Metropolitano",
       "tipo_codice": "M",
       "data": "19/09/2026",
