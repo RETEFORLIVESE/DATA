@@ -44,17 +44,17 @@
       "risultati_partiti": [
         {
           "nome": "PCE",
-          "voti": 16,
-          "percentuale": "2,4%",
-          "seggi": 30,
+          "voti": 323,
+          "percentuale": "48,0%",
+          "seggi": 96,
           "colore": "#6f0000",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/pce.avif"
         },
         {
           "nome": "Grosse Linke Koalizion",
-          "voti": 323,
-          "percentuale": "48,0%",
-          "seggi": 96,
+          "voti": 16,
+          "percentuale": "2,4%",
+          "seggi": 30,
           "colore": "#a71b1b",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/GLK.png"
         },
