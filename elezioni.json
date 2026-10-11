@@ -595,6 +595,45 @@
           "seggi": 11,
           "colore": "#f66151",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
+        },
+        {
+          "nome": "Estji Ecologistes les Verts",
+          "voti": 0,
+          "percentuale": "3,0%",
+          "seggi": 15,
+          "colore": "#33d17a"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 0,
+          "percentuale": "10,0%",
+          "seggi": 50,
+          "colore": "#f5c211",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/FSD.png"
+        },
+        {
+          "nome": "AgAnAt",
+          "voti": 0,
+          "percentuale": "28,1%",
+          "seggi": 140,
+          "colore": "#62a0ea",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/AgAnAt.png"
+        },
+        {
+          "nome": "ChristianAlliance",
+          "voti": 0,
+          "percentuale": "21,9%",
+          "seggi": 110,
+          "colore": "#1a5fa8",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "PerusE",
+          "voti": 0,
+          "percentuale": "2,2%",
+          "seggi": 11,
+          "colore": "#5e5c64",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/PerusE.png"
         }
       ],
       "consultazione_unitaria": true,
