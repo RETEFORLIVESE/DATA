@@ -390,10 +390,10 @@
       "id_organo": "Unione"
     },
     {
-      "tipo": "Costituzionale",
-      "tipo_codice": "K",
+      "tipo": "Congresso Statale",
+      "tipo_codice": "C",
       "data": "12/09/2023",
-      "comune": "Circoscrizione Uniasdca",
+      "comune": "Circoscrizione Unica",
       "area": "USSE",
       "affluenza": "96,0%",
       "candidato_vincente": "",
