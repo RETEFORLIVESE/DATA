@@ -562,6 +562,43 @@
       "sezioni_totali": 240,
       "elettori": 512,
       "votanti": 500
+    },
+    {
+      "tipo": "Assemblea di Sezione",
+      "tipo_codice": "G",
+      "data": "14/09/2024",
+      "comune": "Circoscrizione Unica",
+      "area": "Territorio dell'Unione",
+      "affluenza": "95,0%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 0,
+          "percentuale": "31,3%",
+          "seggi": 0,
+          "colore": "#a51d2d",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
+        },
+        {
+          "nome": "DEMOS",
+          "voti": 0,
+          "percentuale": "1,3%",
+          "seggi": 0,
+          "colore": "#e01b24",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/DEMOS.ico"
+        },
+        {
+          "nome": "ALPH",
+          "voti": 0,
+          "percentuale": "2,2%",
+          "seggi": 0,
+          "colore": "#f66151",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/alpha.ico"
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione"
     }
   ]
 }
