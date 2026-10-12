@@ -1,8 +1,8 @@
 {
   "identita": [
     {
-      "id": "EST-2026-000001",
-      "cup": "EFA-01-261012-01-E",
+      "id": "EST-2020-000013",
+      "cup": "EFA-01-200212-01-E",
       "nick": "TandeePetrenka",
       "discord": "idinkuya",
       "uuid": "",
@@ -10,7 +10,7 @@
       "sezione": "città Metropolitana di Taleen",
       "ruoli": ["redattore"],
       "verificato": true,
-      "iscritto": "2026-10-12",
+      "iscritto": "2020-02-12",
       "password": {
         "salt": "64e41b60885cf75e0723d654ed3b6920",
         "hash": "a8ca2022e9add2da9c4a5a3ee16cc8cd466d566ae2535539fa3264096ff23ee709df7e5cd1eea351c3642a1a91f2a40270deabf132c4d57f70752f68ff52156b"
