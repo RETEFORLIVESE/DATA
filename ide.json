@@ -8,7 +8,7 @@
       "uuid": "",
       "stato": "EstjiFall",
       "sezione": "Sezione 01",
-      "ruoli": [],
+      "ruoli": ["Redattore UniText"],
       "verificato": false,
       "iscritto": "2026-10-12",
       "password": {
