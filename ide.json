@@ -9,7 +9,7 @@
       "stato": "EstjiLinn",
       "sezione": "città Metropolitana di Taleen",
       "ruoli": ["Redattore UniText"],
-      "verificato": false,
+      "verificato": true,
       "iscritto": "2026-10-12",
       "password": {
         "salt": "64e41b60885cf75e0723d654ed3b6920",
