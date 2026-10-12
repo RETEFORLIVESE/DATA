@@ -666,6 +666,14 @@
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/GLK.png"
         },
         {
+          "nome": "Estji Ecologistes les Verts",
+          "voti": 0,
+          "percentuale": "9,8%",
+          "seggi": 49,
+          "colore": "#33d17a",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
+        },
+        {
           "nome": "FAJP",
           "voti": 0,
           "percentuale": "6,0%",
@@ -688,14 +696,6 @@
           "seggi": 56,
           "colore": "#1B5FA8",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
-        },
-        {
-          "nome": "Estji Ecologistes les Verts",
-          "voti": 0,
-          "percentuale": "9,8%",
-          "seggi": 49,
-          "colore": "#33d17a",
-          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
         }
       ],
       "consultazione_unitaria": true,
