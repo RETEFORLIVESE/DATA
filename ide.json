@@ -22,7 +22,8 @@
       "residenza": "ELIN-TLN-NII-TEG",
       "residenzaNome": "Tegel",
       "indirizzo": "Shrraub Strasse 15/a",
-      "emissioneId": "2026-10-12"
+      "emissioneId": "2026-10-12",
+      "emissioneElet": "2026-10-12"
     },
     {
       "id": "EST-2026-000002",
