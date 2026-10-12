@@ -17,7 +17,7 @@
         "salt": "64e41b60885cf75e0723d654ed3b6920",
         "hash": "a8ca2022e9add2da9c4a5a3ee16cc8cd466d566ae2535539fa3264096ff23ee709df7e5cd1eea351c3642a1a91f2a40270deabf132c4d57f70752f68ff52156b"
       },
-      "tf": false
+      "tf": true
     },
     {
       "id": "EST-2026-000002",
