@@ -672,6 +672,30 @@
           "seggi": 30,
           "colore": "#f5c211",
           "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
+        },
+        {
+          "nome": "AgAnAt",
+          "voti": 0,
+          "percentuale": "20,0%",
+          "seggi": 100,
+          "colore": "#62a0ea",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "ChristianAlliance",
+          "voti": 0,
+          "percentuale": "11,2%",
+          "seggi": 56,
+          "colore": "#1B5FA8",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/CA.ico"
+        },
+        {
+          "nome": "Estji Ecologistes les Verts",
+          "voti": 0,
+          "percentuale": "9,8%",
+          "seggi": 0,
+          "colore": "#33d17a",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/EElV.png"
         }
       ],
       "consultazione_unitaria": true,
