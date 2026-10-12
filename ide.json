@@ -24,7 +24,8 @@
       "indirizzo": "Shrraub Strasse 15/a",
       "emissioneId": "2026-10-12",
       "emissioneElet": "2026-10-12",
-      "emissioneFisc": "2026-10-12"
+      "emissioneFisc": "2026-10-12",
+      "avvisiTutti": true
     },
     {
       "id": "EST-2026-000002",
