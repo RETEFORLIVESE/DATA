@@ -3119,32 +3119,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "l",
-      "categoria": "Legge Applicativa",
-      "numero": "l",
-      "anno": "l",
-      "titolo": "prova1",
-      "dataEmanazione": "l",
-      "promulgatoDa": "l",
-      "stato": "vigente",
-      "sommario": "l",
-      "immagine": "l",
-      "didascalia": "l",
-      "luogo": "LMGU",
-      "articoli": [
-        {
-          "numero": "l",
-          "rubrica": "l",
-          "commi": [
-            {
-              "testo": "l",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
     }
   ]
 }
