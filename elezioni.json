@@ -639,6 +639,43 @@
       ],
       "consultazione_unitaria": true,
       "id_organo": "Unione"
+    },
+    {
+      "tipo": "Congresso Unitario",
+      "tipo_codice": "S",
+      "data": "13/09/2025",
+      "comune": "Circoscrizione Unica",
+      "area": "Territorio dell'Unione",
+      "affluenza": "94,6%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "PCE",
+          "voti": 0,
+          "percentuale": "40,0%",
+          "seggi": 200,
+          "colore": "#a51d2d",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/OPAR/PCE.ico"
+        },
+        {
+          "nome": "GLK",
+          "voti": 0,
+          "percentuale": "13,0%",
+          "seggi": 65,
+          "colore": "#e01b24",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/GLK.png"
+        },
+        {
+          "nome": "FAJP",
+          "voti": 0,
+          "percentuale": "6,0%",
+          "seggi": 30,
+          "colore": "#f5c211",
+          "logo": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CEPU/POL/PAR/fajp.avif"
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione"
     }
   ]
 }
