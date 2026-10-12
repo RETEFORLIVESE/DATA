@@ -9,7 +9,8 @@
       "stato": "Tegel",
       "sezione": "",
       "ruoli": [
-        "generale","staff"
+        "generale",
+        "staff"
       ],
       "verificato": true,
       "iscritto": "2020-02-12",
@@ -38,7 +39,7 @@
       "stato": "TDR",
       "sezione": "",
       "ruoli": [],
-      "verificato": false,
+      "verificato": true,
       "iscritto": "2026-10-12",
       "password": {
         "salt": "de9654cf6abf7ac3608a73e2c100fd06",
