@@ -3,11 +3,11 @@
     {
       "id": "CS-0dce9ad4",
       "tipo": "tessera-partito",
-      "emittente": "EKP",
-      "nomeEmittente": "Estji Kommunist Partei",
-      "colore": "#8e1b2e",
+      "emittente": "AgAnAt",
+      "nomeEmittente": "AgAnAt",
+      "colore": "#3498eb",
       "idEstji": "EST-2020-000013",
-      "numero": "TES-EKP-2026-000001",
+      "numero": "TES-GNT-2026-000001",
       "emessa": "2026-009-23",
       "stato": "attiva"
     }
