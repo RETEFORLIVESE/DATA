@@ -1,1 +1,15 @@
-
+{
+  "carte": [
+    {
+      "id": "CS-76712630",
+      "tipo": "tessera-partito",
+      "emittente": "ACE",
+      "nomeEmittente": "Alleanza Civica Estji",
+      "colore": "#8e1b2e",
+      "idEstji": "EST-2020-000013",
+      "numero": "TES-ACE-2026-000001",
+      "emessa": "2026-10-13",
+      "stato": "attiva"
+    }
+  ]
+}
