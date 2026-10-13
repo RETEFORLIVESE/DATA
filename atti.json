@@ -3119,6 +3119,36 @@
           ]
         }
       ]
+    },
+    {
+      "id": "guerra-di",
+      "categoria": "Legge Ordinaria",
+      "numero": "9",
+      "anno": "2023",
+      "titolo": "Dichiarazione di Neutralità nei riguradi della Guerra di Γαλίλος",
+      "dataEmanazione": "14 Dicembre 2023",
+      "promulgatoDa": "Congresso dell'USAE",
+      "stato": "vigente",
+      "sommario": "Dichiarazione di neutralità nei confronti di tutte le parti coinvolte nella Guerra di Γαλίλος.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "Premessa",
+          "commi": [
+            {
+              "testo": "Vista il conflitto armato a Yvrean denominato \"Guerra di Γαλίλος\"",
+              "sottocommi": []
+            },
+            {
+              "testo": "Considerando la volontà di preservare la pace, la sicurezza e l'integrita dell'Unione",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
