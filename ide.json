@@ -2,9 +2,10 @@
   "identita": [
     {
       "id": "EST-2020-000013",
-      "cup": "ELN-01-200212-01-E",
+      "cup": "TND-ELIN-12-B-20-TEG",
       "nick": "TandeePetrenka",
       "discord": "tandi_petrenka",
+      "discordId": "326982963914866688",
       "discordVerificato": true,
       "uuid": "92310bd3-a2a6-49b6-8230-cf4f9002480f",
       "stato": "Tegel",
@@ -31,7 +32,7 @@
     },
     {
       "id": "EST-2026-000002",
-      "cup": "TDR-00-261012-01-J",
+      "cup": "PYR-TDR-12-J-26-TRN",
       "nick": "PyrreHankonen",
       "discord": "purrehankonen",
       "uuid": "",
