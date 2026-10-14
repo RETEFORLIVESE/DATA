@@ -616,38 +616,6 @@
               ]
             }
           ]
-        },
-        {
-          "tipo": "mappa",
-          "titolo": "as",
-          "didascalia": "",
-          "allineamento": "centro",
-          "larghezza": 420,
-          "dimensione_icone": 20,
-          "mostra_km": true,
-          "colore_linee": "",
-          "colore_intestazione": "",
-          "colore_sfondo": "",
-          "righe": [
-            {
-              "tipo": "fermata",
-              "icone": "KBHFa",
-              "km": "das",
-              "nome": "sda",
-              "dettaglio": "sd",
-              "url": "asdasd",
-              "colore": ""
-            },
-            {
-              "tipo": "fermata",
-              "icone": "KBHFe",
-              "km": "dsa",
-              "nome": "dsa",
-              "dettaglio": "asd",
-              "url": "sda",
-              "colore": ""
-            }
-          ]
         }
       ],
       "galleria": [
