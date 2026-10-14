@@ -807,34 +807,52 @@
           "righe": [
             {
               "tipo": "fermata",
-              "icone": "KBHFa KBHFa",
+              "icone": "- - - KBHFa",
               "km": "",
-              "nome": "Tervia / Tenotchiclan",
+              "nome": "Yvrean",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "STR BHF",
+              "icone": "- - KBHFa BHF",
               "km": "",
-              "nome": "Ithakì",
+              "nome": "KuToKa / Galilos",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "STR BHF",
+              "icone": "KBHFa KBHFa BHF BHF",
               "km": "",
-              "nome": "Pat Tel",
+              "nome": "Tervia / Tenotchiclan / Xathorit / Zaghreb",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "STR BHF",
+              "icone": "STR BHF BHF BHF",
+              "km": "",
+              "nome": "Ithakì / Jongin / Appia",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "STR BHF BHF BHF",
+              "km": "",
+              "nome": "Pat Tel / RiBen / Lybica",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "STR BHF ABZg+l STRr",
               "km": "",
               "nome": "Xanadu",
               "dettaglio": "",
@@ -843,18 +861,18 @@
             },
             {
               "tipo": "fermata",
-              "icone": "BHF BHF",
+              "icone": "BHF BHF BHF",
               "km": "",
-              "nome": "Arabia / ShiMao",
+              "nome": "Arabia / ShiMao / SovietMark",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "ABZg+l STRr",
+              "icone": "ABZg+l STRr BHF",
               "km": "",
-              "nome": "",
+              "nome": "MedioEva",
               "dettaglio": "",
               "url": "",
               "colore": ""
@@ -888,7 +906,7 @@
             },
             {
               "tipo": "fermata",
-              "icone": "ABZgl STRq ABZgr",
+              "icone": "ABZg+l STRq ABZg+r",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -897,7 +915,7 @@
             },
             {
               "tipo": "fermata",
-              "icone": "ABZg+l STRq ABZg+r",
+              "icone": "ABZgl STRq STRr",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -908,7 +926,7 @@
               "tipo": "fermata",
               "icone": "BHF",
               "km": "",
-              "nome": "",
+              "nome": "New Shinguku",
               "dettaglio": "",
               "url": "",
               "colore": ""
