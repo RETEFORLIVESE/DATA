@@ -797,7 +797,7 @@
           "tipo": "mappa",
           "titolo": "Sistema di Trasporto Sick",
           "didascalia": "",
-          "allineamento": "centro",
+          "allineamento": "destra",
           "larghezza": 420,
           "dimensione_icone": 20,
           "mostra_km": true,
