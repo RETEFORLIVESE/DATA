@@ -734,6 +734,38 @@
               ]
             }
           ]
+        },
+        {
+          "tipo": "mappa",
+          "titolo": "",
+          "didascalia": "",
+          "allineamento": "centro",
+          "larghezza": 420,
+          "dimensione_icone": 20,
+          "mostra_km": true,
+          "colore_linee": "",
+          "colore_intestazione": "",
+          "colore_sfondo": "",
+          "righe": [
+            {
+              "tipo": "fermata",
+              "icone": "KBHFa",
+              "km": "",
+              "nome": "a",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "KBHFe",
+              "km": "",
+              "nome": "as",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            }
+          ]
         }
       ],
       "galleria": [],
