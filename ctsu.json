@@ -637,38 +637,6 @@
               "sottocommi": []
             }
           ]
-        },
-        {
-          "tipo": "mappa",
-          "titolo": "asd",
-          "didascalia": "",
-          "allineamento": "centro",
-          "larghezza": 420,
-          "dimensione_icone": 20,
-          "mostra_km": true,
-          "colore_linee": "",
-          "colore_intestazione": "",
-          "colore_sfondo": "",
-          "righe": [
-            {
-              "tipo": "fermata",
-              "icone": "KBHFa",
-              "km": "",
-              "nome": "sda",
-              "dettaglio": "",
-              "url": "",
-              "colore": ""
-            },
-            {
-              "tipo": "fermata",
-              "icone": "KBHFe",
-              "km": "",
-              "nome": "sda",
-              "dettaglio": "",
-              "url": "",
-              "colore": ""
-            }
-          ]
         }
       ],
       "galleria": [],
