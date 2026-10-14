@@ -773,7 +773,6 @@
     },
     {
       "id": "documento-programmatico-provvisorio",
-      "tipo_documento": "piano_economico",
       "ambito": "statale",
       "titolo": "Documento Programmatico Provvisorio",
       "categoria": "Piano economico statale",
