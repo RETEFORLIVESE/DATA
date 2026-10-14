@@ -112,6 +112,19 @@
       "creata": "2026-10-13T16:07:20.834Z",
       "modificata": "2026-10-13T17:17:43.966Z",
       "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "sda",
+      "titolo": "SDA",
+      "categoria": "",
+      "tag": [],
+      "sommario": "",
+      "immagine": "",
+      "contenuto": "{{mappa-trasporti Linea 1\n@col 1\n--\n| - | BHF |  \n--\n|  |  | \n--\n|  |  | \n--\n|  |  | \n--\n|  |  | \n}}",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-14T19:06:26.497Z",
+      "modificata": "2026-10-14T19:06:26.497Z",
+      "modificataDa": "TandeePetrenka"
     }
   ]
 }
