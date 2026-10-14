@@ -800,7 +800,7 @@
           "allineamento": "destra",
           "larghezza": 420,
           "dimensione_icone": 20,
-          "mostra_km": true,
+          "mostra_km": false,
           "colore_linee": "",
           "colore_intestazione": "",
           "colore_sfondo": "",
@@ -809,7 +809,7 @@
               "tipo": "fermata",
               "icone": "KBHFa KBHFa",
               "km": "",
-              "nome": "Tenotchiclan / Tervia",
+              "nome": "Tervia / Tenotchiclan",
               "dettaglio": "",
               "url": "",
               "colore": ""
@@ -861,16 +861,34 @@
             },
             {
               "tipo": "fermata",
-              "icone": "BHF KBHFa",
+              "icone": "BHF - BHF",
               "km": "",
-              "nome": "Sars / Taleen",
+              "nome": "Sars / Ecles",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "ABZgl ABZgr",
+              "icone": "BHF - BHF",
+              "km": "",
+              "nome": "Taleen Akuna / Gare Du Port D'Expo",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF - BHF",
+              "km": "",
+              "nome": "Tervettuloa / WebaRiik",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl STRq ABZgr",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -879,7 +897,7 @@
             },
             {
               "tipo": "fermata",
-              "icone": "ABZg+l ABZg+r",
+              "icone": "ABZg+l STRq ABZg+r",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -888,7 +906,7 @@
             },
             {
               "tipo": "fermata",
-              "icone": "BHF BHF",
+              "icone": "BHF",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -897,7 +915,7 @@
             },
             {
               "tipo": "fermata",
-              "icone": "KBHFe KBHFe",
+              "icone": "KBHFe",
               "km": "",
               "nome": "",
               "dettaglio": "",
