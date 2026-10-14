@@ -650,7 +650,7 @@
       "categoria": "Piano economico statale",
       "stato": "In elaborazione",
       "organo_responsabile": "Consiglio Statale di Pianificazione della TDR",
-      "luogo_piano": "TDR-TRN",
+      "luogo": "TDR-TRN",
       "responsabile": "Pyrre Hankonen",
       "periodo_validita": "Annuale (prorogabile)",
       "data_approvazione": "",
@@ -732,6 +732,38 @@
                   "testo": "(n.8c-TER26) - Bonifica e riammodernamento del monumeto \"a tutti i caduti\" situato nel ZhongPark di AchtStag [E. 1.000]."
                 }
               ]
+            }
+          ]
+        },
+        {
+          "tipo": "mappa",
+          "titolo": "Metropolitana di Terlin",
+          "didascalia": "",
+          "allineamento": "centro",
+          "larghezza": 420,
+          "dimensione_icone": 20,
+          "mostra_km": true,
+          "colore_linee": "",
+          "colore_intestazione": "",
+          "colore_sfondo": "",
+          "righe": [
+            {
+              "tipo": "fermata",
+              "icone": "KBHFa",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "KBHFe",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
             }
           ]
         }
