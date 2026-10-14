@@ -933,6 +933,69 @@
             },
             {
               "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "Gare du Chattillon",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "Kolin MINACCIA",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl STRq STRq STR+r",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF - - BHF",
+              "km": "",
+              "nome": "Megallica 2",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl STRq STR+r BHF",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl STR+r BHF BHF",
+              "km": "",
+              "nome": "/ Triponte",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF BHF BHF BHF",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
               "icone": "KBHFe",
               "km": "",
               "nome": "",
