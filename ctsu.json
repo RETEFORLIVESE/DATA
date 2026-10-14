@@ -788,12 +788,6 @@
       "copertina": "",
       "sezioni": [
         {
-          "tipo": "sezione",
-          "titolo": "Completamento del Sistema \"sick\"",
-          "testo": "",
-          "commi": []
-        },
-        {
           "tipo": "mappa",
           "titolo": "Sistema di Trasporto Sick",
           "didascalia": "",
@@ -905,6 +899,12 @@
               "colore": ""
             }
           ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Completamento del Sistema \"sick\"",
+          "testo": "",
+          "commi": []
         }
       ],
       "galleria": [],
