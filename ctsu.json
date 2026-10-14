@@ -962,7 +962,7 @@
               "tipo": "fermata",
               "icone": "BHF - - BHF",
               "km": "",
-              "nome": "Megallica 2",
+              "nome": "Pyramiden / Megallica 2",
               "dettaglio": "",
               "url": "",
               "colore": ""
@@ -971,25 +971,34 @@
               "tipo": "fermata",
               "icone": "ABZgl STRq STR+r BHF",
               "km": "",
-              "nome": "",
+              "nome": "Triponte",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "ABZgl STR+r BHF BHF",
+              "icone": "ABZgl STR+r BHF KBHFe",
               "km": "",
-              "nome": "/ Triponte",
+              "nome": "Askalon / Ray",
               "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
-              "icone": "BHF BHF BHF BHF",
+              "icone": "STR BHF BHF",
               "km": "",
-              "nome": "",
+              "nome": "Victore / Imperos",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF KBHFe BHF",
+              "km": "",
+              "nome": "/ Uppagori /",
               "dettaglio": "",
               "url": "",
               "colore": ""
