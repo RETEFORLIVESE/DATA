@@ -750,20 +750,20 @@
             {
               "tipo": "fermata",
               "icone": "KBHFa",
-              "km": "",
-              "nome": "",
-              "dettaglio": "",
+              "km": "1",
+              "nome": "a",
+              "dettaglio": "d",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
               "icone": "KBHFe",
-              "km": "",
-              "nome": "",
-              "dettaglio": "",
+              "km": "2",
+              "nome": "s",
+              "dettaglio": "d",
               "url": "",
-              "colore": ""
+              "colore": "#f6d32d"
             }
           ]
         }
