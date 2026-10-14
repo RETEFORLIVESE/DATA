@@ -770,6 +770,145 @@
       ],
       "galleria": [],
       "allegati": []
+    },
+    {
+      "id": "documento-programmatico-provvisorio",
+      "tipo_documento": "piano_economico",
+      "ambito": "statale",
+      "titolo": "Documento Programmatico Provvisorio",
+      "categoria": "Piano economico statale",
+      "stato": "In elaborazione",
+      "organo_responsabile": "CTSU",
+      "luogo": "ESTJI",
+      "responsabile": "",
+      "periodo_validita": "",
+      "data_approvazione": "",
+      "risorse_totali": "",
+      "sommario": "Documento Programmatico Provvisorio per l'anno 2027",
+      "copertina": "",
+      "sezioni": [
+        {
+          "tipo": "sezione",
+          "titolo": "Completamento del Sistema \"sick\"",
+          "testo": "",
+          "commi": []
+        },
+        {
+          "tipo": "mappa",
+          "titolo": "",
+          "didascalia": "",
+          "allineamento": "centro",
+          "larghezza": 420,
+          "dimensione_icone": 20,
+          "mostra_km": true,
+          "colore_linee": "",
+          "colore_intestazione": "",
+          "colore_sfondo": "",
+          "righe": [
+            {
+              "tipo": "fermata",
+              "icone": "KBHFa KBHFa",
+              "km": "",
+              "nome": "Tenotchiclan / Tervia",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "STR BHF",
+              "km": "",
+              "nome": "Ithakì",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "STR BHF",
+              "km": "",
+              "nome": "Pat Tel",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "STR BHF",
+              "km": "",
+              "nome": "Xanadu",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF BHF",
+              "km": "",
+              "nome": "Arabia / ShiMao",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZg+l STRr",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZg+l ABZg+r",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl ABZgr",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF BHF",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "KBHFe KBHFe",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            }
+          ]
+        }
+      ],
+      "galleria": [],
+      "allegati": []
     }
   ]
 }
