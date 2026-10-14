@@ -1,6 +1,281 @@
 {
   "progetti": [
     {
+      "id": "riqualificazione-athenon-trade-center",
+      "titolo": "Riqualificazione Athenon Trade Center",
+      "categoria": "Infrastrutture",
+      "stato": "In corso",
+      "organo_responsabile": "Commissione Tecnica per le Infrastrutture del EstjiNor",
+      "luogo": "ENOR-PTL-ATC",
+      "responsabile": "Uwe Nielse - TandeePetrenka",
+      "data_inizio": "12 agosto 2026",
+      "data_fine_prevista": "15 agosto 2027",
+      "data_completamento": "",
+      "budget_previsto": "E 496.100",
+      "costo_effettivo": "",
+      "sommario": "Documento Numero - 1; Il CTSU ha reso parere obbligatorio favorevole per il D.S. n.12/2026",
+      "copertina": "https://ews-rose.vercel.app/tc.png",
+      "sezioni": [
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "DISPOSIZIONI GENERALI"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Definizioni",
+          "testo": "",
+          "commi": [
+            {
+              "testo": "Con i Seguenti termini si intendono:",
+              "sottocommi": [
+                {
+                  "testo": "Complesso - Tutta la struttura del Athenon Trade Center;"
+                },
+                {
+                  "testo": "Mall - struttura commerciale sotterranea situata sotto a Trade Platz;"
+                },
+                {
+                  "testo": "Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH];"
+                },
+                {
+                  "testo": "Vista Hotel - Palazzo formato dal 5ATC e dal 9 ATC;"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Motivazioni",
+          "testo": "Con l'intenzione di migliorare la qualità del complesso, le sue funzioni e i suoi terminali;",
+          "commi": [
+            {
+              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
+              "sottocommi": [
+                {
+                  "testo": "Rilanciare l'appeal del Complesso;"
+                },
+                {
+                  "testo": "Migliorare le infrastrutture pubbliche;"
+                },
+                {
+                  "testo": "Tutelare il patrimonio architettonico del EstjiNor;"
+                },
+                {
+                  "testo": "Utilizzare spazi inutilizzati."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "STATUS ATTUALE"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Stato Giuridico",
+          "testo": "Il complesso, con il <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026</a> è stato espropriato a favore dello stato del EstjiNor, che ne è diventato unico proprietario.",
+          "commi": []
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Mall",
+          "testo": "Nel livello sotterraneo del complesso è presente il ATC n.6, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
+          "commi": [
+            {
+              "testo": "Il complesso si presenta con una forma moderna, ma mal organizzata con infrastrutture e sevizi antiquati, si vuole evidenziare:",
+              "sottocommi": [
+                {
+                  "testo": "Presenta ampi spazi inutilizzati a est di TradePlaza, fra il ATC2 e il 7 e fra il ATC8 e il AFC1;"
+                },
+                {
+                  "testo": "E' direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
+                },
+                {
+                  "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
+                }
+              ],
+              "immagine": {
+                "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
+                "didascalia": ""
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Rete Ferrata",
+          "testo": "Il complesso è integrato con la RERa e la M1, è presente una linea bus [L10] che porta alla TradePlaza. Non sono presenti collegamenti ulterioriE' poss",
+          "commi": [
+            {
+              "testo": "Il complesso ha due stazioni ferroviarie:",
+              "sottocommi": [
+                {
+                  "testo": "Con \"Stazione ATC\" intendiamo la stazione servita dalla M1, il cui accesso è possibile tramite il mall;"
+                },
+                {
+                  "testo": "Con \"Stazione Trade Center\" intendiamo la stazione servita dalla RERa, il cui accesso è possibile tramite l'ATC8;"
+                },
+                {
+                  "testo": "Le stazioni distano l'una dall'altra circa 50 bl, non sono presenti indicazioni o agevolazioni fra le due per rendere efficiente lo scambio;"
+                }
+              ],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+                "didascalia": "bordeaux - M1 / rosso - RERa / viola - L10"
+              }
+            },
+            {
+              "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "STATUS FUTURO"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Trade Center",
+          "testo": "Viene formato il \"Trade Center\", di possesso del Estjinor, con delega per la gestione autonoma del complesso;",
+          "commi": [
+            {
+              "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center#art-3\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il TCA gestisce la ristrutturazione del complesso in modo autonomo tramite l'assemblea e il consiglio esecutivo,",
+              "sottocommi": [
+                {
+                  "testo": "l' IRE supervisiona e consiglia l'operato esecutivo della ATC;"
+                },
+                {
+                  "testo": "La TCA pianifica il suo sviluppo con il Consiglio per la Pianificazione nei limiti della \"Legge sulla Gestione Democratica della Pianificazione\";"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi",
+          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n<tr><td>n.6-TCA26 [Mall]</td><td>6ATC</td><td>230.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.7-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.8-TCA26 [M1]</td><td>Sotterranei</td><td>15.200</td></tr>\n<tr><td>n.9-TCA26 [TTS]</td><td>Piano Terra</td><td>500</td></tr>\n<tr><td>n.10-TCA26</td><td>Krawal</td><td>16.500</td></tr>\n</tbody>\n</table>\nInterventi Minori\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.11-TCA26 [8TC]</td><td>Sotterranei</td><td>2.000</td></tr>\n<tr><td>n.12-TCA26 [Sede TC]</td><td>2ATC</td><td>1.500</td></tr>\n<tr><td>n.13-TCA26 [Sito Web]</td><td>//</td><td>600</td></tr>\n</tbody>\n</table>",
+          "commi": []
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi Urgenti",
+          "testo": "Interventi da effettuare entro 180 giorni:",
+          "commi": [
+            {
+              "testo": "Interventi strutturali per la sicurezza del complesso:",
+              "sottocommi": [
+                {
+                  "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano, dalla lobby sono predisposte le scale per il collegamento con tutti i piani interessati;"
+                },
+                {
+                  "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12 con un doppio strato (smoothstone e spruce) in conformità con la norma anticendi locale;"
+                },
+                {
+                  "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate causa usura;"
+                },
+                {
+                  "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale per espandere la superfice di 243bl^2"
+                },
+                {
+                  "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;"
+                },
+                {
+                  "testo": "(opera n.6-TCA26) - Espansione del centro commerciale \"3ATC\", delle vie pedonali, dei collegamenti inter-complesso come in figura."
+                }
+              ],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
+                "didascalia": "Progetto \"mall\""
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi Ordinari",
+          "testo": "Interventi da effettuare entro 270 giorni :",
+          "commi": [
+            {
+              "testo": "Interventi che coinvolgono il piano sotterraneo del complesso per migliorare la viabilità:",
+              "sottocommi": [
+                {
+                  "testo": "(opera n.7-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano in figura"
+                },
+                {
+                  "testo": "(opera n.8-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione  \"Trade Center\""
+                },
+                {
+                  "testo": "(opera n.9-TCA26) - Viene costruita la linea terrestre \"Trans Trade System\" che collega il complesso dal 7ATC al 1ATC, passando per TradePlaza e RaketeAlee"
+                },
+                {
+                  "testo": "(opera n.10-TCA260) - Modifica al tracciato dello Shùtle n.7 per collegare meglio il complesso con la città di Taleen;"
+                }
+              ],
+              "immagine": {
+                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
+                "didascalia": ""
+              }
+            }
+          ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Interventi Minori",
+          "testo": "Interventi da effettuare entro 365 giorni:",
+          "commi": [
+            {
+              "testo": "Interventi minori per la coerenza del complesso:",
+              "sottocommi": [
+                {
+                  "testo": "(n.11-TCA26) - La \"Stazione Trade Center\" viene rinorminata \"8TC\";"
+                },
+                {
+                  "testo": "(n.12-TCA26) - Il piano n.2 del palazzo 2ATC, è la sede della della \"Trade Center Authority\""
+                },
+                {
+                  "testo": "(n.13-TCA26) - Viene costruito il <a href=\"https://ews-rose.vercel.app/TradeCenterATH.html\" target=\"_blank\" rel=\"noopener noreferrer\">sito web del Trade Center</a>, controllato dalla TCA;"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "galleria": [
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/PrincipeATC.png",
+          "didascalia": "Mappa del Complesso"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
+          "didascalia": "Proposta ristrutturazione 5ATC & 6ATC"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/MallATC.png",
+          "didascalia": "5ATC & 6ATC Attuali"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
+          "didascalia": "Proposta ristrutturazione dei Trasporti"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
+          "didascalia": "Trasporti Attuali"
+        }
+      ],
+      "allegati": []
+    },
+    {
       "id": "studio-preliminare-sul-progetto-metrostag",
       "titolo": "Studio preliminare sul progetto \"MetroStag\"",
       "categoria": "Ambiente",
@@ -362,284 +637,41 @@
               "sottocommi": []
             }
           ]
+        },
+        {
+          "tipo": "mappa",
+          "titolo": "asd",
+          "didascalia": "",
+          "allineamento": "centro",
+          "larghezza": 420,
+          "dimensione_icone": 20,
+          "mostra_km": true,
+          "colore_linee": "",
+          "colore_intestazione": "",
+          "colore_sfondo": "",
+          "righe": [
+            {
+              "tipo": "fermata",
+              "icone": "KBHFa",
+              "km": "",
+              "nome": "sda",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "KBHFe",
+              "km": "",
+              "nome": "sda",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            }
+          ]
         }
       ],
       "galleria": [],
-      "allegati": []
-    },
-    {
-      "id": "riqualificazione-athenon-trade-center",
-      "titolo": "Riqualificazione Athenon Trade Center",
-      "categoria": "Infrastrutture",
-      "stato": "In corso",
-      "organo_responsabile": "Commissione Tecnica per le Infrastrutture del EstjiNor",
-      "luogo": "ENOR-PTL-ATC",
-      "responsabile": "Uwe Nielse - TandeePetrenka",
-      "data_inizio": "12 agosto 2026",
-      "data_fine_prevista": "15 agosto 2027",
-      "data_completamento": "",
-      "budget_previsto": "E 496.100",
-      "costo_effettivo": "",
-      "sommario": "Documento Numero - 1; Il CTSU ha reso parere obbligatorio favorevole per il D.S. n.12/2026",
-      "copertina": "https://ews-rose.vercel.app/tc.png",
-      "sezioni": [
-        {
-          "tipo": "titolo",
-          "numero": "",
-          "titolo": "DISPOSIZIONI GENERALI"
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Definizioni",
-          "testo": "",
-          "commi": [
-            {
-              "testo": "Con i Seguenti termini si intendono:",
-              "sottocommi": [
-                {
-                  "testo": "Complesso - Tutta la struttura del Athenon Trade Center;"
-                },
-                {
-                  "testo": "Mall - struttura commerciale sotterranea situata sotto a Trade Platz;"
-                },
-                {
-                  "testo": "Krawall - Lotto fra la sezione di Fluvia [ELIN-TLN-FLV] e Athenon [ENOR-ATH];"
-                },
-                {
-                  "testo": "Vista Hotel - Palazzo formato dal 5ATC e dal 9 ATC;"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Motivazioni",
-          "testo": "Con l'intenzione di migliorare la qualità del complesso, le sue funzioni e i suoi terminali;",
-          "commi": [
-            {
-              "testo": "Riconoscendo l'importanza storico-culturale del Centro, si presenta questo Rapporto per:",
-              "sottocommi": [
-                {
-                  "testo": "Rilanciare l'appeal del Complesso;"
-                },
-                {
-                  "testo": "Migliorare le infrastrutture pubbliche;"
-                },
-                {
-                  "testo": "Tutelare il patrimonio architettonico del EstjiNor;"
-                },
-                {
-                  "testo": "Utilizzare spazi inutilizzati."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "numero": "",
-          "titolo": "STATUS ATTUALE"
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Stato Giuridico",
-          "testo": "Il complesso, con il <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026</a> è stato espropriato a favore dello stato del EstjiNor, che ne è diventato unico proprietario.",
-          "commi": []
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Mall",
-          "testo": "Nel livello sotterraneo del complesso è presente il ATC n.6, un centro commerciale di piccole dimensioni che si sviluppa fra l'ATC n.1 e n.2 fino all'ingresso situato fra l' ATC n.7 e l' AFC n.1",
-          "commi": [
-            {
-              "testo": "Il complesso si presenta con una forma moderna, ma mal organizzata con infrastrutture e sevizi antiquati, si vuole evidenziare:",
-              "sottocommi": [
-                {
-                  "testo": "Presenta ampi spazi inutilizzati a est di TradePlaza, fra il ATC2 e il 7 e fra il ATC8 e il AFC1;"
-                },
-                {
-                  "testo": "E' direttamente collegato con la stazione \"Athenon Trade Center\" gestita dalla \"EstjiUnderground\", la stazione è servita dalla Linea numero 1 della Metro di Taleen, che ha capolinea nel complesso;"
-                },
-                {
-                  "testo": "Si vuole anche evidenziare il fatto che la maggior parte dei lotti nel mall sono inutilizzati e spogli, causa l'elevato prezzo d'affitto imposto dal Consiglio di Direzione,"
-                }
-              ],
-              "immagine": {
-                "url": "https://github.com/RETEFORLIVESE/IMG/blob/main/CTSU/ATC/MallATC.png?raw=true",
-                "didascalia": ""
-              }
-            }
-          ]
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Rete Ferrata",
-          "testo": "Il complesso è integrato con la RERa e la M1, è presente una linea bus [L10] che porta alla TradePlaza. Non sono presenti collegamenti ulterioriE' poss",
-          "commi": [
-            {
-              "testo": "Il complesso ha due stazioni ferroviarie:",
-              "sottocommi": [
-                {
-                  "testo": "Con \"Stazione ATC\" intendiamo la stazione servita dalla M1, il cui accesso è possibile tramite il mall;"
-                },
-                {
-                  "testo": "Con \"Stazione Trade Center\" intendiamo la stazione servita dalla RERa, il cui accesso è possibile tramite l'ATC8;"
-                },
-                {
-                  "testo": "Le stazioni distano l'una dall'altra circa 50 bl, non sono presenti indicazioni o agevolazioni fra le due per rendere efficiente lo scambio;"
-                }
-              ],
-              "immagine": {
-                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
-                "didascalia": "bordeaux - M1 / rosso - RERa / viola - L10"
-              }
-            },
-            {
-              "testo": "La stazione Trade Cener è collegata con il livello terrestre della Trade Plaza, la stazione precedente è Sars-Fiumana, distante 150 bl circa, la sucessiva, RotePlatz, a 60 bl",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "numero": "",
-          "titolo": "STATUS FUTURO"
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Trade Center",
-          "testo": "Viene formato il \"Trade Center\", di possesso del Estjinor, con delega per la gestione autonoma del complesso;",
-          "commi": [
-            {
-              "testo": "Il suo funzionamento è disciplinato dal <a href=\"https://ews-rose.vercel.app/lex/atto.html?id=esproprio-del-athenon-trade-center#art-3\" target=\"_blank\" rel=\"noopener noreferrer\">d.s. n.12 del 23/07/2026.</a>",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il TCA gestisce la ristrutturazione del complesso in modo autonomo tramite l'assemblea e il consiglio esecutivo,",
-              "sottocommi": [
-                {
-                  "testo": "l' IRE supervisiona e consiglia l'operato esecutivo della ATC;"
-                },
-                {
-                  "testo": "La TCA pianifica il suo sviluppo con il Consiglio per la Pianificazione nei limiti della \"Legge sulla Gestione Democratica della Pianificazione\";"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Interventi",
-          "testo": "Interventi Urgenti\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.1-TCA26 [Elevatori]</td><td>2ATC</td><td>12.000</td></tr>\n<tr><td>n.2-TCA26 [Solai]</td><td>2ATC</td><td>5.300</td></tr>\n<tr><td>n.3-TCA26 [Esterni]</td><td>4ATC</td><td>2.000</td></tr>\n<tr><td>n.4-TCA26 [3°Piano]</td><td>4ATC</td><td>6.500</td></tr>\n<tr><td>n.5-TCA26 [Facciata]</td><td>5/9ATC</td><td>4.000</td></tr>\n<tr><td>n.6-TCA26 [Mall]</td><td>6ATC</td><td>230.000</td></tr>\n</tbody>\n</table>\nInterventi Ordinari\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.7-TCA26 [RERa]</td><td>Sotterranei</td><td>200.000</td></tr>\n<tr><td>n.8-TCA26 [M1]</td><td>Sotterranei</td><td>15.200</td></tr>\n<tr><td>n.9-TCA26 [TTS]</td><td>Piano Terra</td><td>500</td></tr>\n<tr><td>n.10-TCA26</td><td>Krawal</td><td>16.500</td></tr>\n</tbody>\n</table>\nInterventi Minori\n<table class=\"tabella-progetto\">\n<thead><tr><th>Operanzione</th><th>Palazzo</th><th>Spesa stimata</th></tr></thead>\n<tbody>\n<tr><td>n.11-TCA26 [8TC]</td><td>Sotterranei</td><td>2.000</td></tr>\n<tr><td>n.12-TCA26 [Sede TC]</td><td>2ATC</td><td>1.500</td></tr>\n<tr><td>n.13-TCA26 [Sito Web]</td><td>//</td><td>600</td></tr>\n</tbody>\n</table>",
-          "commi": []
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Interventi Urgenti",
-          "testo": "Interventi da effettuare entro 180 giorni:",
-          "commi": [
-            {
-              "testo": "Interventi strutturali per la sicurezza del complesso:",
-              "sottocommi": [
-                {
-                  "testo": "(opera n.1-TCA26) - Costruzione del sistema di elevazione della torre numero due, con una lobby per gli elevatori espressi posizionata nel 7°piano, dalla lobby sono predisposte le scale per il collegamento con tutti i piani interessati;"
-                },
-                {
-                  "testo": "(opera n.2-TCA26) - Sostituzione dei solai della torre dal piano numero 7 al 12 con un doppio strato (smoothstone e spruce) in conformità con la norma anticendi locale;"
-                },
-                {
-                  "testo": "(opera n.3-TCA26) - Sostituzione delle facciate esterne del complesso, sostituite con deepslate causa usura;"
-                },
-                {
-                  "testo": "(opera n.4-TCA26)  - Costruzione del 3 piano dell’edificio seguendo la pianta originale per espandere la superfice di 243bl^2"
-                },
-                {
-                  "testo": "(opera n.5-TCA26) - Intervento di ristrutturazione della facciata esterna del complesso, dal piano n.2 al n.6;"
-                },
-                {
-                  "testo": "(opera n.6-TCA26) - Espansione del centro commerciale \"3ATC\", delle vie pedonali, dei collegamenti inter-complesso come in figura."
-                }
-              ],
-              "immagine": {
-                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
-                "didascalia": "Progetto \"mall\""
-              }
-            }
-          ]
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Interventi Ordinari",
-          "testo": "Interventi da effettuare entro 270 giorni :",
-          "commi": [
-            {
-              "testo": "Interventi che coinvolgono il piano sotterraneo del complesso per migliorare la viabilità:",
-              "sottocommi": [
-                {
-                  "testo": "(opera n.7-TCA26) - Modifica del tracciato della RERa, con aggiunta della stazione \"Federal District\" come nel piano in figura"
-                },
-                {
-                  "testo": "(opera n.8-TCA26) - Espansione della Linea 1 della Metropolitana di Taleen in direzione della stazione  \"Trade Center\""
-                },
-                {
-                  "testo": "(opera n.9-TCA26) - Viene costruita la linea terrestre \"Trans Trade System\" che collega il complesso dal 7ATC al 1ATC, passando per TradePlaza e RaketeAlee"
-                },
-                {
-                  "testo": "(opera n.10-TCA260) - Modifica al tracciato dello Shùtle n.7 per collegare meglio il complesso con la città di Taleen;"
-                }
-              ],
-              "immagine": {
-                "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
-                "didascalia": ""
-              }
-            }
-          ]
-        },
-        {
-          "tipo": "sezione",
-          "titolo": "Interventi Minori",
-          "testo": "Interventi da effettuare entro 365 giorni:",
-          "commi": [
-            {
-              "testo": "Interventi minori per la coerenza del complesso:",
-              "sottocommi": [
-                {
-                  "testo": "(n.11-TCA26) - La \"Stazione Trade Center\" viene rinorminata \"8TC\";"
-                },
-                {
-                  "testo": "(n.12-TCA26) - Il piano n.2 del palazzo 2ATC, è la sede della della \"Trade Center Authority\""
-                },
-                {
-                  "testo": "(n.13-TCA26) - Viene costruito il <a href=\"https://ews-rose.vercel.app/TradeCenterATH.html\" target=\"_blank\" rel=\"noopener noreferrer\">sito web del Trade Center</a>, controllato dalla TCA;"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "galleria": [
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/PrincipeATC.png",
-          "didascalia": "Mappa del Complesso"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Mallproposta.png",
-          "didascalia": "Proposta ristrutturazione 5ATC & 6ATC"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/MallATC.png",
-          "didascalia": "5ATC & 6ATC Attuali"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/TransitpProp.png",
-          "didascalia": "Proposta ristrutturazione dei Trasporti"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CTSU/ATC/Transit.png",
-          "didascalia": "Trasporti Attuali"
-        }
-      ],
       "allegati": []
     },
     {
