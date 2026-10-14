@@ -795,7 +795,7 @@
         },
         {
           "tipo": "mappa",
-          "titolo": "",
+          "titolo": "Sistema di Trasporto Sick",
           "didascalia": "",
           "allineamento": "centro",
           "larghezza": 420,
@@ -861,7 +861,16 @@
             },
             {
               "tipo": "fermata",
-              "icone": "BHF",
+              "icone": "BHF KBHFa",
+              "km": "",
+              "nome": "Sars / Taleen",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "ABZgl ABZgr",
               "km": "",
               "nome": "",
               "dettaglio": "",
@@ -871,15 +880,6 @@
             {
               "tipo": "fermata",
               "icone": "ABZg+l ABZg+r",
-              "km": "",
-              "nome": "",
-              "dettaglio": "",
-              "url": "",
-              "colore": ""
-            },
-            {
-              "tipo": "fermata",
-              "icone": "ABZgl ABZgr",
               "km": "",
               "nome": "",
               "dettaglio": "",
