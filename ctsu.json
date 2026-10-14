@@ -739,7 +739,7 @@
           "tipo": "mappa",
           "titolo": "Metropolitana di Terlin",
           "didascalia": "",
-          "allineamento": "centro",
+          "allineamento": "sinistra",
           "larghezza": 420,
           "dimensione_icone": 20,
           "mostra_km": true,
@@ -750,20 +750,56 @@
             {
               "tipo": "fermata",
               "icone": "KBHFa",
-              "km": "1",
-              "nome": "a",
-              "dettaglio": "d",
+              "km": "",
+              "nome": "Tabara International",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "Tabara West",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "NeunStrasse",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "fermata",
+              "icone": "BHF",
+              "km": "",
+              "nome": "ElfteStrasse",
+              "dettaglio": "",
+              "url": "",
+              "colore": ""
+            },
+            {
+              "tipo": "nota",
+              "icone": "ABZg+l STRr",
+              "km": "",
+              "nome": "",
+              "dettaglio": "",
               "url": "",
               "colore": ""
             },
             {
               "tipo": "fermata",
               "icone": "KBHFe",
-              "km": "2",
-              "nome": "s",
-              "dettaglio": "d",
+              "km": "",
+              "nome": "Tùria",
+              "dettaglio": "",
               "url": "",
-              "colore": "#f6d32d"
+              "colore": ""
             }
           ]
         }
