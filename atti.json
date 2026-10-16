@@ -3339,7 +3339,7 @@
         },
         {
           "numero": "I-1",
-          "rubrica": "",
+          "rubrica": "Natura dell'Unione",
           "commi": [
             {
               "testo": "L'Unione Sociale degli Stati dell’Estji è un’unione federale e sociale di tutti i lavoratori e i giocatori, fondata su un’alleanza di popoli liberi e uguali.",
@@ -3349,7 +3349,7 @@
         },
         {
           "numero": "I-2",
-          "rubrica": "",
+          "rubrica": "Sovranità popolare",
           "commi": [
             {
               "testo": "Tutto il potere politico e amministrativo nell'USSE appartiene ed è emanato esclusivamente dai cittadini e dai lavoratori, organizzati in Assemblee.",
@@ -3359,7 +3359,7 @@
         },
         {
           "numero": "I-3",
-          "rubrica": "",
+          "rubrica": "Sistema delle Assemblee e dei Congressi",
           "commi": [
             {
               "testo": "Il potere statale è esercitato attraverso il sistema le Assemblee e i Congressi, eletti democraticamente nei luoghi di lavoro, di residenza e di studio.",
@@ -3373,7 +3373,7 @@
         },
         {
           "numero": "I-4",
-          "rubrica": "",
+          "rubrica": "Elettività e revocabilità degli organi",
           "commi": [
             {
               "testo": "Tutti gli organi esecutivi, amministrativi e giudiziari sono eletti dai rispettivi organi legislativi, ad essi rispondono e da essi possono essere revocati in qualsiasi momento.",
@@ -3383,7 +3383,7 @@
         },
         {
           "numero": "I-5",
-          "rubrica": "",
+          "rubrica": "Partecipazione politica dei cittadini",
           "commi": [
             {
               "testo": "I giocatori hanno il diritto e il dovere di partecipare direttamente alla vita politica attraverso l'elezione e la revoca dei deputati e alla proposta di leggi (tramite CEPU) , la partecipazione a referendum e l'attività nelle assemblee popolari.",
@@ -3393,7 +3393,7 @@
         },
         {
           "numero": "I-6",
-          "rubrica": "",
+          "rubrica": "Principio di legalità",
           "commi": [
             {
               "testo": "Lo Stato, in tutte le sue articolazioni, agisce esclusivamente all'interno dei limiti e dei principi stabiliti dalla presente Costituzione e dalla legge.",
@@ -3403,7 +3403,7 @@
         },
         {
           "numero": "I-7",
-          "rubrica": "",
+          "rubrica": "Consultazione popolare e referendum",
           "commi": [
             {
               "testo": "Le questioni di vitale importanza per l'Unione, così come le leggi fondamentali, sono sottoposte alla discussione di tutto il Popolo e, ove previsto, alla sua approvazione diretta tramite referendum.",
@@ -3413,7 +3413,7 @@
         },
         {
           "numero": "I-8",
-          "rubrica": "",
+          "rubrica": "Iniziativa popolare e CEPU",
           "commi": [
             {
               "testo": "È garantito il diritto di iniziativa popolare per indire referendum propositivi, abrogativi e consultivi.",
@@ -3425,7 +3425,7 @@
         },
         {
           "numero": "I-9",
-          "rubrica": "",
+          "rubrica": "Proprietà collettiva delle risorse strategiche",
           "commi": [
             {
               "testo": "Le risorse minerarie, le fonti energetiche, le terre incolte, le ferrovie, i trasporti di massa e le industrie strategiche sono proprietà collettiva dei giocatori. La loro gestione e il loro sfruttamento sono regolati dalla legge sulla gestione delle industrie e sono sottoposti al controllo delle Assemblee, dei Congressi, del CTSU e del IVIdU.",
@@ -3439,7 +3439,7 @@
         },
         {
           "numero": "II-1",
-          "rubrica": "",
+          "rubrica": "Fondamento dell'economia",
           "commi": [
             {
               "testo": "La base dell'economia dell'USSE è la proprietà sociale collettiva sui mezzi di produzione fondamentali, che assicura lo sviluppo del benessere del Popolo e l'eliminazione dello sfruttamento dell'uomo sull'uomo.",
@@ -3449,7 +3449,7 @@
         },
         {
           "numero": "II-2",
-          "rubrica": "",
+          "rubrica": "Pianificazione economica democratica",
           "commi": [
             {
               "testo": "La pianificazione economica è democratica e dal basso verso l'alto. I piani economici partono dalle proposte delle Assemblee di fabbrica, sezione, regione e statali, vengono coordinati dal Consiglio Centrale di Pianificazione (eletto dal Congresso Unitario) e infine approvati dal Congresso Unitario stesso.",
@@ -3461,7 +3461,7 @@
         },
         {
           "numero": "II-3",
-          "rubrica": "",
+          "rubrica": "Proprietà collettiva unitaria",
           "commi": [
             {
               "testo": "Sono proprietà collettiva unitaria, gestita nell'interesse di tutto il Popolo dell'USSE:",
@@ -3476,7 +3476,7 @@
         },
         {
           "numero": "II-4",
-          "rubrica": "",
+          "rubrica": "Proprietà collettiva dei lavoratori",
           "commi": [
             {
               "testo": "Sono proprietà collettiva dei lavoratori, organizzati in cooperative o gestioni autonome sotto il controllo delle Assemblee di Sezione:",
@@ -3490,7 +3490,7 @@
         },
         {
           "numero": "II-5",
-          "rubrica": "",
+          "rubrica": "Proprietà personale",
           "commi": [
             {
               "testo": "È garantita la proprietà personale sui redditi da lavoro, sul risparmio, sull'abitazione principale e sui beni di uso e consumo personale.",
@@ -3500,7 +3500,7 @@
         },
         {
           "numero": "II-6",
-          "rubrica": "",
+          "rubrica": "Sostegno alle cooperative",
           "commi": [
             {
               "testo": "L'Unione, attraverso le sue assemblee e gli organi da essi eletti, promuove e assiste lo sviluppo delle cooperative di lavoratori e delle imprese a gestione collettiva, garantendo il loro accesso al credito, alla tecnologia e alla formazione.",
@@ -3510,7 +3510,7 @@
         },
         {
           "numero": "II-7",
-          "rubrica": "",
+          "rubrica": "Banca Centrale e sistema finanziario",
           "commi": [
             {
               "testo": "La Banca Centrale dell'Estji è un organo unitario sotto il controllo del Congresso Unitario. Emette e gestisce il Renminbi, moneta unica dell'Unione. L'intero sistema finanziario è sottoposto al controllo democratico del Popolo tramite l'Ispettorato Unitario di Vigilanza Finanziaria (IUVF), i cui membri sono eletti e revocabili dalla Camera di Bilancio.",
@@ -3522,7 +3522,7 @@
         },
         {
           "numero": "II-8",
-          "rubrica": "",
+          "rubrica": "Commercio estero",
           "commi": [
             {
               "testo": "Il commercio con Stati esteri è regolato dal Congresso Unitario e dal Consiglio Esecutivo dell’Unione per garantire che sia conforme agli interessi economici e alla politica estera pacifica dell'Unione.",
@@ -3532,7 +3532,7 @@
         },
         {
           "numero": "II-9",
-          "rubrica": "",
+          "rubrica": "Autosufficienza nelle risorse strategiche",
           "commi": [
             {
               "testo": "È compito fondamentale dell'Unione garantire l'autosufficienza nelle risorse strategiche. L'importazione di risorse di base è consentita solo previa approvazione del Consiglio Centrale di Pianificazione e solo dopo aver esaurito ogni possibilità di produzione interna o di ottimizzazione delle risorse esistenti.",
@@ -3542,7 +3542,7 @@
         },
         {
           "numero": "II-10",
-          "rubrica": "",
+          "rubrica": "Trasparenza e controllo popolare delle attività economiche",
           "commi": [
             {
               "testo": "Tutte le attività economiche, pubbliche e cooperative, sono tenute a operare in modo trasparente e sono soggette al controllo popolare, tramite le Assemblee, i Congressi e gli ispettorati da essi delegati.",
@@ -3556,7 +3556,7 @@
         },
         {
           "numero": "IIBis-1",
-          "rubrica": "",
+          "rubrica": "Composizione dell'Alto Moderatore",
           "commi": [
             {
               "testo": "L'Alto Moderatore è l'organo di garanzia costituzionale e di equilibrio tra i poteri. È composto da due Presidenti, un uomo e una donna, eletti a suffragio universale diretto con mandato di 5 anni non rinnovabile.",
@@ -3566,7 +3566,7 @@
         },
         {
           "numero": "IIBis-2",
-          "rubrica": "",
+          "rubrica": "Elezione dei Presidenti",
           "commi": [
             {
               "testo": "I Presidenti non possono appartenere allo stesso partito o corrente politica. La loro elezione avviene in due tornate separate.",
@@ -3576,7 +3576,7 @@
         },
         {
           "numero": "IIBis-3",
-          "rubrica": "",
+          "rubrica": "Competenze dell'Alto Moderatore",
           "commi": [
             {
               "testo": "Competenze dell'Alto Moderatore:",
@@ -3591,7 +3591,7 @@
         },
         {
           "numero": "IIBis-4",
-          "rubrica": "",
+          "rubrica": "Incompatibilità e responsabilità dei Presidenti",
           "commi": [
             {
               "testo": "I Presidenti non possono ricoprire altre cariche pubbliche durante il mandato. Il loro operato è pubblico e trasparente. Rispondono del loro operato di fronte al Congresso Unitario solo per violazione della Costituzione.",
@@ -3605,7 +3605,7 @@
         },
         {
           "numero": "III-1",
-          "rubrica": "",
+          "rubrica": "Principi della società",
           "commi": [
             {
               "testo": "La società dell'USSE si fonda sul principio della collaborazione solidale tra i lavoratori e tutte le nazionalità dell'Unione. L'obiettivo è l'omogeneità sociale, il superamento delle divisioni di classe e lo sviluppo armonioso di tutti i territori.",
@@ -3615,7 +3615,7 @@
         },
         {
           "numero": "III-2",
-          "rubrica": "",
+          "rubrica": "Condizioni di lavoro, ricerca e innovazione",
           "commi": [
             {
               "testo": "L'Unione garantisce il costante miglioramento delle condizioni di lavoro e di vita. A questo fine, promuove la ricerca scientifica e l'innovazione tecnologica, poste al servizio del benessere collettivo e sottoposte al controllo sociale dei Soviet e delle organizzazioni dei lavoratori.",
@@ -3625,7 +3625,7 @@
         },
         {
           "numero": "III-3",
-          "rubrica": "",
+          "rubrica": "Retribuzioni e qualità della vita",
           "commi": [
             {
               "testo": "Sulla base dell'aumento della produttività del lavoro e dell'efficienza economica, le assemblee, a tutti i livelli, attuano politiche per l'elevazione del livello retributivo, dei redditi reali e della qualità della vita di tutti i cittadini.",
@@ -3635,7 +3635,7 @@
         },
         {
           "numero": "III-4",
-          "rubrica": "",
+          "rubrica": "Sanità e previdenza sociale",
           "commi": [
             {
               "testo": "L'Unione garantisce e sviluppa sistemi sanitari e di previdenza sociale universali, gratuiti e di alta qualità, finanziati attraverso il bilancio sociale unitario e gestiti con la partecipazione dei rappresentanti eletti dei lavoratori e delle comunità locali.",
@@ -3645,7 +3645,7 @@
         },
         {
           "numero": "III-5",
-          "rubrica": "",
+          "rubrica": "Cooperative e organizzazioni sociali",
           "commi": [
             {
               "testo": "Lo Stato favorisce e sostiene l'attività delle Cooperative Popolari, dei collettivi di lavoratori e delle organizzazioni sociali e culturali, quali strumenti di autorganizzazione, emancipazione e partecipazione popolare.",
@@ -3655,7 +3655,7 @@
         },
         {
           "numero": "III-6",
-          "rubrica": "",
+          "rubrica": "Diritto all'alloggio",
           "commi": [
             {
               "testo": "È garantito il diritto all'alloggio. Questo diritto è assicurato dalla pianificazione democratica della costruzione di abitazioni confortevoli, dalla tutela del patrimonio abitativo sociale e da un equo canone d'affitto, stabilito in base al reddito, I cittadini sono tenuti a trattare con cura l'alloggio loro assegnato.",
@@ -3665,7 +3665,7 @@
         },
         {
           "numero": "III-7",
-          "rubrica": "",
+          "rubrica": "Istruzione",
           "commi": [
             {
               "testo": "L'istruzione e la cultura, in tutte le sue forme e gradi, è gratuita, laica e accessibile a tutti. Ha l'obiettivo di formare giocatori consapevoli e coscienti, sviluppare le potenzialità creative di ogni individuo e preparare i giovani al lavoro socialmente utile. I programmi educativi sono definiti con la partecipazione delle comunità scolastiche e delle assemblee.",
@@ -3675,7 +3675,7 @@
         },
         {
           "numero": "III-8",
-          "rubrica": "",
+          "rubrica": "Diritto alla cultura",
           "commi": [
             {
               "testo": "I cittadini dell'USSE hanno diritto di godere dei beni e delle realizzazioni culturali. Questo diritto è assicurato dall'accesso universale e gratuito a biblioteche, musei, teatri, archivi e da un sistema di mezzi di comunicazione di massa liberi, pluralisti e al servizio del Popolo.",
@@ -3685,7 +3685,7 @@
         },
         {
           "numero": "III-9",
-          "rubrica": "",
+          "rubrica": "Tutela delle nazionalità e delle culture",
           "commi": [
             {
               "testo": "L'Unione tutela, valorizza e promuove le culture, le lingue, le tradizioni e le identità di tutte le nazionalità e i gruppi etnici che la compongono, favorendo il loro sviluppo e il loro scambio reciproco, nel quadro dell'unità politica e sociale dell'USSE.",
@@ -3695,7 +3695,7 @@
         },
         {
           "numero": "III-10",
-          "rubrica": "",
+          "rubrica": "Libertà di coscienza e di religione",
           "commi": [
             {
               "testo": "È garantita la libertà di coscienza e di religione. Lo Stato e l’Unione è laico e assicura un equo trattamento e rispetto a tutte le confessioni, nel rispetto dell'ordine pubblico e dei principi della presente Costituzione. È vietato l'uso delle istituzioni religiose per fini politici.",
@@ -3705,7 +3705,7 @@
         },
         {
           "numero": "III-11",
-          "rubrica": "",
+          "rubrica": "Scioperi, sindacati e dissenso",
           "commi": [
             {
               "testo": "Gli scioperi, i sindacati e il dissenso sono inalienabili costituenti della società civile.",
@@ -3719,7 +3719,7 @@
         },
         {
           "numero": "IV-1",
-          "rubrica": "",
+          "rubrica": "Indipendenza dei giudici",
           "commi": [
             {
               "testo": "La giustizia nell’USSE è amministrata in nome del Popolo. I giudici sono indipendenti e soggetti soltanto alla Costituzione e alla legge. Non possono essere revocati dagli organi legislativi o esecutivi, né subire interferenze nell’esercizio delle loro funzioni.",
@@ -3729,7 +3729,7 @@
         },
         {
           "numero": "IV-2",
-          "rubrica": "",
+          "rubrica": "Struttura del sistema giudiziario",
           "commi": [
             {
               "testo": "Il sistema giudiziario è unico e si struttura su base unitaria, statale, regionale e locale.",
@@ -3739,7 +3739,7 @@
         },
         {
           "numero": "IV-3",
-          "rubrica": "",
+          "rubrica": "Congresso Giudiziario dell'Unione",
           "commi": [
             {
               "testo": "È istituito il Congresso Giudiziario dell’Unione (CGU) come organo di autogoverno della magistratura, dotato di autonomia organizzativa e finanziaria. Il CGU è composto da:",
@@ -3753,7 +3753,7 @@
         },
         {
           "numero": "IV-4",
-          "rubrica": "",
+          "rubrica": "Funzioni e mandato del CGU",
           "commi": [
             {
               "testo": "Il CGU provvede alle nomine, assegnazioni, trasferimenti, promozioni e ai procedimenti disciplinari dei magistrati, secondo le garanzie del contraddittorio e del doppio grado. I suoi membri durano in carica cinque anni e non sono rieleggibili.",
@@ -3763,7 +3763,7 @@
         },
         {
           "numero": "IV-5",
-          "rubrica": "",
+          "rubrica": "Nomina dei giudici",
           "commi": [
             {
               "testo": "I giudici dei tribunali locali, regionali e statali sono nominati dal CGU mediante concorso pubblico per titoli ed esami, salva la possibilità di accesso per chiara fama nei limiti stabiliti dalla legge. I giudici della Corte Suprema dell’Unione sono eletti dal Congresso Unitario su proposta formulata congiuntamente dal CGU e da una commissione tecnica composta dai presidenti delle accademie nazionali; la votazione richiede la maggioranza dei due terzi dei deputati.",
@@ -3773,7 +3773,7 @@
         },
         {
           "numero": "IV-6",
-          "rubrica": "",
+          "rubrica": "Inamovibilità dei giudici",
           "commi": [
             {
               "testo": "I giudici sono inamovibili. Possono essere sospesi o rimossi soltanto:",
@@ -3787,7 +3787,7 @@
         },
         {
           "numero": "IV-7",
-          "rubrica": "",
+          "rubrica": "Corte Suprema dell'Unione",
           "commi": [
             {
               "testo": "La Corte Suprema dell’Unione è il massimo organo giudiziario ordinario. I suoi giudici restano in carica quattro anni, non rinnovabili. La Corte Suprema:",
@@ -3802,7 +3802,7 @@
         },
         {
           "numero": "IV-8",
-          "rubrica": "",
+          "rubrica": "Tribunali statali e regionali",
           "commi": [
             {
               "testo": "I tribunali degli Stati Sociali e delle Regioni Autonome sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
@@ -3812,7 +3812,7 @@
         },
         {
           "numero": "IV-9",
-          "rubrica": "",
+          "rubrica": "Diritto a un processo equo",
           "commi": [
             {
               "testo": "È garantito a ogni cittadino il diritto a un processo equo e pubblico. L’imputato ha diritto:",
@@ -3829,7 +3829,7 @@
         },
         {
           "numero": "IV-10",
-          "rubrica": "",
+          "rubrica": "Procura Generale dell'Unione",
           "commi": [
             {
               "testo": "La funzione di pubblica accusa è affidata alla Procura Generale dell’Unione, organo autonomo e indipendente. I procuratori sono selezionati mediante concorso pubblico bandito dal CGU e nominati con decreto del Presidente dell’Alto Moderatore su designazione del CGU. Il Procuratore Generale dell’Unione è nominato per un mandato di cinque anni non rinnovabile, con le stesse garanzie di inamovibilità dei giudici.",
@@ -3843,7 +3843,7 @@
         },
         {
           "numero": "IV-11",
-          "rubrica": "",
+          "rubrica": "Corte Costituzionale dell'Unione",
           "commi": [
             {
               "testo": "È istituita la Corte Costituzionale dell’Unione come supremo organo di garanzia costituzionale. La Corte è composta da sette giudici:",
@@ -3858,7 +3858,7 @@
         },
         {
           "numero": "IV-12",
-          "rubrica": "",
+          "rubrica": "Competenze della Corte Costituzionale",
           "commi": [
             {
               "testo": "La Corte Costituzionale:",
@@ -3873,7 +3873,7 @@
         },
         {
           "numero": "IV-13",
-          "rubrica": "",
+          "rubrica": "Effetti delle decisioni della Corte Costituzionale",
           "commi": [
             {
               "testo": "Le decisioni della Corte Costituzionale sono inappellabili e vincolanti per tutti i soggetti pubblici e privati.",
@@ -3885,7 +3885,7 @@
         },
         {
           "numero": "IV-14",
-          "rubrica": "",
+          "rubrica": "Incompatibilità e responsabilità dei magistrati",
           "commi": [
             {
               "testo": "I magistrati non possono essere iscritti a partiti politici, né svolgere attività professionale o commerciale incompatibile con l’esercizio imparziale delle funzioni. La violazione dei doveri d’ufficio e delle garanzie di indipendenza comporta responsabilità disciplinare, civile e penale secondo la legge.",
@@ -3899,7 +3899,7 @@
         },
         {
           "numero": "V-1",
-          "rubrica": "",
+          "rubrica": "Difesa dell'Unione",
           "commi": [
             {
               "testo": "La difesa della Fazione Unitaria, dell'integrità territoriale e della sovranità dell'Unione è sacro dovere di ogni giocatore dell'USSE. L'Unione garantisce la propria sicurezza attraverso una dottrina militare esclusivamente difensiva e la forza unita di tutto il popolo.",
@@ -3909,7 +3909,7 @@
         },
         {
           "numero": "V-2",
-          "rubrica": "",
+          "rubrica": "Funzione delle Forze Armate",
           "commi": [
             {
               "testo": "Le Forze Armate dell'Estji sono il braccio armato dei giocatori. La loro funzione è la difesa dell'Unione, non l'aggressione. È vietato l'impiego delle Forze Armate per scopi di repressione interna, salvo che in stato di legge marziale dichiarato dal Consigli Esecutivo dell’Unione con il consenso del Congresso Unitario.",
@@ -3919,7 +3919,7 @@
         },
         {
           "numero": "V-3",
-          "rubrica": "",
+          "rubrica": "Comando supremo",
           "commi": [
             {
               "testo": "Il comando supremo delle Forze Armate dell'Estji spetta al Congresso Unitario. Nell'intervallo tra le sue sessioni, le funzioni di comando supremo sono esercitate dal Consiglio Esecutivo dell’Unione.",
@@ -3929,7 +3929,7 @@
         },
         {
           "numero": "V-4",
-          "rubrica": "",
+          "rubrica": "Consiglio Militare Unitario",
           "commi": [
             {
               "testo": "La direzione operativa e l'organizzazione quotidiana delle Forze Armate sono affidate al Consiglio Militare Unitario, eletto dal Congresso Unitario e ad esso direttamente responsabile. I membri del Consiglio possono essere revocati in qualsiasi momento",
@@ -3939,7 +3939,7 @@
         },
         {
           "numero": "V-5",
-          "rubrica": "",
+          "rubrica": "Struttura delle Forze Armate",
           "commi": [
             {
               "testo": "Le Forze Armate dell'Estji sono strutturate su base unitaria e centralizzata, articolandosi in:",
@@ -3954,7 +3954,7 @@
         },
         {
           "numero": "V-6",
-          "rubrica": "",
+          "rubrica": "Servizio militare",
           "commi": [
             {
               "testo": "È istituito il servizio militare universale e obbligatorio per tutti i giocatori, senza distinzione di genere, al compimento dei 13 anni d’età. La legge regola le modalità del servizio, nonché l'obiezione di coscienza e le forme alternative di servizio civile.",
@@ -3964,7 +3964,7 @@
         },
         {
           "numero": "V-7",
-          "rubrica": "",
+          "rubrica": "Sicurezza interna e protezione civile",
           "commi": [
             {
               "testo": "La sicurezza interna e la protezione civile sono garantite da:",
@@ -3977,7 +3977,7 @@
         },
         {
           "numero": "V-8",
-          "rubrica": "",
+          "rubrica": "Stato di emergenza e legge marziale",
           "commi": [
             {
               "testo": "In stato di emergenza nazionale o di guerra, il Consiglio Esecutivo Unitario con successiva approvazione , entro 24 ore, da parte del Congresso Unitario può proclamare la legge marziale e conferire pieni poteri al Consiglio Militare Unitario, che dovrà comunque presentare rapporti periodici al Consiglio Esecutivo dell’Unione.",
@@ -3987,7 +3987,7 @@
         },
         {
           "numero": "V-9",
-          "rubrica": "",
+          "rubrica": "Industria della difesa",
           "commi": [
             {
               "testo": "L'industria della difesa è proprietà collettiva dell’Unione e opera sotto il diretto controllo del Consiglio Centrale di Pianificazione, del Comitato Tecnico-Scientifico dell’Unione e del Consiglio Militare Unitario, per garantire che risponda esclusivamente alle necessità della difesa nazionale e non a interessi privati.",
@@ -4001,7 +4001,7 @@
         },
         {
           "numero": "VBis-1",
-          "rubrica": "",
+          "rubrica": "Natura e composizione del CTSU",
           "commi": [
             {
               "testo": "Il Comitato Tecnico-Scientifico dell'Unione (CTSU) è l'organo di consulenza scientifica e tecnica dello Stato. È composto da eminenti scienziati, ricercatori, economisti e filosofi nominati dalle accademie e dalle università.",
@@ -4011,7 +4011,7 @@
         },
         {
           "numero": "VBis-2",
-          "rubrica": "",
+          "rubrica": "Mandato e incompatibilità dei membri del CTSU",
           "commi": [
             {
               "testo": "I membri del CTSU sono nominati per un mandato di 6 anni non rinnovabile. Non possono ricoprire cariche politiche né avere incarichi di partito. Il Comitato garantisce la rappresentanza di diverse discipline scientifiche e di diverse visioni filosofiche e religiose.",
@@ -4021,7 +4021,7 @@
         },
         {
           "numero": "VBis-3",
-          "rubrica": "",
+          "rubrica": "Pareri obbligatori del CTSU",
           "commi": [
             {
               "testo": "Il parere del CTSU è obbligatorio su:",
@@ -4035,7 +4035,7 @@
         },
         {
           "numero": "VBis-4",
-          "rubrica": "",
+          "rubrica": "Veto tecnico",
           "commi": [
             {
               "testo": "Il CTSU ha potere di veto tecnico. Se una proposta è giudicata matematicamente impossibile, tecnicamente irrealizzabile o scientificamente infondata con relazione motivata, la proposta è sospesa e rinviata. Il veto può essere superato solo dal Congresso Unitario con maggioranza dei 3/4 e dopo nuova istruttoria.",
@@ -4045,7 +4045,7 @@
         },
         {
           "numero": "VBis-5",
-          "rubrica": "",
+          "rubrica": "Raccomandazioni e piani alternativi",
           "commi": [
             {
               "testo": "Il CTSU può formulare raccomandazioni e proporre piani alternativi agli organi legislativi ed esecutivi.",
@@ -4059,7 +4059,7 @@
         },
         {
           "numero": "VI-1",
-          "rubrica": "",
+          "rubrica": "Forma dell'Unione",
           "commi": [
             {
               "testo": "L'Unione Sociale degli Stati dell'Estji è una unione federale, sociale e plurinazionale, fondata sull'alleanza volontaria e sulla sovranità condivisa di tutti i suoi popoli. L'unità statale è personificata dal sistema unificato di Assemblee.",
@@ -4069,7 +4069,7 @@
         },
         {
           "numero": "VI-2",
-          "rubrica": "",
+          "rubrica": "Territorio dell'Unione",
           "commi": [
             {
               "testo": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, delle Regioni Autonome e delle Città Metropolitane.",
@@ -4079,7 +4079,7 @@
         },
         {
           "numero": "VI-3",
-          "rubrica": "",
+          "rubrica": "Stati Sociali e diritto di autodeterminazione",
           "commi": [
             {
               "testo": "L'Unione è composta da Stati Sociali sovrani e uguali in diritti. Ogni Stato Sociale conserva il diritto di autodeterminazione, incluso il diritto di recesso, da esercitarsi attraverso un referendum popolare dello Stato interessato, approvato con maggioranza dei due terzi, e la successiva ratifica del Soviet Supremo dell'Unione.",
@@ -4089,7 +4089,7 @@
         },
         {
           "numero": "VI-4",
-          "rubrica": "",
+          "rubrica": "Stati Sociali membri",
           "commi": [
             {
               "testo": "Gli Stati Sociali membri dell'USSE sono:",
@@ -4115,7 +4115,7 @@
         },
         {
           "numero": "VI-5",
-          "rubrica": "",
+          "rubrica": "Costituzioni degli Stati Sociali",
           "commi": [
             {
               "testo": "Ogni Stato Sociale ha una propria Costituzione, che deve essere conforme alla presente Costituzione Unitaria e deve essere approvata dal Congresso Statale e può essere contestata dal Congresso Unitario. Le costituzioni statali devono riflettere il sistema dell’unione come unica fonte del potere.",
@@ -4125,7 +4125,7 @@
         },
         {
           "numero": "VI-6",
-          "rubrica": "",
+          "rubrica": "Integrità territoriale degli Stati Sociali",
           "commi": [
             {
               "testo": "Il territorio di uno Stato Sociale non può essere alterato senza il suo consenso. Le modifiche dei confini tra Stati Sociali possono avvenire solo con il comune accordo dei rispettivi Congressi Statali e Regionali, sottoposto a referendum popolare in ciascuno Stato interessato e ratificato dal Congresso Unitario.",
@@ -4135,7 +4135,7 @@
         },
         {
           "numero": "VI-7",
-          "rubrica": "",
+          "rubrica": "Autonomia degli Stati Sociali",
           "commi": [
             {
               "testo": "Gli Stati Sociali godono di autonomia in materia di pianificazione economica locale, cultura, istruzione, salute e tutela dell'ambiente, nel quadro delle linee guida e delle leggi unitarie.",
@@ -4145,7 +4145,7 @@
         },
         {
           "numero": "VI-8",
-          "rubrica": "",
+          "rubrica": "Prevalenza della legge unitaria",
           "commi": [
             {
               "testo": "Le leggi dell'USSE hanno efficacia su tutto il territorio dell'Unione. In caso di contrasto tra una legge di uno Stato Sociale e una legge unitaria, prevale la legge unitaria.",
@@ -4155,7 +4155,7 @@
         },
         {
           "numero": "VI-9",
-          "rubrica": "",
+          "rubrica": "Rappresentanza paritaria",
           "commi": [
             {
               "testo": "I meccanismi di rappresentanza nel Congresso Unitario garantiscono la partecipazione paritaria di tutti i gruppi sociali, territoriali, linguistici e culturali. Ogni Assemblea e Congresso, a tutti i livelli, deve includere delegati che rappresentino la diversità di genere e le minoranze linguistiche e culturali presenti nella circoscrizione, secondo quote definite per legge.",
@@ -4169,7 +4169,7 @@
         },
         {
           "numero": "VII-1",
-          "rubrica": "",
+          "rubrica": "Sovranità condivisa degli Stati Sociali",
           "commi": [
             {
               "testo": "L'Unione Sociale degli Stati dell'Estji è fondata sull'unione volontaria e sulla sovranità condivisa di Stati Sociali eguali in diritti. Ogni Stato Sociale è un'entità statale sovrana che ha liberamente delegato una parte delle proprie competenze all'Unione, esercitando le rimanenti in piena autonomia attraverso il proprio sistema di Assemblee.",
@@ -4179,7 +4179,7 @@
         },
         {
           "numero": "VII-2",
-          "rubrica": "",
+          "rubrica": "Conformità delle Costituzioni statali",
           "commi": [
             {
               "testo": "Ogni Stato Sociale ha una propria Costituzione, che deve essere pienamente conforme alla Costituzione dell'USSE e deve riflettere il principio del potere popolare esercitato attraverso le Assemblee e i Congressi.",
@@ -4189,7 +4189,7 @@
         },
         {
           "numero": "VII-3",
-          "rubrica": "",
+          "rubrica": "Competenze esclusive degli Stati Sociali",
           "commi": [
             {
               "testo": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
@@ -4203,7 +4203,7 @@
         },
         {
           "numero": "VII-4",
-          "rubrica": "",
+          "rubrica": "Relazioni transfrontaliere",
           "commi": [
             {
               "testo": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con regioni di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
@@ -4213,7 +4213,7 @@
         },
         {
           "numero": "VII-5",
-          "rubrica": "",
+          "rubrica": "Tutela dei diritti sovrani degli Stati Sociali",
           "commi": [
             {
               "testo": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati, in violazione della Costituzione, è illegittima.",
@@ -4227,7 +4227,7 @@
         },
         {
           "numero": "VIII-1",
-          "rubrica": "",
+          "rubrica": "Regioni Autonome",
           "commi": [
             {
               "testo": "All'interno degli Stati Sociali, possono essere costituite Regioni Autonome per garantire lo sviluppo culturale, linguistico e sociale di nazionalità o gruppi etnici specifici. La loro istituzione è approvata dal Congresso dello Stato Sociale interessato e ratificata dal Congresso Unitario.",
@@ -4237,7 +4237,7 @@
         },
         {
           "numero": "VIII-2",
-          "rubrica": "",
+          "rubrica": "Poteri delle Regioni Autonome",
           "commi": [
             {
               "testo": "Le Regioni Autonome esercitano i poteri di uno Stato Sociale in materia culturale, linguistica e di educazione, attraverso il proprio Congresso Regionale Autonomo, eletto dalla popolazione della Regione.",
@@ -4247,7 +4247,7 @@
         },
         {
           "numero": "VIII-3",
-          "rubrica": "",
+          "rubrica": "Territori Speciali",
           "commi": [
             {
               "testo": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
@@ -4257,7 +4257,7 @@
         },
         {
           "numero": "VIII-4",
-          "rubrica": "",
+          "rubrica": "Rappresentanza di Regioni Autonome e Territori Speciali",
           "commi": [
             {
               "testo": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
@@ -4271,7 +4271,7 @@
         },
         {
           "numero": "IX-1",
-          "rubrica": "",
+          "rubrica": "Esercizio del potere statale",
           "commi": [
             {
               "testo": "Il potere statale nell'USSE, a tutti i livelli, è esercitato esclusivamente attraverso il sistema di Assemblee e Congressi.",
@@ -4281,7 +4281,7 @@
         },
         {
           "numero": "IX-2",
-          "rubrica": "",
+          "rubrica": "Unità del sistema Hankonen",
           "commi": [
             {
               "testo": "Gli organi a livello locale, regionale e unitario costituiscono un unico sistema organico, basato sui principi del centralismo democratico e del mandato imperativo.",
@@ -4293,7 +4293,7 @@
         },
         {
           "numero": "IX-3",
-          "rubrica": "",
+          "rubrica": "Mandato imperativo",
           "commi": [
             {
               "testo": "Mandato Imperativo: I membri di ogni Assemblee/Congressi sono eletti dai cittadini o dagli organi di livello inferiore sulla base di un programma e di un mandato preciso. Sono responsabili direttamente di fronte ai loro elettori e possono essere revocati in qualsiasi momento, secondo le modalità stabilite dalla legge, se non adempiono al loro mandato.",
@@ -4303,7 +4303,7 @@
         },
         {
           "numero": "IX-4",
-          "rubrica": "",
+          "rubrica": "Centralismo democratico",
           "commi": [
             {
               "testo": "Centralismo Democratico: Le decisioni dei Congressi e Assemblee sono prese a maggioranza dopo un libero e dibattito democratico. Una volta approvate, le decisioni sono vincolanti per tutti gli organi e i cittadini sottoposti alla giurisdizione di quell'assemblea, e devono essere attuate in modo unitario.",
@@ -4313,7 +4313,7 @@
         },
         {
           "numero": "IX-5",
-          "rubrica": "",
+          "rubrica": "Subordinazione tra Assemblee e Congressi",
           "commi": [
             {
               "testo": "Le Assemblee e i Congressi degli enti territoriali minori sono tenuti a rispettare le decisioni dei Congressi degli enti territoriali maggiori, che a loro volta rispettano le leggi e le decisioni del Congresso Unitario, massimo organo del potere statale.",
@@ -4323,7 +4323,7 @@
         },
         {
           "numero": "IX-6",
-          "rubrica": "",
+          "rubrica": "Collegialità e trasparenza dei lavori",
           "commi": [
             {
               "testo": "L'organizzazione del lavoro delle Assemblee a tutti i livelli si basa sul principio della collegialità, della trasparenza e del controllo popolare. Le sessioni delle Assemblee sono pubbliche, salvo i casi eccezionali previsti dalla legge.",
@@ -4337,7 +4337,7 @@
         },
         {
           "numero": "X-1",
-          "rubrica": "",
+          "rubrica": "Natura del Congresso Unitario",
           "commi": [
             {
               "testo": "Il Congresso Unitario è il massimo organo del potere statale dell'USSE. Esercita la sovranità popolare in nome di tutto i giocatori dell'Unione e detiene l'intera autorità legislativa e di indirizzo politico unitario.",
@@ -4347,7 +4347,7 @@
         },
         {
           "numero": "X-2",
-          "rubrica": "",
+          "rubrica": "Composizione del Congresso Unitario",
           "commi": [
             {
               "testo": "Il Congresso Unitario è composto da deputati eletti dai Congressi Regionali degli Stati Sociali e delle Regioni Autonome, in proporzione alla loro popolazione. L'elettorato passivo spetta a tutti i cittadini che hanno compiuto i 16 anni di età.",
@@ -4359,7 +4359,7 @@
         },
         {
           "numero": "X-3",
-          "rubrica": "",
+          "rubrica": "Durata e revoca dei deputati",
           "commi": [
             {
               "testo": "Il Congresso Unitario è eletto ogni anno. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dai Congressi che li hanno eletti.",
@@ -4369,7 +4369,7 @@
         },
         {
           "numero": "X-4",
-          "rubrica": "",
+          "rubrica": "Competenze del Congresso Unitario",
           "commi": [
             {
               "testo": "Il Congresso Unitario:",
@@ -4387,7 +4387,7 @@
         },
         {
           "numero": "X-5",
-          "rubrica": "",
+          "rubrica": "Sessioni del Congresso Unitario",
           "commi": [
             {
               "testo": "Le sessioni del Congresso Unitario sono convocate dal suo Presidium almeno due volte al mese. Sessioni straordinarie possono essere convocate su iniziativa del Presidium o su richiesta di almeno un terzo dei deputati.",
@@ -4397,7 +4397,7 @@
         },
         {
           "numero": "X-6",
-          "rubrica": "",
+          "rubrica": "Consiglio Esecutivo dell'Unione e Presidium",
           "commi": [
             {
               "testo": "Il Consiglio Esecutivo dell'Unione è l'organo permanente eletto dal Congresso Unitario, che ne esercita le funzioni tra una sessione e l'altra. Risponde del proprio operato al Congresso Unitario.",
@@ -4413,7 +4413,7 @@
         },
         {
           "numero": "XI-1",
-          "rubrica": "",
+          "rubrica": "Il Consolato dell'Unione",
           "commi": [
             {
               "testo": "Il Consolato dell'Unione è il massimo organo esecutivo e amministrativo dell'USSE. È composto da tre Consoli, ciascuno con un Vice-console che lo sostituisce in caso di assenza o impedimento.",
@@ -4423,7 +4423,7 @@
         },
         {
           "numero": "XI-2",
-          "rubrica": "",
+          "rubrica": "Nomina e mandato dei Consoli",
           "commi": [
             {
               "testo": "I Consoli sono nominati dall'Alto Moderatore e approvati dal Congresso Unitario con voto di fiducia. Il loro mandato è di 2 anni, non immediatamente rinnovabile.",
@@ -4433,7 +4433,7 @@
         },
         {
           "numero": "XI-3",
-          "rubrica": "",
+          "rubrica": "Decisioni collegiali e ripartizione delle competenze",
           "commi": [
             {
               "testo": "Le decisioni sono collegiali e assunte a maggioranza, la ripartizione delle competenze tra i Consoli è la seguente:",
@@ -4447,7 +4447,7 @@
         },
         {
           "numero": "XI-4",
-          "rubrica": "",
+          "rubrica": "Composizione del Consolato in assenza di maggioranza",
           "commi": [
             {
               "testo": "In caso di elezioni ordinarie senza maggioranza assoluta di un partito, il Consolato è composto da due rappresentanti della coalizione di maggioranza e uno del principale partito di opposizione. In caso di elezioni straordinarie con maggioranza assoluta, i tre Consoli sono scelti tra le diverse correnti del partito vincitore.",
@@ -4457,7 +4457,7 @@
         },
         {
           "numero": "XI-5",
-          "rubrica": "",
+          "rubrica": "Competenze del Consolato",
           "commi": [
             {
               "testo": "Il Consolato dell'Unione:",
@@ -4473,7 +4473,7 @@
         },
         {
           "numero": "XI-6",
-          "rubrica": "",
+          "rubrica": "Responsabilità dei Consoli",
           "commi": [
             {
               "testo": "Ogni Console è responsabile del proprio operato davanti al Consolato e al Congresso Unitario.",
@@ -4483,7 +4483,7 @@
         },
         {
           "numero": "XI-7",
-          "rubrica": "",
+          "rubrica": "Commissioni",
           "commi": [
             {
               "testo": "I Consoli possono istituire Commissioni, con deroga per specifiche competenze.",
@@ -4496,7 +4496,7 @@
         },
         {
           "numero": "XI-8",
-          "rubrica": "",
+          "rubrica": "Consiglio dell'Unione",
           "commi": [
             {
               "testo": "Il Consolato, riunito con le Commissioni formano il Consiglio dell’Unione, che può deliberare in caso di necessità imminente.",
@@ -4510,7 +4510,7 @@
         },
         {
           "numero": "XII-1",
-          "rubrica": "",
+          "rubrica": "Natura del Congresso Statale",
           "commi": [
             {
               "testo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi deputati sono eletti a suffragio universale diretto dai cittadini residenti nello Stato.",
@@ -4520,7 +4520,7 @@
         },
         {
           "numero": "XII-2",
-          "rubrica": "",
+          "rubrica": "Competenze del Congresso Statale",
           "commi": [
             {
               "testo": "Il Congresso Statale:",
@@ -4536,7 +4536,7 @@
         },
         {
           "numero": "XII-3",
-          "rubrica": "",
+          "rubrica": "Potere esecutivo statale",
           "commi": [
             {
               "testo": "Il potere esecutivo nello Stato Sociale è esercitato dal Consiglio Esecutivo Statale, eletto e revocabile dal Congresso Statale.",
@@ -4546,7 +4546,7 @@
         },
         {
           "numero": "XII-4",
-          "rubrica": "",
+          "rubrica": "Commissioni statali",
           "commi": [
             {
               "testo": "Possono essere istituite commissioni con deroga.",
@@ -4560,7 +4560,7 @@
         },
         {
           "numero": "XIII-1",
-          "rubrica": "",
+          "rubrica": "Natura del Consiglio Esecutivo Statale",
           "commi": [
             {
               "testo": "Il Consiglio Esecutivo Statale è il governo statale. È eletto dal Congresso Statale e ad esso responsabile.",
@@ -4570,7 +4570,7 @@
         },
         {
           "numero": "XIII-2",
-          "rubrica": "",
+          "rubrica": "Competenze del Consiglio Esecutivo Statale",
           "commi": [
             {
               "testo": "Il Consiglio Esecutivo Statale:",
@@ -4586,7 +4586,7 @@
         },
         {
           "numero": "XIII-3",
-          "rubrica": "",
+          "rubrica": "Rapporti con il Consiglio Esecutivo Unitario",
           "commi": [
             {
               "testo": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
@@ -4600,7 +4600,7 @@
         },
         {
           "numero": "XIIIBis-1",
-          "rubrica": "",
+          "rubrica": "Natura dell'IVIdU",
           "commi": [
             {
               "testo": "L'Ispettorato di Vigilanza e Integrità dell’Unione (IVIdU) è l'organo supremo di controllo contro la corruzione, i conflitti d'interesse e gli abusi nella pubblica amministrazione.",
@@ -4610,7 +4610,7 @@
         },
         {
           "numero": "XIIIBis-2",
-          "rubrica": "",
+          "rubrica": "Selezione e mandato dei membri dell'IVIdU",
           "commi": [
             {
               "testo": "I membri dell'IVIdU sono selezionati per sorteggio tra cittadini con specifiche competenze giuridiche, economiche o investigative e con condotta morale ineccepibile. Il mandato è di 4 anni, non rinnovabile.",
@@ -4620,7 +4620,7 @@
         },
         {
           "numero": "XIIIBis-3",
-          "rubrica": "",
+          "rubrica": "Obblighi patrimoniali e divieti dei membri",
           "commi": [
             {
               "testo": "All'atto della nomina, i membri dell'IVIdU rinunciano a ogni proprietà personale, che viene affidata a un fondo fiduciario pubblico per la durata del mandato. Non possono accettare regali, donazioni o benefici di alcun tipo. Non possono ricoprire altre cariche pubbliche durante il mandato e nei 5 anni successivi.",
@@ -4630,7 +4630,7 @@
         },
         {
           "numero": "XIIIBis-4",
-          "rubrica": "",
+          "rubrica": "Competenze dell'IVIdU",
           "commi": [
             {
               "testo": "Competenze dell'IVIdU:",
@@ -4645,7 +4645,7 @@
         },
         {
           "numero": "XIIIBis-5",
-          "rubrica": "",
+          "rubrica": "Segreto istruttorio",
           "commi": [
             {
               "testo": "Le inchieste in corso sono coperte da segreto istruttorio fino alla formalizzazione delle accuse, per tutelare la presunzione di innocenza e prevenire pressioni mediatiche.",
@@ -4655,7 +4655,7 @@
         },
         {
           "numero": "XIIIBis-6",
-          "rubrica": "",
+          "rubrica": "Passaggio di consegne",
           "commi": [
             {
               "testo": "Alla scadenza dei mandati elettivi, l'IVIdU supervisiona il passaggio di consegne tra vecchi e nuovi eletti, verificando l'assenza di appropriazioni indebite.",
@@ -4665,7 +4665,7 @@
         },
         {
           "numero": "XIIIBis-7",
-          "rubrica": "",
+          "rubrica": "Collaborazione con i Procuratori e relazioni annuali",
           "commi": [
             {
               "testo": "L'IVIdU collabora con il Collegio dei Procuratori per l'azione penale. Le sue relazioni annuali sono pubbliche e discusse dal Congresso Unitario.",
@@ -4679,7 +4679,7 @@
         },
         {
           "numero": "XIV-1",
-          "rubrica": "",
+          "rubrica": "Suffragio e diritto di voto",
           "commi": [
             {
               "testo": "Le elezioni per le Assemblee e i Congressi a tutti i livelli si svolgono a suffragio universale, diretto, uguale e segreto. Il diritto di voto attivo e passivo spetta a tutti i cittadini dell'USSE che abbiano compiuto i 16 anni di età, senza distinzione di genere, etnia, religione o condizione sociale.",
@@ -4689,7 +4689,7 @@
         },
         {
           "numero": "XIV-2",
-          "rubrica": "",
+          "rubrica": "Sistema elettorale proporzionale",
           "commi": [
             {
               "testo": "Il sistema elettorale è di tipo proporzionale, per garantire una rappresentanza fedele della volontà popolare. Il territorio dell'Unione è suddiviso in circoscrizioni elettorali.",
@@ -4701,7 +4701,7 @@
         },
         {
           "numero": "XIV-3",
-          "rubrica": "",
+          "rubrica": "Partiti, organizzazioni sociali e finanziamento",
           "commi": [
             {
               "testo": "I partiti politici e le organizzazioni sociali (sindacati, cooperative) hanno diritto a presentare liste di candidati. Il finanziamento dei partiti è esclusivamente pubblico e proporzionale ai voti ottenuti, al fine di eliminare l'influenza di interessi privati sulla politica. È vietato il finanziamento privato dei partiti.",
@@ -4713,7 +4713,7 @@
         },
         {
           "numero": "XIV-4",
-          "rubrica": "",
+          "rubrica": "Diritto di revoca dei deputati",
           "commi": [
             {
               "testo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
@@ -4726,7 +4726,7 @@
         },
         {
           "numero": "XIV-5",
-          "rubrica": "",
+          "rubrica": "Candidature indipendenti",
           "commi": [
             {
               "testo": "È garantito il diritto di candidatura indipendente, sostenuta da un numero di firme definito dalla legge.",
@@ -4736,7 +4736,7 @@
         },
         {
           "numero": "XIV-6",
-          "rubrica": "",
+          "rubrica": "Divieto di organizzazioni d'odio",
           "commi": [
             {
               "testo": "È vietata la riorganizzazione, sotto qualsiasi forma, di Partiti d’odio e di ogni altra organizzazione che propugni l'odio razziale, nazionale o di classe. L'apologia del Fascismo e dello Stalinismo è punita dalla legge.",
@@ -4750,7 +4750,7 @@
         },
         {
           "numero": "XV-1",
-          "rubrica": "",
+          "rubrica": "Stemma",
           "commi": [
             {
               "testo": "Lo stemma dell’Unione Sociale degli Stati dell’Estji è formato dall’Unione di un martello e di un compasso, posizionati al centro di due mazzi di grano legati dal tricolore dell’USSE e dalla bandiera del CRU, circondati dalla Scritta <Union Der Wohlfahtsstaaten von Estji> e da una Corona di Meda.",
@@ -4760,7 +4760,7 @@
         },
         {
           "numero": "XV-2",
-          "rubrica": "",
+          "rubrica": "Bandiera",
           "commi": [
             {
               "testo": "La Bandiera dell’Unione Sociale degli Stati dell’Estji è un rettangolo diviso in tre parti orizzontali uguali, di colore Azzurro, Nero e Bianco, dall’alto al basso.",
@@ -4770,7 +4770,7 @@
         },
         {
           "numero": "XV-3",
-          "rubrica": "",
+          "rubrica": "Capitale",
           "commi": [
             {
               "testo": "La Capitale dell’USSE è la Città Metropolitana di Taleen, nello Stato Sociale di EstjiLinn.",
@@ -4780,7 +4780,7 @@
         },
         {
           "numero": "XV-4",
-          "rubrica": "",
+          "rubrica": "Lingue ufficiali",
           "commi": [
             {
               "testo": "Le lingue ufficiali dell’Unione sono, Francese, Italiano, Tedesco, Finlandese e Inglese.",
@@ -4790,7 +4790,7 @@
         },
         {
           "numero": "XV-5",
-          "rubrica": "",
+          "rubrica": "Bandiere degli Stati Sociali e delle istituzioni",
           "commi": [
             {
               "testo": "Ogni Stato Sociale e ogni istituzione riconosciuta dall’Unione ha diritto a usare una Bandiera che simboleggi il suo territorio, in caso di infissione in un palazzo pubblico, la si bisogna appendere a fianco a quella Unitaria o Statale.",
@@ -4804,7 +4804,7 @@
         },
         {
           "numero": "XVI-1",
-          "rubrica": "",
+          "rubrica": "Supremazia della Costituzione",
           "commi": [
             {
               "testo": "La presente Costituzione possiede forza giuridica suprema. Tutte le leggi e gli atti degli organi statali devono essere conformi ad essa.",
@@ -4814,7 +4814,7 @@
         },
         {
           "numero": "XVI-2",
-          "rubrica": "",
+          "rubrica": "Iniziativa di revisione costituzionale",
           "commi": [
             {
               "testo": "Il diritto di iniziativa per la revisione costituzionale spetta al Consiglio Esecutivo dell'Unione, a un terzo dei deputati del Congresso Unitario, o a non meno di cinquecento cittadini elettori.",
@@ -4824,7 +4824,7 @@
         },
         {
           "numero": "XVI-3",
-          "rubrica": "",
+          "rubrica": "Maggioranza per le modifiche",
           "commi": [
             {
               "testo": "Le modifiche alla Costituzione devono essere approvate dalla maggioranza di almeno due terzi dei deputati del Congresso Unitario.",
@@ -4834,7 +4834,7 @@
         },
         {
           "numero": "XVI-4",
-          "rubrica": "",
+          "rubrica": "Referendum sulle modifiche fondamentali",
           "commi": [
             {
               "testo": "Le modifiche che riguardano i principi fondamentali dell'Unione, i diritti e i doveri dei cittadini, o la forma dello Stato, dopo l'approvazione del Congresso Unitario, devono essere obbligatoriamente sottoposte a referendum popolare confermativo a livello di tutta l'USSE per entrare in vigore.",
@@ -4848,7 +4848,7 @@
         },
         {
           "numero": "XVII-1",
-          "rubrica": "",
+          "rubrica": "Abrogazione della precedente Costituzione",
           "commi": [
             {
               "testo": "Con l'entrata in vigore della presente Costituzione, la precedente \"Einheitliche Verfassung Von Union Der Wohlfahrtßtaaten Von Estji\" e tutti gli atti normativi con essa in contrasto sono abrogati.",
@@ -4858,7 +4858,7 @@
         },
         {
           "numero": "XVII-2",
-          "rubrica": "",
+          "rubrica": "Adeguamento degli organi",
           "commi": [
             {
               "testo": "Tutti gli organi dello Stato e degli Stati Sociali sono tenuti ad adeguare la propria struttura, le proprie procedure e la propria legislazione alla presente Costituzione entro il termine massimo di dodici mesi dalla sua entrata in vigore.",
@@ -4870,7 +4870,7 @@
         },
         {
           "numero": "XVII-3",
-          "rubrica": "",
+          "rubrica": "Primo Congresso Unitario",
           "commi": [
             {
               "testo": "Il primo Congresso Unitario, eletto in base ai nuovi principi, avrà un mandato straordinario di due anni, al solo fine di garantire una stabile transizione e l'approvazione delle leggi organiche necessarie.",
@@ -4882,7 +4882,7 @@
         },
         {
           "numero": "XVII-4",
-          "rubrica": "",
+          "rubrica": "Economia in fase transitoria",
           "commi": [
             {
               "testo": "Fino alla piena attuazione del nuovo sistema economico di pianificazione democratica, le strutture economiche esistenti continueranno a operare sotto la supervisione temporanea del Consiglio dei Commissari dell'Unione.",
@@ -4894,7 +4894,7 @@
         },
         {
           "numero": "XVII-5",
-          "rubrica": "",
+          "rubrica": "Prima composizione di CTSU e IVIdU",
           "commi": [
             {
               "testo": "La prima composizione del CTSU e dell'IVIP sarà nominata da una commissione speciale del Congresso Unitario, sulla base delle candidature presentate dalle università, dalle accademie e dalle organizzazioni sociali, entro 6 mesi dall'entrata in vigore della presente Costituzione.",
@@ -4904,7 +4904,7 @@
         },
         {
           "numero": "XVII-6",
-          "rubrica": "",
+          "rubrica": "Entrata in vigore",
           "commi": [
             {
               "testo": "La presente Costituzione entra in vigore il giorno successivo alla sua approvazione mediante Referendum Costituzionale di tutto il Popolo dell'USSE, indetto dal Congresso Provvisorio del Processo Aggravato.",
