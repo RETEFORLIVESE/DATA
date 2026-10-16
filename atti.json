@@ -3329,7 +3329,7 @@
       "promulgatoDa": "Congresso Unitario",
       "stato": "vigente",
       "sommario": "Costituzione dell’Unione Sociale degli Stati dell’Estji (USSE), aggiornata alla modifica del 21/03/2026 (Riforme Kitoko e modello Hankonen).",
-      "immagine": "",
+      "immagine": "/USSEcoat.png",
       "didascalia": "",
       "luogo": "ESTJI",
       "articoli": [
@@ -3342,7 +3342,7 @@
           "rubrica": "",
           "commi": [
             {
-              "testo": "L'Unione Sociale degli Stati dell’Estji è un’unione federale e sociale di tutti i lavoratori e i cittadini, fondata su un’alleanza di popoli liberi e uguali.",
+              "testo": "L'Unione Sociale degli Stati dell’Estji è un’unione federale e sociale di tutti i lavoratori e i giocatori, fondata su un’alleanza di popoli liberi e uguali.",
               "sottocommi": []
             }
           ]
