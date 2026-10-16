@@ -3193,7 +3193,126 @@
               ]
             },
             {
-              "testo": "",
+              "testo": "Le disposizioni del comma 1 non si applicano alle misure necessarie per l’autodifesa, l’ordine pubblico, il soccorso umanitario o l’adempimento di obblighi internazionali vincolanti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Attività Consentite",
+          "commi": [
+            {
+              "testo": "La Fazione USAE può fornire assistenza umanitaria, medica, alimentare e civile alla popolazione colpita dal conflitto, nel rispetto dei principi di imparzialità e non discriminazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "È consentito il commercio di beni civili, energetici, alimentari e medicinali con le parti belligeranti, purché tali beni non siano destinati a uso militare.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Fazione USAE può accogliere rifugiati e sfollati secondo le proprie leggi e gli accordi internazionali applicabili.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Fazione USAE può offrire i propri buoni uffici, mediare o ospitare negoziati di pace, senza favorire alcuna parte.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Autodifesa",
+          "commi": [
+            {
+              "testo": "La presente legge non pregiudica il diritto della Fazione USAE di difendere la propria sovranità, integrità territoriale, popolazione e infrastrutture critiche.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Qualora la neutralità della Fazione USAE sia violata, essa può adottare misure proporzionate e necessarie, informandone gli organi competenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Comitato per la Neutralità",
+          "commi": [
+            {
+              "testo": "È istituito il Comitato per la Neutralità della Fazione USAE, composto da rappresentanti del governo, delle forze armate, del corpo diplomatico e della società civile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Comitato ha il compito di:",
+              "sottocommi": [
+                "vigilare sul rispetto della presente legge;",
+                "ricevere segnalazioni di violazioni;",
+                "proporre misure correttive;",
+                "riferire periodicamente al Congresso Unitario."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Sanzioni",
+          "commi": [
+            {
+              "testo": "Chiunque violi i divieti previsti dall’Articolo 3 è soggetto alle sanzioni amministrative, civili o penali previste dalle leggi vigenti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le sanzioni sono graduate in base alla gravità della violazione, al danno arrecato alla neutralità della Fazione USAE e all’eventuale recidiva.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Gli organi competenti possono disporre il congelamento di beni, la sospensione di licenze o altre misure nei confronti di soggetti che operino in violazione della presente legge.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Diplomazia e relazioni internazionali",
+          "commi": [
+            {
+              "testo": "La Fazione USAE mantiene relazioni diplomatiche con tutte le parti belligeranti, nel rispetto della propria neutralità.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Fazione USAE si adopera per la cessazione delle ostilità e per una soluzione negoziata e pacifica della Guerra di Γαλίλος.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Nessun rappresentante della Fazione USAE può firmare accordi che implicino partecipazione al conflitto o allineamento militare con una parte belligerante.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "La presente legge entra in vigore dalla data della sua pubblicazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Essa resta in vigore fino alla cessazione dello stato di conflitto denominato Guerra defudi e alla conclusione di un accordo di pace, salvo revoca o modifica con legge successiva.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Entrata in vigore",
+          "commi": [
+            {
+              "testo": "La presente legge è pubblicata secondo le procedure previste dalla Fazione USAE ed entra in vigore il giorno successivo alla pubblicazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "È fatto obbligo a tutti gli organi della Fazione USAE di darne piena attuazione.",
               "sottocommi": []
             }
           ]
