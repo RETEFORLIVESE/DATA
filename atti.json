@@ -3139,11 +3139,61 @@
           "rubrica": "Premessa",
           "commi": [
             {
-              "testo": "Vista il conflitto armato a Yvrean denominato \"Guerra di Γαλίλος\"",
+              "testo": "Vista il conflitto armato a Yvrean denominato \"Guerra di Γαλίλος\".",
               "sottocommi": []
             },
             {
-              "testo": "Considerando la volontà di preservare la pace, la sicurezza e l'integrita dell'Unione",
+              "testo": "Considerando la volontà di preservare la pace, la sicurezza e l'integrita dell'Unione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Riaffermati i principi di sovranità, non ingerenza, imparzialità e soluzione pacifica delle controversie.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Ritenuto necessario disciplinare in modo chiaro la posizione della Fazzione USAE rispetto alle parti belligeranti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Dichiarazione di Neutralità",
+          "commi": [
+            {
+              "testo": "La Fazione USAE si dichiara neutrale e imparziale nel conflitto denominato Guerra di Γαλίλος.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La Fazione USAE non assume lo status di belligerante e non riconosce alcuno stato di querra nei confronti di alcuna parte coinvolta.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La neutralità della fazione USAE non implica approvazione o condanna delle regione delle parti belligeranti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Nessuna disposizione della presente legge può essere interpretata come riconoscimento di annessioni, occupazioni o pretese territoriali derivanti dal conflitto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Divieti",
+          "commi": [
+            {
+              "testo": "E' vietato alla Fazione USAE, ai suoi organi, alle sue forze armate e ai suoi giocatori, nei limiti della prevista legge:",
+              "sottocommi": [
+                "partecipare direttamente o indirettamente alle ostilità;",
+                "fornire truppe, armi, munizioni, mezzi militari, intelligence o assistenza militare a una parte belligerante;",
+                "consentire l'uso del territorio, delle acque territoriali o dello spazio aereo dell' USAE per operazioni militari delle parti belligeranti;",
+                "arruolare o reclutare persone sul territorio dell'USAE per conto di una parte belligerante;",
+                "compiere atti che possano compromettere la neutralità della fazione USAE."
+              ]
+            },
+            {
+              "testo": "",
               "sottocommi": []
             }
           ]
