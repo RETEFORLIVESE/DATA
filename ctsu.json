@@ -717,8 +717,15 @@
           "testo": "Il CTSU consigna alla EstjiBundesRessourcen e al Zentral Planungsrat le seguenti modifiche nei piani di produzione:",
           "commi": [
             {
-              "testo": "Conversione dell'impianto di",
-              "sottocommi": []
+              "testo": "Conversione dell'impianto di Sentinelle da produzione di pietrisco al raffinamento di ferro e rame.\nRichiede i seguenti interventi:",
+              "sottocommi": [
+                {
+                  "testo": "Costruzione di 2 altiforni automatici per la fusione dei metalli grezzi."
+                },
+                {
+                  "testo": "Costruzione di 2 magazzini per le risorse finite da"
+                }
+              ]
             }
           ]
         }
