@@ -702,7 +702,7 @@
               "testo": "Diversificazione delle risorse energetiche:",
               "sottocommi": [
                 {
-                  "testo": "La costruzione di piantagioni di legno e bamboo in ogni impianto, i quali prodotti verranno automaticamente trasformati in assi e usati al posto del carbone;"
+                  "testo": "La costruzione di piantagioni di legno o bamboo in ogni impianto, i quali prodotti verranno automaticamente trasformati in assi e usati al posto del carbone;"
                 },
                 {
                   "testo": "L'apertura delle miniere già preimpostate nell'impianto di Lybicos (EstjiNor)."
@@ -710,6 +710,12 @@
               ]
             }
           ]
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Modifica alla Produzione",
+          "testo": "Il CTSU consigna al Zentral Planungsrat",
+          "commi": []
         }
       ],
       "galleria": [],
