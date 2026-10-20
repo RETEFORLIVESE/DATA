@@ -659,6 +659,11 @@
       "copertina": "/EBR.png",
       "sezioni": [
         {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "STATO ATTUALE"
+        },
+        {
           "tipo": "sezione",
           "titolo": "Lista Impianti Industriali della EstjiBundesResourcen",
           "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Nome</th><th>Produce</th><th>Richiede</th><th>Codice</th></tr></thead>\n<tbody>\n<tr><td>Lybica</td><td>Cobblestone - Clay - AFF</td><td>Coal - Mud</td><td>ES001</td></tr>\n<tr><td>Itaki-Adriatico</td><td>Cobblestone - AFF</td><td>Coal</td><td>ES002</td></tr>\n<tr><td>Tabara Nord</td><td>Cobblestone - Planks - AFF</td><td>Coal - BoneMeal</td><td>ES003 - TS001</td></tr>\n<tr><td>Shang - Kyv</td><td>Cobblestone</td><td>Coal</td><td>ES004</td></tr>\n<tr><td>Utikos</td><td>Cobblestone - AFF</td><td>Coal</td><td>ES005</td></tr>\n<tr><td>Sargette</td><td>Cobblestone - Bricks - AFF</td><td>Coal - Mud</td><td>ES005 - RM002</td></tr>\n</tbody>\n</table>",
@@ -667,7 +672,27 @@
         {
           "tipo": "sezione",
           "titolo": "Criticità Industriale dell'Unione",
-          "testo": "",
+          "testo": "Le criticità fondamentali del sistema industriale sono:",
+          "commi": [
+            {
+              "testo": "eccessiva dipendenza da una singola risorsa energetica per alimentare gli impianti;",
+              "sottocommi": []
+            },
+            {
+              "testo": "produzione ripetuta di materie a basso valore;",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "numero": "",
+          "titolo": "INTERVENTI DEL CTSU"
+        },
+        {
+          "tipo": "sezione",
+          "titolo": "Differenziazione delle risorse energetiche",
+          "testo": "Allo stato attuale, tutti gli impianti dell'EstjiSider di",
           "commi": []
         }
       ],
