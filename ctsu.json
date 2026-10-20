@@ -643,6 +643,32 @@
       "allegati": []
     },
     {
+      "id": "impianti-estji-sider",
+      "titolo": "Impianti Estji-Sider",
+      "categoria": "Infrastrutture",
+      "stato": "In progettazione",
+      "organo_responsabile": "CTSU",
+      "luogo": "ESTJI",
+      "responsabile": "Uwe Nielse",
+      "data_inizio": "",
+      "data_fine_prevista": "",
+      "data_completamento": "",
+      "budget_previsto": "",
+      "costo_effettivo": "",
+      "sommario": "",
+      "copertina": "/EBR.png",
+      "sezioni": [
+        {
+          "tipo": "sezione",
+          "titolo": "Lista Impianti Industriali",
+          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Colonna 1</th><th>Colonna 2</th><th>Colonna 3</th></tr></thead>\n<tbody>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n</tbody>\n</table>",
+          "commi": []
+        }
+      ],
+      "galleria": [],
+      "allegati": []
+    },
+    {
       "id": "piano-riqualificazione-della-citta-metropolitana-di-terlin",
       "tipo_documento": "piano_economico",
       "ambito": "statale",
