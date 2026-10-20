@@ -661,7 +661,7 @@
         {
           "tipo": "sezione",
           "titolo": "Lista Impianti Industriali",
-          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Colonna 1</th><th>Colonna 2</th><th>Colonna 3</th></tr></thead>\n<tbody>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n<tr><td>Cella</td><td>Cella</td><td>Cella</td></tr>\n</tbody>\n</table>",
+          "testo": "<table class=\"tabella-progetto\">\n<thead><tr><th>Nome</th><th>Produce</th><th>Richiede</th><th>Miniere</th></tr></thead>\n<tbody>\n<tr><td>Lybica</td><td>Cobblestone - Clay - AFF</td><td>Coal - Mud</td><td>10 (5x2)</td></tr>\n<tr><td>Itaki-Adriatico</td><td>Cobblestone - AFF</td><td>Coal</td><td></td></tr>\n<tr><td>Tabara Nord</td><td>Cobblestone - Planks - AFF</td><td>Coal - BoneMeal</td><td></td></tr>\n<tr><td>Shang - Kyv</td><td>Cobblestone</td><td>Coal</td><td></td></tr>\n<tr><td>Utikos</td><td>Cobblestone - AFF</td><td>Coal</td><td></td></tr>\n<tr><td>Sargette</td><td>Cobblestone - Bricks - AFF</td><td>Coal - Mud</td><td></td></tr>\n</tbody>\n</table>",
           "commi": []
         }
       ],
