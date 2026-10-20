@@ -692,8 +692,24 @@
         {
           "tipo": "sezione",
           "titolo": "Differenziazione delle risorse energetiche",
-          "testo": "Allo stato attuale, tutti gli impianti dell'EstjiSider di",
-          "commi": []
+          "testo": "Allo stato attuale, tutti gli impianti dell'EstjiSider sono alimentati da Carbone, senza controllo del flusso in ingresso agli impianti.\nCome intervento primario per l'energia, il CTSU delibera:",
+          "commi": [
+            {
+              "testo": "L'installazione del sistema di controllo del flusso di carbone in ingresso nei forni, tramite comparatori e blocchi delle tramogge.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Diversificazione delle risorse energetiche:",
+              "sottocommi": [
+                {
+                  "testo": "La costruzione di piantagioni di legno e bamboo in ogni impianto, i quali prodotti verranno automaticamente trasformati in assi e usati al posto del carbone;"
+                },
+                {
+                  "testo": "L'apertura delle miniere già preimpostate nell'impianto di Lybicos (EstjiNor)."
+                }
+              ]
+            }
+          ]
         }
       ],
       "galleria": [],
