@@ -159,10 +159,10 @@
       "tag": [],
       "sommario": "",
       "immagine": "",
-      "contenuto": "{{tabella\n@piena\n--\n! Locazione\n! Stato\n! Capitale\n| Ingresso\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ELIN.png)\n|\n|\n|\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/EKURO.png)\n|\n|\n|\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ENOR.png)\n|\n|\n|\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/EBHAN.png)\n|\n|\n|\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/KAR.png)\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n}}",
+      "contenuto": "{{tabella\n@piena\n--\n! Locazione\n! Stato\n! Capitale\n| Ingresso\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ELIN.png)\n| [[EstjiLinn]]\n| [[Taleen]]\n| 2023\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/EKURO.png)\n| [[EstjiKuro]]\n| [[Ikebukuro]]\n| 2023\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ENOR.png)\n| [[EstjiNor]]\n| [[Pohja]]\n| 2023\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/EBHAN.png)\n| [[EstjiBhan]]\n| [[Koln]]\n| 2023\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/KAR.png)\n| [[Confederatio Karelie]]\n| [[Shang]]\n| 2024\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ETOSH.png)\n| [[Etosh]]\n|\n|\n--\n| ![|centro|150|y5|nobordo](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/TDR.png)\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n--\n|\n|\n|\n|\n}}",
       "autore": "TandeePetrenka",
       "creata": "2026-10-21T14:57:09.492Z",
-      "modificata": "2026-10-21T14:57:09.492Z",
+      "modificata": "2026-10-21T15:00:17.861Z",
       "modificataDa": "TandeePetrenka"
     }
   ]
