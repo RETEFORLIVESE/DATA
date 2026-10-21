@@ -138,6 +138,19 @@
       "creata": "2026-10-18T15:46:56.146Z",
       "modificata": "2026-10-18T15:51:47.502Z",
       "modificataDa": "PyrreHankonen"
+    },
+    {
+      "id": "portale-usse",
+      "titolo": "Portale:USSE",
+      "categoria": "Portale",
+      "tag": [],
+      "sommario": "Portale dedicato a USSE.",
+      "immagine": "",
+      "contenuto": "{{portale USSE\n@colore #043a96\n@colonne 2\n[Una o due frasi che presentano l'USSE e dicono a cosa serve questo portale.] Per la voce completa vedi [[USSE]].\n=== In evidenza {largo}\n[Breve riassunto di 3-4 righe dell'articolo USSE: cos'è, come è organizzata, perché esiste.]\n[[USSE|Leggi la voce completa →]]\n=== Istituzioni\n- [[Congresso Unitario]]\n- [[Sistema Amministrativo]]\n- [[CTSU]]\n=== Territorio\n- [[Stati Membri]]\n- [[Città]]\n=== Ultime elezioni\n![Elezione|centro|420|scuro|noseggi](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n![Elezione|centro|420|scuro|noseggi|barre](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023)\n=== Sapevi che…\n- [Una curiosità sull'USSE.]\n- [Un'altra curiosità.]\n- [Una terza curiosità.]\n=== Ricorrenze\n- [Data] — [evento]\n- [Data] — [evento]\n=== Pagine da scrivere {bg:#7a4fa3}\n- [[Nome di una pagina che ancora manca]]\n}}",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-21T10:58:50.530Z",
+      "modificata": "2026-10-21T10:58:50.530Z",
+      "modificataDa": "TandeePetrenka"
     }
   ]
 }
