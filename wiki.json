@@ -42,19 +42,6 @@
       "modificataDa": "TandeePetrenka"
     },
     {
-      "id": "demos",
-      "titolo": "DEMOS",
-      "categoria": "Partito di fazione",
-      "tag": [],
-      "sommario": "DEMOS",
-      "immagine": "",
-      "contenuto": "{{infobox DEMOS\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CEPU/POL/OPAR/DEMOS.ico)\nFazione: [[USSE]]\nSede: FrankfurterStrasse 12 ([[Taleen]])\nAbbreviazione: DMS\nFondazione: 25 Luglio 2022\nDissoluzione: 27 Dicembre 2025\nConfluito in: [[GLK]]\nIdeologia:\nIscritti: 93 (2024)\n}}\n## Storia\nDemos, fondato il 25 Luglio 2022 ad [[Haraknà]] è stato il primo partito dell'Unione a guidare un esecutivo, il [[Badeau I]].\n### Ruolo nel CRU\nDurante [[Imperia]], Demos era conosciuto per essere il principale gruppo dissidente nel Ovest degli Estji, nei territori che oggi equivalgono all' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EFALL.png)[[EstjiFall]], a ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/SASHPLZ.png)[[SashaPlotz]], alla ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/TERLINDR.png)[[TDR]] e a [[BundestagHessex]].\n### Commissione di Formazione degli Estji\nCon la formazione della [[Commissione di Formazione degli Estji]], a seguito delle elezioni del [12 Settembre 2023](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023), ottenne 32 seggi con il 6,4% dei voti,\n### Esecutivo *Badeau I*\n### Dissoluzione\n## Risultati ELettorali",
-      "autore": "TandeePetrenka",
-      "creata": "2026-10-16T16:14:39.510Z",
-      "modificata": "2026-10-16T16:14:39.510Z",
-      "modificataDa": "TandeePetrenka"
-    },
-    {
       "id": "proteste-contro-il-k6",
       "titolo": "Proteste contro il K6",
       "categoria": "",
@@ -163,6 +150,19 @@
       "autore": "TandeePetrenka",
       "creata": "2026-10-09T16:26:30.808Z",
       "modificata": "2026-10-22T20:38:57.806Z",
+      "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "demos",
+      "titolo": "DEMOS",
+      "categoria": "Partito di fazione",
+      "tag": [],
+      "sommario": "DEMOS",
+      "immagine": "",
+      "contenuto": "{{infobox DEMOS\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CEPU/POL/OPAR/DEMOS.ico)\nFazione: [[USSE]]\nSede: FrankfurterStrasse 12 ([[Taleen]])\nAbbreviazione: DMS\nFondazione: 25 Luglio 2022\nDissoluzione: 27 Dicembre 2025\nConfluito in: [[GLK]]\nIdeologia:\nIscritti: 93 (2024)\n}}\n## Storia\nDemos, fondato il 25 Luglio 2022 ad [[Haraknà]] è stato il primo partito dell'Unione a guidare un esecutivo, il [[Badeau I]].\n### Ruolo nel CRU\nDurante [[Imperia]], Demos era conosciuto per essere il principale gruppo dissidente nel Ovest degli Estji, nei territori che oggi equivalgono all' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EFALL.png)[[EstjiFall]], a ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/SASHPLZ.png)[[SashaPlotz]], alla ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/TERLINDR.png)[[TDR]] e a [[BundestagHessex]].\n### Commissione di Formazione degli Estji\nCon la formazione della [[Commissione di Formazione degli Estji]], a seguito delle elezioni del [12 Settembre 2023](https://ews-rose.vercel.app/CEPU.html?tipo=K&data=12%2F09%2F2023), ottenne 32 seggi con il 6,4% dei voti,\n### Esecutivo *Badeau I*\n### Dissoluzione\n## Risultati ELettorali\n\n[[Categoria:Partito di fazione]]",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-16T16:14:39.510Z",
+      "modificata": "2026-10-22T20:39:13.054Z",
       "modificataDa": "TandeePetrenka"
     }
   ]
