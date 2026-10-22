@@ -122,22 +122,6 @@
       "modificataDa": "TandeePetrenka"
     },
     {
-      "id": "estjilinn",
-      "titolo": "EstjiLinn",
-      "categoria": "Stati",
-      "tag": [
-        "USSE",
-        "EstjiLinn"
-      ],
-      "sommario": "Stato Sociale dell'Unione confinante con EstjiNor, EstjiKuro, EstjiBia ed EstjiBhan, ospita la capitale dell'Unione, Taleen.",
-      "immagine": "",
-      "contenuto": "{{infobox EstjiLinn\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CBALL/STATES/USSE/ELINN.ico) ![|50](https://raw.githubusercontent.com/RETEFORLIVESE/EWS/refs/heads/main/USSEcoat.png)\n![|250](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ELIN.png)\nMappa\n## Dati amministrativi\nNome completo:\nFazione: [[USSE]]\nCapitale: [[Taleen]]\nData d'Istituzione: 1 Gennaio 2024\nLingue ufficiali: IT-EN-FR-ES-E-SU-SW-EI-SH-EL-PC-SC \n## Politica\nForma di governo: Stato Congressuale\n}}\n## Etimologia\nIl Termine *EstjiLinn* è composto dalle parole Estji, derivante dal nome della fazione e Linn, che in Estone significa Città.\n## Storia\n## Geografia\nL'EstjiLinn si trova sulla costa Ovest del [[Mare d'Alina]], nel centro dell'Unione, confina a nord con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/ENOR.png)[[EstjiNor]], a sud con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EBHAN.png)[[EstjiBhan]] e a est con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EKURO.ico)[[EstjiKuro]].\nL' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/ELINN.ico)EstjiLinn è suddiviso in prefetture raggruppate in tree macro-regioni: *[[Taleen]]*, [[Città Metropolitana]] capitale dell'Unione e dello Stato, le *Prefetture di [[Konko]] e [[Hichibate]]*, situate a est della Capitale e *l'[[Arcipelago di Alinesjia]]*, situato a ovest della Capitale nel [[Mare di Alina]]\n## Taleen",
-      "autore": "TandeePetrenka",
-      "creata": "2026-10-10T16:49:55.049Z",
-      "modificata": "2026-10-21T13:55:28.180Z",
-      "modificataDa": "TandeePetrenka"
-    },
-    {
       "id": "stati-membri",
       "titolo": "Stati Membri dell'Unione",
       "categoria": "",
@@ -163,6 +147,22 @@
       "autore": "TandeePetrenka",
       "creata": "2026-10-09T15:43:56.591Z",
       "modificata": "2026-10-21T15:43:36.856Z",
+      "modificataDa": "TandeePetrenka"
+    },
+    {
+      "id": "estjilinn",
+      "titolo": "EstjiLinn",
+      "categoria": "Stati",
+      "tag": [
+        "USSE",
+        "EstjiLinn"
+      ],
+      "sommario": "Stato Sociale dell'Unione confinante con EstjiNor, EstjiKuro, EstjiBia ed EstjiBhan, ospita la capitale dell'Unione, Taleen.",
+      "immagine": "",
+      "contenuto": "{{infobox EstjiLinn\n![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/refs/heads/main/CBALL/STATES/USSE/ELINN.ico) ![|50](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/COAT/EstjiLinn.png)\n![|250](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/MAPS/USSE/ELIN.png)\nMappa\n## Dati amministrativi\nNome completo:\nFazione: [[USSE]]\nCapitale: [[Taleen]]\nData d'Istituzione: 1 Gennaio 2024\nLingue ufficiali: IT-EN-FR-ES-E-SU-SW-EI-SH-EL-PC-SC \n## Politica\nForma di governo: Stato Congressuale\n}}\n## Etimologia\nIl Termine *EstjiLinn* è composto dalle parole Estji, derivante dal nome della fazione e Linn, che in Estone significa Città.\n## Storia\n## Geografia\nL'EstjiLinn si trova sulla costa Ovest del [[Mare d'Alina]], nel centro dell'Unione, confina a nord con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/ENOR.png)[[EstjiNor]], a sud con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EBHAN.png)[[EstjiBhan]] e a est con l' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/EKURO.ico)[[EstjiKuro]].\nL' ![|20|y5](https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/CBALL/STATES/USSE/ELINN.ico)EstjiLinn è suddiviso in prefetture raggruppate in tree macro-regioni: *[[Taleen]]*, [[Città Metropolitana]] capitale dell'Unione e dello Stato, le *Prefetture di [[Konko]] e [[Hichibate]]*, situate a est della Capitale e *l'[[Arcipelago di Alinesjia]]*, situato a ovest della Capitale nel [[Mare di Alina]]\n## Taleen",
+      "autore": "TandeePetrenka",
+      "creata": "2026-10-10T16:49:55.049Z",
+      "modificata": "2026-10-22T20:31:47.131Z",
       "modificataDa": "TandeePetrenka"
     }
   ]
