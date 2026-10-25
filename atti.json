@@ -4362,7 +4362,7 @@
           "rubrica": "Durata e revoca dei deputati",
           "commi": [
             {
-              "testo": "Il Congresso Unitario è eletto ogni anno. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Assemblee che li hanno eletti.",
+              "testo": "Il Congresso Unitario ha la durata di due anni. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Assemblee che li hanno eletti.",
               "sottocommi": []
             }
           ]
@@ -4426,7 +4426,7 @@
           "rubrica": "Nomina e mandato dei Consoli",
           "commi": [
             {
-              "testo": "I Consoli sono nominati dall'Alto Moderatore e approvati dal Congresso Unitario con voto di fiducia. Il loro mandato è di 2 anni, non immediatamente rinnovabile.",
+              "testo": "I Consoli sono nominati dall'Alto Moderatore e approvati dal Congresso Unitario con voto di fiducia. Il loro mandato è di due anni, non immediatamente rinnovabile.",
               "sottocommi": []
             }
           ]
@@ -4575,7 +4575,7 @@
             {
               "testo": "Il Consiglio Esecutivo Statale:",
               "sottocommi": [
-                "Ha una durata di un anno;",
+                "Ha una durata di due anni;",
                 "Attua le leggi unitarie e regionali sul territorio di competenza;",
                 "Dirige i commissariati regionali (es. Istruzione, Salute, Lavori Pubblici) e l'amministrazione locale;",
                 "Elabora e presenta al Congresso Regionale il piano economico e il bilancio.",
