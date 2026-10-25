@@ -8,7 +8,7 @@
       "titolo": "Legge Elettorale dell’Unione",
       "dataEmanazione": "13 marzo 2025",
       "promulgatoDa": "Congresso Unitario",
-      "stato": "vigente",
+      "stato": "annullato",
       "sommario": "Legge Elettorale Per l’Unione e per gli Stati Membri",
       "immagine": "",
       "didascalia": "",
@@ -388,6 +388,24 @@
               "sottocommi": []
             }
           ]
+        }
+      ],
+      "pronunce": [
+        {
+          "id": "s-2026-1-legge-elettorale-dell-unione",
+          "tipo": "annullamento",
+          "numero": "1",
+          "anno": "2026",
+          "data": "25 ottobre 2026",
+          "oggetto": "Illegittimità Costituzionale della Legge",
+          "motivazione": "I ricorrenti chiedono dichiarare l'illegittimità costituzionale della Legge Elettorale dell'Unione (n.2/2026),deducendo che essa:\n- non disciplina l'elezione diretta del Congresso Unitario, pur essendo prevista dalla Costituzione;\n- affida alle Assemblee di Sezione l'elezione dei Congressi Statali, in contrasto con l'articolo XII-1 Cost;\n- disciplina la revoca dei deputati in modo incompatibile con l'art. X-3, XIV-4 Cost;\n- fissa a 60 giorni il termine per il referendum di revoca, invece dei 30 previsti dall'art. XIV-4.a Cost;\n- prevede lo scioglimento automatico del Congresso Unitario in caso di doppio rigetti della lista dei Consoli, in contrasto con l'Art. XIV-4.a Cost.",
+          "dispositivo": "La questione è ammissibile.\n-L'art. 8.5 della legge prevede l'elezione dei congressi statali da parte delle assemblee di sezione. L'art XII-1 Costi. impone l'elezione diretta dai giocatori residenti, la disposizione è illegittima.\n-L'art. 11.3 fissa in 60 giorni il termine per il referendum di revoca. L'art XIV-4.a Cost. prevede 30 giorni. La disposizione è illegittima.\n-L'art. 9bis.3.c. prevede lo scioglimento automatico del congresso unitario dopo il doppio rigetto della lista dei consoli. L'art IIBis-3.c Cost. consente lo scioglimento solo per crisi prolungata e con decisione congiunta. La disposizione è illegittima.\nLe disposizioni illegittime riguardano il nucleo essenziale del sistema elettorale, la legge è annullata nella sua interezza",
+          "effetto": "Annullamento Completo",
+          "collegio": "",
+          "creataIl": "2026-10-25T20:33:04.818Z",
+          "firmataDa": "TandeePetrenka",
+          "statoPrecedente": "vigente",
+          "modifiche": []
         }
       ]
     },
