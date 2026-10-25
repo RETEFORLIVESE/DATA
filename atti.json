@@ -3380,12 +3380,16 @@
           "rubrica": "Sistema delle Assemblee e dei Congressi",
           "commi": [
             {
-              "testo": "Il potere statale è esercitato attraverso il sistema le Assemblee e i Congressi, eletti democraticamente nei luoghi di lavoro, di residenza e di studio.",
+              "testo": "Il potere statale è esercitato attraverso il sistema delle Assemblee, aperte a tutti i giocatori residenti e di Congressi, eletti democraticamente nelle assemblee dei luoghi di lavoro, di residenza e di studio.",
               "sottocommi": [
                 "Le Assemle sono organizzati a livello locale, regionale, statale e unitario, formando una piramide del potere che parte dalla base.",
                 "Con il termine Congresso si indicano tutte le Assemblee superiori alla Sezione, perché formate da Asseblee inferiori.",
                 "Il sistema Hankonen è articolato secondo il principio della separazione funzionale dei poteri: legislativo (Assemblee/Congressi a tutti i livelli), esecutivo (Consolato Statale o Unitario), giudiziario (Tribunali), moderatore (Alto Moderatore), consultivo (Comitato Tecnico-Scientifico) e di controllo (Ispettorato di Vigilanza)."
               ]
+            },
+            {
+              "testo": "I Congressi sono eletti dall'organo inferiore, le Assemblee sono aperte a tutti i giocatori residenti.",
+              "sottocommi": []
             }
           ]
         },
@@ -4380,7 +4384,7 @@
           "rubrica": "Durata e revoca dei deputati",
           "commi": [
             {
-              "testo": "Il Congresso Unitario ha la durata di due anni. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Assemblee che li hanno eletti.",
+              "testo": "Il Congresso Unitario ha la durata di due anni. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Circoscrizioni che li hanno eletti.",
               "sottocommi": []
             }
           ]
