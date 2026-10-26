@@ -700,6 +700,37 @@
       ],
       "consultazione_unitaria": true,
       "id_organo": "Unione"
+    },
+    {
+      "tipo": "Referendum",
+      "tipo_codice": "R",
+      "data": "25/10/2023",
+      "comune": "Circoscrizione Unica",
+      "area": "Approvate l'elezione diretta del Congresso Unitario da parte dei giocatori della fazione?",
+      "affluenza": "97,1%",
+      "candidato_vincente": "",
+      "risultati_partiti": [
+        {
+          "nome": "Sì",
+          "voti": 1130,
+          "percentuale": "96,7%",
+          "seggi": 0
+        },
+        {
+          "nome": "No",
+          "voti": 38,
+          "percentuale": "3,3%",
+          "seggi": 0
+        }
+      ],
+      "consultazione_unitaria": true,
+      "id_organo": "Unione",
+      "sezioni_scrutinate": 240,
+      "sezioni_totali": 240,
+      "elettori": 1203,
+      "votanti": 1168,
+      "schede_nulle": 0,
+      "schede_bianche": 0
     }
   ]
 }
