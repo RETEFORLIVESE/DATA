@@ -40,14 +40,16 @@
       "residenzaNome": "Terlin",
       "stato": "TDR",
       "sezione": "",
-      "ruoli": ["generale"],
+      "ruoli": [
+        "generale"
+      ],
       "verificato": true,
       "iscritto": "2026-10-12",
       "password": {
         "salt": "de9654cf6abf7ac3608a73e2c100fd06",
         "hash": "2f6cc43fa4633b558579ea387aac8eff0bf3636ed58542932a1a15dc56c7d8b32e0d7d7c0b05f140e795668645325a8d5c923cd4913953e63fcd7696d96742e9"
       },
-      "tf": false
+      "tf": true
     }
   ]
 }
