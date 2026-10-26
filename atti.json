@@ -3383,12 +3383,12 @@
               "testo": "Il potere statale è esercitato attraverso il sistema delle Assemblee, aperte a tutti i giocatori residenti e di Congressi, eletti democraticamente nelle assemblee dei luoghi di lavoro, di residenza e di studio.",
               "sottocommi": [
                 "Le Assemle sono organizzati a livello locale, regionale, statale e unitario, formando una piramide del potere che parte dalla base.",
-                "Con il termine Congresso si indicano tutte le Assemblee superiori alla Sezione, perché formate da Asseblee inferiori.",
+                "Con il termine Congresso si indicano tutti gli organi legislativi superiori alla Sezione. I Congressi regionali e statali sono formati da delegati delle Assemblee inferiori; il Congresso Unitario è formato da deputati eletti direttamente.",
                 "Il sistema Hankonen è articolato secondo il principio della separazione funzionale dei poteri: legislativo (Assemblee/Congressi a tutti i livelli), esecutivo (Consolato Statale o Unitario), giudiziario (Tribunali), moderatore (Alto Moderatore), consultivo (Comitato Tecnico-Scientifico) e di controllo (Ispettorato di Vigilanza)."
               ]
             },
             {
-              "testo": "I Congressi sono eletti dall'organo inferiore, le Assemblee sono aperte a tutti i giocatori residenti.",
+              "testo": "Le Assemblee di Sezione sono aperte a tutti i giocatori residenti, che vi partecipano direttamente. I Congressi regionali e statali sono eletti dall’organo inferiore. Il Congresso Unitario è eletto a suffragio universale diretto dai cittadini dell’Unione.",
               "sottocommi": []
             }
           ]
@@ -3398,7 +3398,7 @@
           "rubrica": "Elettività e revocabilità degli organi",
           "commi": [
             {
-              "testo": "Gli organi esecutivi e amministrativi sono eletti dai rispettivi organi legislativi, ad essi rispondono e da essi possono essere revocati. Gli organi di garanzia derivano la propria legittimazione da procedure proprie, stabilite dalla Costituzione, e non sono revocabili dagli organi legislativi o esecutivi se non nei casi e con le procedure da essa previsti.",
+              "testo": "Gli organi esecutivi e amministrativi sono eletti dai rispettivi organi legislativi, ad essi rispondono e da essi possono essere revocati. Gli organi di garanzia derivano la propria legittimazione da procedure proprie previste dalla Costituzione e non sono revocabili dagli organi legislativi o esecutivi se non nei casi da essa stabiliti.",
               "sottocommi": []
             }
           ]
@@ -4318,7 +4318,7 @@
           "rubrica": "Mandato imperativo",
           "commi": [
             {
-              "testo": "Mandato Imperativo: I membri di ogni Assemblee/Congressi sono eletti dai cittadini o dagli organi di livello inferiore sulla base di un programma e di un mandato preciso. Sono responsabili direttamente di fronte ai loro elettori e possono essere revocati in qualsiasi momento, secondo le modalità stabilite dalla legge, se non adempiono al loro mandato.",
+              "testo": "I membri di ogni Assemblea e Congresso sono eletti sulla base di un programma e di un mandato preciso: dai cittadini, nel caso del Congresso Unitario; dagli organi di livello inferiore, nel caso dei Congressi regionali e statali. Rispondono direttamente a chi li ha eletti e possono essere revocati da questi nei modi stabiliti dalla legge.",
               "sottocommi": []
             }
           ]
@@ -4372,10 +4372,8 @@
           "rubrica": "Composizione del Congresso Unitario",
           "commi": [
             {
-              "testo": "Il Congresso Unitario è composto da deputati eletti dai giocatori dell'Unione, in proporzione alla loro popolazione. L'elettorato passivo spetta a tutti i cittadini che hanno compiuto i 16 anni di età.",
-              "sottocommi": [
-                "Il sistema delle Assemblee opera in sinergia con gli altri organi costituzionali: l'Alto Moderatore, il Consolato Unitario, il Comitato Tecnico-Scientifico e l'Ispettorato di Vigilanza, ciascuno nelle proprie competenze."
-              ]
+              "testo": "Il Congresso Unitario è composto da deputati eletti a suffragio universale diretto dai cittadini dell’Unione, in circoscrizioni proporzionali alla popolazione. L’elettorato attivo e passivo spetta a tutti i cittadini che hanno compiuto 16 anni.",
+              "sottocommi": []
             }
           ]
         },
@@ -4384,7 +4382,7 @@
           "rubrica": "Durata e revoca dei deputati",
           "commi": [
             {
-              "testo": "Il Congresso Unitario ha la durata di due anni. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Circoscrizioni che li hanno eletti.",
+              "testo": "Il Congresso Unitario ha la durata di due anni. I suoi deputati operano su mandato imperativo e possono essere revocati in qualsiasi momento dalle Circoscrizioni che li hanno eletti, secondo l’art. XIV-4.",
               "sottocommi": []
             }
           ]
@@ -4585,7 +4583,7 @@
           "rubrica": "Natura del Consiglio Esecutivo Statale",
           "commi": [
             {
-              "testo": "Il Consiglio Esecutivo Statale è il governo statale. È eletto dal Congresso Statale e ad esso responsabile.",
+              "testo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
               "sottocommi": []
             }
           ]
@@ -4704,7 +4702,7 @@
           "rubrica": "Suffragio e diritto di voto",
           "commi": [
             {
-              "testo": "Le elezioni per le Assemblee e i Congressi a tutti i livelli si svolgono a suffragio universale, diretto, uguale e segreto. Il diritto di voto attivo e passivo spetta a tutti i cittadini dell'USSE che abbiano compiuto i 16 anni di età, senza distinzione di genere, etnia, religione o condizione sociale.",
+              "testo": "Le elezioni dirette si svolgono a suffragio universale, diretto, uguale e segreto. Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale. I Congressi regionali e statali sono eletti secondo le norme dell’art. I-3.",
               "sottocommi": []
             }
           ]
@@ -4714,10 +4712,8 @@
           "rubrica": "Sistema elettorale proporzionale",
           "commi": [
             {
-              "testo": "Il sistema elettorale è di tipo proporzionale, per garantire una rappresentanza fedele della volontà popolare. Il territorio dell'Unione è suddiviso in circoscrizioni elettorali.",
-              "sottocommi": [
-                "Il sistema elettorale è di tipo proporzionale con voto di preferenza e meccanismo di voto trasferibile (STV). In caso di liste che non superano lo sbarramento del 3%, il voto dell'elettore viene trasferito alla seconda preferenza espressa."
-              ]
+              "testo": "Congresso Unitario è eletto con sistema proporzionale su circoscrizioni elettorali. Gli elettori esprimono voti di preferenza ordinati.",
+              "sottocommi": []
             }
           ]
         },
@@ -4741,7 +4737,8 @@
               "testo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
               "sottocommi": [
                 "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'assemblea che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
-                "L'iniziativa popolare per referendum propositivi o abrogativi è esercitata da 1/3 degli elettori con firme certificate, anche in formato digitale attraverso la piattaforma gestita dalla CEPU o dalla CEPUS."
+                "L'iniziativa popolare per referendum propositivi o abrogativi è esercitata da 1/3 degli elettori con firme certificate, anche in formato digitale attraverso la piattaforma gestita dalla CEPU o dalla CEPUS.",
+                "I delegati ai Congressi regionali e statali sono revocabili dalla Assemblea o dal Congresso che li ha eletti, con la maggioranza stabilita dalla legge."
               ]
             }
           ]
