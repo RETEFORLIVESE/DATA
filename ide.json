@@ -40,7 +40,7 @@
       "residenzaNome": "Terlin",
       "stato": "TDR",
       "sezione": "",
-      "ruoli": [],
+      "ruoli": ["generale"],
       "verificato": true,
       "iscritto": "2026-10-12",
       "password": {
