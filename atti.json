@@ -3700,19 +3700,19 @@
               },
               {
                 "prima": "Assemblee di Sezione",
-                "dopo": "Assemblee di Sezione",
+                "dopo": "Assemblee di Sezione;",
                 "etichetta": "a)",
                 "livello": 1
               },
               {
                 "prima": "Congresso Distrettuale",
-                "dopo": "",
+                "dopo": "Congresso Distrettuale;",
                 "etichetta": "b)",
                 "livello": 1
               },
               {
                 "prima": "Congresso Metropolitano",
-                "dopo": "Congresso Metropolitano",
+                "dopo": "Congresso Metropolitano.",
                 "etichetta": "c)",
                 "livello": 1
               }
@@ -3724,22 +3724,40 @@
             "riferimento": "Elettorato",
             "righe": [
               {
-                "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
-                "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
+                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
+                "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
+                "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
                 "prima": "",
-                "dopo": "Le Assemblee eleggono i propri deputati al Congresso Metropolitano o Distrettuale in modo proporzionale alla loro popolazione;",
+                "dopo": "Le Assemblee eleggono i propri deputati al Congresso Distrettuale in modo proporzionale alla loro popolazione;",
                 "etichetta": "a)",
                 "livello": 1
               },
               {
-                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "etichetta": "2.",
+                "prima": "",
+                "dopo": "Ogni Assemble elegge il proprio Consiglio Esecutivo, con mandato di un anno.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "",
+                "dopo": "Ogni Congresso Distrettuale, formato da deputati eletti dalle Assemblee, elegge il proprio Consiglio Esecutivo.",
+                "etichetta": "3.",
                 "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "I Congressi Distritrettuali membri della Città Metropolitana eleggono i deputati che formano il Congresso Metropolitano di Taleen;",
+                "etichetta": "a)",
+                "livello": 1
               }
             ]
           },
@@ -3981,7 +3999,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T17:57:56.072Z"
+        "aggiornato": "2026-10-27T18:06:54.809Z"
       }
     },
     {
