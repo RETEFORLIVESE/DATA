@@ -3894,7 +3894,7 @@
               },
               {
                 "prima": "",
-                "dopo": "Il Distretto Agricolo Capitolino è soggetto ai Piani Economici e esprime parere rigurdanti la stesura.",
+                "dopo": "Il Distretto Agricolo Capitolino è soggetto ai Piani Economici ed esprime parere rigurdanti la stesura.",
                 "etichetta": "3.",
                 "livello": 0
               },
@@ -3928,7 +3928,7 @@
           {
             "tipo": "articolo",
             "numero": "11",
-            "riferimento": "",
+            "riferimento": "Borsa Risorste di Taleen",
             "righe": [
               {
                 "prima": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
@@ -3941,11 +3941,11 @@
           {
             "tipo": "articolo",
             "numero": "12",
-            "riferimento": "",
+            "riferimento": "Valuta",
             "righe": [
               {
                 "prima": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
-                "dopo": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+                "dopo": "Il sistema monetario è il Kasksuspankki,la valuta è l' Estji [E].",
                 "etichetta": "",
                 "livello": 0
               }
@@ -3981,7 +3981,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T17:46:27.703Z"
+        "aggiornato": "2026-10-27T17:50:17.966Z"
       }
     },
     {
