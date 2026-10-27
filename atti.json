@@ -3750,26 +3750,26 @@
             "righe": [
               {
                 "prima": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
-                "dopo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo dello Stato Sociale, composto da 101 delegati dalle Assemblee di Sezione.",
+                "dopo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo dello Stato Sociale, composto da 101 delegati dai Congressi Disrtrettuali in modo proporizonale alla loro popolazione.",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
                 "prima": "",
-                "dopo": "Il Congresso Statale da la fiducia al Consolato proposto dai Presidenti dello Stato ed elegge le seguenti Commissioni",
+                "dopo": "Il Congresso Statale da la fiducia al Consolato proposto dai Presidenti dello Stato ed elegge le seguenti Commissioni:",
                 "etichetta": "2.",
                 "livello": 0
               },
               {
                 "prima": "",
-                "dopo": "Commissione Economica Finanziaria;",
-                "etichetta": "a)",
+                "dopo": "Commissione Culturale;",
+                "etichetta": "b)",
                 "livello": 1
               },
               {
                 "prima": "",
-                "dopo": "Commissione Culturale;",
-                "etichetta": "b)",
+                "dopo": "Commissione Economica Finanziaria;",
+                "etichetta": "a)",
                 "livello": 1
               },
               {
@@ -3793,7 +3793,7 @@
             "righe": [
               {
                 "prima": "Distretti non membri della Città Metropolitana di Taleen:",
-                "dopo": "Circoscrizioni non membri della Città Metropolitana di Taleen:",
+                "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
                 "etichetta": "1.",
                 "livello": 0
               },
@@ -3981,7 +3981,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T17:54:07.862Z"
+        "aggiornato": "2026-10-27T17:57:56.072Z"
       }
     },
     {
