@@ -3999,19 +3999,107 @@
         "fonti": "",
         "glossario": [],
         "copertina": {
-          "attiva": false,
-          "sfondo": "#ffffff",
+          "attiva": true,
+          "sfondo": "#c1d8e2",
           "immagineSfondo": "",
           "nascondiBarra": true,
           "cornice": {
-            "attiva": false,
+            "attiva": true,
             "colore": "#0b3d6e",
-            "spessore": 1,
-            "margine": 10
+            "spessore": 1.2,
+            "margine": 12
           },
-          "elementi": []
+          "elementi": [
+            {
+              "tipo": "testo",
+              "testo": "Congresso Statale dell'EstjiLinn",
+              "x": 20,
+              "y": 53,
+              "w": 170,
+              "size": 12,
+              "colore": "#12508c",
+              "font": "helvetica",
+              "stile": "bold",
+              "align": "center"
+            },
+            {
+              "tipo": "testo",
+              "testo": "IV Legislatura Unitaria",
+              "x": 20,
+              "y": 59,
+              "w": 170,
+              "size": 12,
+              "colore": "#12508c",
+              "font": "helvetica",
+              "stile": "bold",
+              "align": "center"
+            },
+            {
+              "tipo": "linea",
+              "x": 80,
+              "y": 66,
+              "x2": 130,
+              "y2": 66,
+              "colore": "#c9a227",
+              "spessore": 1
+            },
+            {
+              "tipo": "testo",
+              "testo": "{titolo}",
+              "x": 25,
+              "y": 85,
+              "w": 160,
+              "size": 28,
+              "colore": "#0b1f38",
+              "font": "times",
+              "stile": "bold",
+              "align": "center"
+            },
+            {
+              "tipo": "immagine",
+              "src": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/COAT/EstjiLinn.png",
+              "x": 75,
+              "y": 136,
+              "w": 60,
+              "h": 60,
+              "adatta": "contieni"
+            },
+            {
+              "tipo": "linea",
+              "x": 80,
+              "y": 220,
+              "x2": 130,
+              "y2": 220,
+              "colore": "#c9a227",
+              "spessore": 1
+            },
+            {
+              "tipo": "testo",
+              "testo": "{data}",
+              "x": 25,
+              "y": 242,
+              "w": 160,
+              "size": 11,
+              "colore": "#4b5866",
+              "font": "helvetica",
+              "stile": "normal",
+              "align": "center"
+            },
+            {
+              "tipo": "testo",
+              "testo": "{ente}",
+              "x": 25,
+              "y": 230,
+              "w": 160,
+              "size": 12,
+              "colore": "#0b1f38",
+              "font": "helvetica",
+              "stile": "bold",
+              "align": "center"
+            }
+          ]
         },
-        "aggiornato": "2026-10-27T18:43:48.141Z"
+        "aggiornato": "2026-10-27T18:58:21.393Z"
       }
     },
     {
