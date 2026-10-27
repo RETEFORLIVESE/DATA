@@ -3662,7 +3662,273 @@
             }
           ]
         }
-      ]
+      ],
+      "dossier": {
+        "titolo": "Applicazione delle Riforme Unitarie alla Costituzione EstjiLinn",
+        "sottotitolo": "Modifiche costituzionali",
+        "ente": "",
+        "data": "",
+        "presentazione": "Modifiche costituzionali per l'allineamento normativo statale alle disposizioni costituzionali Unitarie.",
+        "etichettaPrima": "Testo vigente",
+        "etichettaDopo": "Testo modificato",
+        "iter": [
+          {
+            "fase": "Stesura Primaria",
+            "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
+            "riferimento": "CAEL.1",
+            "data": "",
+            "esito": "",
+            "colore": "blu"
+          }
+        ],
+        "pubblicazione": "",
+        "articoli": [
+          {
+            "tipo": "titolo",
+            "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
+          },
+          {
+            "tipo": "articolo",
+            "numero": "5",
+            "riferimento": "Assemblee",
+            "righe": [
+              {
+                "prima": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
+                "dopo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "Assemblee di Sezione",
+                "dopo": "Assemblee di Sezione",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Congresso Distrettuale",
+                "dopo": "",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Congresso Metropolitano",
+                "dopo": "Congresso Metropolitano",
+                "etichetta": "c)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "6",
+            "riferimento": "Elettorato",
+            "righe": [
+              {
+                "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
+                "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Le Assemblee eleggono i propri deputati al Congresso Metropolitano o Distrettuale in modo proporzionale alla loro popolazione;",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "7",
+            "riferimento": "Congresso Statale",
+            "righe": [
+              {
+                "prima": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
+                "dopo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo dello Stato Sociale, composto da 101 delegati dalle Assemblee di Sezione.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "8",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Distretti non membri della Città Metropolitana di Taleen:",
+                "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                "dopo": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Konko (Mikita, Royale);",
+                "dopo": "Konko (Mikita, Royale);",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Arcipelago di Alinesjia.",
+                "dopo": "Arcipelago di Alinesjia.",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Distretti membri della Città Metropolitana di Taleen:",
+                "dopo": "Distretti membri della Città Metropolitana di Taleen:",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
+                "prima": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                "dopo": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                "dopo": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Katagaa (Irinastok);",
+                "dopo": "Katagaa (Irinastok);",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                "dopo": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                "etichetta": "d)",
+                "livello": 1
+              },
+              {
+                "prima": "Niigataa (Tegel, TegelGard, Minotte);",
+                "dopo": "Niigataa (Tegel, TegelGard, Minotte);",
+                "etichetta": "e)",
+                "livello": 1
+              },
+              {
+                "prima": "Kengoko (Finance, NewShinguku, Gallier);",
+                "dopo": "Kengoko (Finance, NewShinguku, Gallier);",
+                "etichetta": "f)",
+                "livello": 1
+              },
+              {
+                "prima": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                "dopo": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                "etichetta": "g)",
+                "livello": 1
+              },
+              {
+                "prima": "Yate (Rial, Tadam).",
+                "dopo": "Yate (Rial, Tadam).",
+                "etichetta": "h)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "titolo",
+            "testo": "TITOLO III - ECONOMIA E RISORSE"
+          },
+          {
+            "tipo": "articolo",
+            "numero": "9",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+                "dopo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "10",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "La rete di trasporto per Taleen è proprietà pubblica e gestita dalla Commissione per le Risorse e i Trasporti. Il servizio è gratuito per tutti i giocatori.",
+                "dopo": "La rete di trasporto per Taleen è proprietà pubblica e gestita dalla Commissione per le Risorse e i Trasporti. Il servizio è gratuito per tutti i giocatori.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "11",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
+                "dopo": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "12",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+                "dopo": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "13",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+                "dopo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          }
+        ],
+        "sezioni": [],
+        "fonti": "",
+        "glossario": [],
+        "copertina": {
+          "attiva": false,
+          "sfondo": "#ffffff",
+          "immagineSfondo": "",
+          "nascondiBarra": true,
+          "cornice": {
+            "attiva": false,
+            "colore": "#0b3d6e",
+            "spessore": 1,
+            "margine": 10
+          },
+          "elementi": []
+        },
+        "aggiornato": "2026-10-27T17:28:01.179Z"
+      }
     },
     {
       "id": "legge-elettorale-dell-unione",
