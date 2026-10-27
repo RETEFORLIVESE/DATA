@@ -4470,15 +4470,32 @@
         }
       ],
       "dossier": {
-        "titolo": "Dossier: Costituzione dell’Unione degli Stati Sociali degli Estji",
-        "sottotitolo": "Le modifiche a fronte del testo vigente",
-        "ente": "",
-        "data": "",
-        "presentazione": "",
+        "titolo": "Costituzione dell’Unione degli Stati Sociali degli Estji",
+        "sottotitolo": "Soppressione delle Regioni Autonome e istituzione dei Congressi Distrettuali o Metropolitani come livelli intermedi facoltativi",
+        "ente": "Commissione Congressuale per i rapporti Costituzionali",
+        "data": "26 Ottobre 2026",
+        "presentazione": "Modello proposto: le Assemblee di Sezione possono costituire un Distretto o una Circoscrizione Metropolitana e eleggere il rispettivo Congresso Distrettuale o Congresso Metropolitano. Tale Congresso sostituisce a ogni effetto il Congresso regionale ed è livello intermedio tra Assemblea di Sezione e Congresso Statale. Le Sezioni che non aderiscono restano rappresentate direttamente nel Congresso Statale. Le Regioni Autonome sono abrogate; i Territori Speciali restano in vigore.",
         "etichettaPrima": "Testo vigente",
         "etichettaDopo": "Testo modificato",
-        "iter": [],
-        "pubblicazione": "",
+        "iter": [
+          {
+            "fase": "Stesura Commissionale",
+            "organo": "Commissione Congressuale per i rapporti Costituzionali",
+            "riferimento": "CC. 16",
+            "data": "21 Ottobre 2026",
+            "esito": "Approvato",
+            "colore": "blu"
+          },
+          {
+            "fase": "Lettura Ultima",
+            "organo": "Congresso Unitario",
+            "riferimento": "S.12",
+            "data": "24 Ottobre 2026",
+            "esito": "Approvato",
+            "colore": "blu"
+          }
+        ],
+        "pubblicazione": "Bolla Ufficiale dell'Unione",
         "articoli": [
           {
             "tipo": "articolo",
@@ -4519,6 +4536,55 @@
           },
           {
             "tipo": "articolo",
+            "numero": "I-3bis",
+            "riferimento": "Distretti, Circoscrizioni Metropolitane e Congressi intermedi",
+            "righe": [
+              {
+                "prima": "",
+                "dopo": "Le Assemblee di Sezione possono costituire, su base contigua e per affinità territoriale, sociale o culturale, Distretti; le Assemblee di Sezione ricomprese in una Città Metropolitana che non sia già Stato Sociale membro ai sensi dell’art. VI-4 possono costituire una Circoscrizione Metropolitana",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "L’istituzione del Distretto o della Circoscrizione Metropolitana è deliberata dalle Assemblee di Sezione interessate a maggioranza assoluta dei partecipanti ed è approvata dal Congresso Statale. Il Congresso Unitario può annullarla per contrasto con la Costituzione.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Ogni Assemblea di Sezione aderisce a un solo livello intermedio. In mancanza di adesione, è rappresentata direttamente nel Congresso Statale.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Il Congresso Distrettuale o il Congresso Metropolitano è eletto dalle Assemblee di Sezione del territorio. I suoi membri hanno mandato imperativo e sono revocabili dalle Assemblee che li hanno eletti.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Il Congresso Distrettuale o Metropolitano sostituisce il Congresso regionale a ogni effetto. Esercita funzioni di coordinamento, programmazione e amministrazione delegate dal Congresso Statale e dalle leggi unitarie; non può adottare atti contrari alla Costituzione, alle leggi unitarie e alle leggi statali.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "I delegati al Congresso Statale sono eletti dai Congressi Distrettuali o Metropolitani; nelle Sezioni non aderenti, sono eletti dalle Assemblee di Sezione secondo la legge.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "I Distretti e le Circoscrizioni Metropolitane non sono enti sovrani e non esercitano competenze riservate agli Stati Sociali o all’Unione.",
+                "etichetta": "a)",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
             "numero": "II-2",
             "riferimento": "",
             "righe": [
@@ -4533,6 +4599,19 @@
                 "dopo": "I piani economici, prima dell'approvazione definitiva, sono sottoposti al parere obbligatorio e vincolante del Comitato Tecnico-Scientifico dell'Unione (CTSU) per la verifica di fattibilità tecnica e matematica.",
                 "etichetta": "a)",
                 "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "III-9Bis",
+            "riferimento": "Tutela delle minoranze dopo l’abrogazione delle Regioni Autonome",
+            "righe": [
+              {
+                "prima": "",
+                "dopo": "L’abrogazione delle Regioni Autonome non pregiudica la tutela delle lingue, delle culture, delle tradizioni e delle identità delle minoranze e dei gruppi etnici presenti nell’Unione. La legge unitaria e le leggi degli Stati Sociali assicurano tale tutela anche mediante scuole, istituti culturali, mezzi di comunicazione, consulti e forme associative, nel rispetto dell’art. III-9",
+                "etichetta": "",
+                "livello": 0
               }
             ]
           },
@@ -4621,36 +4700,6 @@
               {
                 "prima": "Il territorio di uno Stato Sociale non può essere alterato senza il suo consenso. Le modifiche dei confini tra Stati Sociali possono avvenire solo con il comune accordo dei rispettivi Congressi Statali e Regionali, sottoposto a referendum popolare in ciascuno Stato interessato e ratificato dal Congresso Unitario.",
                 "dopo": "Il territorio di uno Stato Sociale non può essere alterato senza il suo consenso. Le modifiche dei confini tra Stati Sociali possono avvenire solo con il comune accordo dei rispettivi Congressi Statali e, ove costituiti, dei Congressi Distrettuali o Metropolitani dei territori interessati, sottoposto a referendum popolare in ciascuno Stato interessato e ratificato dal Congresso Unitario.",
-                "etichetta": "",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "titolo",
-            "testo": "CAPITOLO VII - AUTONOMIA DEGLI STATI SOCIALI"
-          },
-          {
-            "tipo": "articolo",
-            "numero": "VII-1",
-            "riferimento": "",
-            "righe": [
-              {
-                "prima": "L'Unione Sociale degli Stati dell'Estji è fondata sull'unione volontaria e sulla sovranità condivisa di Stati Sociali eguali in diritti. Ogni Stato Sociale è un'entità statale sovrana che ha liberamente delegato una parte delle proprie competenze all'Unione, esercitando le rimanenti in piena autonomia attraverso il proprio sistema di Assemblee.",
-                "dopo": "L'Unione Sociale degli Stati dell'Estji è fondata sull'unione volontaria e sulla sovranità condivisa di Stati Sociali eguali in diritti. Ogni Stato Sociale è un'entità statale sovrana che ha liberamente delegato una parte delle proprie competenze all'Unione, esercitando le rimanenti in piena autonomia attraverso il proprio sistema di Assemblee.",
-                "etichetta": "",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "VII-2",
-            "riferimento": "",
-            "righe": [
-              {
-                "prima": "Ogni Stato Sociale ha una propria Costituzione, che deve essere pienamente conforme alla Costituzione dell'USSE e deve riflettere il principio del potere popolare esercitato attraverso le Assemblee e i Congressi.",
-                "dopo": "Ogni Stato Sociale ha una propria Costituzione, che deve essere pienamente conforme alla Costituzione dell'USSE e deve riflettere il principio del potere popolare esercitato attraverso le Assemblee e i Congressi.",
                 "etichetta": "",
                 "livello": 0
               }
@@ -4791,6 +4840,19 @@
           },
           {
             "tipo": "articolo",
+            "numero": "XIII-1",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
+                "dopo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi deputati sono eletti dai Congressi Distrettuali e Metropolitani; nelle Sezioni che non aderiscono a un livello intermedio, sono eletti dalle Assemblee di Sezione secondo la legge.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
             "numero": "XII-2",
             "riferimento": "",
             "righe": [
@@ -4808,7 +4870,7 @@
               },
               {
                 "prima": "Emana le leggi regionali in materie di competenza statale.",
-                "dopo": "Emana le leggi regionali in materie di competenza statale.",
+                "dopo": "Emana le leggi statali in materie di competenza statale.",
                 "etichetta": "b)",
                 "livello": 1
               },
@@ -4820,7 +4882,7 @@
               },
               {
                 "prima": "Approva il piano economico e il bilancio regionale, in coordinamento con il piano unitario.",
-                "dopo": "Approva il piano economico e il bilancio regionale, in coordinamento con il piano unitario.",
+                "dopo": "Approva il piano economico e il bilancio statale, in coordinamento con il piano unitario.",
                 "etichetta": "d)",
                 "livello": 1
               },
@@ -4834,13 +4896,131 @@
           },
           {
             "tipo": "articolo",
-            "numero": "XIII-1",
+            "numero": "XIV-1",
             "riferimento": "",
             "righe": [
               {
-                "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
-                "dopo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
+                "prima": "Le elezioni dirette si svolgono a suffragio universale, diretto, uguale e segreto. Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale. I Congressi regionali e statali sono eletti secondo le norme dell’art. I-3.",
+                "dopo": "Le elezioni dirette si svolgono a suffragio universale, diretto, uguale e segreto. Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale. I Congressi distrettuali o metropolitani e statali sono eletti secondo le norme dell’art. I-3.",
                 "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "XIV-4",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
+                "dopo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'assemblea che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
+                "dopo": "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'assemblea che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "L'iniziativa popolare per referendum propositivi o abrogativi è esercitata da 1/3 degli elettori con firme certificate, anche in formato digitale attraverso la piattaforma gestita dalla CEPU o dalla CEPUS.",
+                "dopo": "L'iniziativa popolare per referendum propositivi o abrogativi è esercitata da 1/3 degli elettori con firme certificate, anche in formato digitale attraverso la piattaforma gestita dalla CEPU o dalla CEPUS.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "I delegati ai Congressi regionali e statali sono revocabili dalla Assemblea o dal Congresso che li ha eletti, con la maggioranza stabilita dalla legge.",
+                "dopo": "I delegati ai Congressi distrettuali o metropolitani e statali sono revocabili dalla Assemblea o dal Congresso che li ha eletti, con la maggioranza stabilita dalla legge.",
+                "etichetta": "c)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "titolo",
+            "testo": "CAPITOLO VIII - TERRITORI SPECIALI"
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VIII-1",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "All'interno degli Stati Sociali, possono essere costituite Regioni Autonome per garantire lo sviluppo culturale, linguistico e sociale di nazionalità o gruppi etnici specifici. La loro istituzione è approvata dal Congresso dello Stato Sociale interessato e ratificata dal Congresso Unitario.",
+                "dopo": "",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VIII-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Le Regioni Autonome esercitano i poteri di uno Stato Sociale in materia culturale, linguistica e di educazione, attraverso il proprio Congresso Regionale Autonomo, eletto dalla popolazione della Regione.",
+                "dopo": "",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VIII-3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
+                "dopo": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VIII-4",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                "dopo": "I Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "XVII-7",
+            "riferimento": "Disposizione transitoria per la soppressione delle Regioni Autonome",
+            "righe": [
+              {
+                "prima": "",
+                "dopo": "Entro dodici mesi dall’entrata in vigore della presente revisione, le Regioni Autonome sono soppresse e i loro Congressi Regionali Autonomi decadono.",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Le Assemblee di Sezione già ricomprese nel territorio di una Regione Autonoma possono costituire Distretti o Circoscrizioni Metropolitane ai sensi dell’art. I-3-bis. In mancanza, le relative funzioni sono esercitate dal Congresso Statale.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Beni, personale, procedimenti e rapporti giuridici delle Regioni Autonome sono trasferiti agli Stati Sociali o ai nuovi livelli intermedi secondo la legge.",
+                "etichetta": "a)",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Fino alla costituzione dei nuovi organi, le funzioni già esercitate dalle Regioni Autonome sono svolte dal Congresso Statale competente.",
+                "etichetta": "a)",
                 "livello": 0
               }
             ]
@@ -4849,7 +5029,7 @@
         "sezioni": [],
         "fonti": "",
         "glossario": [],
-        "aggiornato": "2026-10-27T10:05:30.668Z"
+        "aggiornato": "2026-10-27T10:19:57.996Z"
       }
     },
     {
