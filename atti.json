@@ -491,7 +491,299 @@
         "etichettaDopo": "Testo modificato",
         "iter": [],
         "pubblicazione": "",
-        "articoli": [],
+        "articoli": [
+          {
+            "tipo": "articolo",
+            "numero": "2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+                "dopo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR, in seguito alla delibera positiva del Congresso Unitario ai sensi delll'art. X-4/f Cost. ed alla ratifica prevista dall'art. VI-6 Cost. in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Sul territorio della TBR viene applicata la giurisdizione Unitaria e Statale della TDR.",
+                "dopo": "Fino a tali atti,  sul territorio della TBR viene applicata la giurisdizione Extra-Unitaria.",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+                "dopo": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Assemblea di Hilton;",
+                "dopo": "Assemblea di Hilton;",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Assemblea di Prisma;",
+                "dopo": "Assemblea di Prisma;",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Assemblea di Terlin;",
+                "dopo": "Assemblea di Terlin;",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Assemblea di Verda Ebenajo;",
+                "dopo": "Assemblea di Verda Ebenajo;",
+                "etichetta": "d)",
+                "livello": 1
+              },
+              {
+                "prima": "Assemblea di Savana Ebanajo;",
+                "dopo": "Assemblea di Savana Ebanajo;",
+                "etichetta": "e)",
+                "livello": 1
+              },
+              {
+                "prima": "Assemblea di UppaWest;",
+                "dopo": "Assemblea di UppaWest;",
+                "etichetta": "f)",
+                "livello": 1
+              },
+              {
+                "prima": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso corpo giuridico delle assemblee della TDR.",
+                "dopo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso corpo giuridico delle assemblee della TDR.",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
+                "prima": "Con l'entrata in vigore del seguente testo la capitale della Repubblica Democratica di Terlin è la città Terlin.",
+                "dopo": "Con l'entrata in vigore del seguente testo la capitale della Repubblica Democratica di Terlin è la città Terlin.",
+                "etichetta": "3.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "4",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+                "dopo": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+                "dopo": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
+                "prima": "Viene istituita l'Autorità di Vigilanza per l'Unificazione, il cui compito è quello di creare un registro dei giocatori, residenti e cittadini, entro 180 giorni;",
+                "dopo": "Viene istituita l'Autorità di Vigilanza per l'Unificazione, il cui compito è quello di creare un registro dei giocatori, residenti e cittadini, entro 180 giorni;",
+                "etichetta": "3.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "5",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+                "dopo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+                "dopo": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "6",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
+                "dopo": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Coordinare la transizione delle competenze;",
+                "dopo": "Coordinare la transizione delle competenze;",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Vigilare sulla normalizzazione amministrativa;",
+                "dopo": "Vigilare sulla normalizzazione amministrativa;",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;",
+                "dopo": "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "La Commissione opera per un periodo massimo di 18 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+                "dopo": "La Commissione opera per un periodo massimo di 18 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "7",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+                "dopo": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+                "dopo": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
+                "prima": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
+                "dopo": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
+                "etichetta": "3.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "8",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+                "dopo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+                "dopo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "9",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
+                "dopo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "10",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+                "dopo": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "Riscrivere la Costituzione Statale della TDR;",
+                "dopo": "Riscrivere la Costituzione Statale della TDR;",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Stabilire durata e regolamento interno;",
+                "dopo": "Stabilire durata e regolamento interno;",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
+                "dopo": "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Approvare le leggi applicative della costitzione della TDR;",
+                "dopo": "Approvare le leggi applicative della costitzione della TDR;",
+                "etichetta": "d)",
+                "livello": 1
+              },
+              {
+                "prima": "Vigilare sulla normalizzazione normativa;",
+                "dopo": "Vigilare sulla normalizzazione normativa;",
+                "etichetta": "e)",
+                "livello": 1
+              },
+              {
+                "prima": "Verificare l'operato della Commissione di Transizione;",
+                "dopo": "Verificare l'operato della Commissione di Transizione;",
+                "etichetta": "f)",
+                "livello": 1
+              },
+              {
+                "prima": "Gestire le questioni patrimoniali e finanziarie;",
+                "dopo": "Gestire le questioni patrimoniali e finanziarie;",
+                "etichetta": "g)",
+                "livello": 1
+              },
+              {
+                "prima": "Garantire il raccordo con l'USSE;",
+                "dopo": "Garantire il raccordo con l'USSE;",
+                "etichetta": "h)",
+                "livello": 1
+              },
+              {
+                "prima": "Risolvere le controverisie transitorie;",
+                "dopo": "Risolvere le controverisie transitorie;",
+                "etichetta": "i)",
+                "livello": 1
+              },
+              {
+                "prima": "Assicurare trasparenza e partecipazione ai lavori",
+                "dopo": "Assicurare trasparenza e partecipazione ai lavori",
+                "etichetta": "j)",
+                "livello": 1
+              }
+            ]
+          }
+        ],
         "sezioni": [],
         "fonti": "",
         "glossario": [],
@@ -508,7 +800,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:04:50.062Z"
+        "aggiornato": "2026-10-27T16:21:56.669Z"
       }
     },
     {
