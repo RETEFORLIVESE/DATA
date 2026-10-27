@@ -489,13 +489,62 @@
         "presentazione": "",
         "etichettaPrima": "Testo vigente",
         "etichettaDopo": "Testo modificato",
-        "iter": [],
-        "pubblicazione": "",
+        "iter": [
+          {
+            "fase": "Referendum Consultivo",
+            "organo": "CEPU",
+            "riferimento": "RFC.64",
+            "data": "26 Aprile 2026",
+            "esito": "Positivo",
+            "colore": "blu"
+          },
+          {
+            "fase": "Stesura in Commissione",
+            "organo": "Congresso Statale di Terlin",
+            "riferimento": "CST.23",
+            "data": "2 Maggio 2026",
+            "esito": "Positivo",
+            "colore": "arancio"
+          },
+          {
+            "fase": "Votazione in Congresso",
+            "organo": "Congresso Statale di Terlin",
+            "riferimento": "CST.26",
+            "data": "5 Giugno 2026",
+            "esito": "Positivo",
+            "colore": "arancio"
+          },
+          {
+            "fase": "Verifica Costituzionale",
+            "organo": "Corte Costituzionale",
+            "riferimento": "CC.3",
+            "data": "19 Agosto 2026",
+            "esito": "Negativo",
+            "colore": "verde"
+          },
+          {
+            "fase": "Modifica e Votazione",
+            "organo": "Congresso Statale di Terlin",
+            "riferimento": "CST.31",
+            "data": "1 Settembre 2026",
+            "esito": "Positivo",
+            "colore": "arancio"
+          },
+          {
+            "fase": "Delibera",
+            "organo": "Congresso Unitario",
+            "riferimento": "CU. 122",
+            "data": "18 Ottobre 2026",
+            "esito": "Positivo",
+            "colore": "blu"
+          }
+        ],
+        "pubblicazione": "Bolla Unitaria",
         "articoli": [
           {
             "tipo": "articolo",
             "numero": "2",
-            "riferimento": "",
+            "riferimento": "Natura Giuridica",
             "righe": [
               {
                 "prima": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
@@ -514,7 +563,7 @@
           {
             "tipo": "articolo",
             "numero": "3",
-            "riferimento": "",
+            "riferimento": "Articolazione Territoriale",
             "righe": [
               {
                 "prima": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
@@ -575,7 +624,7 @@
           {
             "tipo": "articolo",
             "numero": "4",
-            "riferimento": "",
+            "riferimento": "Partecipazione",
             "righe": [
               {
                 "prima": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
@@ -600,7 +649,7 @@
           {
             "tipo": "articolo",
             "numero": "5",
-            "riferimento": "",
+            "riferimento": "Continuità dei Contratti e degli Atti Amministrativi",
             "righe": [
               {
                 "prima": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
@@ -619,7 +668,7 @@
           {
             "tipo": "articolo",
             "numero": "6",
-            "riferimento": "",
+            "riferimento": "Commissione di Transizione",
             "righe": [
               {
                 "prima": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
@@ -656,7 +705,7 @@
           {
             "tipo": "articolo",
             "numero": "7",
-            "riferimento": "",
+            "riferimento": "Gestione del Partimonio e della Finanza",
             "righe": [
               {
                 "prima": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
@@ -681,7 +730,7 @@
           {
             "tipo": "articolo",
             "numero": "8",
-            "riferimento": "",
+            "riferimento": "Disposizioni Penali e Giuridiche",
             "righe": [
               {
                 "prima": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
@@ -700,7 +749,7 @@
           {
             "tipo": "articolo",
             "numero": "9",
-            "riferimento": "",
+            "riferimento": "Entrata in Vigore e Abrogazione",
             "righe": [
               {
                 "prima": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
@@ -719,7 +768,7 @@
           {
             "tipo": "articolo",
             "numero": "10",
-            "riferimento": "",
+            "riferimento": "Seconda Costituente",
             "righe": [
               {
                 "prima": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
@@ -806,7 +855,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:36:33.549Z"
+        "aggiornato": "2026-10-27T16:46:41.780Z"
       }
     },
     {
