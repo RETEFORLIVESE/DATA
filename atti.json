@@ -5593,7 +5593,7 @@
               "sottocommi": []
             },
             {
-              "testo": "I Congressi Statali sono eletti a suffragio universale diretto dai cittadini residenti nello Stato Sociale, ai sensi dell’art. XII-1 Cost. I Congressi Regionali sono eletti dagli organi inferiori secondo il modello Hankonen e l’art. I-3 Cost.",
+              "testo": "I Congressi Statali sono eletti dai Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore.",
               "sottocommi": []
             },
             {
@@ -5619,7 +5619,7 @@
           "rubrica": "Circoscrizioni elettorali",
           "commi": [
             {
-              "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali e alle Regioni Autonome, ai sensi dell’art. XIV-2 Cost.",
+              "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali, alle Regioni Autonome e ai Territori Speciali.",
               "sottocommi": []
             },
             {
@@ -5707,7 +5707,7 @@
           "rubrica": "Elezione dei Congressi Statali",
           "commi": [
             {
-              "testo": "Il Congresso Statale è eletto direttamente dai cittadini residenti nello Stato Sociale, a suffragio universale diretto.",
+              "testo": "Il Congresso Statale è eletto dai Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore.",
               "sottocommi": []
             },
             {
@@ -6010,6 +6010,164 @@
             {
               "testo": "Per quanto non previsto dalla presente legge, si rinvia alla Costituzione dell’USSE, agli Statuti degli Stati Sociali conformi alla Costituzione e ai regolamenti attuativi della CEPU.",
               "sottocommi": []
+            }
+          ]
+        }
+      ],
+      "pronunce": [
+        {
+          "id": "s-2026-2-legge-elettorale-dell-unione-kyybeitza",
+          "tipo": "modifica",
+          "numero": "2",
+          "anno": "2026",
+          "data": "27 ottobre 2026",
+          "oggetto": "Illegittimità della procedura d'elezione del Congresso Statale della Legge Elettorale Kyybeitza",
+          "motivazione": "I ricorrenti chiedono dichiarare l'illegittimità costituzionale parziale della Legge Elettorale dell'Unione (n.8/2026),deducendo che essa:\n- l'Art. 2.2 e l'Art. 7.1 non disciplina l'elezione da parte dei Congressi Distrettuali e Metropolitani per i Congressi Statali, in contrasto con l'articolo XII-1 Cost;\n- l'Art. 3.1 non disciplina le circoscrizioni dei Territori Speciali.",
+          "dispositivo": "La questione è ammissibile.\n-L'Art. 2.2 e 7.1 della legge prevede l'elezione dei congressi statali da parte dei giocatori. L'art XII-1/c e XII-1\\n Cost. impongono l'elezione dei deputati da parte dei \"Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore\", la disposizione è illegittima.\n-L'Art. 3.1 disciplina le circoscrizioni plurinominali Statali e regionali ma non quelle dei Territori Speciali, in contrasto con l'Art. VIII-4 Cost, la disposizione è illegittima",
+          "effetto": "Modifica dell'Atto",
+          "collegio": "",
+          "creataIl": "2026-10-27T15:28:07.172Z",
+          "firmataDa": "PyrreHankonen",
+          "statoPrecedente": "vigente",
+          "modifiche": [
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 2",
+              "numero": "2",
+              "prima": {
+                "numero": "2",
+                "rubrica": "Principi del sistema elettorale",
+                "commi": [
+                  {
+                    "testo": "L’elezione del Congresso Unitario è diretta, universale, uguale, segreta e proporzionale, con voto di preferenza e metodo del Voto Singolo Trasferibile (STV), secondo quanto previsto dall’art. XIV-2 Cost. e dalla presente legge.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "I Congressi Statali sono eletti a suffragio universale diretto dai cittadini residenti nello Stato Sociale, ai sensi dell’art. XII-1 Cost. I Congressi Regionali sono eletti dagli organi inferiori secondo il modello Hankonen e l’art. I-3 Cost.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Le Assemblee di Sezione sono aperte a tutti i cittadini residenti nella circoscrizione e non richiedono elezione, salvo per la scelta dei delegati ai livelli superiori.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale, ai sensi dell’art. XIV-1 Cost.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il voto è un diritto e un dovere civico.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "2",
+                "rubrica": "Principi del sistema elettorale",
+                "commi": [
+                  {
+                    "testo": "L’elezione del Congresso Unitario è diretta, universale, uguale, segreta e proporzionale, con voto di preferenza e metodo del Voto Singolo Trasferibile (STV), secondo quanto previsto dall’art. XIV-2 Cost. e dalla presente legge.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "I Congressi Statali sono eletti dai Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Le Assemblee di Sezione sono aperte a tutti i cittadini residenti nella circoscrizione e non richiedono elezione, salvo per la scelta dei delegati ai livelli superiori.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale, ai sensi dell’art. XIV-1 Cost.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il voto è un diritto e un dovere civico.",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 3",
+              "numero": "3",
+              "prima": {
+                "numero": "3",
+                "rubrica": "Circoscrizioni elettorali",
+                "commi": [
+                  {
+                    "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali e alle Regioni Autonome, ai sensi dell’art. XIV-2 Cost.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il numero di seggi per circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per garantire la proporzionalità del metodo STV.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "La CEPU ridetermina le circoscrizioni e i seggi entro 6 mesi dall’entrata in vigore della presente legge e, successivamente, ogni 5 anni sulla base dei dati demografici aggiornati.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "3",
+                "rubrica": "Circoscrizioni elettorali",
+                "commi": [
+                  {
+                    "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali, alle Regioni Autonome e ai Territori Speciali.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il numero di seggi per circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per garantire la proporzionalità del metodo STV.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "La CEPU ridetermina le circoscrizioni e i seggi entro 6 mesi dall’entrata in vigore della presente legge e, successivamente, ogni 5 anni sulla base dei dati demografici aggiornati.",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 7",
+              "numero": "7",
+              "prima": {
+                "numero": "7",
+                "rubrica": "Elezione dei Congressi Statali",
+                "commi": [
+                  {
+                    "testo": "Il Congresso Statale è eletto direttamente dai cittadini residenti nello Stato Sociale, a suffragio universale diretto.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "L’elezione avviene con il metodo STV, in collegi plurinominali definiti dalla CEPUS competente per territorio, garantendo la rappresentanza delle minoranze e delle diversità territoriali.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il numero di seggi e le circoscrizioni sono determinati dallo Statuto dello Stato Sociale, nel rispetto dei principi della Costituzione e della presente legge.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "7",
+                "rubrica": "Elezione dei Congressi Statali",
+                "commi": [
+                  {
+                    "testo": "Il Congresso Statale è eletto dai Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "L’elezione avviene con il metodo STV, in collegi plurinominali definiti dalla CEPUS competente per territorio, garantendo la rappresentanza delle minoranze e delle diversità territoriali.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Il numero di seggi e le circoscrizioni sono determinati dallo Statuto dello Stato Sociale, nel rispetto dei principi della Costituzione e della presente legge.",
+                    "sottocommi": []
+                  }
+                ]
+              }
             }
           ]
         }
