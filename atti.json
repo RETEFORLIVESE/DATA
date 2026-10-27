@@ -4468,7 +4468,389 @@
             }
           ]
         }
-      ]
+      ],
+      "dossier": {
+        "titolo": "Dossier: Costituzione dell’Unione degli Stati Sociali degli Estji",
+        "sottotitolo": "Le modifiche a fronte del testo vigente",
+        "ente": "",
+        "data": "",
+        "presentazione": "",
+        "etichettaPrima": "Testo vigente",
+        "etichettaDopo": "Testo modificato",
+        "iter": [],
+        "pubblicazione": "",
+        "articoli": [
+          {
+            "tipo": "articolo",
+            "numero": "I-3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il potere statale è esercitato attraverso il sistema delle Assemblee, aperte a tutti i giocatori residenti e di Congressi, eletti democraticamente nelle assemblee dei luoghi di lavoro, di residenza e di studio.",
+                "dopo": "Il potere statale è esercitato attraverso il sistema delle Assemblee, aperte a tutti i giocatori residenti e di Congressi, eletti democraticamente nelle assemblee dei luoghi di lavoro, di residenza e di studio.",
+                "etichetta": "1.",
+                "livello": 0
+              },
+              {
+                "prima": "Le Assemle sono organizzati a livello locale, regionale, statale e unitario, formando una piramide del potere che parte dalla base.",
+                "dopo": "Le Assemblee sono organizzati a livello locale, distrettuale o metropolitano, statale e unitario, formando una piramide del potere che parte dalla base.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Con il termine Congresso si indicano tutti gli organi legislativi superiori alla Sezione. I Congressi regionali e statali sono formati da delegati delle Assemblee inferiori; il Congresso Unitario è formato da deputati eletti direttamente.",
+                "dopo": "Con il termine Congresso si indicano tutti gli organi legislativi superiori alla Sezione. I Congressi distrettuali o metropolitani e statali sono formati da delegati delle Assemblee inferiori; il Congresso Unitario è formato da deputati eletti direttamente.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Il sistema Hankonen è articolato secondo il principio della separazione funzionale dei poteri: legislativo (Assemblee/Congressi a tutti i livelli), esecutivo (Consolato Statale o Unitario), giudiziario (Tribunali), moderatore (Alto Moderatore), consultivo (Comitato Tecnico-Scientifico) e di controllo (Ispettorato di Vigilanza).",
+                "dopo": "Il sistema Hankonen è articolato secondo il principio della separazione funzionale dei poteri: legislativo (Assemblee/Congressi a tutti i livelli), esecutivo (Consolato Statale o Unitario), giudiziario (Tribunali), moderatore (Alto Moderatore), consultivo (Comitato Tecnico-Scientifico) e di controllo (Ispettorato di Vigilanza).",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Le Assemblee di Sezione sono aperte a tutti i giocatori residenti, che vi partecipano direttamente. I Congressi regionali e statali sono eletti dall’organo inferiore. Il Congresso Unitario è eletto a suffragio universale diretto dai cittadini dell’Unione.",
+                "dopo": "Le Assemblee di Sezione sono aperte a tutti i giocatori residenti, che vi partecipano direttamente. I Congressi distrettuali o metropolitani e statali sono eletti dall’organo inferiore. Il Congresso Unitario è eletto a suffragio universale diretto dai cittadini dell’Unione.",
+                "etichetta": "2.",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "II-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "La pianificazione economica è democratica e dal basso verso l'alto. I piani economici partono dalle proposte delle Assemblee di fabbrica, sezione, regione e statali, vengono coordinati dal Consiglio Centrale di Pianificazione (eletto dal Congresso Unitario) e infine approvati dal Congresso Unitario stesso.",
+                "dopo": "La pianificazione economica è democratica e dal basso verso l'alto. I piani economici partono dalle proposte delle Assemblee di fabbrica, sezione, distretto o circoscrizione metropolitana e statali, vengono coordinati dal Consiglio Centrale di Pianificazione (eletto dal Congresso Unitario) e infine approvati dal Congresso Unitario stesso.",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "I piani economici, prima dell'approvazione definitiva, sono sottoposti al parere obbligatorio e vincolante del Comitato Tecnico-Scientifico dell'Unione (CTSU) per la verifica di fattibilità tecnica e matematica.",
+                "dopo": "I piani economici, prima dell'approvazione definitiva, sono sottoposti al parere obbligatorio e vincolante del Comitato Tecnico-Scientifico dell'Unione (CTSU) per la verifica di fattibilità tecnica e matematica.",
+                "etichetta": "a)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "IV-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il sistema giudiziario è unico e si struttura su base unitaria, statale, regionale e locale.",
+                "dopo": "Il sistema giudiziario è unico e si struttura su base unitaria, statale, distrettuale o metropolitana e locale.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "IV-5",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "I giudici dei tribunali locali, regionali e statali sono nominati dal CGU mediante concorso pubblico per titoli ed esami, salva la possibilità di accesso per chiara fama nei limiti stabiliti dalla legge. I giudici della Corte Suprema dell’Unione sono eletti dal Congresso Unitario su proposta formulata congiuntamente dal CGU e da una commissione tecnica composta dai presidenti delle accademie nazionali; la votazione richiede la maggioranza dei due terzi dei deputati.",
+                "dopo": "I giudici dei tribunali locali, distrettuali o metropolitani e statali sono nominati dal CGU mediante concorso pubblico per titoli ed esami, salva la possibilità di accesso per chiara fama nei limiti stabiliti dalla legge. I giudici della Corte Suprema dell’Unione sono eletti dal Congresso Unitario su proposta formulata congiuntamente dal CGU e da una commissione tecnica composta dai presidenti delle accademie nazionali; la votazione richiede la maggioranza dei due terzi dei deputati.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "IV-8",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "I tribunali degli Stati Sociali e delle Regioni Autonome sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
+                "dopo": "Tribunali statali, distrettuali e metropolitani. I tribunali degli Stati Sociali, dei Distretti e delle Circoscrizioni Metropolitane sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "V-7",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "La sicurezza interna e la protezione civile sono garantite da:",
+                "dopo": "La sicurezza interna e la protezione civile sono garantite da:",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "Milizie Popolari Locali: Organizzate a livello delle Sezioni, per il mantenimento dell'ordine pubblico e la prima risposta alle emergenze. Le Milizie sono subordinate alle rispettive Assemblee e coordinate a livello regionale.",
+                "dopo": "Milizie Popolari Locali: Organizzate a livello delle Sezioni, per il mantenimento dell'ordine pubblico e la prima risposta alle emergenze. Le Milizie sono subordinate alle rispettive Assemblee e coordinate a livello distrettuale o metropolitano;  in mancanza, a livello statale.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Corpo di Difesa Civile: Sotto la direzione del Consiglio Esecutivo Unitario, responsabile della protezione della popolazione da disastri naturali e attacchi bellici, organizzando esercitazioni periodiche e piani di evacuazione (assieme al CTSU).",
+                "dopo": "Corpo di Difesa Civile: Sotto la direzione del Consiglio Esecutivo Unitario, responsabile della protezione della popolazione da disastri naturali e attacchi bellici, organizzando esercitazioni periodiche e piani di evacuazione (assieme al CTSU).",
+                "etichetta": "b)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VI-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, delle Regioni Autonome e delle Città Metropolitane.",
+                "dopo": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, dei Distretti e delle Città Metropolitane.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VI-6",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il territorio di uno Stato Sociale non può essere alterato senza il suo consenso. Le modifiche dei confini tra Stati Sociali possono avvenire solo con il comune accordo dei rispettivi Congressi Statali e Regionali, sottoposto a referendum popolare in ciascuno Stato interessato e ratificato dal Congresso Unitario.",
+                "dopo": "Il territorio di uno Stato Sociale non può essere alterato senza il suo consenso. Le modifiche dei confini tra Stati Sociali possono avvenire solo con il comune accordo dei rispettivi Congressi Statali e, ove costituiti, dei Congressi Distrettuali o Metropolitani dei territori interessati, sottoposto a referendum popolare in ciascuno Stato interessato e ratificato dal Congresso Unitario.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "titolo",
+            "testo": "CAPITOLO VII - AUTONOMIA DEGLI STATI SOCIALI"
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-1",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "L'Unione Sociale degli Stati dell'Estji è fondata sull'unione volontaria e sulla sovranità condivisa di Stati Sociali eguali in diritti. Ogni Stato Sociale è un'entità statale sovrana che ha liberamente delegato una parte delle proprie competenze all'Unione, esercitando le rimanenti in piena autonomia attraverso il proprio sistema di Assemblee.",
+                "dopo": "L'Unione Sociale degli Stati dell'Estji è fondata sull'unione volontaria e sulla sovranità condivisa di Stati Sociali eguali in diritti. Ogni Stato Sociale è un'entità statale sovrana che ha liberamente delegato una parte delle proprie competenze all'Unione, esercitando le rimanenti in piena autonomia attraverso il proprio sistema di Assemblee.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Ogni Stato Sociale ha una propria Costituzione, che deve essere pienamente conforme alla Costituzione dell'USSE e deve riflettere il principio del potere popolare esercitato attraverso le Assemblee e i Congressi.",
+                "dopo": "Ogni Stato Sociale ha una propria Costituzione, che deve essere pienamente conforme alla Costituzione dell'USSE e deve riflettere il principio del potere popolare esercitato attraverso le Assemblee e i Congressi.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
+                "dopo": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
+                "dopo": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "La gestione del bilancio regionale, nell'ambito del bilancio unitario.",
+                "dopo": "La gestione del bilancio statale, nell'ambito del bilancio unitario.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "La costituzione di Milizie Locali per la sicurezza interna.",
+                "dopo": "La costituzione di Milizie Locali per la sicurezza interna.",
+                "etichetta": "c)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-4",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con regioni di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
+                "dopo": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con regioni di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-5",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati, in violazione della Costituzione, è illegittima.",
+                "dopo": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati, in violazione della Costituzione, è illegittima.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VII-3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
+                "dopo": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
+                "dopo": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "La gestione del bilancio regionale, nell'ambito del bilancio unitario.",
+                "dopo": "La gestione del bilancio regionale, nell'ambito del bilancio unitario.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "La costituzione di Milizie Locali per la sicurezza interna.",
+                "dopo": "La costituzione di Milizie Locali per la sicurezza interna.",
+                "etichetta": "c)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "VIII-4",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                "dopo": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "IX-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Gli organi a livello locale, regionale e unitario costituiscono un unico sistema organico, basato sui principi del centralismo democratico e del mandato imperativo.",
+                "dopo": "Gli organi a livello locale, distrettuale o metropolitano e unitario costituiscono un unico sistema organico, basato sui principi del centralismo democratico e del mandato imperativo.",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "Il sistema Hankonen opera in sinergia con gli tutti organi costituzionali: l'Alto Moderatore, il Consolato Unitario, il Comitato Tecnico-Scientifico e l'Ispettorato di Vigilanza, Le Assemblee/Congressi ciascuno nelle proprie competenze.",
+                "dopo": "Il sistema Hankonen opera in sinergia con gli tutti organi costituzionali: l'Alto Moderatore, il Consolato Unitario, il Comitato Tecnico-Scientifico e l'Ispettorato di Vigilanza, Le Assemblee/Congressi ciascuno nelle proprie competenze.",
+                "etichetta": "a)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "IX-3",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "I membri di ogni Assemblea e Congresso sono eletti sulla base di un programma e di un mandato preciso: dai cittadini, nel caso del Congresso Unitario; dagli organi di livello inferiore, nel caso dei Congressi regionali e statali. Rispondono direttamente a chi li ha eletti e possono essere revocati da questi nei modi stabiliti dalla legge.",
+                "dopo": "I membri di ogni Assemblea e Congresso sono eletti sulla base di un programma e di un mandato preciso: dai cittadini, nel caso del Congresso Unitario; dagli organi di livello inferiore, nel caso dei Congressi distrettuali o metropolitani e statali. Rispondono direttamente a chi li ha eletti e possono essere revocati da questi nei modi stabiliti dalla legge.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "XII-2",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il Congresso Statale:",
+                "dopo": "Il Congresso Statale:",
+                "etichetta": "",
+                "livello": 0
+              },
+              {
+                "prima": "Approva la Costituzione dello Stato, in conformità con la Costituzione unitaria.",
+                "dopo": "Approva la Costituzione dello Stato, in conformità con la Costituzione unitaria.",
+                "etichetta": "a)",
+                "livello": 1
+              },
+              {
+                "prima": "Emana le leggi regionali in materie di competenza statale.",
+                "dopo": "Emana le leggi regionali in materie di competenza statale.",
+                "etichetta": "b)",
+                "livello": 1
+              },
+              {
+                "prima": "Elegge e revoca il Consiglio Esecutivo Statale.",
+                "dopo": "Elegge e revoca il Consiglio Esecutivo Statale.",
+                "etichetta": "c)",
+                "livello": 1
+              },
+              {
+                "prima": "Approva il piano economico e il bilancio regionale, in coordinamento con il piano unitario.",
+                "dopo": "Approva il piano economico e il bilancio regionale, in coordinamento con il piano unitario.",
+                "etichetta": "d)",
+                "livello": 1
+              },
+              {
+                "prima": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
+                "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
+                "etichetta": "e)",
+                "livello": 1
+              }
+            ]
+          },
+          {
+            "tipo": "articolo",
+            "numero": "XIII-1",
+            "riferimento": "",
+            "righe": [
+              {
+                "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
+                "dopo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
+                "etichetta": "",
+                "livello": 0
+              }
+            ]
+          }
+        ],
+        "sezioni": [],
+        "fonti": "",
+        "glossario": [],
+        "aggiornato": "2026-10-27T10:05:30.668Z"
+      }
     },
     {
       "id": "legge-elettorale-dell-unione",
