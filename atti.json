@@ -3759,7 +3759,7 @@
           {
             "tipo": "articolo",
             "numero": "8",
-            "riferimento": "",
+            "riferimento": "Circoscrizioni e Assemblee",
             "righe": [
               {
                 "prima": "Distretti non membri della Città Metropolitana di Taleen:",
@@ -3795,7 +3795,7 @@
                 "prima": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
                 "dopo": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
                 "etichetta": "a)",
-                "livello": 1
+                "livello": 0
               },
               {
                 "prima": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
@@ -3848,12 +3848,24 @@
           {
             "tipo": "articolo",
             "numero": "9",
-            "riferimento": "",
+            "riferimento": "Territori pubblici",
             "righe": [
               {
                 "prima": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
                 "dopo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
-                "etichetta": "",
+                "etichetta": "1,.",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Il Distretto Agricolo Capitolino è suddiviso e opera in base alle Circoscrizioni dell'EstjiLinn.",
+                "etichetta": "2.",
+                "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Il Distretto Agricolo Capitolino è soggetto ai Piani Economici e esprime parere rigurdanti la stesura.",
+                "etichetta": "3.",
                 "livello": 0
               }
             ]
@@ -3927,7 +3939,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T17:32:20.464Z"
+        "aggiornato": "2026-10-27T17:36:24.214Z"
       }
     },
     {
