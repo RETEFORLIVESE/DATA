@@ -532,7 +532,7 @@
           },
           {
             "fase": "Delibera",
-            "organo": "Congresso Unitario",
+            "organo": "Congresso Unitario degli Estji",
             "riferimento": "CU. 122",
             "data": "18 Ottobre 2026",
             "esito": "Positivo",
@@ -841,7 +841,16 @@
         ],
         "sezioni": [],
         "fonti": "",
-        "glossario": [],
+        "glossario": [
+          {
+            "termine": "TBR",
+            "definizione": "Terlin Bundes Republick - Repubblica Federale di Terlin [OVEST]"
+          },
+          {
+            "termine": "TDR",
+            "definizione": "Terlin Demokratic Republick - Repubblica Democratica di Terlin [EST]"
+          }
+        ],
         "copertina": {
           "attiva": false,
           "sfondo": "#ffffff",
@@ -855,7 +864,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:48:21.830Z"
+        "aggiornato": "2026-10-27T16:49:41.353Z"
       }
     },
     {
