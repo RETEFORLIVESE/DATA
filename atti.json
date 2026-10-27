@@ -496,7 +496,7 @@
             "riferimento": "RFC.64",
             "data": "26 Aprile 2026",
             "esito": "Positivo",
-            "colore": "blu"
+            "colore": "verde"
           },
           {
             "fase": "Stesura in Commissione",
@@ -504,7 +504,7 @@
             "riferimento": "CST.23",
             "data": "2 Maggio 2026",
             "esito": "Positivo",
-            "colore": "arancio"
+            "colore": "verde"
           },
           {
             "fase": "Votazione in Congresso",
@@ -512,7 +512,7 @@
             "riferimento": "CST.26",
             "data": "5 Giugno 2026",
             "esito": "Positivo",
-            "colore": "arancio"
+            "colore": "verde"
           },
           {
             "fase": "Verifica Costituzionale",
@@ -520,7 +520,7 @@
             "riferimento": "CC.3",
             "data": "19 Agosto 2026",
             "esito": "Negativo",
-            "colore": "verde"
+            "colore": "arancio"
           },
           {
             "fase": "Modifica e Votazione",
@@ -528,7 +528,7 @@
             "riferimento": "CST.31",
             "data": "1 Settembre 2026",
             "esito": "Positivo",
-            "colore": "arancio"
+            "colore": "verde"
           },
           {
             "fase": "Delibera",
@@ -536,7 +536,7 @@
             "riferimento": "CU. 122",
             "data": "18 Ottobre 2026",
             "esito": "Positivo",
-            "colore": "blu"
+            "colore": "verde"
           }
         ],
         "pubblicazione": "Bolla Unitaria",
@@ -855,7 +855,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:46:41.780Z"
+        "aggiornato": "2026-10-27T16:47:38.070Z"
       }
     },
     {
