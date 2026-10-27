@@ -2818,6 +2818,996 @@
       ]
     },
     {
+      "id": "legge-elettorale-dell-unione",
+      "categoria": "Legge Applicativa",
+      "numero": "2",
+      "anno": "2025",
+      "titolo": "Legge Elettorale dell’Unione [Sthraubitza]",
+      "dataEmanazione": "13 marzo 2025",
+      "promulgatoDa": "Congresso Unitario",
+      "stato": "annullato",
+      "sommario": "Legge Elettorale Per l’Unione e per gli Stati Membri",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "numero": "1",
+          "rubrica": "Principi del Sistema Elettorale",
+          "commi": [
+            {
+              "testo": "Le elezioni per il rinnovo di tutte le Assemblee e i Congressi dell'USSE, a livello di Sezione, Regionale, Statale e Unitario, si svolgono a suffragio universale, diretto, uguale e segreto.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il sistema elettorale dell'USSE è di tipo proporzionale con voto di preferenza e meccanismo di voto singolo trasferibile (STV), al fine di garantire una rappresentanza fedele della volontà popolare, il pluralismo e la rappresentanza di genere e delle minoranze [cost. XIV-2].",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell'USSE che abbiano compiuto il 16° anno di età, senza distinzione di genere, etnia, religione o condizione sociale [cost. XIV-1].",
+              "sottocommi": [
+                "Il voto è oltre che un  diritto, un dovere di ogni giocatore."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Commissione Elettorale Permanente dell’Unione",
+          "commi": [
+            {
+              "testo": "La gestione, il coordinamento e la vigilanza di tutte le elezioni e i referendum dell'USSE sono di competenza esclusiva della Commissione Elettorale Permanente dell'Unione (CEPU), organo indipendente e tecnico [cost. Cap I-8].",
+              "sottocommi": [
+                "Delimitare le circoscrizioni elettorali per tutti i livelli, garantendo una proporzionale rappresentanza demografica.",
+                "Gestire le liste elettorali e il processo di voto (inclusa la piattaforma di voto digitale).",
+                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca [cost. XIV-4.1].",
+                "Proclamare gli eletti e verificare la regolarità delle operazioni. finanziamento privato [cost. XIV-3.1]."
+              ]
+            },
+            {
+              "testo": "La CEPU è composta da 7 membri effettivi e 3 supplenti, selezionati per sorteggio pubblico tra cittadini in possesso di comprovate competenze giuridico-amministrative, informatiche e statistiche. I membri della CEPU sono sorteggiati da una lista di candidati qualificati, proposta congiuntamente dalle Università e dalla Corte Suprema dell'USSE.  Durante il mandato, non possono ricoprire cariche pubbliche elettive né incarichi di partito.",
+              "sottocommi": [
+                "Il mandato è di 5 anni non rinnovabile [cost. XIV-3.1]."
+              ]
+            },
+            {
+              "testo": "La CEPU ha il compito di:",
+              "sottocommi": [
+                "Delimitare le circoscrizioni elettorali per tutti i livelli, garantendo una proporzionale rappresentanza demografica.",
+                "Gestire le liste elettorali e il processo di voto (inclusa la piattaforma di voto digitale)",
+                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca [cost.XIV-4.1].",
+                "Proclamare gli eletti e verificare la regolarità delle operazioni.",
+                "Amministrare il finanziamento pubblico ai partiti e vigilare sul rispetto del divieto di finanziamento privato [cost. XIV-3.1]."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "2Bis",
+          "rubrica": "Articolazione Territoriale della CEPU",
+          "commi": [
+            {
+              "testo": "La Commissione Elettorale Permanente dell'Unione (CEPU) si articola sul territorio per\ngarantire la gestione capillare e decentrata dei processi elettorali e referendari. A tal fine, in\nogni Stato Sociale è istituita una Commissione Elettorale Permanente Statale (CEPUS).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le CEPUS sono organi tecnicamente autonomi e indipendenti nell'esercizio delle loro\nfunzioni a livello statale, ma operano in coordinamento con la CEPU, rispettandone le linee\nguida, i regolamenti attuativi e la vigilanza in ultima istanza.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Composizione e nomina delle CEPUS:",
+              "sottocommi": [
+                "Ogni CEPUS è composta da 5 membri effettivi e 2 supplenti.",
+                "I membri sono selezionati per sorteggio pubblico da una lista di candidati qualificati,\nresidenti nello Stato Sociale, proposta congiuntamente dalle Università con sede nello\nStato e dalla Sezione Territoriale della Corte Suprema",
+                "Il sorteggio avviene in seduta pubblica dinanzi al Congresso Statale, sotto la\nsupervisione di un delegato della CEPU. Il mandato è di 5 anni non rinnovabile e segue\nle stesse norme di incompatibilità previste per i membri della CEPU (Art. 2.3)."
+              ]
+            },
+            {
+              "testo": "Competenze delle CEPUS:",
+              "sottocommi": [
+                "Gestire le liste elettorali e il processo di voto a livello statale, locale e di sezione.",
+                "Delimitare le circoscrizioni per le elezioni delle Assemblee di Sezione e del Congresso\nStatale, in accordo con i principi stabiliti dalla CEPU.",
+                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca a\nlivello statale.",
+                "Proclamare gli eletti a livello statale e locale e vigilare sulla regolarità delle operazioni\nnel proprio territorio.",
+                "Amministrare la quota del finanziamento pubblico destinata ai partiti per le campagne\nelettorali statali e locali."
+              ]
+            },
+            {
+              "testo": "Coordinamento e raccordo:",
+              "sottocommi": [
+                "La CEPU centrale esercita funzioni di indirizzo, coordinamento e vigilanza sulle\nCEPUS, emanando regolamenti tecnici uniformi per garantire la coerenza del sistema\nelettorale in tutta l'Unione.",
+                "Le CEPUS trasmettono alla CEPU i dati elettorali aggregati e una relazione annuale\nsulle attività svolte nel proprio Stato.",
+                "I Presidenti delle CEPUS si riuniscono almeno una volta all'anno in una Conferenza\npermanente convocata dalla CEPU per armonizzare le procedure e scambiarsi buone\npratiche.",
+                "In caso di gravi e reiterate violazioni, la CEPU può, con deliberazione motivata e previa\naudizione, sospendere e commissariare una CEPUS, indendo nuove procedure di\nsorteggio entro sei mesi."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Circoscrizioni e  Collegi Plurinominali",
+          "commi": [
+            {
+              "testo": "Il territorio dell’USSE è suddiviso in circoscrizioni elettorali plurinominali. Per le elezioni del Congresso Unitario, le circoscrizioni coincidono con i territori degli Stati Sociali e delle Regioni Autonome [cost. XIV-2].",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il numero di seggi assegnati a ciascuna circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per circoscrizione per garantire la proporzionalità del metodo STV.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "La Scheda Elettorale e l’Espressione del Voto",
+          "commi": [
+            {
+              "testo": "La scheda elettorale riporta i nomi di tutti i candidati della circoscrizione, raggruppati per lista di appartenenza (partito, organizzazione sociale o lista civica). Per ogni lista è indicato il simbolo e il nome del candidato.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elettore esprime il proprio voto (ordinando numericamente i candidati in ordine di preferenza “1, 2, 3, 4...”). Può esprimere tante preferenze quanti sono i candidati nella lista o nella circoscrizione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il voto è valido se almeno una preferenza è espressa correttamente. Il voto viene inizialmente attribuito al candidato indicato come prima preferenza [cost. XIV-2].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Calcolo del Quoziente e Procedura di Scrutinio",
+          "commi": [
+            {
+              "testo": "Termine delle operazioni di voto, la CEPU procede allo scrutinio secondo il metodo del Voto Singolo Trasferibile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fase 1 – Determinazione del quoziente: Si calcola il quoziente di Droop per ogni circoscrizione, ovvero il numero di voti necessario per eleggere un candidato. La formula è: (Voti Validi Totali / (Seggi Circoscrizione + 1)) + 1 (ignorando eventuali decimali).",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fase 2 – Conteggio dei voti di prima preferenza: Si contano tutti i voti in base alla prima preferenza espressa. I candidati che ottengono un numero di prime preferenze pari o superiore al quoziente sono proclamati eletti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fase 3 – Trasferimento delle eccedenze: Se un candidato ottiene più voti del quoziente, l’“eccedenza” (voti in eccesso) viene trasferita ai candidati indicati come seconda preferenza sulle sue schede. Il valore di trasferimento di ogni scheda è calcolato in base alla frazione di eccedenza. Questo processo continua finché tutti i seggi non vengono assegnati.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fase 4 – Eliminazione e trasferimento: Se, dopo il trasferimento delle eccedenze, rimangono seggi vacanti, si procede all’eliminazione del candidato con il minor numero di voti. Tutti i suoi voti vengono trasferiti alla successiva preferenza ancora in gara indicata su ogni scheda. Il processo si ripete (elezione dei candidati che raggiungono il quoziente, trasferimento delle loro eccedenze, eliminazione del meno votato) fino all’assegnazione di tutti i seggi.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Soglia di Sbarramento e Voto Trasferibile",
+          "commi": [
+            {
+              "testo": "È prevista una soglia di sbarramento del 3% dei voti validi a livello di circoscrizione per le liste. Le liste che non raggiungono tale soglia sono escluse dall’assegnazione dei seggi [cost. XIV-2.1].",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di esclusione di una lista, le schede che riportano come prima preferenza un candidato di tale lista vengono trasferite all’elettore e vengono considerate valide solo se è espressa una seconda preferenza. In tal caso, il voto viene trasferito al candidato indicato come seconda preferenza, se ancora in gara. In assenza di ulteriori preferenze, la scheda diventa “non trasferibile” e si estingue [cost. XIV-2.1].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "7",
+          "rubrica": "Elezione delle Assemblee di Sezione e dei Congressi Statali",
+          "commi": [
+            {
+              "testo": "Le elezioni per i Congressi degli Stati Sociali si svolgono secondo le medesime regole STV di cui al Titolo II, con circoscrizioni definite a livello comunale, provinciale o regionale dalla CEPUS.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Consigli Esecutivi a livello di Sezione e Statale sono eletti dai rispettivi organi legislativi (Assemblee e Congressi), in seduta comune, a scrutinio segreto e con voto limitato per garantire la rappresentanza di minoranze, e sono da essi revocabili in qualsiasi momento [cost. Cap I-4].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Elezione del Congresso Unitario",
+          "commi": [
+            {
+              "testo": "L’Assemblea di Sezione è l’organo di base del potere popolare. Essa è aperta alla partecipazione di tutti i giocatori cittadini residenti nella circoscrizione, che vi prendono parte senza necessità di delega, secondo i principi della democrazia diretta e partecipativa.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’Assemblea di Sezione elegge al suo interno, a scrutinio segreto e con voto limitato per garantire la rappresentanza delle minoranze.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Consiglio Esecutivo di Sezione costituisce il ramo esecutivo e amministrativo a livello locale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Consiglio Esecutivo di Sezione, nell’esercizio delle sue funzioni, è sottoposto alla vigilanza della Sezione Territoriale del Comitato Tecnico-Scientifico (CTSU) per la fattibilità tecnica dei piani locali, e al controllo dell’Ispettorato di Vigilanza e Integrità dell’Unione (IVIdU) per la trasparenza e l’assenza di conflitti d’interesse.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le Assemblee di Sezione, inoltre, eleggono i membri del Congresso dello Stato Sociale, che costituiscono il livello legislativo statale. L’elezione avviene secondo le medesime regole STV di cui al Titolo II, in collegi plurinominali che coincidono con il territorio di più sezioni, come definito dalla CEPUS.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Consigli Esecutivi di Sezione, nel loro insieme e attraverso i propri rappresentanti delegati, concorrono a formare il Congresso Regionale (o di livello intermedio, laddove previsto), quale organo di coordinamento e raccordo tra il livello locale e quello statale. Le modalità di questa rappresentanza sono definite dallo Statuto di ogni Stato Sociale in conformità con i principi della presente legge.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Consigli Esecutivi a livello di Sezione e Statale sono eletti dai rispettivi organi legislativi (Assemblee e Congressi), in seduta comune, a scrutinio segreto e con voto limitato per garantire la rappresentanza di minoranze, e sono da essi revocabili in qualsiasi momento [cost. Cap I-4].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Elezione dell’Alto Moderatore",
+          "commi": [
+            {
+              "testo": "L’Alto Moderatore, composto da due Presidenti, è eletto a suffragio universale diretto e con voto limitato a un solo genere per ciascuna tornata [cost. Cap II-bis-1].",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elezione avviene in due tornate separate a distanza di due settimane. Nella prima tornata si elegge il Presidente di un genere, nella seconda il Presidente dell’altro genere.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il sistema elettorale per ciascuna tornata è maggioritario a doppio turno. Se nessun candidato raggiunge il 50%+1 dei voti al primo turno, si procede a un ballottaggio tra i due candidati più votati. I due Presidenti non possono appartenere allo stesso partito o corrente politica [cost. Cap II-bis-2].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9Bis",
+          "rubrica": "Nomina e Formazione del Consolato dell’Unione",
+          "commi": [
+            {
+              "testo": "Il Consolato dell’Unione, massimo organo esecutivo e amministrativo dell’USSE, è composto da tre Consoli, ciascuno con un Vice-console, secondo quanto stabilito dall’articolo XI della Costituzione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Procedura di nomina:",
+              "sottocommi": [
+                "A seguito delle elezioni per il rinnovo del Congresso Unitario, o in caso di cessazione anticipata del Consolato, l’Alto Moderatore avvia le consultazioni per la formazione del nuovo esecutivo.",
+                "Entro 15 giorni dalla proclamazione degli eletti, l’Alto Moderatore propone al Congresso Unitario una lista di tre nomi per la carica di Console, rispettando i criteri di rappresentanza previsti dalla Costituzione (Art. XI-4).",
+                "Nei casi di elezioni ordinarie senza una maggioranza assoluta di partito, la lista proposta deve includere due rappresentanti della coalizione di maggioranza e un rappresentante del principale partito di opposizione. In caso di maggioranza assoluta, i tre Consoli sono scelti tra le diverse correnti del partito vincitore."
+              ]
+            },
+            {
+              "testo": "Approvazione e fiducia:",
+              "sottocommi": [
+                "Il Congresso Unitario è chiamato a esprimersi sulla lista proposta con un voto di fiducia collettivo, entro 10 giorni dalla presentazione.",
+                "La fiducia è accordata se la lista ottiene la maggioranza semplice dei voti dei deputati presenti.",
+                "In caso di mancata approvazione, l’Alto Moderatore deve presentare una nuova lista entro i successivi 7 giorni. Se anche la seconda lista viene respinta, si procede allo scioglimento anticipato del Congresso Unitario e a nuove elezioni, come previsto dall’Art. II-bis-3.3 della Costituzione."
+              ]
+            },
+            {
+              "testo": "Insediamento e mandato:",
+              "sottocommi": [
+                "Ottenuta la fiducia, i tre Consoli e i rispettivi Vice-consoli prestano giuramento dinanzi al Congresso Unitario e all’Alto Moderatore, impegnandosi a rispettare e far rispettare la Costituzione e le leggi dell’USSE.",
+                "Il mandato del Consolato è di 2 anni e non è immediatamente rinnovabile, salvo i casi di elezioni straordinarie previsti dalla legge."
+              ]
+            },
+            {
+              "testo": "Responsabilità e revoca:",
+              "sottocommi": [
+                "Il Consolato è responsabile collegialmente del proprio operato di fronte al Congresso Unitario.",
+                "Il Congresso Unitario può revocare la fiducia al Consolato, anche a un suo singolo membro, con mozione motivata approvata a maggioranza assoluta dei componenti. In caso di revoca di un singolo Console, l’Alto Moderatore propone un sostituto che deve ottenere la fiducia del Congresso con la medesima procedura. In caso di revoca dell’intero Consolato, si procede a nuove consultazioni per la formazione di un nuovo esecutivo."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Natura del Mandato",
+          "commi": [
+            {
+              "testo": "I membri di tutte le Assemblee e i Congressi sono eletti sulla base di un mandato imperativo. Essi sono rappresentanti della volontà popolare e direttamente responsabili di fronte ai loro elettori e all’Assemblea che li ha eletti [cost. IX-3].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "rubrica": "Procedura di revoca",
+          "commi": [
+            {
+              "testo": "Un deputato può essere revocato in qualsiasi momento [cost. XIV-4]:",
+              "sottocommi": [
+                "Su iniziativa popolare: da almeno un terzo degli elettori iscritti nella circoscrizione da cui è stato eletto.",
+                "Su iniziativa istituzionale: dall’Assemblea o dal Congresso che lo ha eletto, con voto motivato a maggioranza assoluta."
+              ]
+            },
+            {
+              "testo": "La richiesta di revoca, corredata dalle firme autenticate, è presentata alla CEPU, che ne verifica la validità entro 15 giorni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Verificata la legittimità, la CEPU indice il referendum di revoca nella circoscrizione di elezione entro 60 giorni [cost. XIV-4.1].",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il referendum di revoca è valido con la partecipazione di qualsiasi numero di elettori (quorum abolito) [cost. Modifica del 29/12/2024]. La revoca è approvata se ottiene la maggioranza dei voti validi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di revoca, subentra il primo dei non eletti della stessa lista nella circoscrizione, seguendo l’ordine determinato dal precedente scrutinio STV. Se la lista non ha più candidati, si procede a elezioni suppletive.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Partiti Politici e Candidature",
+          "commi": [
+            {
+              "testo": "Hanno diritto a presentare liste di candidati i partiti politici, le organizzazioni sociali (sindacati, cooperative) e le liste civiche [cost. XIV-3].",
+              "sottocommi": []
+            },
+            {
+              "testo": "È garantito il diritto di candidatura indipendente, sostenuta da un numero di firme di elettori della circoscrizione pari allo 0,5% degli iscritti, certificate dalla CEPU [cost. XIV-5].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "13",
+          "rubrica": "Finanziamento e Trasparenza",
+          "commi": [
+            {
+              "testo": "Il finanziamento dei partiti e delle campagne elettorali è esclusivamente pubblico, gestito dalla CEPU, ed è proporzionale ai voti ottenuti. È severamente vietato il finanziamento privato [cost. XIV-3].",
+              "sottocommi": []
+            },
+            {
+              "testo": "Tutte le spese elettorali sono soggette al controllo dell’Ispettorato di Vigilanza e Integrità dell’Unione (IVIdU) per prevenire conflitti d’interesse e abusi [cost. XIII-bis].",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "rubrica": "Campagna Elettorale e Accesso ai Media",
+          "commi": [
+            {
+              "testo": "La CEPU, in collaborazione con il Comitato Tecnico-Scientifico (CTSU), garantisce un accesso equo e gratuito ai media pubblici e alla piattaforma digitale ufficiale per tutte le liste e i candidati che abbiano superato la verifica delle firme.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "rubrica": "Divieto di Partiti Anticostituzionali",
+          "commi": [
+            {
+              "testo": "È vietata la riorganizzazione, sotto qualsiasi forma, di partiti d’odio e di ogni altra organizzazione che propugni l’odio razziale, nazionale o di classe. L’apologia del Fascismo e dello Stalinismo è punita dalla legge [cost. XIV-6]. La CEPU ha il dovere di rigettare le liste di tali movimenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "rubrica": "Disposizioni Transitorie e Finali",
+          "commi": [
+            {
+              "testo": "La CEPU sarà costituita entro 6 mesi dall’entrata in vigore della presente legge, secondo le modalità previste dall’Art. 2.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le prime elezioni con il sistema STV si terranno alla prima scadenza elettorale utile successiva all’entrata in vigore della presente legge.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per quanto non previsto dalla presente legge, si fa riferimento alla Costituzione dell’USSE e ai regolamenti attuativi emanati dalla CEPU.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ],
+      "pronunce": [
+        {
+          "id": "s-2026-1-legge-elettorale-dell-unione",
+          "tipo": "annullamento",
+          "numero": "1",
+          "anno": "2026",
+          "data": "25 ottobre 2026",
+          "oggetto": "Illegittimità Costituzionale della Legge",
+          "motivazione": "I ricorrenti chiedono dichiarare l'illegittimità costituzionale della Legge Elettorale dell'Unione (n.2/2026),deducendo che essa:\n- non disciplina l'elezione diretta del Congresso Unitario, pur essendo prevista dalla Costituzione;\n- affida alle Assemblee di Sezione l'elezione dei Congressi Statali, in contrasto con l'articolo XII-1 Cost;\n- disciplina la revoca dei deputati in modo incompatibile con l'art. X-3, XIV-4 Cost;\n- fissa a 60 giorni il termine per il referendum di revoca, invece dei 30 previsti dall'art. XIV-4.a Cost;\n- prevede lo scioglimento automatico del Congresso Unitario in caso di doppio rigetti della lista dei Consoli, in contrasto con l'Art. XIV-4.a Cost.",
+          "dispositivo": "La questione è ammissibile.\n-L'art. 8.5 della legge prevede l'elezione dei congressi statali da parte delle assemblee di sezione. L'art XII-1 Costi. impone l'elezione diretta dai giocatori residenti, la disposizione è illegittima.\n-L'art. 11.3 fissa in 60 giorni il termine per il referendum di revoca. L'art XIV-4.a Cost. prevede 30 giorni. La disposizione è illegittima.\n-L'art. 9bis.3.c. prevede lo scioglimento automatico del congresso unitario dopo il doppio rigetto della lista dei consoli. L'art IIBis-3.c Cost. consente lo scioglimento solo per crisi prolungata e con decisione congiunta. La disposizione è illegittima.\nLe disposizioni illegittime riguardano il nucleo essenziale del sistema elettorale, la legge è annullata nella sua interezza",
+          "effetto": "Annullamento Completo",
+          "collegio": "",
+          "creataIl": "2026-10-25T20:33:04.818Z",
+          "firmataDa": "AnneUhwe",
+          "statoPrecedente": "vigente",
+          "modifiche": []
+        }
+      ]
+    },
+    {
+      "id": "esproprio-del-athenon-trade-center",
+      "categoria": "Decreto",
+      "numero": "7",
+      "anno": "2026",
+      "titolo": "Decreto d'esproprio del Athenon Trade Center",
+      "dataEmanazione": "23/08/2026",
+      "promulgatoDa": "Congresso Statale del EstjiNor",
+      "stato": "vigente",
+      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
+      "immagine": "/tc.png",
+      "didascalia": "",
+      "luogo": "ENOR-PTL-ATC",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLI I - PREMESSA"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Natura Normativa",
+          "commi": [
+            {
+              "testo": "Visti:",
+              "sottocommi": [
+                "la Costituzione dell’USSE, Capo II;",
+                "la Legge 43/2025 sulla gestione delle industrie;",
+                "la Legge 03/2026 sulla pianificazione economica democratica;",
+                "la Legge 12/2025 sul CTSU;",
+                "la Legge 10/2026 sulle cooperative e i collettivi di lavoratori."
+              ]
+            },
+            {
+              "testo": "Premettendo che:",
+              "sottocommi": [
+                "il centro commerciale è di proprietà di \"YjuraHh\";",
+                "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
+                "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
+                "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole, il <a href=\"https://ews-rose.vercel.app/CEPU.html?tipo=R&data=18%2F08%2F2026&comune=Trade+Center\" target=\"_blank\" rel=\"noopener noreferrer\">18 agosto 2026</a>."
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - SI DECRETA"
+        },
+        {
+          "numero": "2",
+          "rubrica": "Trasferimento coattivo",
+          "commi": [
+            {
+              "testo": "L’IRE determina un indennizzo equitativo di 1.500.000 ESTJI , comprensivo di avviamento, trasloco e spese tecniche.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il CTSU ha verificato la fattibilità tecnica e matematica dell’operazione. Il parere è pubblicato nella Bolla Ufficiale Unitaria e sul sito del <a href=\"https://ews-rose.vercel.app/lex/progetto.html?id=riqualificazione-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il centro è assegnato all’IRE, che lo articola nel \"Trade Center Authority\", secondo il piano economico approvato.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
+              "sottocommi": [
+                "Distretto - Athenon",
+                "Sezione - PatHel",
+                "Region-",
+                "Chunk -",
+                "Indirizzo - Trade Plaza 1-9",
+                "Categoria - C/1",
+                "Superficie catastale -"
+              ]
+            },
+            {
+              "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Trade Center Authority",
+          "commi": [
+            {
+              "testo": "L’IRE delega la gestione del complesso alla Trade Center Authority (TCA), formata da:",
+              "sottocommi": [
+                "Assemblea:formata da i giocatori coivolti nel complesso, eleggono il consiglio esecutivo;",
+                "Consiglio Esecutivo: formato da giocatori coinvolti, rappresentano l’autorità davanti all’ IRE e al congresso del EstjiNor."
+              ]
+            },
+            {
+              "testo": "La “TCA” ha le seguenti competenze:",
+              "sottocommi": [
+                "stipula, rinnova, revisiona i contratti con gli operatori commerciali, inclusa la gestione delle morosità;",
+                "Pianificazione con il Consiglio di Pianificazione e supervisione di interventi ordinari, strutturali, impiantistici e di riqualificazione;",
+                "Redigere il rapporto di bilancio annuale, il rapporto annuale per la pianificazione locale e sucessivamente comunicarli al CTSU;",
+                "Stipula di polizze per danni, responsabilità civile e interruzioni di attività, con monitoraggio dei sinistri;",
+                "Gestione delle richieste, reclami e controversie, nonché definizione di regolamenti interni;",
+                "sviluppo di iniziative per attrarre visitatori, coordinamento delle campagne promozionali e gestione degli spazi comuni con le assemblee locali per eventi.",
+                "Interfaccia con i media, le autorità locali e la comunità, per rendere trasparente l'operato della TCA;",
+                "Monitoraggio di costi, ricavi e indicatori di performance (KPI), con report periodici al Consiglio Esecutivo e all'IRE.",
+                "Definizione di piani pluriennali di sviluppo, riqualificazione e valorizzazione del complesso, in linea con gli indirizzi dell'IRE e del Congresso.",
+                "predisposizione di piani di emergenza e di continuità del servizio in caso di eventi critici."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legge-elettorale-dell-unione-kyybeitza",
+      "categoria": "Legge Applicativa",
+      "numero": "8",
+      "anno": "2026",
+      "titolo": "Legge Elettorale dell’Unione [Kyybeitza]",
+      "dataEmanazione": "26/10/2026",
+      "promulgatoDa": "Congresso Unitario",
+      "stato": "vigente",
+      "sommario": "Legge applicativa che disciplina l’elezione diretta del Congresso Unitario, l’elezione dei Congressi Statali e Regionali, le Assemblee di Sezione, l’elezione dell’Alto Moderatore, la revoca dei deputati e dei delegati, il finanziamento dei partiti e la CEPU, in conformità alla Costituzione dell’USSE e alla sentenza n. 1/2026.",
+      "immagine": "",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - PRINCIPI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Oggetto e ambito di applicazione",
+          "commi": [
+            {
+              "testo": "La presente legge disciplina:",
+              "sottocommi": [
+                "l’elezione diretta del Congresso Unitario;",
+                "l’elezione dei Congressi Statali e dei Congressi Regionali;",
+                "il funzionamento delle Assemblee di Sezione;",
+                "l’elezione dell’Alto Moderatore;",
+                "la revoca dei deputati e dei delegati;",
+                "il finanziamento dei partiti e delle campagne elettorali."
+              ]
+            },
+            {
+              "testo": "Restano ferme le competenze degli Stati Sociali in materia di organizzazione delle elezioni locali e di sezione, nel rispetto dei principi della presente legge e dei regolamenti della CEPU.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Principi del sistema elettorale",
+          "commi": [
+            {
+              "testo": "L’elezione del Congresso Unitario è diretta, universale, uguale, segreta e proporzionale, con voto di preferenza e metodo del Voto Singolo Trasferibile (STV), secondo quanto previsto dall’art. XIV-2 Cost. e dalla presente legge.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I Congressi Statali sono eletti a suffragio universale diretto dai cittadini residenti nello Stato Sociale, ai sensi dell’art. XII-1 Cost. I Congressi Regionali sono eletti dagli organi inferiori secondo il modello Hankonen e l’art. I-3 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le Assemblee di Sezione sono aperte a tutti i cittadini residenti nella circoscrizione e non richiedono elezione, salvo per la scelta dei delegati ai livelli superiori.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale, ai sensi dell’art. XIV-1 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il voto è un diritto e un dovere civico.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - ELEZIONE DEL CONGRESSO UNITARIO"
+        },
+        {
+          "numero": "3",
+          "rubrica": "Circoscrizioni elettorali",
+          "commi": [
+            {
+              "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali e alle Regioni Autonome, ai sensi dell’art. XIV-2 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il numero di seggi per circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per garantire la proporzionalità del metodo STV.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU ridetermina le circoscrizioni e i seggi entro 6 mesi dall’entrata in vigore della presente legge e, successivamente, ogni 5 anni sulla base dei dati demografici aggiornati.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Scheda elettorale e espressione del voto",
+          "commi": [
+            {
+              "testo": "La scheda riporta i candidati raggruppati per lista (partito, organizzazione sociale o lista civica), con il simbolo e il nome del candidato.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elettore ordina i candidati secondo le proprie preferenze (1, 2, 3, …). Può esprimere preferenze per candidati di liste diverse, secondo il metodo STV.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il voto è valido se è espressa almeno una prima preferenza. Il voto è inizialmente attribuito al candidato indicato come prima preferenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Calcolo del quoziente e scrutinio STV",
+          "commi": [
+            {
+              "testo": "La CEPU procede allo scrutinio secondo il metodo del Voto Singolo Trasferibile.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Quoziente di Droop: si calcola per ogni circoscrizione con la formula Q = (Voti validi totali / (Seggi da assegnare + 1)) + 1, ignorando eventuali decimali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Conteggio delle prime preferenze: i candidati che raggiungono o superano il quoziente sono proclamati eletti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Trasferimento delle eccedenze: se un candidato eletto ha voti superiori al quoziente, l’eccedenza viene trasferita ai candidati indicati come preferenza successiva. Il valore di trasferimento di ciascuna scheda è pari a Eccedenza / Totale voti del candidato eletto. Ogni scheda trasferita conserva il proprio valore frazionario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Eliminazione progressiva: se dopo il trasferimento delle eccedenze restano seggi vacanti, si elimina il candidato con il minor numero di voti e si trasferiscono i suoi voti ai candidati ancora in gara secondo le preferenze successive. Il processo si ripete fino all’assegnazione di tutti i seggi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Soglia di sbarramento: è prevista una soglia del 3% dei voti validi a livello circoscrizionale per l’accesso alla ripartizione dei seggi. Le liste che non raggiungono tale soglia sono escluse; le schede che indicano come prima preferenza un candidato di lista esclusa sono trasferite al candidato di seconda preferenza ancora in gara, se indicato; altrimenti la scheda è considerata non trasferibile.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Proclamazione degli eletti e verifica dei poteri",
+          "commi": [
+            {
+              "testo": "La CEPU proclama gli eletti al termine delle operazioni di scrutinio.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La verifica dei poteri dei deputati eletti spetta alla CEPU, che controlla la regolarità delle candidature, delle operazioni elettorali e dei finanziamenti, secondo l’art. XIV-3 lett. a Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Contro la proclamazione è ammesso ricorso alla Corte Costituzionale nei casi e nei modi previsti dalla legge.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - ELEZIONE DEI CONGRESSI STATALI E REGIONALI"
+        },
+        {
+          "numero": "7",
+          "rubrica": "Elezione dei Congressi Statali",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale è eletto direttamente dai cittadini residenti nello Stato Sociale, a suffragio universale diretto, ai sensi dell’art. XII-1 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elezione avviene con il metodo STV, in collegi plurinominali definiti dalla CEPUS competente per territorio, garantendo la rappresentanza delle minoranze e delle diversità territoriali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il numero di seggi e le circoscrizioni sono determinati dallo Statuto dello Stato Sociale, nel rispetto dei principi della Costituzione e della presente legge.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Elezione dei Congressi Regionali",
+          "commi": [
+            {
+              "testo": "I Congressi Regionali sono eletti dagli organi inferiori — Assemblee di Sezione e Congressi Metropolitani — secondo il modello Hankonen e gli Statuti degli Stati Sociali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I delegati ai Congressi Regionali sono revocabili dall’organo che li ha eletti, con le modalità previste dallo Statuto statale e dall’art. XIV-4 lett. c) Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elezione dei delegati regionali avviene a scrutinio segreto e con voto limitato, per garantire la rappresentanza delle minoranze.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Assemblee di Sezione",
+          "commi": [
+            {
+              "testo": "L’Assemblea di Sezione è l’organo di base del potere popolare ed è aperta a tutti i cittadini residenti, che vi partecipano direttamente.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’Assemblea elegge al proprio interno, a scrutinio segreto e con voto limitato, i delegati ai Congressi Regionali e i membri del Consiglio Esecutivo di Sezione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il Consiglio Esecutivo di Sezione è revocabile dall’Assemblea che lo ha eletto, ai sensi dell’art. I-4 Cost.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO IV - ELEZIONE DELL’ALTO MODERATORE"
+        },
+        {
+          "numero": "10",
+          "rubrica": "Sistema elettorale",
+          "commi": [
+            {
+              "testo": "L’Alto Moderatore è composto da due Presidenti, un uomo e una donna, eletti a suffragio universale diretto con mandato di 5 anni non rinnovabile, ai sensi dell’art. IIBis-1 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "L’elezione avviene in due tornate separate, a distanza di almeno due settimane: nella prima si elegge il Presidente di un genere, nella seconda il Presidente dell’altro genere, ai sensi dell’art. IIBis-2 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per ciascuna tornata si applica un sistema maggioritario a doppio turno: se nessun candidato raggiunge la maggioranza assoluta dei voti validi al primo turno, si procede al ballottaggio tra i due candidati più votati entro 15 giorni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I due Presidenti non possono appartenere allo stesso partito o alla stessa corrente politica. La CEPU verifica tale requisito prima della proclamazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO V - REVOCA DEI DEPUTATI E DEI DELEGATI"
+        },
+        {
+          "numero": "11",
+          "rubrica": "Revoca dei deputati del Congresso Unitario",
+          "commi": [
+            {
+              "testo": "I deputati del Congresso Unitario sono revocabili in qualsiasi momento dai cittadini della circoscrizione che li ha eletti, ai sensi degli artt. IX-3, X-3 e XIV-4 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La procedura di revoca è attivata su iniziativa di almeno un terzo degli elettori iscritti nella circoscrizione, con firme autenticate e certificate dalla CEPU, anche in formato digitale.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU verifica la validità delle firme entro 15 giorni dalla presentazione.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Verificata la legittimità, la CEPU indice il referendum di revoca entro 30 giorni, ai sensi dell’art. XIV-4 lett. a Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il referendum è valido indipendentemente dal numero dei partecipanti, essendo stato abolito il quorum con la modifica costituzionale del 29/12/2024. La revoca è approvata se ottiene la maggioranza dei voti validi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di revoca, subentra il primo dei non eletti della stessa lista nella circoscrizione, secondo l’ordine determinato dallo scrutinio STV. Se la lista non ha più candidati, si procede a elezioni suppletive entro 60 giorni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Revoca dei delegati ai Congressi Statali e Regionali",
+          "commi": [
+            {
+              "testo": "I delegati ai Congressi Statali e Regionali sono revocabili dall’Assemblea o dal Congresso che li ha eletti, con voto motivato a maggioranza assoluta dei componenti, ai sensi dell’art. XIV-4 lett. c) Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La richiesta di revoca è presentata all’organo che ha eletto il delegato, che la esamina entro 15 giorni.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La revoca è approvata con il voto favorevole della maggioranza assoluta dei componenti dell’organo.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di revoca, si procede all’elezione di un nuovo delegato con le stesse modalità previste per l’elezione ordinaria.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VI - FORMAZIONE DEL CONSOLATO E RAPPORTO FIDUCIARIO"
+        },
+        {
+          "numero": "13",
+          "rubrica": "Nomina e fiducia del Consolato",
+          "commi": [
+            {
+              "testo": "Il Consolato dell’Unione è composto da tre Consoli, ciascuno con un Vice-console, ai sensi dell’art. XI-1 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Entro 15 giorni dalla proclamazione degli eletti al Congresso Unitario, l’Alto Moderatore propone al Congresso una lista di tre nomi per la carica di Console, nel rispetto dei criteri dell’art. XI-4 Cost.:",
+              "sottocommi": [
+                "in caso di elezioni ordinarie senza maggioranza assoluta di un partito: due rappresentanti della coalizione di maggioranza e uno del principale partito di opposizione;",
+                "in caso di elezioni straordinarie con maggioranza assoluta: i tre Consoli sono scelti tra le diverse correnti del partito vincitore."
+              ]
+            },
+            {
+              "testo": "Il Congresso Unitario si esprime sulla lista con voto di fiducia collettivo entro 10 giorni dalla presentazione. La fiducia è accordata a maggioranza semplice dei deputati presenti.",
+              "sottocommi": []
+            },
+            {
+              "testo": "In caso di mancata approvazione, l’Alto Moderatore presenta una nuova lista entro 7 giorni. Se anche la seconda lista è respinta, non si procede automaticamente allo scioglimento del Congresso Unitario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Lo scioglimento anticipato del Congresso Unitario può essere disposto solo dai due Presidenti dell’Alto Moderatore, con decisione congiunta, in caso di crisi prolungata che impedisca il funzionamento del Congresso, ai sensi dell’art. IIBis-3 lett. c Cost. Resta fermo il potere del Congresso di revocare la fiducia al Consolato o a singoli Consoli con mozione motivata a maggioranza assoluta.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VII - PARTITI, CANDIDATURE E FINANZIAMENTO"
+        },
+        {
+          "numero": "14",
+          "rubrica": "Soggetti abilitati a presentare liste",
+          "commi": [
+            {
+              "testo": "Possono presentare liste di candidati:",
+              "sottocommi": [
+                "i partiti politici;",
+                "le organizzazioni sociali (sindacati, cooperative);",
+                "le liste civiche;",
+                "i cittadini indipendenti, con un numero di firme pari allo 0,5% degli elettori iscritti nella circoscrizione, certificate dalla CEPU, ai sensi dell’art. XIV-5 Cost."
+              ]
+            },
+            {
+              "testo": "La CEPU verifica la regolarità delle candidature e può escludere liste o candidati che violino l’art. XIV-6 Cost. in materia di divieto di organizzazioni d’odio e apologia del fascismo e dello stalinismo.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "rubrica": "Finanziamento pubblico e trasparenza",
+          "commi": [
+            {
+              "testo": "Il finanziamento dei partiti e delle campagne elettorali è esclusivamente pubblico, gestito dalla CEPU e proporzionale ai voti ottenuti, ai sensi dell’art. XIV-3 Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "È vietato il finanziamento privato dei partiti e delle campagne elettorali.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Tutte le spese elettorali sono soggette al controllo dell’IVIdU per la prevenzione di conflitti d’interesse e abusi, ai sensi dell’art. XIIIBis-4 Cost.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "rubrica": "Accesso ai media e parità di trattamento",
+          "commi": [
+            {
+              "testo": "La CEPU, in collaborazione con il CTSU, garantisce un accesso equo e gratuito ai media pubblici e alla piattaforma digitale ufficiale per tutte le liste e i candidati ammessi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I media pubblici assicurano la parità di trattamento e la trasparenza delle comunicazioni politiche.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VIII - COMMISSIONE ELETTORALE PERMANENTE DELL’UNIONE (CEPU)"
+        },
+        {
+          "numero": "17",
+          "rubrica": "Composizione e mandato",
+          "commi": [
+            {
+              "testo": "La CEPU è composta da 7 membri effettivi e 3 supplenti, sorteggiati pubblicamente tra cittadini con comprovate competenze giuridico-amministrative, informatiche e statistiche, ai sensi dell’art. XIV-3 lett. a Cost.",
+              "sottocommi": []
+            },
+            {
+              "testo": "I candidati sono proposti congiuntamente dalle Università e dalla Corte Suprema dell’USSE.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il mandato è di 5 anni non rinnovabile. Durante il mandato, i membri non possono ricoprire cariche pubbliche elettive o incarichi di partito.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "rubrica": "Competenze della CEPU",
+          "commi": [
+            {
+              "testo": "La CEPU:",
+              "sottocommi": [
+                "delimita le circoscrizioni elettorali per tutti i livelli;",
+                "gestisce le liste elettorali e la piattaforma di voto digitale;",
+                "autentica e verifica le firme per candidature indipendenti e iniziative di revoca;",
+                "proclama gli eletti e verifica la regolarità delle operazioni;",
+                "amministra il finanziamento pubblico ai partiti e vigila sul divieto di finanziamento privato;",
+                "verifica il rispetto dei requisiti di incompatibilità e delle cause di ineleggibilità."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "rubrica": "Articolazione territoriale (CEPUS)",
+          "commi": [
+            {
+              "testo": "In ogni Stato Sociale è istituita una Commissione Elettorale Permanente Statale (CEPUS), composta da 5 membri effettivi e 2 supplenti, sorteggiati con le stesse modalità della CEPU.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le CEPUS operano in coordinamento con la CEPU e ne rispettano le linee guida e i regolamenti attuativi.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le CEPUS gestiscono le elezioni statali, locali e di sezione, e trasmettono alla CEPU i dati aggregati e una relazione annuale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI"
+        },
+        {
+          "numero": "20",
+          "rubrica": "Entrata in vigore e prima applicazione",
+          "commi": [
+            {
+              "testo": "La presente legge entra in vigore il giorno successivo alla sua pubblicazione, previa approvazione del Congresso Unitario.",
+              "sottocommi": []
+            },
+            {
+              "testo": "La CEPU è costituita entro 6 mesi dall’entrata in vigore della presente legge.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Le prime elezioni del Congresso Unitario con il sistema STV previsto dalla presente legge si tengono alla prima scadenza elettorale utile successiva all’entrata in vigore.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Fino alla costituzione della CEPU, le funzioni di verifica delle firme e di organizzazione delle elezioni sono esercitate provvisoriamente dal Consiglio Esecutivo dell’Unione, sotto la supervisione della Corte Suprema.",
+              "sottocommi": []
+            },
+            {
+              "testo": "Per quanto non previsto dalla presente legge, si rinvia alla Costituzione dell’USSE, agli Statuti degli Stati Sociali conformi alla Costituzione e ai regolamenti attuativi della CEPU.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "costituzione-dell-unione-degli-stati-sociali-degli-estji",
       "categoria": "Costituzione",
       "numero": "1",
@@ -4013,7 +5003,7 @@
           "rubrica": "Natura del Congresso Statale",
           "commi": [
             {
-              "testo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi deputati sono eletti a suffragio universale diretto dai cittadini residenti nello Stato.",
+              "testo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi deputati sono eletti dai Congressi Distrettuali o Metropolitani e dalle Assemblee di Sezione che non sono parte di un Congresso superiore.",
               "sottocommi": []
             }
           ]
@@ -5024,996 +6014,6 @@
         "glossario": [],
         "aggiornato": "2026-10-27T14:52:35.375Z"
       }
-    },
-    {
-      "id": "legge-elettorale-dell-unione",
-      "categoria": "Legge Applicativa",
-      "numero": "2",
-      "anno": "2025",
-      "titolo": "Legge Elettorale dell’Unione [Sthraubitza]",
-      "dataEmanazione": "13 marzo 2025",
-      "promulgatoDa": "Congresso Unitario",
-      "stato": "annullato",
-      "sommario": "Legge Elettorale Per l’Unione e per gli Stati Membri",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ESTJI",
-      "articoli": [
-        {
-          "numero": "1",
-          "rubrica": "Principi del Sistema Elettorale",
-          "commi": [
-            {
-              "testo": "Le elezioni per il rinnovo di tutte le Assemblee e i Congressi dell'USSE, a livello di Sezione, Regionale, Statale e Unitario, si svolgono a suffragio universale, diretto, uguale e segreto.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il sistema elettorale dell'USSE è di tipo proporzionale con voto di preferenza e meccanismo di voto singolo trasferibile (STV), al fine di garantire una rappresentanza fedele della volontà popolare, il pluralismo e la rappresentanza di genere e delle minoranze [cost. XIV-2].",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell'USSE che abbiano compiuto il 16° anno di età, senza distinzione di genere, etnia, religione o condizione sociale [cost. XIV-1].",
-              "sottocommi": [
-                "Il voto è oltre che un  diritto, un dovere di ogni giocatore."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Commissione Elettorale Permanente dell’Unione",
-          "commi": [
-            {
-              "testo": "La gestione, il coordinamento e la vigilanza di tutte le elezioni e i referendum dell'USSE sono di competenza esclusiva della Commissione Elettorale Permanente dell'Unione (CEPU), organo indipendente e tecnico [cost. Cap I-8].",
-              "sottocommi": [
-                "Delimitare le circoscrizioni elettorali per tutti i livelli, garantendo una proporzionale rappresentanza demografica.",
-                "Gestire le liste elettorali e il processo di voto (inclusa la piattaforma di voto digitale).",
-                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca [cost. XIV-4.1].",
-                "Proclamare gli eletti e verificare la regolarità delle operazioni. finanziamento privato [cost. XIV-3.1]."
-              ]
-            },
-            {
-              "testo": "La CEPU è composta da 7 membri effettivi e 3 supplenti, selezionati per sorteggio pubblico tra cittadini in possesso di comprovate competenze giuridico-amministrative, informatiche e statistiche. I membri della CEPU sono sorteggiati da una lista di candidati qualificati, proposta congiuntamente dalle Università e dalla Corte Suprema dell'USSE.  Durante il mandato, non possono ricoprire cariche pubbliche elettive né incarichi di partito.",
-              "sottocommi": [
-                "Il mandato è di 5 anni non rinnovabile [cost. XIV-3.1]."
-              ]
-            },
-            {
-              "testo": "La CEPU ha il compito di:",
-              "sottocommi": [
-                "Delimitare le circoscrizioni elettorali per tutti i livelli, garantendo una proporzionale rappresentanza demografica.",
-                "Gestire le liste elettorali e il processo di voto (inclusa la piattaforma di voto digitale)",
-                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca [cost.XIV-4.1].",
-                "Proclamare gli eletti e verificare la regolarità delle operazioni.",
-                "Amministrare il finanziamento pubblico ai partiti e vigilare sul rispetto del divieto di finanziamento privato [cost. XIV-3.1]."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "2Bis",
-          "rubrica": "Articolazione Territoriale della CEPU",
-          "commi": [
-            {
-              "testo": "La Commissione Elettorale Permanente dell'Unione (CEPU) si articola sul territorio per\ngarantire la gestione capillare e decentrata dei processi elettorali e referendari. A tal fine, in\nogni Stato Sociale è istituita una Commissione Elettorale Permanente Statale (CEPUS).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le CEPUS sono organi tecnicamente autonomi e indipendenti nell'esercizio delle loro\nfunzioni a livello statale, ma operano in coordinamento con la CEPU, rispettandone le linee\nguida, i regolamenti attuativi e la vigilanza in ultima istanza.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Composizione e nomina delle CEPUS:",
-              "sottocommi": [
-                "Ogni CEPUS è composta da 5 membri effettivi e 2 supplenti.",
-                "I membri sono selezionati per sorteggio pubblico da una lista di candidati qualificati,\nresidenti nello Stato Sociale, proposta congiuntamente dalle Università con sede nello\nStato e dalla Sezione Territoriale della Corte Suprema",
-                "Il sorteggio avviene in seduta pubblica dinanzi al Congresso Statale, sotto la\nsupervisione di un delegato della CEPU. Il mandato è di 5 anni non rinnovabile e segue\nle stesse norme di incompatibilità previste per i membri della CEPU (Art. 2.3)."
-              ]
-            },
-            {
-              "testo": "Competenze delle CEPUS:",
-              "sottocommi": [
-                "Gestire le liste elettorali e il processo di voto a livello statale, locale e di sezione.",
-                "Delimitare le circoscrizioni per le elezioni delle Assemblee di Sezione e del Congresso\nStatale, in accordo con i principi stabiliti dalla CEPU.",
-                "Autenticare e verificare le firme per le candidature indipendenti e le iniziative di revoca a\nlivello statale.",
-                "Proclamare gli eletti a livello statale e locale e vigilare sulla regolarità delle operazioni\nnel proprio territorio.",
-                "Amministrare la quota del finanziamento pubblico destinata ai partiti per le campagne\nelettorali statali e locali."
-              ]
-            },
-            {
-              "testo": "Coordinamento e raccordo:",
-              "sottocommi": [
-                "La CEPU centrale esercita funzioni di indirizzo, coordinamento e vigilanza sulle\nCEPUS, emanando regolamenti tecnici uniformi per garantire la coerenza del sistema\nelettorale in tutta l'Unione.",
-                "Le CEPUS trasmettono alla CEPU i dati elettorali aggregati e una relazione annuale\nsulle attività svolte nel proprio Stato.",
-                "I Presidenti delle CEPUS si riuniscono almeno una volta all'anno in una Conferenza\npermanente convocata dalla CEPU per armonizzare le procedure e scambiarsi buone\npratiche.",
-                "In caso di gravi e reiterate violazioni, la CEPU può, con deliberazione motivata e previa\naudizione, sospendere e commissariare una CEPUS, indendo nuove procedure di\nsorteggio entro sei mesi."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "Circoscrizioni e  Collegi Plurinominali",
-          "commi": [
-            {
-              "testo": "Il territorio dell’USSE è suddiviso in circoscrizioni elettorali plurinominali. Per le elezioni del Congresso Unitario, le circoscrizioni coincidono con i territori degli Stati Sociali e delle Regioni Autonome [cost. XIV-2].",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il numero di seggi assegnati a ciascuna circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per circoscrizione per garantire la proporzionalità del metodo STV.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "rubrica": "La Scheda Elettorale e l’Espressione del Voto",
-          "commi": [
-            {
-              "testo": "La scheda elettorale riporta i nomi di tutti i candidati della circoscrizione, raggruppati per lista di appartenenza (partito, organizzazione sociale o lista civica). Per ogni lista è indicato il simbolo e il nome del candidato.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elettore esprime il proprio voto (ordinando numericamente i candidati in ordine di preferenza “1, 2, 3, 4...”). Può esprimere tante preferenze quanti sono i candidati nella lista o nella circoscrizione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il voto è valido se almeno una preferenza è espressa correttamente. Il voto viene inizialmente attribuito al candidato indicato come prima preferenza [cost. XIV-2].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "rubrica": "Calcolo del Quoziente e Procedura di Scrutinio",
-          "commi": [
-            {
-              "testo": "Termine delle operazioni di voto, la CEPU procede allo scrutinio secondo il metodo del Voto Singolo Trasferibile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fase 1 – Determinazione del quoziente: Si calcola il quoziente di Droop per ogni circoscrizione, ovvero il numero di voti necessario per eleggere un candidato. La formula è: (Voti Validi Totali / (Seggi Circoscrizione + 1)) + 1 (ignorando eventuali decimali).",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fase 2 – Conteggio dei voti di prima preferenza: Si contano tutti i voti in base alla prima preferenza espressa. I candidati che ottengono un numero di prime preferenze pari o superiore al quoziente sono proclamati eletti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fase 3 – Trasferimento delle eccedenze: Se un candidato ottiene più voti del quoziente, l’“eccedenza” (voti in eccesso) viene trasferita ai candidati indicati come seconda preferenza sulle sue schede. Il valore di trasferimento di ogni scheda è calcolato in base alla frazione di eccedenza. Questo processo continua finché tutti i seggi non vengono assegnati.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fase 4 – Eliminazione e trasferimento: Se, dopo il trasferimento delle eccedenze, rimangono seggi vacanti, si procede all’eliminazione del candidato con il minor numero di voti. Tutti i suoi voti vengono trasferiti alla successiva preferenza ancora in gara indicata su ogni scheda. Il processo si ripete (elezione dei candidati che raggiungono il quoziente, trasferimento delle loro eccedenze, eliminazione del meno votato) fino all’assegnazione di tutti i seggi.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "rubrica": "Soglia di Sbarramento e Voto Trasferibile",
-          "commi": [
-            {
-              "testo": "È prevista una soglia di sbarramento del 3% dei voti validi a livello di circoscrizione per le liste. Le liste che non raggiungono tale soglia sono escluse dall’assegnazione dei seggi [cost. XIV-2.1].",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di esclusione di una lista, le schede che riportano come prima preferenza un candidato di tale lista vengono trasferite all’elettore e vengono considerate valide solo se è espressa una seconda preferenza. In tal caso, il voto viene trasferito al candidato indicato come seconda preferenza, se ancora in gara. In assenza di ulteriori preferenze, la scheda diventa “non trasferibile” e si estingue [cost. XIV-2.1].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "7",
-          "rubrica": "Elezione delle Assemblee di Sezione e dei Congressi Statali",
-          "commi": [
-            {
-              "testo": "Le elezioni per i Congressi degli Stati Sociali si svolgono secondo le medesime regole STV di cui al Titolo II, con circoscrizioni definite a livello comunale, provinciale o regionale dalla CEPUS.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Consigli Esecutivi a livello di Sezione e Statale sono eletti dai rispettivi organi legislativi (Assemblee e Congressi), in seduta comune, a scrutinio segreto e con voto limitato per garantire la rappresentanza di minoranze, e sono da essi revocabili in qualsiasi momento [cost. Cap I-4].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "rubrica": "Elezione del Congresso Unitario",
-          "commi": [
-            {
-              "testo": "L’Assemblea di Sezione è l’organo di base del potere popolare. Essa è aperta alla partecipazione di tutti i giocatori cittadini residenti nella circoscrizione, che vi prendono parte senza necessità di delega, secondo i principi della democrazia diretta e partecipativa.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’Assemblea di Sezione elegge al suo interno, a scrutinio segreto e con voto limitato per garantire la rappresentanza delle minoranze.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Consiglio Esecutivo di Sezione costituisce il ramo esecutivo e amministrativo a livello locale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Consiglio Esecutivo di Sezione, nell’esercizio delle sue funzioni, è sottoposto alla vigilanza della Sezione Territoriale del Comitato Tecnico-Scientifico (CTSU) per la fattibilità tecnica dei piani locali, e al controllo dell’Ispettorato di Vigilanza e Integrità dell’Unione (IVIdU) per la trasparenza e l’assenza di conflitti d’interesse.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le Assemblee di Sezione, inoltre, eleggono i membri del Congresso dello Stato Sociale, che costituiscono il livello legislativo statale. L’elezione avviene secondo le medesime regole STV di cui al Titolo II, in collegi plurinominali che coincidono con il territorio di più sezioni, come definito dalla CEPUS.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Consigli Esecutivi di Sezione, nel loro insieme e attraverso i propri rappresentanti delegati, concorrono a formare il Congresso Regionale (o di livello intermedio, laddove previsto), quale organo di coordinamento e raccordo tra il livello locale e quello statale. Le modalità di questa rappresentanza sono definite dallo Statuto di ogni Stato Sociale in conformità con i principi della presente legge.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Consigli Esecutivi a livello di Sezione e Statale sono eletti dai rispettivi organi legislativi (Assemblee e Congressi), in seduta comune, a scrutinio segreto e con voto limitato per garantire la rappresentanza di minoranze, e sono da essi revocabili in qualsiasi momento [cost. Cap I-4].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "rubrica": "Elezione dell’Alto Moderatore",
-          "commi": [
-            {
-              "testo": "L’Alto Moderatore, composto da due Presidenti, è eletto a suffragio universale diretto e con voto limitato a un solo genere per ciascuna tornata [cost. Cap II-bis-1].",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elezione avviene in due tornate separate a distanza di due settimane. Nella prima tornata si elegge il Presidente di un genere, nella seconda il Presidente dell’altro genere.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il sistema elettorale per ciascuna tornata è maggioritario a doppio turno. Se nessun candidato raggiunge il 50%+1 dei voti al primo turno, si procede a un ballottaggio tra i due candidati più votati. I due Presidenti non possono appartenere allo stesso partito o corrente politica [cost. Cap II-bis-2].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "9Bis",
-          "rubrica": "Nomina e Formazione del Consolato dell’Unione",
-          "commi": [
-            {
-              "testo": "Il Consolato dell’Unione, massimo organo esecutivo e amministrativo dell’USSE, è composto da tre Consoli, ciascuno con un Vice-console, secondo quanto stabilito dall’articolo XI della Costituzione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Procedura di nomina:",
-              "sottocommi": [
-                "A seguito delle elezioni per il rinnovo del Congresso Unitario, o in caso di cessazione anticipata del Consolato, l’Alto Moderatore avvia le consultazioni per la formazione del nuovo esecutivo.",
-                "Entro 15 giorni dalla proclamazione degli eletti, l’Alto Moderatore propone al Congresso Unitario una lista di tre nomi per la carica di Console, rispettando i criteri di rappresentanza previsti dalla Costituzione (Art. XI-4).",
-                "Nei casi di elezioni ordinarie senza una maggioranza assoluta di partito, la lista proposta deve includere due rappresentanti della coalizione di maggioranza e un rappresentante del principale partito di opposizione. In caso di maggioranza assoluta, i tre Consoli sono scelti tra le diverse correnti del partito vincitore."
-              ]
-            },
-            {
-              "testo": "Approvazione e fiducia:",
-              "sottocommi": [
-                "Il Congresso Unitario è chiamato a esprimersi sulla lista proposta con un voto di fiducia collettivo, entro 10 giorni dalla presentazione.",
-                "La fiducia è accordata se la lista ottiene la maggioranza semplice dei voti dei deputati presenti.",
-                "In caso di mancata approvazione, l’Alto Moderatore deve presentare una nuova lista entro i successivi 7 giorni. Se anche la seconda lista viene respinta, si procede allo scioglimento anticipato del Congresso Unitario e a nuove elezioni, come previsto dall’Art. II-bis-3.3 della Costituzione."
-              ]
-            },
-            {
-              "testo": "Insediamento e mandato:",
-              "sottocommi": [
-                "Ottenuta la fiducia, i tre Consoli e i rispettivi Vice-consoli prestano giuramento dinanzi al Congresso Unitario e all’Alto Moderatore, impegnandosi a rispettare e far rispettare la Costituzione e le leggi dell’USSE.",
-                "Il mandato del Consolato è di 2 anni e non è immediatamente rinnovabile, salvo i casi di elezioni straordinarie previsti dalla legge."
-              ]
-            },
-            {
-              "testo": "Responsabilità e revoca:",
-              "sottocommi": [
-                "Il Consolato è responsabile collegialmente del proprio operato di fronte al Congresso Unitario.",
-                "Il Congresso Unitario può revocare la fiducia al Consolato, anche a un suo singolo membro, con mozione motivata approvata a maggioranza assoluta dei componenti. In caso di revoca di un singolo Console, l’Alto Moderatore propone un sostituto che deve ottenere la fiducia del Congresso con la medesima procedura. In caso di revoca dell’intero Consolato, si procede a nuove consultazioni per la formazione di un nuovo esecutivo."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "10",
-          "rubrica": "Natura del Mandato",
-          "commi": [
-            {
-              "testo": "I membri di tutte le Assemblee e i Congressi sono eletti sulla base di un mandato imperativo. Essi sono rappresentanti della volontà popolare e direttamente responsabili di fronte ai loro elettori e all’Assemblea che li ha eletti [cost. IX-3].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "11",
-          "rubrica": "Procedura di revoca",
-          "commi": [
-            {
-              "testo": "Un deputato può essere revocato in qualsiasi momento [cost. XIV-4]:",
-              "sottocommi": [
-                "Su iniziativa popolare: da almeno un terzo degli elettori iscritti nella circoscrizione da cui è stato eletto.",
-                "Su iniziativa istituzionale: dall’Assemblea o dal Congresso che lo ha eletto, con voto motivato a maggioranza assoluta."
-              ]
-            },
-            {
-              "testo": "La richiesta di revoca, corredata dalle firme autenticate, è presentata alla CEPU, che ne verifica la validità entro 15 giorni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Verificata la legittimità, la CEPU indice il referendum di revoca nella circoscrizione di elezione entro 60 giorni [cost. XIV-4.1].",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il referendum di revoca è valido con la partecipazione di qualsiasi numero di elettori (quorum abolito) [cost. Modifica del 29/12/2024]. La revoca è approvata se ottiene la maggioranza dei voti validi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di revoca, subentra il primo dei non eletti della stessa lista nella circoscrizione, seguendo l’ordine determinato dal precedente scrutinio STV. Se la lista non ha più candidati, si procede a elezioni suppletive.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "rubrica": "Partiti Politici e Candidature",
-          "commi": [
-            {
-              "testo": "Hanno diritto a presentare liste di candidati i partiti politici, le organizzazioni sociali (sindacati, cooperative) e le liste civiche [cost. XIV-3].",
-              "sottocommi": []
-            },
-            {
-              "testo": "È garantito il diritto di candidatura indipendente, sostenuta da un numero di firme di elettori della circoscrizione pari allo 0,5% degli iscritti, certificate dalla CEPU [cost. XIV-5].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "13",
-          "rubrica": "Finanziamento e Trasparenza",
-          "commi": [
-            {
-              "testo": "Il finanziamento dei partiti e delle campagne elettorali è esclusivamente pubblico, gestito dalla CEPU, ed è proporzionale ai voti ottenuti. È severamente vietato il finanziamento privato [cost. XIV-3].",
-              "sottocommi": []
-            },
-            {
-              "testo": "Tutte le spese elettorali sono soggette al controllo dell’Ispettorato di Vigilanza e Integrità dell’Unione (IVIdU) per prevenire conflitti d’interesse e abusi [cost. XIII-bis].",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "14",
-          "rubrica": "Campagna Elettorale e Accesso ai Media",
-          "commi": [
-            {
-              "testo": "La CEPU, in collaborazione con il Comitato Tecnico-Scientifico (CTSU), garantisce un accesso equo e gratuito ai media pubblici e alla piattaforma digitale ufficiale per tutte le liste e i candidati che abbiano superato la verifica delle firme.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "rubrica": "Divieto di Partiti Anticostituzionali",
-          "commi": [
-            {
-              "testo": "È vietata la riorganizzazione, sotto qualsiasi forma, di partiti d’odio e di ogni altra organizzazione che propugni l’odio razziale, nazionale o di classe. L’apologia del Fascismo e dello Stalinismo è punita dalla legge [cost. XIV-6]. La CEPU ha il dovere di rigettare le liste di tali movimenti.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "rubrica": "Disposizioni Transitorie e Finali",
-          "commi": [
-            {
-              "testo": "La CEPU sarà costituita entro 6 mesi dall’entrata in vigore della presente legge, secondo le modalità previste dall’Art. 2.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le prime elezioni con il sistema STV si terranno alla prima scadenza elettorale utile successiva all’entrata in vigore della presente legge.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Per quanto non previsto dalla presente legge, si fa riferimento alla Costituzione dell’USSE e ai regolamenti attuativi emanati dalla CEPU.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ],
-      "pronunce": [
-        {
-          "id": "s-2026-1-legge-elettorale-dell-unione",
-          "tipo": "annullamento",
-          "numero": "1",
-          "anno": "2026",
-          "data": "25 ottobre 2026",
-          "oggetto": "Illegittimità Costituzionale della Legge",
-          "motivazione": "I ricorrenti chiedono dichiarare l'illegittimità costituzionale della Legge Elettorale dell'Unione (n.2/2026),deducendo che essa:\n- non disciplina l'elezione diretta del Congresso Unitario, pur essendo prevista dalla Costituzione;\n- affida alle Assemblee di Sezione l'elezione dei Congressi Statali, in contrasto con l'articolo XII-1 Cost;\n- disciplina la revoca dei deputati in modo incompatibile con l'art. X-3, XIV-4 Cost;\n- fissa a 60 giorni il termine per il referendum di revoca, invece dei 30 previsti dall'art. XIV-4.a Cost;\n- prevede lo scioglimento automatico del Congresso Unitario in caso di doppio rigetti della lista dei Consoli, in contrasto con l'Art. XIV-4.a Cost.",
-          "dispositivo": "La questione è ammissibile.\n-L'art. 8.5 della legge prevede l'elezione dei congressi statali da parte delle assemblee di sezione. L'art XII-1 Costi. impone l'elezione diretta dai giocatori residenti, la disposizione è illegittima.\n-L'art. 11.3 fissa in 60 giorni il termine per il referendum di revoca. L'art XIV-4.a Cost. prevede 30 giorni. La disposizione è illegittima.\n-L'art. 9bis.3.c. prevede lo scioglimento automatico del congresso unitario dopo il doppio rigetto della lista dei consoli. L'art IIBis-3.c Cost. consente lo scioglimento solo per crisi prolungata e con decisione congiunta. La disposizione è illegittima.\nLe disposizioni illegittime riguardano il nucleo essenziale del sistema elettorale, la legge è annullata nella sua interezza",
-          "effetto": "Annullamento Completo",
-          "collegio": "",
-          "creataIl": "2026-10-25T20:33:04.818Z",
-          "firmataDa": "AnneUhwe",
-          "statoPrecedente": "vigente",
-          "modifiche": []
-        }
-      ]
-    },
-    {
-      "id": "esproprio-del-athenon-trade-center",
-      "categoria": "Decreto",
-      "numero": "7",
-      "anno": "2026",
-      "titolo": "Decreto d'esproprio del Athenon Trade Center",
-      "dataEmanazione": "23/08/2026",
-      "promulgatoDa": "Congresso Statale del EstjiNor",
-      "stato": "vigente",
-      "sommario": "Esproprio del Athenon Trade Center per motivi strategici.",
-      "immagine": "/tc.png",
-      "didascalia": "",
-      "luogo": "ENOR-PTL-ATC",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLI I - PREMESSA"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Natura Normativa",
-          "commi": [
-            {
-              "testo": "Visti:",
-              "sottocommi": [
-                "la Costituzione dell’USSE, Capo II;",
-                "la Legge 43/2025 sulla gestione delle industrie;",
-                "la Legge 03/2026 sulla pianificazione economica democratica;",
-                "la Legge 12/2025 sul CTSU;",
-                "la Legge 10/2026 sulle cooperative e i collettivi di lavoratori."
-              ]
-            },
-            {
-              "testo": "Premettendo che:",
-              "sottocommi": [
-                "il centro commerciale è di proprietà di \"YjuraHh\";",
-                "l’opera è necessaria per il piano economico unitario e per la riconversione produttiva;",
-                "il CTSU ha reso parere obbligatorio favorevole n. 1 del 12 agosto 2026;",
-                "è stato indetto referendum consultivo tra i giocatori coinvolti, con esito favorevole, il <a href=\"https://ews-rose.vercel.app/CEPU.html?tipo=R&data=18%2F08%2F2026&comune=Trade+Center\" target=\"_blank\" rel=\"noopener noreferrer\">18 agosto 2026</a>."
-              ]
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - SI DECRETA"
-        },
-        {
-          "numero": "2",
-          "rubrica": "Trasferimento coattivo",
-          "commi": [
-            {
-              "testo": "L’IRE determina un indennizzo equitativo di 1.500.000 ESTJI , comprensivo di avviamento, trasloco e spese tecniche.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il CTSU ha verificato la fattibilità tecnica e matematica dell’operazione. Il parere è pubblicato nella Bolla Ufficiale Unitaria e sul sito del <a href=\"https://ews-rose.vercel.app/lex/progetto.html?id=riqualificazione-athenon-trade-center\" target=\"_blank\" rel=\"noopener noreferrer\">CTSU</a>.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il centro è assegnato all’IRE, che lo articola nel \"Trade Center Authority\", secondo il piano economico approvato.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il presente decreto è notificato agli interessati, trascritto nell’Anagrafe unitaria delle imprese e dei beni collettivi e pubblicato nella Bolla Ufficiale Unitaria.",
-              "sottocommi": [
-                "Distretto - Athenon",
-                "Sezione - PatHel",
-                "Region-",
-                "Chunk -",
-                "Indirizzo - Trade Plaza 1-9",
-                "Categoria - C/1",
-                "Superficie catastale -"
-              ]
-            },
-            {
-              "testo": "L’IVIdU vigila sulla regolarità della procedura e sull’assenza di conflitti di interesse.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "3",
-          "rubrica": "Trade Center Authority",
-          "commi": [
-            {
-              "testo": "L’IRE delega la gestione del complesso alla Trade Center Authority (TCA), formata da:",
-              "sottocommi": [
-                "Assemblea:formata da i giocatori coivolti nel complesso, eleggono il consiglio esecutivo;",
-                "Consiglio Esecutivo: formato da giocatori coinvolti, rappresentano l’autorità davanti all’ IRE e al congresso del EstjiNor."
-              ]
-            },
-            {
-              "testo": "La “TCA” ha le seguenti competenze:",
-              "sottocommi": [
-                "stipula, rinnova, revisiona i contratti con gli operatori commerciali, inclusa la gestione delle morosità;",
-                "Pianificazione con il Consiglio di Pianificazione e supervisione di interventi ordinari, strutturali, impiantistici e di riqualificazione;",
-                "Redigere il rapporto di bilancio annuale, il rapporto annuale per la pianificazione locale e sucessivamente comunicarli al CTSU;",
-                "Stipula di polizze per danni, responsabilità civile e interruzioni di attività, con monitoraggio dei sinistri;",
-                "Gestione delle richieste, reclami e controversie, nonché definizione di regolamenti interni;",
-                "sviluppo di iniziative per attrarre visitatori, coordinamento delle campagne promozionali e gestione degli spazi comuni con le assemblee locali per eventi.",
-                "Interfaccia con i media, le autorità locali e la comunità, per rendere trasparente l'operato della TCA;",
-                "Monitoraggio di costi, ricavi e indicatori di performance (KPI), con report periodici al Consiglio Esecutivo e all'IRE.",
-                "Definizione di piani pluriennali di sviluppo, riqualificazione e valorizzazione del complesso, in linea con gli indirizzi dell'IRE e del Congresso.",
-                "predisposizione di piani di emergenza e di continuità del servizio in caso di eventi critici."
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "legge-elettorale-dell-unione-kyybeitza",
-      "categoria": "Legge Applicativa",
-      "numero": "8",
-      "anno": "2026",
-      "titolo": "Legge Elettorale dell’Unione [Kyybeitza]",
-      "dataEmanazione": "26/10/2026",
-      "promulgatoDa": "Congresso Unitario",
-      "stato": "vigente",
-      "sommario": "Legge applicativa che disciplina l’elezione diretta del Congresso Unitario, l’elezione dei Congressi Statali e Regionali, le Assemblee di Sezione, l’elezione dell’Alto Moderatore, la revoca dei deputati e dei delegati, il finanziamento dei partiti e la CEPU, in conformità alla Costituzione dell’USSE e alla sentenza n. 1/2026.",
-      "immagine": "",
-      "didascalia": "",
-      "luogo": "ESTJI",
-      "articoli": [
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO I - PRINCIPI GENERALI"
-        },
-        {
-          "numero": "1",
-          "rubrica": "Oggetto e ambito di applicazione",
-          "commi": [
-            {
-              "testo": "La presente legge disciplina:",
-              "sottocommi": [
-                "l’elezione diretta del Congresso Unitario;",
-                "l’elezione dei Congressi Statali e dei Congressi Regionali;",
-                "il funzionamento delle Assemblee di Sezione;",
-                "l’elezione dell’Alto Moderatore;",
-                "la revoca dei deputati e dei delegati;",
-                "il finanziamento dei partiti e delle campagne elettorali."
-              ]
-            },
-            {
-              "testo": "Restano ferme le competenze degli Stati Sociali in materia di organizzazione delle elezioni locali e di sezione, nel rispetto dei principi della presente legge e dei regolamenti della CEPU.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "2",
-          "rubrica": "Principi del sistema elettorale",
-          "commi": [
-            {
-              "testo": "L’elezione del Congresso Unitario è diretta, universale, uguale, segreta e proporzionale, con voto di preferenza e metodo del Voto Singolo Trasferibile (STV), secondo quanto previsto dall’art. XIV-2 Cost. e dalla presente legge.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I Congressi Statali sono eletti a suffragio universale diretto dai cittadini residenti nello Stato Sociale, ai sensi dell’art. XII-1 Cost. I Congressi Regionali sono eletti dagli organi inferiori secondo il modello Hankonen e l’art. I-3 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le Assemblee di Sezione sono aperte a tutti i cittadini residenti nella circoscrizione e non richiedono elezione, salvo per la scelta dei delegati ai livelli superiori.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il diritto di voto attivo e passivo spetta a tutti i cittadini dell’USSE che abbiano compiuto 16 anni, senza distinzione di genere, etnia, religione o condizione sociale, ai sensi dell’art. XIV-1 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il voto è un diritto e un dovere civico.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO II - ELEZIONE DEL CONGRESSO UNITARIO"
-        },
-        {
-          "numero": "3",
-          "rubrica": "Circoscrizioni elettorali",
-          "commi": [
-            {
-              "testo": "Il territorio dell’Unione è suddiviso in circoscrizioni plurinominali corrispondenti agli Stati Sociali e alle Regioni Autonome, ai sensi dell’art. XIV-2 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il numero di seggi per circoscrizione è determinato dalla CEPU in proporzione alla popolazione residente, con un minimo di 3 seggi per garantire la proporzionalità del metodo STV.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La CEPU ridetermina le circoscrizioni e i seggi entro 6 mesi dall’entrata in vigore della presente legge e, successivamente, ogni 5 anni sulla base dei dati demografici aggiornati.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "4",
-          "rubrica": "Scheda elettorale e espressione del voto",
-          "commi": [
-            {
-              "testo": "La scheda riporta i candidati raggruppati per lista (partito, organizzazione sociale o lista civica), con il simbolo e il nome del candidato.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elettore ordina i candidati secondo le proprie preferenze (1, 2, 3, …). Può esprimere preferenze per candidati di liste diverse, secondo il metodo STV.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il voto è valido se è espressa almeno una prima preferenza. Il voto è inizialmente attribuito al candidato indicato come prima preferenza.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "5",
-          "rubrica": "Calcolo del quoziente e scrutinio STV",
-          "commi": [
-            {
-              "testo": "La CEPU procede allo scrutinio secondo il metodo del Voto Singolo Trasferibile.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Quoziente di Droop: si calcola per ogni circoscrizione con la formula Q = (Voti validi totali / (Seggi da assegnare + 1)) + 1, ignorando eventuali decimali.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Conteggio delle prime preferenze: i candidati che raggiungono o superano il quoziente sono proclamati eletti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Trasferimento delle eccedenze: se un candidato eletto ha voti superiori al quoziente, l’eccedenza viene trasferita ai candidati indicati come preferenza successiva. Il valore di trasferimento di ciascuna scheda è pari a Eccedenza / Totale voti del candidato eletto. Ogni scheda trasferita conserva il proprio valore frazionario.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Eliminazione progressiva: se dopo il trasferimento delle eccedenze restano seggi vacanti, si elimina il candidato con il minor numero di voti e si trasferiscono i suoi voti ai candidati ancora in gara secondo le preferenze successive. Il processo si ripete fino all’assegnazione di tutti i seggi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Soglia di sbarramento: è prevista una soglia del 3% dei voti validi a livello circoscrizionale per l’accesso alla ripartizione dei seggi. Le liste che non raggiungono tale soglia sono escluse; le schede che indicano come prima preferenza un candidato di lista esclusa sono trasferite al candidato di seconda preferenza ancora in gara, se indicato; altrimenti la scheda è considerata non trasferibile.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "6",
-          "rubrica": "Proclamazione degli eletti e verifica dei poteri",
-          "commi": [
-            {
-              "testo": "La CEPU proclama gli eletti al termine delle operazioni di scrutinio.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La verifica dei poteri dei deputati eletti spetta alla CEPU, che controlla la regolarità delle candidature, delle operazioni elettorali e dei finanziamenti, secondo l’art. XIV-3 lett. a Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Contro la proclamazione è ammesso ricorso alla Corte Costituzionale nei casi e nei modi previsti dalla legge.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO III - ELEZIONE DEI CONGRESSI STATALI E REGIONALI"
-        },
-        {
-          "numero": "7",
-          "rubrica": "Elezione dei Congressi Statali",
-          "commi": [
-            {
-              "testo": "Il Congresso Statale è eletto direttamente dai cittadini residenti nello Stato Sociale, a suffragio universale diretto, ai sensi dell’art. XII-1 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elezione avviene con il metodo STV, in collegi plurinominali definiti dalla CEPUS competente per territorio, garantendo la rappresentanza delle minoranze e delle diversità territoriali.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il numero di seggi e le circoscrizioni sono determinati dallo Statuto dello Stato Sociale, nel rispetto dei principi della Costituzione e della presente legge.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "8",
-          "rubrica": "Elezione dei Congressi Regionali",
-          "commi": [
-            {
-              "testo": "I Congressi Regionali sono eletti dagli organi inferiori — Assemblee di Sezione e Congressi Metropolitani — secondo il modello Hankonen e gli Statuti degli Stati Sociali.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I delegati ai Congressi Regionali sono revocabili dall’organo che li ha eletti, con le modalità previste dallo Statuto statale e dall’art. XIV-4 lett. c) Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elezione dei delegati regionali avviene a scrutinio segreto e con voto limitato, per garantire la rappresentanza delle minoranze.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "9",
-          "rubrica": "Assemblee di Sezione",
-          "commi": [
-            {
-              "testo": "L’Assemblea di Sezione è l’organo di base del potere popolare ed è aperta a tutti i cittadini residenti, che vi partecipano direttamente.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’Assemblea elegge al proprio interno, a scrutinio segreto e con voto limitato, i delegati ai Congressi Regionali e i membri del Consiglio Esecutivo di Sezione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il Consiglio Esecutivo di Sezione è revocabile dall’Assemblea che lo ha eletto, ai sensi dell’art. I-4 Cost.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO IV - ELEZIONE DELL’ALTO MODERATORE"
-        },
-        {
-          "numero": "10",
-          "rubrica": "Sistema elettorale",
-          "commi": [
-            {
-              "testo": "L’Alto Moderatore è composto da due Presidenti, un uomo e una donna, eletti a suffragio universale diretto con mandato di 5 anni non rinnovabile, ai sensi dell’art. IIBis-1 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "L’elezione avviene in due tornate separate, a distanza di almeno due settimane: nella prima si elegge il Presidente di un genere, nella seconda il Presidente dell’altro genere, ai sensi dell’art. IIBis-2 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Per ciascuna tornata si applica un sistema maggioritario a doppio turno: se nessun candidato raggiunge la maggioranza assoluta dei voti validi al primo turno, si procede al ballottaggio tra i due candidati più votati entro 15 giorni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I due Presidenti non possono appartenere allo stesso partito o alla stessa corrente politica. La CEPU verifica tale requisito prima della proclamazione.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO V - REVOCA DEI DEPUTATI E DEI DELEGATI"
-        },
-        {
-          "numero": "11",
-          "rubrica": "Revoca dei deputati del Congresso Unitario",
-          "commi": [
-            {
-              "testo": "I deputati del Congresso Unitario sono revocabili in qualsiasi momento dai cittadini della circoscrizione che li ha eletti, ai sensi degli artt. IX-3, X-3 e XIV-4 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La procedura di revoca è attivata su iniziativa di almeno un terzo degli elettori iscritti nella circoscrizione, con firme autenticate e certificate dalla CEPU, anche in formato digitale.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La CEPU verifica la validità delle firme entro 15 giorni dalla presentazione.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Verificata la legittimità, la CEPU indice il referendum di revoca entro 30 giorni, ai sensi dell’art. XIV-4 lett. a Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il referendum è valido indipendentemente dal numero dei partecipanti, essendo stato abolito il quorum con la modifica costituzionale del 29/12/2024. La revoca è approvata se ottiene la maggioranza dei voti validi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di revoca, subentra il primo dei non eletti della stessa lista nella circoscrizione, secondo l’ordine determinato dallo scrutinio STV. Se la lista non ha più candidati, si procede a elezioni suppletive entro 60 giorni.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "12",
-          "rubrica": "Revoca dei delegati ai Congressi Statali e Regionali",
-          "commi": [
-            {
-              "testo": "I delegati ai Congressi Statali e Regionali sono revocabili dall’Assemblea o dal Congresso che li ha eletti, con voto motivato a maggioranza assoluta dei componenti, ai sensi dell’art. XIV-4 lett. c) Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La richiesta di revoca è presentata all’organo che ha eletto il delegato, che la esamina entro 15 giorni.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La revoca è approvata con il voto favorevole della maggioranza assoluta dei componenti dell’organo.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di revoca, si procede all’elezione di un nuovo delegato con le stesse modalità previste per l’elezione ordinaria.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO VI - FORMAZIONE DEL CONSOLATO E RAPPORTO FIDUCIARIO"
-        },
-        {
-          "numero": "13",
-          "rubrica": "Nomina e fiducia del Consolato",
-          "commi": [
-            {
-              "testo": "Il Consolato dell’Unione è composto da tre Consoli, ciascuno con un Vice-console, ai sensi dell’art. XI-1 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Entro 15 giorni dalla proclamazione degli eletti al Congresso Unitario, l’Alto Moderatore propone al Congresso una lista di tre nomi per la carica di Console, nel rispetto dei criteri dell’art. XI-4 Cost.:",
-              "sottocommi": [
-                "in caso di elezioni ordinarie senza maggioranza assoluta di un partito: due rappresentanti della coalizione di maggioranza e uno del principale partito di opposizione;",
-                "in caso di elezioni straordinarie con maggioranza assoluta: i tre Consoli sono scelti tra le diverse correnti del partito vincitore."
-              ]
-            },
-            {
-              "testo": "Il Congresso Unitario si esprime sulla lista con voto di fiducia collettivo entro 10 giorni dalla presentazione. La fiducia è accordata a maggioranza semplice dei deputati presenti.",
-              "sottocommi": []
-            },
-            {
-              "testo": "In caso di mancata approvazione, l’Alto Moderatore presenta una nuova lista entro 7 giorni. Se anche la seconda lista è respinta, non si procede automaticamente allo scioglimento del Congresso Unitario.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Lo scioglimento anticipato del Congresso Unitario può essere disposto solo dai due Presidenti dell’Alto Moderatore, con decisione congiunta, in caso di crisi prolungata che impedisca il funzionamento del Congresso, ai sensi dell’art. IIBis-3 lett. c Cost. Resta fermo il potere del Congresso di revocare la fiducia al Consolato o a singoli Consoli con mozione motivata a maggioranza assoluta.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO VII - PARTITI, CANDIDATURE E FINANZIAMENTO"
-        },
-        {
-          "numero": "14",
-          "rubrica": "Soggetti abilitati a presentare liste",
-          "commi": [
-            {
-              "testo": "Possono presentare liste di candidati:",
-              "sottocommi": [
-                "i partiti politici;",
-                "le organizzazioni sociali (sindacati, cooperative);",
-                "le liste civiche;",
-                "i cittadini indipendenti, con un numero di firme pari allo 0,5% degli elettori iscritti nella circoscrizione, certificate dalla CEPU, ai sensi dell’art. XIV-5 Cost."
-              ]
-            },
-            {
-              "testo": "La CEPU verifica la regolarità delle candidature e può escludere liste o candidati che violino l’art. XIV-6 Cost. in materia di divieto di organizzazioni d’odio e apologia del fascismo e dello stalinismo.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "15",
-          "rubrica": "Finanziamento pubblico e trasparenza",
-          "commi": [
-            {
-              "testo": "Il finanziamento dei partiti e delle campagne elettorali è esclusivamente pubblico, gestito dalla CEPU e proporzionale ai voti ottenuti, ai sensi dell’art. XIV-3 Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "È vietato il finanziamento privato dei partiti e delle campagne elettorali.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Tutte le spese elettorali sono soggette al controllo dell’IVIdU per la prevenzione di conflitti d’interesse e abusi, ai sensi dell’art. XIIIBis-4 Cost.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "16",
-          "rubrica": "Accesso ai media e parità di trattamento",
-          "commi": [
-            {
-              "testo": "La CEPU, in collaborazione con il CTSU, garantisce un accesso equo e gratuito ai media pubblici e alla piattaforma digitale ufficiale per tutte le liste e i candidati ammessi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I media pubblici assicurano la parità di trattamento e la trasparenza delle comunicazioni politiche.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO VIII - COMMISSIONE ELETTORALE PERMANENTE DELL’UNIONE (CEPU)"
-        },
-        {
-          "numero": "17",
-          "rubrica": "Composizione e mandato",
-          "commi": [
-            {
-              "testo": "La CEPU è composta da 7 membri effettivi e 3 supplenti, sorteggiati pubblicamente tra cittadini con comprovate competenze giuridico-amministrative, informatiche e statistiche, ai sensi dell’art. XIV-3 lett. a Cost.",
-              "sottocommi": []
-            },
-            {
-              "testo": "I candidati sono proposti congiuntamente dalle Università e dalla Corte Suprema dell’USSE.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Il mandato è di 5 anni non rinnovabile. Durante il mandato, i membri non possono ricoprire cariche pubbliche elettive o incarichi di partito.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "numero": "18",
-          "rubrica": "Competenze della CEPU",
-          "commi": [
-            {
-              "testo": "La CEPU:",
-              "sottocommi": [
-                "delimita le circoscrizioni elettorali per tutti i livelli;",
-                "gestisce le liste elettorali e la piattaforma di voto digitale;",
-                "autentica e verifica le firme per candidature indipendenti e iniziative di revoca;",
-                "proclama gli eletti e verifica la regolarità delle operazioni;",
-                "amministra il finanziamento pubblico ai partiti e vigila sul divieto di finanziamento privato;",
-                "verifica il rispetto dei requisiti di incompatibilità e delle cause di ineleggibilità."
-              ]
-            }
-          ]
-        },
-        {
-          "numero": "19",
-          "rubrica": "Articolazione territoriale (CEPUS)",
-          "commi": [
-            {
-              "testo": "In ogni Stato Sociale è istituita una Commissione Elettorale Permanente Statale (CEPUS), composta da 5 membri effettivi e 2 supplenti, sorteggiati con le stesse modalità della CEPU.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le CEPUS operano in coordinamento con la CEPU e ne rispettano le linee guida e i regolamenti attuativi.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le CEPUS gestiscono le elezioni statali, locali e di sezione, e trasmettono alla CEPU i dati aggregati e una relazione annuale.",
-              "sottocommi": []
-            }
-          ]
-        },
-        {
-          "tipo": "titolo",
-          "testo": "TITOLO IX - DISPOSIZIONI TRANSITORIE E FINALI"
-        },
-        {
-          "numero": "20",
-          "rubrica": "Entrata in vigore e prima applicazione",
-          "commi": [
-            {
-              "testo": "La presente legge entra in vigore il giorno successivo alla sua pubblicazione, previa approvazione del Congresso Unitario.",
-              "sottocommi": []
-            },
-            {
-              "testo": "La CEPU è costituita entro 6 mesi dall’entrata in vigore della presente legge.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Le prime elezioni del Congresso Unitario con il sistema STV previsto dalla presente legge si tengono alla prima scadenza elettorale utile successiva all’entrata in vigore.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Fino alla costituzione della CEPU, le funzioni di verifica delle firme e di organizzazione delle elezioni sono esercitate provvisoriamente dal Consiglio Esecutivo dell’Unione, sotto la supervisione della Corte Suprema.",
-              "sottocommi": []
-            },
-            {
-              "testo": "Per quanto non previsto dalla presente legge, si rinvia alla Costituzione dell’USSE, agli Statuti degli Stati Sociali conformi alla Costituzione e ai regolamenti attuativi della CEPU.",
-              "sottocommi": []
-            }
-          ]
-        }
-      ]
     }
   ]
 }
