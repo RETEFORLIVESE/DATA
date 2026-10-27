@@ -3763,7 +3763,7 @@
             "righe": [
               {
                 "prima": "Distretti non membri della Città Metropolitana di Taleen:",
-                "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
+                "dopo": "Circoscrizioni non membri della Città Metropolitana di Taleen:",
                 "etichetta": "1.",
                 "livello": 0
               },
@@ -3787,7 +3787,7 @@
               },
               {
                 "prima": "Distretti membri della Città Metropolitana di Taleen:",
-                "dopo": "Distretti membri della Città Metropolitana di Taleen:",
+                "dopo": "Circoscrizioni membri della Città Metropolitana di Taleen:",
                 "etichetta": "2.",
                 "livello": 0
               },
@@ -3927,7 +3927,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T17:28:01.179Z"
+        "aggiornato": "2026-10-27T17:32:20.464Z"
       }
     },
     {
