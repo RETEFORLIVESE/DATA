@@ -3676,9 +3676,17 @@
             "fase": "Stesura Primaria",
             "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
             "riferimento": "CAEL.1",
+            "data": "20 Ottobre 2026",
+            "esito": "Negativo",
+            "colore": "arancio"
+          },
+          {
+            "fase": "Stesura Secondaria",
+            "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
+            "riferimento": "CAEL.2",
             "data": "",
             "esito": "",
-            "colore": "blu"
+            "colore": "grigio"
           }
         ],
         "pubblicazione": "",
@@ -4104,7 +4112,7 @@
             }
           ]
         },
-        "aggiornato": "2026-10-27T19:05:24.412Z"
+        "aggiornato": "2026-10-27T19:08:53.509Z"
       }
     },
     {
