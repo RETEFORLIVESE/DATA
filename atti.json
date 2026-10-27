@@ -499,7 +499,7 @@
             "righe": [
               {
                 "prima": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
-                "dopo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR, in seguito alla delibera positiva del Congresso Unitario ai sensi delll'art. X-4/f Cost. ed alla ratifica prevista dall'art. VI-6 Cost. in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+                "dopo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR, in seguito alla delibera positiva del Congresso Unitario ai sensi delll'art. X-4/f Cost. ed alla ratifica prevista dall'art. VI-6 Cost. in seguito, la TBR entra a far parte dell'USSE tramite rappresentazione nella TDR",
                 "etichetta": "1.",
                 "livello": 0
               },
@@ -518,7 +518,7 @@
             "righe": [
               {
                 "prima": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
-                "dopo": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+                "dopo": "Le normative della TBR con l'applicazione del punto n.2 di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
                 "etichetta": "1.",
                 "livello": 0
               },
@@ -579,13 +579,13 @@
             "righe": [
               {
                 "prima": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
-                "dopo": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+                "dopo": "I partecipanti della TBR sono registrati dall'Autorità di Vigilanza per l'Unigicazione in un registro preparatorio, trasmesso alla CEPU e alla CEPUS competente.",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
                 "prima": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
-                "dopo": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+                "dopo": "L'acquisto dello status di elettore, partecipante o residente dell'USSE è disciplinato dalle leggi unitarie e verificato dalla CEPU/CEPUS.",
                 "etichetta": "2.",
                 "livello": 0
               },
@@ -641,7 +641,7 @@
               },
               {
                 "prima": "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;",
-                "dopo": "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;",
+                "dopo": "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per formulare la revisione della costituzione dello Stato da sottoporre al Congresso della TDR e a referendum;",
                 "etichetta": "c)",
                 "livello": 1
               },
@@ -685,13 +685,13 @@
             "righe": [
               {
                 "prima": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
-                "dopo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+                "dopo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR seguendo i provvedimenti del CGU e la legge unitaria;",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
                 "prima": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
-                "dopo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+                "dopo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva salvo diversa disposizione della legge unitaria.",
                 "etichetta": "2.",
                 "livello": 0
               }
@@ -717,13 +717,13 @@
             "righe": [
               {
                 "prima": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
-                "dopo": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+                "dopo": "Vengono indette elezioni, gesitite dalla CEPUS, a suffragio univarsale, entro 4 mesi per formare la Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
                 "etichetta": "",
                 "livello": 0
               },
               {
                 "prima": "Riscrivere la Costituzione Statale della TDR;",
-                "dopo": "Riscrivere la Costituzione Statale della TDR;",
+                "dopo": "Proporre al Congresso e a Referendum la revisione della Costituzione Statale della TDR;",
                 "etichetta": "a)",
                 "livello": 1
               },
@@ -800,7 +800,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:21:56.669Z"
+        "aggiornato": "2026-10-27T16:33:18.594Z"
       }
     },
     {
