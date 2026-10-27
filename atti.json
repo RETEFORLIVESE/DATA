@@ -483,7 +483,7 @@
       ],
       "dossier": {
         "titolo": "Modifica alle Disposizioni Transitorie per l'Unificazione della Repubblica Democratica di Terlin",
-        "sottotitolo": "Modifiche per la coerenza Costituzionale dell'Atto",
+        "sottotitolo": "Disposizioni in materia Costituzionale dell'Atto",
         "ente": "Commissione Affari Costituzionali di Terlin",
         "data": "18 Ottobre 2026",
         "presentazione": "Modifica dell'atto rigurado disposizioni Costituzionali per l'Unificazione di Terlin.",
@@ -946,15 +946,15 @@
             {
               "tipo": "immagine",
               "src": "/TDRcoat.png",
-              "x": 105,
-              "y": 161.5,
+              "x": 102,
+              "y": 177,
               "w": 150,
               "h": 150,
               "adatta": "contieni"
             }
           ]
         },
-        "aggiornato": "2026-10-27T16:54:55.538Z"
+        "aggiornato": "2026-10-27T16:56:11.791Z"
       }
     },
     {
