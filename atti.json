@@ -4479,20 +4479,44 @@
         "etichettaDopo": "Testo modificato",
         "iter": [
           {
+            "fase": "Referendum Propositivo",
+            "organo": "CEPU",
+            "riferimento": "RFP.12",
+            "data": "15 Settembre 2026",
+            "esito": "Positivo",
+            "colore": "blu"
+          },
+          {
             "fase": "Stesura Commissionale",
             "organo": "Commissione Congressuale per i rapporti Costituzionali",
-            "riferimento": "CC. 16",
-            "data": "21 Ottobre 2026",
-            "esito": "Approvato",
-            "colore": "blu"
+            "riferimento": "CC. 1",
+            "data": "12 Ottobre 2026",
+            "esito": "Negativo",
+            "colore": "arancio"
+          },
+          {
+            "fase": "Stesura Commissionale",
+            "organo": "Commissione Congressuale per i rapporti Costituzionali",
+            "riferimento": "CC. 2",
+            "data": "19 Ottobre 2026",
+            "esito": "Positivo",
+            "colore": "arancio"
           },
           {
             "fase": "Lettura Ultima",
             "organo": "Congresso Unitario",
             "riferimento": "S.12",
-            "data": "24 Ottobre 2026",
-            "esito": "Approvato",
-            "colore": "blu"
+            "data": "25 Ottobre 2026",
+            "esito": "Positivo",
+            "colore": "verde"
+          },
+          {
+            "fase": "Referendum Costituzionale",
+            "organo": "CEPU",
+            "riferimento": "RFCS.5",
+            "data": "16 Novembre",
+            "esito": "",
+            "colore": "grigio"
           }
         ],
         "pubblicazione": "Bolla Ufficiale dell'Unione",
@@ -4998,7 +5022,7 @@
         "sezioni": [],
         "fonti": "",
         "glossario": [],
-        "aggiornato": "2026-10-27T14:44:00.479Z"
+        "aggiornato": "2026-10-27T14:52:35.375Z"
       }
     },
     {
