@@ -604,13 +604,13 @@
             "righe": [
               {
                 "prima": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
-                "dopo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+                "dopo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, nei limiti e nel rispetto delle leggi unitarie;",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
                 "prima": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
-                "dopo": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+                "dopo": "I procedimenti amministrativi in corso al momento dell'applicazione del punto n.2 del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
                 "etichetta": "2.",
                 "livello": 0
               }
@@ -660,13 +660,13 @@
             "righe": [
               {
                 "prima": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
-                "dopo": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+                "dopo": "In seguito all'applicazione del punto n.2 il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
                 "etichetta": "1.",
                 "livello": 0
               },
               {
                 "prima": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
-                "dopo": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+                "dopo": "In seguito all'applicazione del punto n.2 le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
                 "etichetta": "2.",
                 "livello": 0
               },
@@ -707,6 +707,12 @@
                 "dopo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
                 "etichetta": "",
                 "livello": 0
+              },
+              {
+                "prima": "",
+                "dopo": "Entro 90 giorni il Congresso Unitario delibera riguardo il punto n.2 della seguente legge.",
+                "etichetta": "a)",
+                "livello": 1
               }
             ]
           },
@@ -800,7 +806,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T16:33:18.594Z"
+        "aggiornato": "2026-10-27T16:36:33.549Z"
       }
     },
     {
