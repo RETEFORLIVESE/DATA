@@ -3724,15 +3724,9 @@
             "riferimento": "Elettorato",
             "righe": [
               {
-                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "etichetta": "1.",
-                "livello": 0
-              },
-              {
                 "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
                 "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
-                "etichetta": "2.",
+                "etichetta": "1.",
                 "livello": 0
               },
               {
@@ -3746,6 +3740,12 @@
                 "dopo": "Ogni Assemble elegge il proprio Consiglio Esecutivo, con mandato di un anno.",
                 "etichetta": "b)",
                 "livello": 1
+              },
+              {
+                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                "etichetta": "2.",
+                "livello": 0
               },
               {
                 "prima": "",
@@ -3999,7 +3999,7 @@
           },
           "elementi": []
         },
-        "aggiornato": "2026-10-27T18:06:54.809Z"
+        "aggiornato": "2026-10-27T18:08:10.264Z"
       }
     },
     {
