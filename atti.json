@@ -4554,31 +4554,31 @@
               {
                 "prima": "",
                 "dopo": "Ogni Assemblea di Sezione aderisce a un solo livello intermedio. In mancanza di adesione, è rappresentata direttamente nel Congresso Statale.",
-                "etichetta": "a)",
+                "etichetta": "b)",
                 "livello": 0
               },
               {
                 "prima": "",
-                "dopo": "Il Congresso Distrettuale o il Congresso Metropolitano è eletto dalle Assemblee di Sezione del territorio. I suoi membri hanno mandato imperativo e sono revocabili dalle Assemblee che li hanno eletti.",
-                "etichetta": "a)",
+                "dopo": "Il Congresso Distrettuale o il Congresso Metropolitano è eletto dalle Assemblee di Sezione del territorio che ne fanno parte. I suoi membri hanno mandato imperativo e sono revocabili dalle Assemblee che li hanno eletti.",
+                "etichetta": "c)",
                 "livello": 0
               },
               {
                 "prima": "",
                 "dopo": "Il Congresso Distrettuale o Metropolitano sostituisce il Congresso regionale a ogni effetto. Esercita funzioni di coordinamento, programmazione e amministrazione delegate dal Congresso Statale e dalle leggi unitarie; non può adottare atti contrari alla Costituzione, alle leggi unitarie e alle leggi statali.",
-                "etichetta": "a)",
+                "etichetta": "d)",
                 "livello": 0
               },
               {
                 "prima": "",
                 "dopo": "I delegati al Congresso Statale sono eletti dai Congressi Distrettuali o Metropolitani; nelle Sezioni non aderenti, sono eletti dalle Assemblee di Sezione secondo la legge.",
-                "etichetta": "a)",
+                "etichetta": "e)",
                 "livello": 0
               },
               {
                 "prima": "",
                 "dopo": "I Distretti e le Circoscrizioni Metropolitane non sono enti sovrani e non esercitano competenze riservate agli Stati Sociali o all’Unione.",
-                "etichetta": "a)",
+                "etichetta": "f)",
                 "livello": 0
               }
             ]
@@ -4648,7 +4648,7 @@
             "righe": [
               {
                 "prima": "I tribunali degli Stati Sociali e delle Regioni Autonome sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
-                "dopo": "Tribunali statali, distrettuali e metropolitani. I tribunali degli Stati Sociali, dei Distretti e delle Circoscrizioni Metropolitane sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
+                "dopo": "I tribunali Statali, Distrettuali e Metropolitani sono organizzati secondo i principi stabiliti dalla legge unitaria, nel rispetto delle competenze riservate agli Stati Sociali in materia di giustizia di prossimità. I giudici di tali tribunali sono nominati dal CGU mediante concorso e godono delle medesime garanzie di indipendenza e inamovibilità.",
                 "etichetta": "",
                 "livello": 0
               }
@@ -4686,7 +4686,7 @@
             "righe": [
               {
                 "prima": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, delle Regioni Autonome e delle Città Metropolitane.",
-                "dopo": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, dei Distretti e delle Città Metropolitane.",
+                "dopo": "La sovranità dell'USSE si estende su tutto il suo territorio, che è unitario e indivisibile. Esso comprende i territori di tutti gli Stati Sociali membri,dei Territori Speciali, dei Distretti, delle Città Metropolitane e delle Assemblee.",
                 "etichetta": "",
                 "livello": 0
               }
@@ -4743,7 +4743,7 @@
             "righe": [
               {
                 "prima": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con regioni di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
-                "dopo": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con regioni di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
+                "dopo": "Gli Stati Sociali hanno il diritto di stabilire relazioni culturali, economiche e di cooperazione transfrontaliera con territori di altri Stati, previa approvazione della Commissione Esteri e nel rispetto della politica estera unitaria.",
                 "etichetta": "",
                 "livello": 0
               }
@@ -4756,40 +4756,9 @@
             "righe": [
               {
                 "prima": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati, in violazione della Costituzione, è illegittima.",
-                "dopo": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati, in violazione della Costituzione, è illegittima.",
+                "dopo": "L'USSE garantisce e tutela i diritti sovrani degli Stati Sociali. Ogni ingerenza negli affari interni di uno Stato Sociale, da parte di organi unitari o di altri Stati in violazione della Costituzione, è illegittima.",
                 "etichetta": "",
                 "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "VII-3",
-            "riferimento": "",
-            "righe": [
-              {
-                "prima": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
-                "dopo": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
-                "etichetta": "",
-                "livello": 0
-              },
-              {
-                "prima": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
-                "dopo": "La legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana.",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "La gestione del bilancio regionale, nell'ambito del bilancio unitario.",
-                "dopo": "La gestione del bilancio regionale, nell'ambito del bilancio unitario.",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "La costituzione di Milizie Locali per la sicurezza interna.",
-                "dopo": "La costituzione di Milizie Locali per la sicurezza interna.",
-                "etichetta": "c)",
-                "livello": 1
               }
             ]
           },
@@ -4800,7 +4769,7 @@
             "righe": [
               {
                 "prima": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
-                "dopo": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                "dopo": "I Distretti, le Città Metropolitane e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
                 "etichetta": "",
                 "livello": 0
               }
@@ -5029,7 +4998,7 @@
         "sezioni": [],
         "fonti": "",
         "glossario": [],
-        "aggiornato": "2026-10-27T10:19:57.996Z"
+        "aggiornato": "2026-10-27T14:34:16.094Z"
       }
     },
     {
