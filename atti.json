@@ -323,11 +323,11 @@
           "rubrica": "Natura Giuridica",
           "commi": [
             {
-              "testo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+              "testo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR, in seguito alla delibera positiva del Congresso Unitario ai sensi delll'art. X-4/f Cost. ed alla ratifica prevista dall'art. VI-6 Cost. in seguito, la TBR entra a far parte dell'USSE tramite rappresentazione nella TDR",
               "sottocommi": []
             },
             {
-              "testo": "Sul territorio della TBR viene applicata la giurisdizione Unitaria e Statale della TDR.",
+              "testo": "Fino a tali atti, sul territorio della TBR viene applicata la giurisdizione Extra-Unitaria.",
               "sottocommi": []
             }
           ]
@@ -337,7 +337,7 @@
           "rubrica": "Articolazione Territoriale",
           "commi": [
             {
-              "testo": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+              "testo": "Le normative della TBR con l'applicazione del punto n.2 di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
               "sottocommi": [
                 "Assemblea di Hilton;",
                 "Assemblea di Prisma;",
@@ -362,11 +362,11 @@
           "rubrica": "Partecipazione",
           "commi": [
             {
-              "testo": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+              "testo": "I partecipanti della TBR sono registrati dall'Autorità di Vigilanza per l'Unigicazione in un registro preparatorio, trasmesso alla CEPU e alla CEPUS competente.",
               "sottocommi": []
             },
             {
-              "testo": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+              "testo": "L'acquisto dello status di elettore, partecipante o residente dell'USSE è disciplinato dalle leggi unitarie e verificato dalla CEPU/CEPUS.",
               "sottocommi": []
             },
             {
@@ -380,11 +380,11 @@
           "rubrica": "Continuità dei Contratti e degli Atti Amministrativi",
           "commi": [
             {
-              "testo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+              "testo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, nei limiti e nel rispetto delle leggi unitarie;",
               "sottocommi": []
             },
             {
-              "testo": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+              "testo": "I procedimenti amministrativi in corso al momento dell'applicazione del punto n.2 del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
               "sottocommi": []
             }
           ]
@@ -398,7 +398,7 @@
               "sottocommi": [
                 "Coordinare la transizione delle competenze;",
                 "Vigilare sulla normalizzazione amministrativa;",
-                "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;"
+                "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per formulare la revisione della costituzione dello Stato da sottoporre al Congresso della TDR e a referendum;"
               ]
             },
             {
@@ -412,11 +412,11 @@
           "rubrica": "Gestione del Patrimonio e della Finanza",
           "commi": [
             {
-              "testo": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+              "testo": "In seguito all'applicazione del punto n.2 il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
               "sottocommi": []
             },
             {
-              "testo": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+              "testo": "In seguito all'applicazione del punto n.2 le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
               "sottocommi": []
             },
             {
@@ -430,11 +430,11 @@
           "rubrica": "Disposizioni Penali e Giuridiche",
           "commi": [
             {
-              "testo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+              "testo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR seguendo i provvedimenti del CGU e la legge unitaria;",
               "sottocommi": []
             },
             {
-              "testo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+              "testo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva salvo diversa disposizione della legge unitaria.",
               "sottocommi": []
             }
           ]
@@ -445,7 +445,9 @@
           "commi": [
             {
               "testo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
-              "sottocommi": []
+              "sottocommi": [
+                "Entro 90 giorni il Congresso Unitario delibera riguardo il punto n.2 della seguente legge."
+              ]
             }
           ]
         },
@@ -454,9 +456,9 @@
           "rubrica": "Seconda Costituente",
           "commi": [
             {
-              "testo": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+              "testo": "Vengono indette elezioni, gesitite dalla CEPUS, a suffragio univarsale, entro 4 mesi per formare la Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
               "sottocommi": [
-                "Riscrivere la Costituzione Statale della TDR;",
+                "Proporre al Congresso e a Referendum la revisione della Costituzione Statale della TDR;",
                 "Stabilire durata e regolamento interno;",
                 "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
                 "Approvare le leggi applicative della costitzione della TDR;",
@@ -955,7 +957,377 @@
           ]
         },
         "aggiornato": "2026-10-27T16:57:46.772Z"
-      }
+      },
+      "pronunce": [
+        {
+          "id": "s-2026-3-disposizioni-transitorie-unificazione-di-terlin-pre-normaliz",
+          "tipo": "modifica",
+          "numero": "3",
+          "anno": "2026",
+          "data": "27 ottobre 2026",
+          "oggetto": "Illegittimità delle Disposizione rigurado l'Unificazione di Terlin",
+          "motivazione": "Modifiche apportate tramite il processo di \"Verifica Costituzionale\" dell'Atto.",
+          "dispositivo": "Modifica Normativa",
+          "effetto": "Modifica dell'Atto",
+          "collegio": "",
+          "creataIl": "2026-10-27T17:12:42.320Z",
+          "firmataDa": "PyrreHankonen",
+          "statoPrecedente": "vigente",
+          "modifiche": [
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 2",
+              "numero": "2",
+              "prima": {
+                "numero": "2",
+                "rubrica": "Natura Giuridica",
+                "commi": [
+                  {
+                    "testo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR dal momento dell'entrata in vigore di questo testo entra a far parte dell'USSE tramite rappresentazione nella TDR",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Sul territorio della TBR viene applicata la giurisdizione Unitaria e Statale della TDR.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "2",
+                "rubrica": "Natura Giuridica",
+                "commi": [
+                  {
+                    "testo": "La Repubblica Democratica di Terlin è membra dell'Unione degli Stati Sociali dell'Estji, il territorio della TBR, in seguito alla delibera positiva del Congresso Unitario ai sensi delll'art. X-4/f Cost. ed alla ratifica prevista dall'art. VI-6 Cost. in seguito, la TBR entra a far parte dell'USSE tramite rappresentazione nella TDR",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Fino a tali atti, sul territorio della TBR viene applicata la giurisdizione Extra-Unitaria.",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 3",
+              "numero": "3",
+              "prima": {
+                "numero": "3",
+                "rubrica": "Articolazione Territoriale",
+                "commi": [
+                  {
+                    "testo": "Le normative della TBR con l'entrata in vigore di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+                    "sottocommi": [
+                      "Assemblea di Hilton;",
+                      "Assemblea di Prisma;",
+                      "Assemblea di Terlin;",
+                      "Assemblea di Verda Ebenajo;",
+                      "Assemblea di Savana Ebanajo;",
+                      "Assemblea di UppaWest;"
+                    ]
+                  },
+                  {
+                    "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso corpo giuridico delle assemblee della TDR.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Con l'entrata in vigore del seguente testo la capitale della Repubblica Democratica di Terlin è la città Terlin.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "3",
+                "rubrica": "Articolazione Territoriale",
+                "commi": [
+                  {
+                    "testo": "Le normative della TBR con l'applicazione del punto n.2 di questo testo vengono sostituite da quelle della TDR, il territorio è così articolato in conformità con l'Unione e lo Stato:",
+                    "sottocommi": [
+                      "Assemblea di Hilton;",
+                      "Assemblea di Prisma;",
+                      "Assemblea di Terlin;",
+                      "Assemblea di Verda Ebenajo;",
+                      "Assemblea di Savana Ebanajo;",
+                      "Assemblea di UppaWest;"
+                    ]
+                  },
+                  {
+                    "testo": "Le Articolazioni Territoriali istituite nei territori della TBR hanno lo stesso corpo giuridico delle assemblee della TDR.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Con l'entrata in vigore del seguente testo la capitale della Repubblica Democratica di Terlin è la città Terlin.",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 4",
+              "numero": "4",
+              "prima": {
+                "numero": "4",
+                "rubrica": "Partecipazione",
+                "commi": [
+                  {
+                    "testo": "I giocatori che partecipano nella TBR con l'entrata in vigore del seguente testo diventano ipso-facto partecipanti della TDR e dell'USSE;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "I giocatori che non partecipano nella TBR con l'entrata in vigore del seguente testo diventano residenti della TDR e a loro vengono applicate le specifiche leggi Unitarie;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Viene istituita l'Autorità di Vigilanza per l'Unificazione, il cui compito è quello di creare un registro dei giocatori, residenti e cittadini, entro 180 giorni;",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "4",
+                "rubrica": "Partecipazione",
+                "commi": [
+                  {
+                    "testo": "I partecipanti della TBR sono registrati dall'Autorità di Vigilanza per l'Unigicazione in un registro preparatorio, trasmesso alla CEPU e alla CEPUS competente.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "L'acquisto dello status di elettore, partecipante o residente dell'USSE è disciplinato dalle leggi unitarie e verificato dalla CEPU/CEPUS.",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Viene istituita l'Autorità di Vigilanza per l'Unificazione, il cui compito è quello di creare un registro dei giocatori, residenti e cittadini, entro 180 giorni;",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 5",
+              "numero": "5",
+              "prima": {
+                "numero": "5",
+                "rubrica": "Continuità dei Contratti e degli Atti Amministrativi",
+                "commi": [
+                  {
+                    "testo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, salvo diversa disposizione;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "I procedimenti amministrativi in corso al momento dell'entrata in vigore del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "5",
+                "rubrica": "Continuità dei Contratti e degli Atti Amministrativi",
+                "commi": [
+                  {
+                    "testo": "Tutti i contratti, le concessioni e gli atti amministrativi validamente stipulati dalla TBR prima dell'entrata in vigore del seguente testo restano efficaci e sono imputati alla TDR, nei limiti e nel rispetto delle leggi unitarie;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "I procedimenti amministrativi in corso al momento dell'applicazione del punto n.2 del seguente testo sono trasferiti agli organi competenti della TDR e dell'USSE senza soluzione di continuità;",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 6",
+              "numero": "6",
+              "prima": {
+                "numero": "6",
+                "rubrica": "Commissione di Transizione",
+                "commi": [
+                  {
+                    "testo": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
+                    "sottocommi": [
+                      "Coordinare la transizione delle competenze;",
+                      "Vigilare sulla normalizzazione amministrativa;",
+                      "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per riscrivere la costituzione dello Stato;"
+                    ]
+                  },
+                  {
+                    "testo": "La Commissione opera per un periodo massimo di 18 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "6",
+                "rubrica": "Commissione di Transizione",
+                "commi": [
+                  {
+                    "testo": "E' istituita la Commissione di Transizione, composto da rappresentanti delle Assemblee di cui all'Articolo 3 e da delegati del Congresso Statale, con il compito di:",
+                    "sottocommi": [
+                      "Coordinare la transizione delle competenze;",
+                      "Vigilare sulla normalizzazione amministrativa;",
+                      "Prendere parte alla Seconda Costituente della Repubblica Democratica di Terlin per formulare la revisione della costituzione dello Stato da sottoporre al Congresso della TDR e a referendum;"
+                    ]
+                  },
+                  {
+                    "testo": "La Commissione opera per un periodo massimo di 18 mesi, prorogabile una sola volta con delibera del Congresso Statale;",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 7",
+              "numero": "7",
+              "prima": {
+                "numero": "7",
+                "rubrica": "Gestione del Patrimonio e della Finanza",
+                "commi": [
+                  {
+                    "testo": "Il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "7",
+                "rubrica": "Gestione del Patrimonio e della Finanza",
+                "commi": [
+                  {
+                    "testo": "In seguito all'applicazione del punto n.2 il patrimonio mobiliare e immobiliare della TBR è trasferito alla TDR;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "In seguito all'applicazione del punto n.2 le entrate e le uscite di bilancio della TBR confluiscono nel bilancio statale della TDR a partire dall'esercizio successivo all'entrata in vigore del seguente testo;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "Entro 90 giorni è nominato un revisore dell'IVIdU per la verifica dei conti di transizione",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 8",
+              "numero": "8",
+              "prima": {
+                "numero": "8",
+                "rubrica": "Disposizioni Penali e Giuridiche",
+                "commi": [
+                  {
+                    "testo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva.",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "8",
+                "rubrica": "Disposizioni Penali e Giuridiche",
+                "commi": [
+                  {
+                    "testo": "I procedimenti penali pendenti davanti agli organi giudiziari della TBR proseguono agli organi giudiziari della TDR seguendo i provvedimenti del CGU e la legge unitaria;",
+                    "sottocommi": []
+                  },
+                  {
+                    "testo": "le sentenze già pronunciate mantengono la loro efficacia esecutiva salvo diversa disposizione della legge unitaria.",
+                    "sottocommi": []
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 9",
+              "numero": "9",
+              "prima": {
+                "numero": "9",
+                "rubrica": "Entrata in Vigore e Abrogazione",
+                "commi": [
+                  {
+                    "testo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
+                    "sottocommi": []
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "9",
+                "rubrica": "Entrata in Vigore e Abrogazione",
+                "commi": [
+                  {
+                    "testo": "Il presente testo entra in vigore il giorno successivo alla pubblicazione nella Bolla Ufficiale dell'Unione e su NormAktiv;",
+                    "sottocommi": [
+                      "Entro 90 giorni il Congresso Unitario delibera riguardo il punto n.2 della seguente legge."
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "azione": "modificato",
+              "riferimento": "Art. 10",
+              "numero": "10",
+              "prima": {
+                "numero": "10",
+                "rubrica": "Seconda Costituente",
+                "commi": [
+                  {
+                    "testo": "Vengono indette elezioni, a suffragio univarsale, entro 4 mesi per formare la  Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+                    "sottocommi": [
+                      "Riscrivere la Costituzione Statale della TDR;",
+                      "Stabilire durata e regolamento interno;",
+                      "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
+                      "Approvare le leggi applicative della costitzione della TDR;",
+                      "Vigilare sulla normalizzazione normativa;",
+                      "Verificare l'operato della Commissione di Transizione;",
+                      "Gestire le questioni patrimoniali e finanziarie;",
+                      "Garantire il raccordo con l'USSE;",
+                      "Risolvere le controverisie transitorie;",
+                      "Assicurare trasparenza e partecipazione ai lavori"
+                    ]
+                  }
+                ]
+              },
+              "dopo": {
+                "numero": "10",
+                "rubrica": "Seconda Costituente",
+                "commi": [
+                  {
+                    "testo": "Vengono indette elezioni, gesitite dalla CEPUS, a suffragio univarsale, entro 4 mesi per formare la Seconda Costituente della Repubblica Democratica di Terlin, con il compito:",
+                    "sottocommi": [
+                      "Proporre al Congresso e a Referendum la revisione della Costituzione Statale della TDR;",
+                      "Stabilire durata e regolamento interno;",
+                      "Definire i rapporti con la Commissione di Transizione e con gli altri organi della TDR.",
+                      "Approvare le leggi applicative della costitzione della TDR;",
+                      "Vigilare sulla normalizzazione normativa;",
+                      "Verificare l'operato della Commissione di Transizione;",
+                      "Gestire le questioni patrimoniali e finanziarie;",
+                      "Garantire il raccordo con l'USSE;",
+                      "Risolvere le controverisie transitorie;",
+                      "Assicurare trasparenza e partecipazione ai lavori"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "statuto-della-citta-metropolitana-di-taleen",
