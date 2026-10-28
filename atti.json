@@ -7135,7 +7135,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "L’istituzione del Distretto o della Circoscrizione Metropolitana è deliberata dalle Assemblee di Sezione interessate a maggioranza assoluta dei partecipanti ed è approvata dal Congresso Statale. Il Congresso Unitario può annullarla per contrasto con la Costituzione.",
+                  "dopo": "L’istituzione del Distretto o della Circoscrizione Metropolitana è deliberata dalle Assemblee di Sezione interessate a maggioranza assoluta dei partecipanti ed è approvata dal Congresso Statale. Il Congresso Unitario può richiedere alla Corte Costituzionale l'annullamento per contrasto con la Costituzione.",
                   "etichetta": "a)",
                   "livello": 1
                 },
@@ -7296,7 +7296,7 @@
             {
               "tipo": "articolo",
               "numero": "VII-3",
-              "riferimento": "Stati Sociali e diritto di Autodeterminazione",
+              "riferimento": "Competenze esclusive degli Stati Sociali",
               "righe": [
                 {
                   "prima": "Sono di competenza esclusiva di ogni Stato Sociale, nel rispetto dei principi unitari e della pianificazione economica democratica:",
@@ -7585,7 +7585,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "possono sciogliere il Congresso Statale in caso di crisi prolungata, con decisione congiunta e previo parere, non vincolante, dell0Alto Moderatore dell'Unione.",
+                  "dopo": "possono sciogliere il Congresso Statale in caso di crisi prolungata, con decisione congiunta e previo parere, dell'Alto Moderatore dell'Unione.",
                   "etichetta": "e)",
                   "livello": 1
                 }
@@ -7604,7 +7604,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Rispondono davanti al Congresso Statale per violazione della Costituzione Statale e davanti alla Sezione Speciale della Corte Costituzionale per i reati commessi nell'esercizio delle funzioni.",
+                  "dopo": "Rispondono davanti al Congresso Statale per violazione della Costituzione Statale e davanti alla Sezione Speciale per l'Alta Amministrazione della Corte Suprema per i reati commessi nell'esercizio delle funzioni.",
                   "etichetta": "2.",
                   "livello": 0
                 }
@@ -7921,7 +7921,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T17:41:02.834Z"
+          "aggiornato": "2026-10-28T17:47:50.453Z"
         }
       ]
     }
