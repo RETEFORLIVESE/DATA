@@ -7487,7 +7487,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Può rimuovere il Consiglio Esecutivo Statale framite voto di fiducia.",
+                  "dopo": "Può rimuovere il Consiglio Esecutivo Statale e/o Commissari eletti tramite voto di fiducia, ai sensi dell'Art. I-4.;",
                   "etichetta": "g)",
                   "livello": 1
                 }
@@ -7928,7 +7928,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T17:17:50.121Z"
+          "aggiornato": "2026-10-28T17:25:46.791Z"
         }
       ]
     }
