@@ -7577,16 +7577,46 @@
         },
         {
           "id": "dmvsbf5gc01z1",
-          "titolo": "ostituzione dell’Unione degli Stati Sociali degli Estji",
+          "titolo": "Costituzione dell’Unione degli Stati Sociali degli Estji",
           "sottotitolo": "Revisione costituzione e aggiunta dei doveri Presidenziali Statali",
           "ente": "Commissione Congressuale per i rapporti Costituzionali",
           "data": "26 Ottobre 2026",
           "presentazione": "Revisione costituzione e aggiunta dei doveri Presidenziali Statali",
           "etichettaPrima": "Testo vigente",
           "etichettaDopo": "Testo modificato",
-          "iter": [],
+          "iter": [
+            {
+              "fase": "Stesura Commissionale",
+              "organo": "Commissione Congressuale per i rapporti Costituzionali",
+              "riferimento": "CC.3",
+              "data": "20 Ottobre 2026",
+              "esito": "Approvato",
+              "colore": "verde"
+            },
+            {
+              "fase": "Lettura Congressuale",
+              "organo": "Congresso unitario",
+              "riferimento": "S.14",
+              "data": "1 Novembre 2026",
+              "esito": "",
+              "colore": "grigio"
+            },
+            {
+              "fase": "Referendum Costituzionale",
+              "organo": "CEPU",
+              "riferimento": "RFCS.6",
+              "data": "4 Dicembre 2026",
+              "esito": "",
+              "colore": "grigio"
+            }
+          ],
           "pubblicazione": "",
-          "articoli": [],
+          "articoli": [
+            {
+              "tipo": "titolo",
+              "testo": "CAPITOLO XII-Bis - I PRESIDENTI DEGLI STATI SOCIALI"
+            }
+          ],
           "sezioni": [],
           "fonti": "",
           "glossario": [],
@@ -7604,7 +7634,7 @@
             },
             "elementi": []
           },
-          "aggiornato": "2026-10-28T16:14:58.143Z"
+          "aggiornato": "2026-10-28T16:21:51.755Z"
         }
       ],
       "copertina": {
