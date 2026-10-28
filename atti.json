@@ -3663,457 +3663,460 @@
           ]
         }
       ],
-      "dossier": {
-        "titolo": "Applicazione delle Riforme Unitarie alla Costituzione dell'EstjiLinn",
-        "sottotitolo": "Modifiche costituzionali",
-        "ente": "Commissione Affari Costituzionali dell'EstjiLinn",
-        "data": "",
-        "presentazione": "Modifiche costituzionali per l'allineamento amministrativo statale alle disposizioni costituzionali Unitarie.",
-        "etichettaPrima": "Testo vigente",
-        "etichettaDopo": "Testo modificato",
-        "iter": [
-          {
-            "fase": "Stesura Primaria",
-            "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
-            "riferimento": "CACEL.1",
-            "data": "20 Ottobre 2026",
-            "esito": "Negativo",
-            "colore": "arancio"
-          },
-          {
-            "fase": "Stesura Secondaria",
-            "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
-            "riferimento": "CACEL.2",
-            "data": "",
-            "esito": "",
-            "colore": "grigio"
-          }
-        ],
-        "pubblicazione": "",
-        "articoli": [
-          {
-            "tipo": "titolo",
-            "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
-          },
-          {
-            "tipo": "articolo",
-            "numero": "5",
-            "riferimento": "Assemblee",
-            "righe": [
-              {
-                "prima": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
-                "dopo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
-                "etichetta": "",
-                "livello": 0
-              },
-              {
-                "prima": "Assemblee di Sezione",
-                "dopo": "Assemblee di Sezione;",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "Congresso Distrettuale",
-                "dopo": "Congresso Distrettuale;",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "Congresso Metropolitano",
-                "dopo": "Congresso Metropolitano.",
-                "etichetta": "c)",
-                "livello": 1
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "6",
-            "riferimento": "Elettorato",
-            "righe": [
-              {
-                "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
-                "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
-                "etichetta": "1.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Le Assemblee eleggono i propri deputati al Congresso Distrettuale in modo proporzionale alla loro popolazione;",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Ogni Assemble elegge il proprio Consiglio Esecutivo, con mandato di un anno.",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
-                "etichetta": "2.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Ogni Congresso Distrettuale, formato da deputati eletti dalle Assemblee, elegge il proprio Consiglio Esecutivo.",
-                "etichetta": "3.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "I Congressi Distritrettuali membri della Città Metropolitana eleggono i deputati che formano il Congresso Metropolitano di Taleen;",
-                "etichetta": "a)",
-                "livello": 1
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "7",
-            "riferimento": "Congresso Statale",
-            "righe": [
-              {
-                "prima": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
-                "dopo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo dello Stato Sociale, composto da 101 delegati dai Congressi Disrtrettuali in modo proporizonale alla loro popolazione.",
-                "etichetta": "1.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Il Congresso Metropolitano elegge 5 deputati che lo rappresentino.",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Il Congresso Statale elegge il Consolato e le seguenti Commissioni:",
-                "etichetta": "2.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Commissione Culturale;",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Commissione Economica Finanziaria;",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Commissione Urbana e dei Trasporti;",
-                "etichetta": "c)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Commissione Ambientale e Agricola.",
-                "etichetta": "d)",
-                "livello": 1
-              },
-              {
-                "prima": "",
-                "dopo": "Il congresso può rimuovere un deputato eletto, in conformità con l'Art. IX-3 Cost.",
-                "etichetta": "3.",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "8",
-            "riferimento": "Circoscrizioni e Assemblee",
-            "righe": [
-              {
-                "prima": "Distretti non membri della Città Metropolitana di Taleen:",
-                "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
-                "etichetta": "1.",
-                "livello": 0
-              },
-              {
-                "prima": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
-                "dopo": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
-                "etichetta": "a)",
-                "livello": 1
-              },
-              {
-                "prima": "Konko (Mikita, Royale);",
-                "dopo": "Konko (Mikita, Royale);",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "Arcipelago di Alinesjia.",
-                "dopo": "Arcipelago di Alinesjia.",
-                "etichetta": "c)",
-                "livello": 1
-              },
-              {
-                "prima": "Distretti membri della Città Metropolitana di Taleen:",
-                "dopo": "Circoscrizioni membri della Città Metropolitana di Taleen:",
-                "etichetta": "2.",
-                "livello": 0
-              },
-              {
-                "prima": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
-                "dopo": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
-                "etichetta": "a)",
-                "livello": 0
-              },
-              {
-                "prima": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
-                "dopo": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
-                "etichetta": "b)",
-                "livello": 1
-              },
-              {
-                "prima": "Katagaa (Irinastok);",
-                "dopo": "Katagaa (Irinastok);",
-                "etichetta": "c)",
-                "livello": 1
-              },
-              {
-                "prima": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
-                "dopo": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
-                "etichetta": "d)",
-                "livello": 1
-              },
-              {
-                "prima": "Niigataa (Tegel, TegelGard, Minotte);",
-                "dopo": "Niigataa (Tegel, TegelGard, Minotte);",
-                "etichetta": "e)",
-                "livello": 1
-              },
-              {
-                "prima": "Kengoko (Finance, NewShinguku, Gallier);",
-                "dopo": "Kengoko (Finance, NewShinguku, Gallier);",
-                "etichetta": "f)",
-                "livello": 1
-              },
-              {
-                "prima": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
-                "dopo": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
-                "etichetta": "g)",
-                "livello": 1
-              },
-              {
-                "prima": "Yate (Rial, Tadam).",
-                "dopo": "Yate (Rial, Tadam).",
-                "etichetta": "h)",
-                "livello": 1
-              }
-            ]
-          },
-          {
-            "tipo": "titolo",
-            "testo": "TITOLO III - ECONOMIA E RISORSE"
-          },
-          {
-            "tipo": "articolo",
-            "numero": "9",
-            "riferimento": "Territori pubblici",
-            "righe": [
-              {
-                "prima": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
-                "dopo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
-                "etichetta": "1,.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Il Distretto Agricolo Capitolino è suddiviso e opera in base alle Circoscrizioni dell'EstjiLinn.",
-                "etichetta": "2.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Il Distretto Agricolo Capitolino è soggetto ai Piani Economici ed esprime parere rigurdanti la stesura.",
-                "etichetta": "3.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "Il Distretto Agricolo Capitolino è supervisionato dalla Commissione Ambientale e Agricola.",
-                "etichetta": "4.",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "10",
-            "riferimento": "Rete di Trasporto",
-            "righe": [
-              {
-                "prima": "La rete di trasporto per Taleen è proprietà pubblica e gestita dalla Commissione per le Risorse e i Trasporti. Il servizio è gratuito per tutti i giocatori.",
-                "dopo": "La rete di trasporto dell' EstjiLinn è proprietà pubblica. Il servizio è gratuito per tutti i giocatori.",
-                "etichetta": "1.",
-                "livello": 0
-              },
-              {
-                "prima": "",
-                "dopo": "La rete di trasporto dell' EstjiLinn opera tramite la \"Île-de-USSE\" formata da tutti i gestori pubblici e cooperativi delle reti, è supervisionata dalla Commissione Urbana e dei Trasporti",
-                "etichetta": "2.",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "11",
-            "riferimento": "Borsa Risorste di Taleen",
-            "righe": [
-              {
-                "prima": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
-                "dopo": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
-                "etichetta": "",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "12",
-            "riferimento": "Valuta",
-            "righe": [
-              {
-                "prima": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
-                "dopo": "Il sistema monetario è parte della Banca Centrale degli Estji (Kasksuspankki),la valuta è l' Estji [E].",
-                "etichetta": "",
-                "livello": 0
-              }
-            ]
-          },
-          {
-            "tipo": "articolo",
-            "numero": "13",
-            "riferimento": "",
-            "righe": [
-              {
-                "prima": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
-                "dopo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
-                "etichetta": "",
-                "livello": 0
-              }
-            ]
-          }
-        ],
-        "sezioni": [
-          {
-            "titolo": "TITOLO I",
-            "testo": "Il Titolo I a seguito della revisione costituzionale non necessita modifiche."
-          }
-        ],
-        "fonti": "",
-        "glossario": [],
-        "copertina": {
-          "attiva": true,
-          "sfondo": "#c1d8e2",
-          "immagineSfondo": "",
-          "nascondiBarra": true,
-          "cornice": {
-            "attiva": true,
-            "colore": "#0b3d6e",
-            "spessore": 1.2,
-            "margine": 12
-          },
-          "elementi": [
+      "dossiers": [
+        {
+          "id": "principale",
+          "titolo": "Applicazione delle Riforme Unitarie alla Costituzione dell'EstjiLinn",
+          "sottotitolo": "Modifiche costituzionali",
+          "ente": "Commissione Affari Costituzionali dell'EstjiLinn",
+          "data": "",
+          "presentazione": "Modifiche costituzionali per l'allineamento amministrativo statale alle disposizioni costituzionali Unitarie.",
+          "etichettaPrima": "Testo vigente",
+          "etichettaDopo": "Testo modificato",
+          "iter": [
             {
-              "tipo": "testo",
-              "testo": "Congresso Statale dell'EstjiLinn",
-              "x": 20,
-              "y": 53,
-              "w": 170,
-              "size": 12,
-              "colore": "#12508c",
-              "font": "helvetica",
-              "stile": "bold",
-              "align": "center"
+              "fase": "Stesura Primaria",
+              "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
+              "riferimento": "CACEL.1",
+              "data": "20 Ottobre 2026",
+              "esito": "Negativo",
+              "colore": "arancio"
             },
             {
-              "tipo": "testo",
-              "testo": "IV Legislatura Unitaria",
-              "x": 20,
-              "y": 59,
-              "w": 170,
-              "size": 12,
-              "colore": "#12508c",
-              "font": "helvetica",
-              "stile": "bold",
-              "align": "center"
-            },
-            {
-              "tipo": "linea",
-              "x": 80,
-              "y": 66,
-              "x2": 130,
-              "y2": 66,
-              "colore": "#c9a227",
-              "spessore": 1
-            },
-            {
-              "tipo": "testo",
-              "testo": "{titolo}",
-              "x": 25,
-              "y": 85,
-              "w": 160,
-              "size": 28,
-              "colore": "#0b1f38",
-              "font": "times",
-              "stile": "bold",
-              "align": "center"
-            },
-            {
-              "tipo": "immagine",
-              "src": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/COAT/EstjiLinn.png",
-              "x": 75,
-              "y": 136,
-              "w": 60,
-              "h": 60,
-              "adatta": "contieni"
-            },
-            {
-              "tipo": "linea",
-              "x": 80,
-              "y": 220,
-              "x2": 130,
-              "y2": 220,
-              "colore": "#c9a227",
-              "spessore": 1
-            },
-            {
-              "tipo": "testo",
-              "testo": "{data}",
-              "x": 25,
-              "y": 242,
-              "w": 160,
-              "size": 11,
-              "colore": "#4b5866",
-              "font": "helvetica",
-              "stile": "normal",
-              "align": "center"
-            },
-            {
-              "tipo": "testo",
-              "testo": "{ente}",
-              "x": 25,
-              "y": 230,
-              "w": 160,
-              "size": 12,
-              "colore": "#0b1f38",
-              "font": "helvetica",
-              "stile": "bold",
-              "align": "center"
+              "fase": "Stesura Secondaria",
+              "organo": "Commissione Affari Costituzionali dell'EstjiLinn",
+              "riferimento": "CACEL.2",
+              "data": "",
+              "esito": "",
+              "colore": "grigio"
             }
-          ]
-        },
-        "aggiornato": "2026-10-27T19:09:55.356Z"
-      }
+          ],
+          "pubblicazione": "",
+          "articoli": [
+            {
+              "tipo": "titolo",
+              "testo": "TITOLO II - STRUTTURA AMMINISTRATIVA"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "5",
+              "riferimento": "Assemblee",
+              "righe": [
+                {
+                  "prima": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
+                  "dopo": "Il potere legislativo è esercitato attraverso una gerarchia di assemblee :",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Assemblee di Sezione",
+                  "dopo": "Assemblee di Sezione;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Congresso Distrettuale",
+                  "dopo": "Congresso Distrettuale;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Congresso Metropolitano",
+                  "dopo": "Congresso Metropolitano.",
+                  "etichetta": "c)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "6",
+              "riferimento": "Elettorato",
+              "righe": [
+                {
+                  "prima": "Ogni Assemblea è eletta tramite suffragio universale diretto e opera in sessioni pubbliche mensili.",
+                  "dopo": "Ogni Assemblea è aperta a tutti i giocatori residenti e opera in sessioni pubbliche mensili.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Le Assemblee eleggono i propri deputati al Congresso Distrettuale in modo proporzionale alla loro popolazione;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Ogni Assemble elegge il proprio Consiglio Esecutivo, con mandato di un anno.",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                  "dopo": "Il diritto di voto viene guadagnato al compimento del 16esimo anno di età.",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Ogni Congresso Distrettuale, formato da deputati eletti dalle Assemblee, elegge il proprio Consiglio Esecutivo.",
+                  "etichetta": "3.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "I Congressi Distritrettuali membri della Città Metropolitana eleggono i deputati che formano il Congresso Metropolitano di Taleen;",
+                  "etichetta": "a)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "7",
+              "riferimento": "Congresso Statale",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo, composto da 101 delegati dalle Assemblee di Sezione.",
+                  "dopo": "Il Congresso Statale del EstjiLinn è l’organo legislativo massimo dello Stato Sociale, composto da 101 delegati dai Congressi Disrtrettuali in modo proporizonale alla loro popolazione.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Congresso Metropolitano elegge 5 deputati che lo rappresentino.",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Congresso Statale elegge il Consolato e le seguenti Commissioni:",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Culturale;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Economica Finanziaria;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Urbana e dei Trasporti;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Ambientale e Agricola.",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il congresso può rimuovere un deputato eletto, in conformità con l'Art. IX-3 Cost.",
+                  "etichetta": "3.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "8",
+              "riferimento": "Circoscrizioni e Assemblee",
+              "righe": [
+                {
+                  "prima": "Distretti non membri della Città Metropolitana di Taleen:",
+                  "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                  "dopo": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Konko (Mikita, Royale);",
+                  "dopo": "Konko (Mikita, Royale);",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Arcipelago di Alinesjia.",
+                  "dopo": "Arcipelago di Alinesjia.",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Distretti membri della Città Metropolitana di Taleen:",
+                  "dopo": "Circoscrizioni membri della Città Metropolitana di Taleen:",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                  "dopo": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                  "dopo": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Katagaa (Irinastok);",
+                  "dopo": "Katagaa (Irinastok);",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                  "dopo": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Niigataa (Tegel, TegelGard, Minotte);",
+                  "dopo": "Niigataa (Tegel, TegelGard, Minotte);",
+                  "etichetta": "e)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Kengoko (Finance, NewShinguku, Gallier);",
+                  "dopo": "Kengoko (Finance, NewShinguku, Gallier);",
+                  "etichetta": "f)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                  "dopo": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
+                  "etichetta": "g)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Yate (Rial, Tadam).",
+                  "dopo": "Yate (Rial, Tadam).",
+                  "etichetta": "h)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "TITOLO III - ECONOMIA E RISORSE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "9",
+              "riferimento": "Territori pubblici",
+              "righe": [
+                {
+                  "prima": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+                  "dopo": "Tutti i terreni pubblici inutilizzati da oltre 3 mesi sono destinati a orti comunitari gestiti dal\nDistretto Agricolo Capitolino (DAC).",
+                  "etichetta": "1,.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Distretto Agricolo Capitolino è suddiviso e opera in base alle Circoscrizioni dell'EstjiLinn.",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Distretto Agricolo Capitolino è soggetto ai Piani Economici ed esprime parere rigurdanti la stesura.",
+                  "etichetta": "3.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Distretto Agricolo Capitolino è supervisionato dalla Commissione Ambientale e Agricola.",
+                  "etichetta": "4.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "10",
+              "riferimento": "Rete di Trasporto",
+              "righe": [
+                {
+                  "prima": "La rete di trasporto per Taleen è proprietà pubblica e gestita dalla Commissione per le Risorse e i Trasporti. Il servizio è gratuito per tutti i giocatori.",
+                  "dopo": "La rete di trasporto dell' EstjiLinn è proprietà pubblica. Il servizio è gratuito per tutti i giocatori.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "La rete di trasporto dell' EstjiLinn opera tramite la \"Île-de-USSE\" formata da tutti i gestori pubblici e cooperativi delle reti, è supervisionata dalla Commissione Urbana e dei Trasporti",
+                  "etichetta": "2.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "11",
+              "riferimento": "Borsa Risorste di Taleen",
+              "righe": [
+                {
+                  "prima": "Viene istituita la Borsa Risorse di Taleen (BRT) per regolare il commercio di risorse strategiche.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "12",
+              "riferimento": "Valuta",
+              "righe": [
+                {
+                  "prima": "Il sistema monetario si basa sul Estji, convertibile in ore di lavoro o risorse",
+                  "dopo": "Il sistema monetario è parte della Banca Centrale degli Estji (Kasksuspankki),la valuta è l' Estji [E].",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "13",
+              "riferimento": "",
+              "righe": [
+                {
+                  "prima": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+                  "dopo": "È istituita l’Agenzia Unica Approvvigionamenti (AUA) per gestire le risorse comuni e prevenire la speculazione.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            }
+          ],
+          "sezioni": [
+            {
+              "titolo": "TITOLO I",
+              "testo": "Il Titolo I a seguito della revisione costituzionale non necessita modifiche."
+            }
+          ],
+          "fonti": "",
+          "glossario": [],
+          "copertina": {
+            "attiva": true,
+            "sfondo": "#c1d8e2",
+            "immagineSfondo": "",
+            "nascondiBarra": true,
+            "cornice": {
+              "attiva": true,
+              "colore": "#0b3d6e",
+              "spessore": 1.2,
+              "margine": 12
+            },
+            "elementi": [
+              {
+                "tipo": "testo",
+                "testo": "Congresso Statale dell'EstjiLinn",
+                "x": 20,
+                "y": 53,
+                "w": 170,
+                "size": 12,
+                "colore": "#12508c",
+                "font": "helvetica",
+                "stile": "bold",
+                "align": "center"
+              },
+              {
+                "tipo": "testo",
+                "testo": "IV Legislatura Unitaria",
+                "x": 20,
+                "y": 59,
+                "w": 170,
+                "size": 12,
+                "colore": "#12508c",
+                "font": "helvetica",
+                "stile": "bold",
+                "align": "center"
+              },
+              {
+                "tipo": "linea",
+                "x": 80,
+                "y": 66,
+                "x2": 130,
+                "y2": 66,
+                "colore": "#c9a227",
+                "spessore": 1
+              },
+              {
+                "tipo": "testo",
+                "testo": "{titolo}",
+                "x": 25,
+                "y": 85,
+                "w": 160,
+                "size": 28,
+                "colore": "#0b1f38",
+                "font": "times",
+                "stile": "bold",
+                "align": "center"
+              },
+              {
+                "tipo": "immagine",
+                "src": "https://raw.githubusercontent.com/RETEFORLIVESE/IMG/main/COAT/EstjiLinn.png",
+                "x": 75,
+                "y": 136,
+                "w": 60,
+                "h": 60,
+                "adatta": "contieni"
+              },
+              {
+                "tipo": "linea",
+                "x": 80,
+                "y": 220,
+                "x2": 130,
+                "y2": 220,
+                "colore": "#c9a227",
+                "spessore": 1
+              },
+              {
+                "tipo": "testo",
+                "testo": "{data}",
+                "x": 25,
+                "y": 242,
+                "w": 160,
+                "size": 11,
+                "colore": "#4b5866",
+                "font": "helvetica",
+                "stile": "normal",
+                "align": "center"
+              },
+              {
+                "tipo": "testo",
+                "testo": "{ente}",
+                "x": 25,
+                "y": 230,
+                "w": 160,
+                "size": 12,
+                "colore": "#0b1f38",
+                "font": "helvetica",
+                "stile": "bold",
+                "align": "center"
+              }
+            ]
+          },
+          "aggiornato": "2026-10-28T10:59:27.460Z"
+        }
+      ]
     },
     {
       "id": "legge-elettorale-dell-unione",
