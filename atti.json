@@ -6870,7 +6870,7 @@
               },
               {
                 "tipo": "testo",
-                "testo": "Commissione Congressuale per i rapporti Costituzionali",
+                "testo": "Commissione Congressuale per i rapporti Costituzionali\nIV Legislatura Unitaria",
                 "x": 36,
                 "y": 70,
                 "w": 150,
@@ -6915,7 +6915,7 @@
               },
               {
                 "tipo": "testo",
-                "testo": "{numero}/{anno}  -  {data}",
+                "testo": "lex.{numero}/{anno}  -  {data}",
                 "x": 36,
                 "y": 275,
                 "w": 150,
@@ -6948,7 +6948,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T11:22:52.381Z"
+          "aggiornato": "2026-10-28T11:23:34.090Z"
         }
       ]
     },
