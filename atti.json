@@ -7115,7 +7115,7 @@
             {
               "tipo": "articolo",
               "numero": "IV-5",
-              "riferimento": "Nomina dei  iudici",
+              "riferimento": "Nomina dei giudici",
               "righe": [
                 {
                   "prima": "I giudici dei tribunali locali, regionali e statali sono nominati dal CGU mediante concorso pubblico per titoli ed esami, salva la possibilità di accesso per chiara fama nei limiti stabiliti dalla legge. I giudici della Corte Suprema dell’Unione sono eletti dal Congresso Unitario su proposta formulata congiuntamente dal CGU e da una commissione tecnica composta dai presidenti delle accademie nazionali; la votazione richiede la maggioranza dei due terzi dei deputati.",
@@ -7347,38 +7347,44 @@
                 },
                 {
                   "prima": "Approva la Costituzione dello Stato, in conformità con la Costituzione unitaria.",
-                  "dopo": "Approva la Costituzione dello Stato, in conformità con la Costituzione unitaria.",
+                  "dopo": "Approva la Costituzione dello Stato, in conformità con la Costituzione unitaria.;",
                   "etichetta": "a)",
                   "livello": 1
                 },
                 {
                   "prima": "Emana le leggi regionali in materie di competenza statale.",
-                  "dopo": "Emana le leggi statali in materie di competenza statale.",
+                  "dopo": "Emana le leggi statali in materie di competenza statale;",
                   "etichetta": "b)",
                   "livello": 1
                 },
                 {
                   "prima": "Elegge e revoca il Consiglio Esecutivo Statale.",
-                  "dopo": "Esprime fiducia verso il Consiglio Esecutivo Statale proposto dai Presidenti dello Stato.",
+                  "dopo": "Esprime fiducia verso il Consiglio Esecutivo Statale proposto dai Presidenti dello Stato;",
                   "etichetta": "c)",
                   "livello": 1
                 },
                 {
                   "prima": "Approva il piano economico e il bilancio regionale, in coordinamento con il piano unitario.",
-                  "dopo": "Approva il piano economico e il bilancio statale, in coordinamento con il piano unitario.",
+                  "dopo": "Approva il piano economico e il bilancio statale, in coordinamento con il piano unitario;",
                   "etichetta": "d)",
                   "livello": 1
                 },
                 {
                   "prima": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
-                  "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
+                  "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali;",
                   "etichetta": "e)",
                   "livello": 1
                 },
                 {
                   "prima": "",
-                  "dopo": "Elegge ogni 4 anni i Presidenti dello Stato Sociale",
+                  "dopo": "Elegge ogni 4 anni i Presidenti dello Stato Sociale;",
                   "etichetta": "f)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Può rimuovere il Consiglio Esecutivo Statale framite voto di fiducia.",
+                  "etichetta": "g)",
                   "livello": 1
                 }
               ]
@@ -7690,7 +7696,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:54:53.413Z"
+          "aggiornato": "2026-10-28T16:59:21.970Z"
         },
         {
           "id": "dmvsbf5gc01z1",
