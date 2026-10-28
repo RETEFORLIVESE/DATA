@@ -7356,19 +7356,6 @@
             },
             {
               "tipo": "articolo",
-              "numero": "VIII-3",
-              "riferimento": "Territori Speciali",
-              "righe": [
-                {
-                  "prima": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
-                  "dopo": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
-                  "etichetta": "",
-                  "livello": 0
-                }
-              ]
-            },
-            {
-              "tipo": "articolo",
               "numero": "VIII-1",
               "riferimento": "Regioni Autonome",
               "righe": [
@@ -7395,12 +7382,25 @@
             },
             {
               "tipo": "articolo",
+              "numero": "VIII-3",
+              "riferimento": "Territori Speciali",
+              "righe": [
+                {
+                  "prima": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
+                  "dopo": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale. Il loro status e la loro amministrazione sono definiti da legge unitaria.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
               "numero": "VIII-4",
               "riferimento": "Rappresentanza",
               "righe": [
                 {
                   "prima": "Le Regioni Autonome e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
-                  "dopo": "I Distretti, le Città Metropolitane e i Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
+                  "dopo": "I Territori Speciali sono rappresentati nel Congresso Unitario, eletti in proporzione alla loro popolazione, al fine di garantire la loro piena partecipazione alla vita politica unitaria.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -7489,6 +7489,12 @@
                   "prima": "",
                   "dopo": "Può rimuovere il Consiglio Esecutivo Statale e/o Commissari eletti tramite voto di fiducia, ai sensi dell'Art. I-4.;",
                   "etichetta": "g)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Può rimuovere i Presindenti Statali eletti tramite voto di fiducia, ai sensi dell'Art. I-4.;",
+                  "etichetta": "h)",
                   "livello": 1
                 }
               ]
@@ -7690,19 +7696,6 @@
             },
             {
               "tipo": "articolo",
-              "numero": "XIII-3",
-              "riferimento": "Rapporti con il Consiglio Esecutivo Statale",
-              "righe": [
-                {
-                  "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
-                  "dopo": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
-                  "etichetta": "",
-                  "livello": 0
-                }
-              ]
-            },
-            {
-              "tipo": "articolo",
               "numero": "XIII-2",
               "riferimento": "Competenze del Consiglio Esecutivo Statale",
               "righe": [
@@ -7741,6 +7734,19 @@
                   "dopo": "Coordina l'operato delle Milizie Popolari Locali per la sicurezza interna.",
                   "etichetta": "e)",
                   "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIII-3",
+              "riferimento": "Rapporti con il Consiglio Esecutivo Statale",
+              "righe": [
+                {
+                  "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
+                  "dopo": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
+                  "etichetta": "",
+                  "livello": 0
                 }
               ]
             },
@@ -7928,7 +7934,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T17:27:05.817Z"
+          "aggiornato": "2026-10-28T17:36:47.016Z"
         }
       ]
     }
