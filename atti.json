@@ -7384,6 +7384,19 @@
               ]
             },
             {
+              "tipo": "articolo",
+              "numero": "XII-3",
+              "riferimento": "Potere esecutivo statale",
+              "righe": [
+                {
+                  "prima": "Il potere esecutivo nello Stato Sociale è esercitato dal Consiglio Esecutivo Statale, eletto e revocabile dal Congresso Statale.",
+                  "dopo": "Il potere esecutivo nello Stato Sociale è esercitato dal Consiglio Esecutivo Statale, proposto dai Presidenti dello Stato Sociale congiuntamente, sottoposto alla fiducia al Congresso Statale.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
               "tipo": "titolo",
               "testo": "CAPITOLO XIIBis -  PRESIDENTI DELLO STATO SOCIALE"
             },
@@ -7669,15 +7682,15 @@
               {
                 "tipo": "immagine",
                 "src": "/USSEcoat.png",
-                "x": 113,
-                "y": 172,
+                "x": 102,
+                "y": 176.5,
                 "w": 150,
                 "h": 150,
                 "adatta": "contieni"
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:50:14.626Z"
+          "aggiornato": "2026-10-28T16:54:53.413Z"
         },
         {
           "id": "dmvsbf5gc01z1",
