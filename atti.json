@@ -7384,6 +7384,10 @@
               ]
             },
             {
+              "tipo": "titolo",
+              "testo": "CAPITOLO XIIBis -  PRESIDENTI DELLO STATO SOCIALE"
+            },
+            {
               "tipo": "articolo",
               "numero": "XIII-1",
               "riferimento": "Natura del Consiglio Esecutivo Statale",
@@ -7579,7 +7583,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:26:50.530Z"
+          "aggiornato": "2026-10-28T16:28:53.858Z"
         },
         {
           "id": "dmvsbf5gc01z1",
