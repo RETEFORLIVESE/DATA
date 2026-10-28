@@ -7029,7 +7029,7 @@
           "titolo": "Costituzione dell’Unione degli Stati Sociali degli Estji",
           "sottotitolo": "Soppressione delle Regioni Autonome e istituzione dei Congressi Distrettuali o Metropolitani come livelli intermedi facoltativi, Istituzione della Presidenza Statali",
           "ente": "Commissione Congressuale per i rapporti Costituzionali",
-          "data": "26 Ottobre 2026",
+          "data": "12 Ottobre 2026",
           "presentazione": "Modello proposto: le Assemblee di Sezione possono costituire un Distretto o una Circoscrizione Metropolitana e eleggere il rispettivo Congresso Distrettuale o Congresso Metropolitano. Tale Congresso sostituisce a ogni effetto il Congresso regionale ed è livello intermedio tra Assemblea di Sezione e Congresso Statale. Le Sezioni che non aderiscono restano rappresentate direttamente nel Congresso Statale. Le Regioni Autonome sono abrogate; i Territori Speciali restano in vigore.",
           "etichettaPrima": "Testo vigente",
           "etichettaDopo": "Testo modificato",
@@ -7863,7 +7863,7 @@
               {
                 "tipo": "testo",
                 "testo": "Commissione Congressuale per i rapporti Costituzionali\nIV Legislatura Unitaria",
-                "x": 36,
+                "x": 37,
                 "y": 70,
                 "w": 150,
                 "size": 11,
@@ -7928,7 +7928,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T17:25:46.791Z"
+          "aggiornato": "2026-10-28T17:27:05.817Z"
         }
       ]
     }
