@@ -7566,7 +7566,111 @@
           },
           "aggiornato": "2026-10-28T15:00:18.889Z"
         }
-      ]
+      ],
+      "copertina": {
+        "modo": "personalizzata",
+        "attiva": true,
+        "sfondo": "#f5f9fd",
+        "immagineSfondo": "",
+        "nascondiBarra": true,
+        "cornice": {
+          "attiva": false,
+          "colore": "#0b3d6e",
+          "spessore": 1,
+          "margine": 10
+        },
+        "elementi": [
+          {
+            "tipo": "rettangolo",
+            "x": 0,
+            "y": 0,
+            "w": 22,
+            "h": 297,
+            "pieno": true,
+            "riempimento": "#0b3d6e",
+            "spessore": 0,
+            "bordo": "#000000"
+          },
+          {
+            "tipo": "testo",
+            "testo": "{categoria}\nIV Legislatura Unitaria",
+            "x": 36,
+            "y": 70,
+            "w": 150,
+            "size": 11,
+            "colore": "#12508c",
+            "font": "helvetica",
+            "stile": "bold",
+            "align": "left"
+          },
+          {
+            "tipo": "testo",
+            "testo": "{titolo}",
+            "x": 36,
+            "y": 82,
+            "w": 150,
+            "size": 30,
+            "colore": "#0b1f38",
+            "font": "helvetica",
+            "stile": "bold",
+            "align": "left"
+          },
+          {
+            "tipo": "linea",
+            "x": 36,
+            "y": 150,
+            "x2": 100,
+            "y2": 150,
+            "colore": "#c9a227",
+            "spessore": 1.2
+          },
+          {
+            "tipo": "testo",
+            "testo": "{sottotitolo}",
+            "x": 36,
+            "y": 158,
+            "w": 150,
+            "size": 14,
+            "colore": "#4b5866",
+            "font": "helvetica",
+            "stile": "normal",
+            "align": "left"
+          },
+          {
+            "tipo": "testo",
+            "testo": "Lex.{numero}/{anno}  -  {data}",
+            "x": 36,
+            "y": 265,
+            "w": 150,
+            "size": 11,
+            "colore": "#1f2a33",
+            "font": "helvetica",
+            "stile": "normal",
+            "align": "left"
+          },
+          {
+            "tipo": "testo",
+            "testo": "NormAktiv - Raccolta ufficiale degli atti normativi",
+            "x": 36,
+            "y": 270,
+            "w": 150,
+            "size": 9,
+            "colore": "#4b5866",
+            "font": "helvetica",
+            "stile": "normal",
+            "align": "left"
+          },
+          {
+            "tipo": "immagine",
+            "src": "/USSEcoat.png",
+            "x": 107,
+            "y": 175,
+            "w": 150,
+            "h": 150,
+            "adatta": "contieni"
+          }
+        ]
+      }
     }
   ]
 }
