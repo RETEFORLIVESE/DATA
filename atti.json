@@ -7359,7 +7359,7 @@
                 },
                 {
                   "prima": "Elegge e revoca il Consiglio Esecutivo Statale.",
-                  "dopo": "Elegge e revoca il Consiglio Esecutivo Statale.",
+                  "dopo": "Esprime fiducia verso il Consiglio Esecutivo Statale proposto dai Presidenti dello Stato.",
                   "etichetta": "c)",
                   "livello": 1
                 },
@@ -7374,6 +7374,12 @@
                   "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
                   "etichetta": "e)",
                   "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Elegge ogni 2 anni i Presidenti dello Stato Sociale",
+                  "etichetta": "f)",
+                  "livello": 1
                 }
               ]
             },
@@ -7384,7 +7390,7 @@
               "righe": [
                 {
                   "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
-                  "dopo": "Il Congresso dello Stato Sociale è il massimo organo del potere statale, esso esprime fiducia al Consiglio Esecutivo Statale proposto congiuntamente dai Presidenti Statali.",
+                  "dopo": "Il Consiglio Esecutivo Statale è il massimo organo del potere statale, esso esprime fiducia al Consiglio Esecutivo Statale proposto congiuntamente dai Presidenti Statali.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -7573,7 +7579,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:17:59.299Z"
+          "aggiornato": "2026-10-28T16:26:50.530Z"
         },
         {
           "id": "dmvsbf5gc01z1",
