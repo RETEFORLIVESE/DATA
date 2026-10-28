@@ -6936,7 +6936,7 @@
               "riferimento": "RFP.12",
               "data": "15 Settembre 2026",
               "esito": "Positivo",
-              "colore": "blu"
+              "colore": "verde"
             },
             {
               "fase": "Stesura Commissionale",
@@ -6955,7 +6955,7 @@
               "colore": "arancio"
             },
             {
-              "fase": "Lettura Ultima",
+              "fase": "Lettura Congressuale",
               "organo": "Congresso Unitario",
               "riferimento": "S.12",
               "data": "25 Ottobre 2026",
@@ -6963,10 +6963,18 @@
               "colore": "verde"
             },
             {
+              "fase": "Voto Ultimo",
+              "organo": "Congresso Unitario",
+              "riferimento": "S.15",
+              "data": "2 Novembre 2026",
+              "esito": "",
+              "colore": "grigio"
+            },
+            {
               "fase": "Referendum Costituzionale",
               "organo": "CEPU",
               "riferimento": "RFCS.5",
-              "data": "16 Novembre",
+              "data": "4 Dicembre 2026",
               "esito": "",
               "colore": "grigio"
             }
@@ -7462,6 +7470,7 @@
           "fonti": "",
           "glossario": [],
           "copertina": {
+            "modo": "personalizzata",
             "attiva": true,
             "sfondo": "#f5f5f5",
             "immagineSfondo": "",
@@ -7564,7 +7573,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T15:00:18.889Z"
+          "aggiornato": "2026-10-28T16:16:52.684Z"
         },
         {
           "id": "dmvsbf5gc01z1",
