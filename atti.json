@@ -6923,7 +6923,7 @@
         {
           "id": "principale",
           "titolo": "Costituzione dell’Unione degli Stati Sociali degli Estji",
-          "sottotitolo": "Soppressione delle Regioni Autonome e istituzione dei Congressi Distrettuali o Metropolitani come livelli intermedi facoltativi",
+          "sottotitolo": "Soppressione delle Regioni Autonome e istituzione dei Congressi Distrettuali o Metropolitani come livelli intermedi facoltativi, Istituzione della Presidenza Statali",
           "ente": "Commissione Congressuale per i rapporti Costituzionali",
           "data": "26 Ottobre 2026",
           "presentazione": "Modello proposto: le Assemblee di Sezione possono costituire un Distretto o una Circoscrizione Metropolitana e eleggere il rispettivo Congresso Distrettuale o Congresso Metropolitano. Tale Congresso sostituisce a ogni effetto il Congresso regionale ed è livello intermedio tra Assemblea di Sezione e Congresso Statale. Le Sezioni che non aderiscono restano rappresentate direttamente nel Congresso Statale. Le Regioni Autonome sono abrogate; i Territori Speciali restano in vigore.",
@@ -7451,12 +7451,56 @@
             },
             {
               "tipo": "articolo",
+              "numero": "XIIBis-3",
+              "riferimento": "Incompatibilità e responsabilità",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti Statali non possono ricoprire altre cariche pubbliche durante il mandato.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Rispondono davanti al Congresso Statale per violazione della Costituzione Statale e davanti alla Sezione Speciale della Corte Costituzionale per i reati commessi nell'esercizio delle funzioni.",
+                  "etichetta": "2.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIIBis-4",
+              "riferimento": "Disaccordo e vacanza",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "Quando i Presidenti non concordano, l'atto non è adottato;",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Se l'impasse persiste oltre 30 giorni, decide il Congresso Statale.",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "In caso di vacanza di uno sei Presidenti, le funzioni sono esercitate dal presidente del Congresso Statale per un periodo massimo di 60 giorni, entro cui si tengono elezioni suppletive.",
+                  "etichetta": "2.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
               "numero": "XIII-1",
               "riferimento": "Natura del Consiglio Esecutivo Statale",
               "righe": [
                 {
                   "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
-                  "dopo": "Il Consiglio Esecutivo Statale è il massimo organo del potere statale, esso esprime fiducia al Consiglio Esecutivo Statale proposto congiuntamente dai Presidenti Statali.",
+                  "dopo": "Il Consiglio Esecutivo Statale è il massimo organo del potere statale, esso riceve fiducia dal Congresso Statale, è proposto congiuntamente dai Presidenti Statali.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -7633,7 +7677,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:40:28.230Z"
+          "aggiornato": "2026-10-28T16:50:14.626Z"
         },
         {
           "id": "dmvsbf5gc01z1",
