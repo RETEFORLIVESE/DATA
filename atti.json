@@ -7744,19 +7744,6 @@
               "righe": [
                 {
                   "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
-                  "dopo": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
-                  "etichetta": "",
-                  "livello": 0
-                }
-              ]
-            },
-            {
-              "tipo": "articolo",
-              "numero": "XIII-3",
-              "riferimento": "Rapporti con il Consiglio Esecutivo Statale",
-              "righe": [
-                {
-                  "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
                   "dopo": "I Consigli Esecutivi Statali operano in stretta collaborazione con il Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
                   "etichetta": "",
                   "livello": 0
@@ -7934,7 +7921,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T17:36:47.016Z"
+          "aggiornato": "2026-10-28T17:41:02.834Z"
         }
       ]
     }
