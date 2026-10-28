@@ -7422,6 +7422,30 @@
                   "dopo": "propongono al Congresso Statale la composizione del Consiglio Esecutivo Statale;",
                   "etichetta": "a)",
                   "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "promulgano le leggi statali entro 15 giorni dall'approvazione al congresso e possono rinviarle una sola volta, con atto motivato;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "rappresentano lo Stato Sociale nei rapporti con l'Unione e gli altri Stati Sociali;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "vigilano sul rispetto della Costituzione Unitaria e Statale da parte degli organi dello Stato;",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "possono sciogliere il Congresso Statale in caso di crisi prolungata, con decisione congiunta e previo parere, non vincolante, dell0Alto Moderatore dell'Unione.",
+                  "etichetta": "e)",
+                  "livello": 1
                 }
               ]
             },
@@ -7590,7 +7614,7 @@
                 "tipo": "testo",
                 "testo": "lex.{numero}/{anno}  -  {data}",
                 "x": 36,
-                "y": 275,
+                "y": 280,
                 "w": 150,
                 "size": 11,
                 "colore": "#1f2a33",
@@ -7599,29 +7623,17 @@
                 "align": "left"
               },
               {
-                "tipo": "testo",
-                "testo": "NormAktiv - Raccolta ufficiale degli atti normativi",
-                "x": 21.5,
-                "y": 485.5,
-                "w": 150,
-                "size": 9,
-                "colore": "#4b5866",
-                "font": "helvetica",
-                "stile": "normal",
-                "align": "left"
-              },
-              {
                 "tipo": "immagine",
                 "src": "/USSEcoat.png",
-                "x": 120,
-                "y": 190,
+                "x": 113,
+                "y": 172,
                 "w": 150,
                 "h": 150,
                 "adatta": "contieni"
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:34:34.960Z"
+          "aggiornato": "2026-10-28T16:40:28.230Z"
         },
         {
           "id": "dmvsbf5gc01z1",
