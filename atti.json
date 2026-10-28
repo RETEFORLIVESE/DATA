@@ -4014,37 +4014,26 @@
           "fonti": "",
           "glossario": [],
           "copertina": {
+            "modo": "personalizzata",
             "attiva": true,
-            "sfondo": "#c1d8e2",
+            "sfondo": "#460000",
             "immagineSfondo": "",
             "nascondiBarra": true,
             "cornice": {
               "attiva": true,
-              "colore": "#0b3d6e",
+              "colore": "#b9830e",
               "spessore": 1.2,
               "margine": 12
             },
             "elementi": [
               {
                 "tipo": "testo",
-                "testo": "Congresso Statale dell'EstjiLinn",
+                "testo": "Congresso Statale dell'EstjiLinn\nIV Legislatura Unitaria",
                 "x": 20,
                 "y": 53,
                 "w": 170,
                 "size": 12,
-                "colore": "#12508c",
-                "font": "helvetica",
-                "stile": "bold",
-                "align": "center"
-              },
-              {
-                "tipo": "testo",
-                "testo": "IV Legislatura Unitaria",
-                "x": 20,
-                "y": 59,
-                "w": 170,
-                "size": 12,
-                "colore": "#12508c",
+                "colore": "#b9830e",
                 "font": "helvetica",
                 "stile": "bold",
                 "align": "center"
@@ -4055,8 +4044,17 @@
                 "y": 66,
                 "x2": 130,
                 "y2": 66,
-                "colore": "#c9a227",
+                "colore": "#b9830e",
                 "spessore": 1
+              },
+              {
+                "tipo": "linea",
+                "x": 12,
+                "y": 16.5,
+                "x2": 198,
+                "y2": 16.5,
+                "colore": "#b9830e",
+                "spessore": 0.6
               },
               {
                 "tipo": "testo",
@@ -4065,7 +4063,7 @@
                 "y": 85,
                 "w": 160,
                 "size": 28,
-                "colore": "#0b1f38",
+                "colore": "#b9830e",
                 "font": "times",
                 "stile": "bold",
                 "align": "center"
@@ -4085,20 +4083,8 @@
                 "y": 220,
                 "x2": 130,
                 "y2": 220,
-                "colore": "#c9a227",
+                "colore": "#b9830e",
                 "spessore": 1
-              },
-              {
-                "tipo": "testo",
-                "testo": "{data}",
-                "x": 25,
-                "y": 242,
-                "w": 160,
-                "size": 11,
-                "colore": "#4b5866",
-                "font": "helvetica",
-                "stile": "normal",
-                "align": "center"
               },
               {
                 "tipo": "testo",
@@ -4107,14 +4093,26 @@
                 "y": 230,
                 "w": 160,
                 "size": 12,
-                "colore": "#0b1f38",
+                "colore": "#b9830e",
                 "font": "helvetica",
                 "stile": "bold",
                 "align": "center"
+              },
+              {
+                "tipo": "testo",
+                "testo": "Lex.{numero}/2025 - Revisio 3",
+                "x": 13.5,
+                "y": 276.5,
+                "w": 150,
+                "size": 16,
+                "colore": "#b9830e",
+                "font": "helvetica",
+                "stile": "normal",
+                "align": "left"
               }
             ]
           },
-          "aggiornato": "2026-10-28T11:01:43.302Z"
+          "aggiornato": "2026-10-28T19:25:30.595Z"
         }
       ]
     },
