@@ -7377,7 +7377,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Elegge ogni 2 anni i Presidenti dello Stato Sociale",
+                  "dopo": "Elegge ogni 4 anni i Presidenti dello Stato Sociale",
                   "etichetta": "f)",
                   "livello": 1
                 }
@@ -7386,6 +7386,44 @@
             {
               "tipo": "titolo",
               "testo": "CAPITOLO XIIBis -  PRESIDENTI DELLO STATO SOCIALE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIIBis-1",
+              "riferimento": "Composizione ed Elezione",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "Ogni Stato Sociale ha due Presidenti, un uomo e una donna, eletti dal Congresso Statale, in due tornate separate, con mandato di 4  anni.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti non possono appartenere allo stesso partito o corrente politica.",
+                  "etichetta": "a)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIIBis-2",
+              "riferimento": "Competenze",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti Statali, congiuntamente:",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "propongono al Congresso Statale la composizione del Consiglio Esecutivo Statale;",
+                  "etichetta": "a)",
+                  "livello": 1
+                }
+              ]
             },
             {
               "tipo": "articolo",
@@ -7563,8 +7601,8 @@
               {
                 "tipo": "testo",
                 "testo": "NormAktiv - Raccolta ufficiale degli atti normativi",
-                "x": 36,
-                "y": 280,
+                "x": 21.5,
+                "y": 485.5,
                 "w": 150,
                 "size": 9,
                 "colore": "#4b5866",
@@ -7583,7 +7621,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:28:53.858Z"
+          "aggiornato": "2026-10-28T16:34:34.960Z"
         },
         {
           "id": "dmvsbf5gc01z1",
