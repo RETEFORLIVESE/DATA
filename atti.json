@@ -7583,6 +7583,39 @@
           {
             "tipo": "rettangolo",
             "x": 0,
+            "y": 267,
+            "w": 210,
+            "h": 10,
+            "pieno": true,
+            "riempimento": "#0f70d2",
+            "spessore": 0,
+            "bordo": "#000000"
+          },
+          {
+            "tipo": "rettangolo",
+            "x": 0,
+            "y": 277,
+            "w": 210,
+            "h": 10,
+            "pieno": true,
+            "riempimento": "#131415",
+            "spessore": 0,
+            "bordo": "#000000"
+          },
+          {
+            "tipo": "rettangolo",
+            "x": 0,
+            "y": 287,
+            "w": 210,
+            "h": 10,
+            "pieno": true,
+            "riempimento": "#ffffff",
+            "spessore": 0,
+            "bordo": "#000000"
+          },
+          {
+            "tipo": "rettangolo",
+            "x": 0,
             "y": 0,
             "w": 22,
             "h": 297,
@@ -7640,7 +7673,7 @@
             "tipo": "testo",
             "testo": "Lex.{numero}/{anno}  -  {data}",
             "x": 36,
-            "y": 265,
+            "y": 143.5,
             "w": 150,
             "size": 11,
             "colore": "#1f2a33",
@@ -7649,22 +7682,10 @@
             "align": "left"
           },
           {
-            "tipo": "testo",
-            "testo": "NormAktiv - Raccolta ufficiale degli atti normativi",
-            "x": 36,
-            "y": 270,
-            "w": 150,
-            "size": 9,
-            "colore": "#4b5866",
-            "font": "helvetica",
-            "stile": "normal",
-            "align": "left"
-          },
-          {
             "tipo": "immagine",
             "src": "/USSEcoat.png",
-            "x": 107,
-            "y": 175,
+            "x": 118.5,
+            "y": 189.5,
             "w": 150,
             "h": 150,
             "adatta": "contieni"
