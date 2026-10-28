@@ -7501,6 +7501,19 @@
                 {
                   "prima": "Il potere esecutivo nello Stato Sociale è esercitato dal Consiglio Esecutivo Statale, eletto e revocabile dal Congresso Statale.",
                   "dopo": "Il potere esecutivo nello Stato Sociale è esercitato dal Consiglio Esecutivo Statale, proposto dai Presidenti dello Stato Sociale congiuntamente, sottoposto alla fiducia al Congresso Statale.",
+                  "etichetta": "1.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XII-4",
+              "riferimento": "Commissioni statali",
+              "righe": [
+                {
+                  "prima": "Possono essere istituite commissioni con deroga.",
+                  "dopo": "Il Congresso Statale può istituiie Commissioni con deroga, facenti parte del Consiglio Esecutivo.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -7617,6 +7630,10 @@
               ]
             },
             {
+              "tipo": "titolo",
+              "testo": "CAPITOLO XIII - I CONSIGLI ESECUTIVI DEGLI STATI SOCIALI"
+            },
+            {
               "tipo": "articolo",
               "numero": "XIII-1",
               "riferimento": "Natura del Consiglio Esecutivo Statale",
@@ -7624,6 +7641,117 @@
                 {
                   "prima": "Il Congresso dello Stato Sociale è il massimo organo del potere statale a livello di Stato membro. I suoi delegati sono eletti dai Congressi Distrettuale e dai Congressi Metropolitani.",
                   "dopo": "Il Consiglio Esecutivo Statale è il massimo organo del potere statale, esso riceve fiducia dal Congresso Statale, è proposto congiuntamente dai Presidenti Statali.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Consiglio Esecutivo è formato dai presidenti delle Commissioni Statali proposte dal Congresso Statale, delle Commissioni Statali Minime e dal Presidente del Consiglio.",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti dello Stato propongono i Presidenti delle Commissioni, gli altri commissari sono eletti dal Congresso Statale.",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Le Commissioni Statali Minime sono:",
+                  "etichetta": "3.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commisione Economica e Finanziaria;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Urbana e dei Trasporti;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Ambientale e Agricola;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Rapporti Unitari.",
+                  "etichetta": "d)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIII-3",
+              "riferimento": "Rapporti con il Consiglio Esecutivo Statale",
+              "righe": [
+                {
+                  "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
+                  "dopo": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIII-2",
+              "riferimento": "Competenze del Consiglio Esecutivo Statale",
+              "righe": [
+                {
+                  "prima": "Il Consiglio Esecutivo Statale:",
+                  "dopo": "Il Consiglio Esecutivo Statale:",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Ha una durata di due anni;",
+                  "dopo": "Ha una durata di un anno;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Attua le leggi unitarie e regionali sul territorio di competenza;",
+                  "dopo": "Attua le leggi unitarie e statali sul territorio di competenza;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Dirige i commissariati regionali (es. Istruzione, Salute, Lavori Pubblici) e l'amministrazione locale;",
+                  "dopo": "Dirige le Commissioni Statali e l'amministrazione locale;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Elabora e presenta al Congresso Regionale il piano economico e il bilancio.",
+                  "dopo": "Elabora e presenta al Congresso Statale il piano economico e il bilancio.",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Coordina l'operato delle Milizie Popolari Locali per la sicurezza interna.",
+                  "dopo": "Coordina l'operato delle Milizie Popolari Locali per la sicurezza interna.",
+                  "etichetta": "e)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "XIII-3",
+              "riferimento": "Rapporti con il Consiglio Esecutivo Statale",
+              "righe": [
+                {
+                  "prima": "I Consiglio Esecutivo Statale operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
+                  "dopo": "I Consigli Esecutivi Statali operano in stretta collaborazione con il Consiglio Esecutivo Unitario per tutte le materie di competenza unitaria.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -7800,7 +7928,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T16:59:21.970Z"
+          "aggiornato": "2026-10-28T17:17:50.121Z"
         }
       ]
     }
