@@ -128,7 +128,9 @@
       "EKRO-KEF": "Kefalonia"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "EKRO-GDS": "GrandSud",
+      "EKRO-GDS-SEN": "Sentinelle"
     },
     "regione": {
       "EFAL-AFD": {
@@ -994,6 +996,25 @@
           "link_sito": "",
           "icona": "",
           "figli": []
+        },
+        {
+          "id_organo": "EKRO-GDS",
+          "nome_display": "GrandSud",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": [
+            {
+              "id_organo": "EKRO-GDS-SEN",
+              "nome_display": "Sentinelle",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         }
       ]
     }
