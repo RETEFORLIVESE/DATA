@@ -166,7 +166,12 @@
       "EKRO-IKB-KEF": "Kefalonia"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "EKRO-MKO-BIS": "Bisanzie",
+      "EKRO-MRO-RCH": "ReichMark",
+      "EKRO-MKO-MKA": "Makoa",
+      "EKRO-MKO-MKO": "Mako",
+      "EKRO-MKO-SNS": "Saint Sargette"
     },
     "regione": {},
     "assemblee_lavorative": {
@@ -1001,7 +1006,53 @@
           "luogo": "EKRO-MKO",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "EKRO-MKO-BIS",
+              "nome_display": "Bisanzie",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-MRO-RCH",
+              "nome_display": "ReichMark",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-MKO-MKA",
+              "nome_display": "Makoa",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-MKO-MKO",
+              "nome_display": "Mako",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-MKO-SNS",
+              "nome_display": "Saint Sargette",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         },
         {
           "id_organo": "EKRO-IKB",
