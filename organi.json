@@ -174,7 +174,9 @@
       "EKRO-MKO-MKO": "Mako",
       "EKRO-MKO-SNS": "Saint Sargette"
     },
-    "organi": {},
+    "organi": {
+      "EKRO-MKO-MRT": "Makoritte"
+    },
     "regione": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -1050,6 +1052,15 @@
               "nome_display": "Saint Sargette",
               "categoria": "assemblea",
               "luogo": "EKRO-MKO-SNS",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-MKO-MRT",
+              "nome_display": "Makoritte",
+              "categoria": "assemblea",
+              "luogo": "",
               "link_sito": "",
               "icona": "",
               "figli": []
