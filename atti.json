@@ -3790,7 +3790,7 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Il Congresso Statale elegge il Consolato e le seguenti Commissioni:",
+                  "dopo": "Il Congresso Statale esprime fiducia al Congresso Esecutivo proposto congiuntamente dai Presidenti Statali e elegge le seguenti Commissioni Statali Minime:",
                   "etichetta": "2.",
                   "livello": 0
                 },
@@ -3820,8 +3820,14 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Il congresso può rimuovere un deputato eletto, in conformità con l'Art. IX-3 Cost.",
+                  "dopo": "Il Congresso Statale può istituire Commissioni con degora, ai sensi dell' Art.XII-4 Cost.",
                   "etichetta": "3.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il congresso può rimuovere un deputato eletto o votare la fiducia a una o più parti del Congresso Esecutivo o della Presidenza dello Stato, in conformità con l'Art. IX-3 Cost.",
+                  "etichetta": "4.",
                   "livello": 0
                 }
               ]
@@ -4112,7 +4118,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T19:25:30.595Z"
+          "aggiornato": "2026-10-29T11:44:33.999Z"
         }
       ]
     },
