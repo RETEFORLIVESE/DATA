@@ -3790,39 +3790,21 @@
                 },
                 {
                   "prima": "",
-                  "dopo": "Il Congresso Statale esprime fiducia al Congresso Esecutivo proposto congiuntamente dai Presidenti Statali e elegge le seguenti Commissioni Statali Minime:",
+                  "dopo": "Il Congresso Statale esprime fiducia al Congresso Esecutivo proposto congiuntamente dai Presidenti Statali e elegge le Commissioni",
                   "etichetta": "2.",
                   "livello": 0
                 },
                 {
                   "prima": "",
-                  "dopo": "Commissione Culturale;",
-                  "etichetta": "b)",
-                  "livello": 1
-                },
-                {
-                  "prima": "",
-                  "dopo": "Commissione Economica Finanziaria;",
-                  "etichetta": "a)",
-                  "livello": 1
-                },
-                {
-                  "prima": "",
-                  "dopo": "Commissione Urbana e dei Trasporti;",
-                  "etichetta": "c)",
-                  "livello": 1
-                },
-                {
-                  "prima": "",
-                  "dopo": "Commissione Ambientale e Agricola.",
-                  "etichetta": "d)",
-                  "livello": 1
-                },
-                {
-                  "prima": "",
-                  "dopo": "Il Congresso Statale può istituire Commissioni con degora, ai sensi dell' Art.XII-4 Cost.",
+                  "dopo": "Il Congresso Statale può istituire Commissioni Congressuali con degora, ai sensi dell' Art.XII-4 Cost.",
                   "etichetta": "3.",
                   "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Congresso propone le Commissioni Congressuali ai Presidenti Statali prima della formazione dell'Esecutivo.",
+                  "etichetta": "a)",
+                  "livello": 1
                 },
                 {
                   "prima": "",
@@ -3836,7 +3818,80 @@
               "tipo": "articolo",
               "numero": "7Bis",
               "riferimento": "Consiglio Esecutivo Statale",
-              "righe": []
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "Il Consiglio Esecutivo Statale è formato dai Presidenti delle Commissioni Statali Congressuali, dai Presidenti delle Commissioni Statali Minime e dal Presidente del Consiglio Esecutivo.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Le Commissioni Statali Minime dell'EstjiLinn sono:",
+                  "etichetta": "2",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Economica e Finanziaria;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Urbana e dei Trasporti;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Abientale e Agricola;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Rapporti Unitari.",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Consiglio Esecutivo Statale:",
+                  "etichetta": "3.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Ha durata di un anno;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Attua le leggi unitarie e statali sul territorio;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Elabora e presenta al Congresso Statale il piano economico e di bilancio;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Dirige le Commissioni Statali e l'amministrazione;",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Coordina l'operato delle Milizie Popolari Locali per la sicurezza interna.",
+                  "etichetta": "e)",
+                  "livello": 1
+                }
+              ]
             },
             {
               "tipo": "articolo",
@@ -4131,7 +4186,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T11:47:48.558Z"
+          "aggiornato": "2026-10-29T14:12:18.667Z"
         }
       ]
     },
