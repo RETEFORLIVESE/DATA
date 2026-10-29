@@ -1008,7 +1008,7 @@
           "id_organo": "EKRO-IKB",
           "nome_display": "Ikebukuro",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "EKRO-IKB",
           "link_sito": "",
           "icona": "",
           "figli": [
@@ -1016,7 +1016,7 @@
               "id_organo": "EKRO-IKB-KEF",
               "nome_display": "Kefalonia",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-IKB-KEF",
               "link_sito": "",
               "icona": "",
               "figli": []
