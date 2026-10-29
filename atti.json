@@ -9920,7 +9920,7 @@
           "titolo": "Adattamento Costituzionale del Testo Unico sugli Enti Locali",
           "sottotitolo": "",
           "ente": "",
-          "data": "",
+          "data": "29 Ottobre 2026",
           "presentazione": "Adattamento Costituzionale del Testo Unico degli Enti Locali\nSoppressione delle Regioni Autonome e isituzione della Presidenza di Stato.",
           "etichettaPrima": "Testo vigente",
           "etichettaDopo": "Testo modificato",
@@ -10393,10 +10393,11 @@
             "elementi": []
           },
           "marcaPdf": {
+            "colore": "#4f057a",
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T21:50:54.656Z"
+          "aggiornato": "2026-10-29T21:51:37.561Z"
         }
       ]
     }
