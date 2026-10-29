@@ -3949,91 +3949,6 @@
               ]
             },
             {
-              "tipo": "articolo",
-              "numero": "8",
-              "riferimento": "Circoscrizioni e Assemblee",
-              "righe": [
-                {
-                  "prima": "Distretti non membri della Città Metropolitana di Taleen:",
-                  "dopo": "Distretti non membri della Città Metropolitana di Taleen:",
-                  "etichetta": "1.",
-                  "livello": 0
-                },
-                {
-                  "prima": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
-                  "dopo": "Hichibate (Bakeneko, Renault, Bateria, Ginza, Notos, Thora);",
-                  "etichetta": "a)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Konko (Mikita, Royale);",
-                  "dopo": "Konko (Mikita, Royale);",
-                  "etichetta": "b)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Arcipelago di Alinesjia.",
-                  "dopo": "Arcipelago di Alinesjia.",
-                  "etichetta": "c)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Distretti membri della Città Metropolitana di Taleen:",
-                  "dopo": "Circoscrizioni membri della Città Metropolitana di Taleen:",
-                  "etichetta": "2.",
-                  "livello": 0
-                },
-                {
-                  "prima": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
-                  "dopo": "Ehime (Sars, Tampere, Estji, Tervetulloa);",
-                  "etichetta": "a)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
-                  "dopo": "Aömöry (Fiumana, Klosse, Fluvia, Ankita, Ost, Ecles);",
-                  "etichetta": "b)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Katagaa (Irinastok);",
-                  "dopo": "Katagaa (Irinastok);",
-                  "etichetta": "c)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
-                  "dopo": "Fukura (1 Ile, 2 Ile, 3 Ile, 4 Ile, 5 Ile);",
-                  "etichetta": "d)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Niigataa (Tegel, TegelGard, Minotte);",
-                  "dopo": "Niigataa (Tegel, TegelGard, Minotte);",
-                  "etichetta": "e)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Kengoko (Finance, NewShinguku, Gallier);",
-                  "dopo": "Kengoko (Finance, NewShinguku, Gallier);",
-                  "etichetta": "f)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
-                  "dopo": "Idame (Soyuz, Littoria, Lampugniano, Aprilia);",
-                  "etichetta": "g)",
-                  "livello": 1
-                },
-                {
-                  "prima": "Yate (Rial, Tadam).",
-                  "dopo": "Yate (Rial, Tadam).",
-                  "etichetta": "h)",
-                  "livello": 1
-                }
-              ]
-            },
-            {
               "tipo": "titolo",
               "testo": "TITOLO III - ECONOMIA E RISORSE"
             },
@@ -4224,18 +4139,18 @@
               {
                 "tipo": "testo",
                 "testo": "Lex.{numero}/2025 - Revisio 3",
-                "x": 13.5,
-                "y": 276.5,
+                "x": 14,
+                "y": 276,
                 "w": 150,
                 "size": 16,
                 "colore": "#b9830e",
-                "font": "helvetica",
+                "font": "times",
                 "stile": "normal",
                 "align": "left"
               }
             ]
           },
-          "aggiornato": "2026-10-29T14:19:40.491Z"
+          "aggiornato": "2026-10-29T14:25:15.675Z"
         }
       ]
     },
