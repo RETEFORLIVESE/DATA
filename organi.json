@@ -175,7 +175,13 @@
       "EKRO-MKO-SNS": "Saint Sargette",
       "EKRO-MKO-MRT": "Makoritte"
     },
-    "organi": {},
+    "organi": {
+      "EKRO-TRN": "Tiron",
+      "EKRO-TRN-LSH": "Leshë",
+      "EKRO-TRN-MSH": "Mishqa",
+      "EKRO-TRN-FLD": "Feld",
+      "EKRO-TRN-DTS": "DetShinjuku"
+    },
     "regione": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -1098,6 +1104,52 @@
               "nome_display": "Sentinelle",
               "categoria": "assemblea",
               "luogo": "EKRO-GDS-SEN",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
+        },
+        {
+          "id_organo": "EKRO-TRN",
+          "nome_display": "Tiron",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": [
+            {
+              "id_organo": "EKRO-TRN-LSH",
+              "nome_display": "Leshë",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-TRN-MSH",
+              "nome_display": "Mishqa",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-TRN-FLD",
+              "nome_display": "Feld",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-TRN-DTS",
+              "nome_display": "DetShinjuku",
+              "categoria": "congresso",
+              "luogo": "",
               "link_sito": "",
               "icona": "",
               "figli": []
