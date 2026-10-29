@@ -1174,7 +1174,7 @@
               "id_organo": "EKRO-STD-VST",
               "nome_display": "Ville Stadia",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-STD-VST",
               "link_sito": "",
               "icona": "",
               "figli": []
