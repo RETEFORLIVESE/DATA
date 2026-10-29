@@ -3897,7 +3897,56 @@
               "tipo": "articolo",
               "numero": "7Tris",
               "riferimento": "Presidenti dello Stato Sociale",
-              "righe": []
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "Il Congresso Statale elegge ogni 4 anni i due Presidenti dello Stato Sociale, in due tornate separate, non possono avere lo stesso sesso i appartenere allo stesso partito o corrente politica.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti dello Stato Sociale, congiuntamente:",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "propongono al Congresso Statale la composizione del Consiglio Esecutivo Statale;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "promulgano le leggi statali entro 15 giorni dall'approvazione al congresso e possono rinviarle una sola volta con atto motivato;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "rappresentano lo Stato Sociale nei rapporti con l'Unione e gli altri Stati Sociali",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "vigilano sul rispetto della Costituzione Unitaria e Statale da parte degli Organi dello Stato;",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "possono sciogliere il Congresso Statale in caso di crisi prolungata, con decisione congiunta e previo parere, dell'Alto Moderatore dell'Unione",
+                  "etichetta": "e)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti Statali rispondono davanti al Congresso Statale per violazioni della Costituzione Statale e davanti alla Sezione Speciale per l'Alta Amministrazione della Corte Suprema per i reati commessi nell'esercizio delle funzioni.",
+                  "etichetta": "3.",
+                  "livello": 0
+                }
+              ]
             },
             {
               "tipo": "articolo",
@@ -4186,7 +4235,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T14:12:18.667Z"
+          "aggiornato": "2026-10-29T14:19:40.491Z"
         }
       ]
     },
