@@ -99,6 +99,10 @@
       "BSHS-BLM": {
         "nome": "Baltmoral",
         "tipo": "distretto"
+      },
+      "ENOR-PTL": {
+        "nome": "PatHel",
+        "tipo": "distretto"
       }
     },
     "assemblee_locali": {
@@ -163,16 +167,14 @@
       "TDR-HBR-SDN": "Saint-Denis",
       "TDR-HBR-HBR": "UraHabara",
       "EKRO-GDS-SEN": "Sentinelle",
-      "EKRO-IKB-KEF": "Kefalonia"
-    },
-    "organi": {
-      "ENOR-PTL": "PatHel",
+      "EKRO-IKB-KEF": "Kefalonia",
       "EKRO-MKO-BIS": "Bisanzie",
       "EKRO-MRO-RCH": "ReichMark",
       "EKRO-MKO-MKA": "Makoa",
       "EKRO-MKO-MKO": "Mako",
       "EKRO-MKO-SNS": "Saint Sargette"
     },
+    "organi": {},
     "regione": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
