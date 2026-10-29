@@ -10009,7 +10009,7 @@
                 },
                 {
                   "prima": "Organo esecutivo: Comitato Esecutivo o Consiglio dei Commissari;",
-                  "dopo": "Organo esecutivo: Comitato Esecutivo o Consiglio dei Commissari;",
+                  "dopo": "Organo esecutivo: Comitato Esecutivo;",
                   "etichetta": "b)",
                   "livello": 1
                 },
@@ -10103,7 +10103,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T16:57:05.578Z"
+          "aggiornato": "2026-10-29T17:00:14.841Z"
         }
       ]
     }
