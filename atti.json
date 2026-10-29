@@ -3834,6 +3834,18 @@
             },
             {
               "tipo": "articolo",
+              "numero": "7Bis",
+              "riferimento": "Consiglio Esecutivo Statale",
+              "righe": []
+            },
+            {
+              "tipo": "articolo",
+              "numero": "7Tris",
+              "riferimento": "Presidenti dello Stato Sociale",
+              "righe": []
+            },
+            {
+              "tipo": "articolo",
               "numero": "8",
               "riferimento": "Circoscrizioni e Assemblee",
               "righe": [
@@ -3986,6 +3998,12 @@
             },
             {
               "tipo": "articolo",
+              "numero": "11 (nuovo)",
+              "riferimento": "Rapporti con altri Stati Sociali",
+              "righe": []
+            },
+            {
+              "tipo": "articolo",
               "numero": "12",
               "riferimento": "Valuta",
               "righe": [
@@ -4011,12 +4029,7 @@
               ]
             }
           ],
-          "sezioni": [
-            {
-              "titolo": "TITOLO I",
-              "testo": "Il Titolo I a seguito della revisione costituzionale non necessita modifiche."
-            }
-          ],
+          "sezioni": [],
           "fonti": "",
           "glossario": [],
           "copertina": {
@@ -4118,7 +4131,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T11:44:33.999Z"
+          "aggiornato": "2026-10-29T11:47:48.558Z"
         }
       ]
     },
