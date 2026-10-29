@@ -103,6 +103,10 @@
       "ENOR-PTL": {
         "nome": "PatHel",
         "tipo": "distretto"
+      },
+      "EKRO-TRN": {
+        "nome": "Tiron",
+        "tipo": "distretto"
       }
     },
     "assemblee_locali": {
@@ -173,16 +177,13 @@
       "EKRO-MKO-MKA": "Makoa",
       "EKRO-MKO-MKO": "Mako",
       "EKRO-MKO-SNS": "Saint Sargette",
-      "EKRO-MKO-MRT": "Makoritte"
-    },
-    "organi": {
-      "EKRO-TRN": "Tiron",
+      "EKRO-MKO-MRT": "Makoritte",
       "EKRO-TRN-LSH": "Leshë",
       "EKRO-TRN-MSH": "Mishqa",
       "EKRO-TRN-FLD": "Feld",
       "EKRO-TRN-DTS": "DetShinjuku"
     },
-    "regione": {},
+    "organi": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
       "TDR-TRN-EST": "EstjiSider-Terlin"
