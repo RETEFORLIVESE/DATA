@@ -9912,7 +9912,44 @@
       "marcaPdf": {
         "nome": "TUEL",
         "sottotitolo": "Testo Unico degli Enti Locali"
-      }
+      },
+      "dossiers": [
+        {
+          "id": "dmvtrqutk9h30",
+          "titolo": "Adattamento Costituzionale del Testo Unico sugli Enti Locali",
+          "sottotitolo": "",
+          "ente": "",
+          "data": "",
+          "presentazione": "",
+          "etichettaPrima": "Testo vigente",
+          "etichettaDopo": "Testo modificato",
+          "iter": [],
+          "pubblicazione": "",
+          "articoli": [],
+          "sezioni": [],
+          "fonti": "",
+          "glossario": [],
+          "copertina": {
+            "modo": "standard",
+            "attiva": false,
+            "sfondo": "#ffffff",
+            "immagineSfondo": "",
+            "nascondiBarra": true,
+            "cornice": {
+              "attiva": false,
+              "colore": "#0b3d6e",
+              "spessore": 1,
+              "margine": 10
+            },
+            "elementi": []
+          },
+          "marcaPdf": {
+            "nome": "TUEL",
+            "sottotitolo": "Testo Unico degli Enti Locali"
+          },
+          "aggiornato": "2026-10-29T16:39:44.266Z"
+        }
+      ]
     }
   ]
 }
