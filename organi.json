@@ -142,7 +142,9 @@
       "EKRO-GDS-SEN": "Sentinelle"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "EKRO-IKB": "Ikebukuro",
+      "EKRO-IKB-KEF": "Kefalonia"
     },
     "regione": {
       "EFAL-AFD": {
@@ -1001,13 +1003,23 @@
           "figli": []
         },
         {
-          "id_organo": "EKRO-KEF",
-          "nome_display": "Kefalonia",
-          "categoria": "assemblea",
-          "luogo": "EKRO-KEF",
+          "id_organo": "EKRO-IKB",
+          "nome_display": "Ikebukuro",
+          "categoria": "congresso",
+          "luogo": "",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "EKRO-IKB-KEF",
+              "nome_display": "Kefalonia",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         },
         {
           "id_organo": "EKRO-GDS",
