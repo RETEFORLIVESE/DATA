@@ -7702,7 +7702,7 @@
               "righe": [
                 {
                   "prima": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
-                  "dopo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento.",
+                  "dopo": "Il diritto di revoca dei deputati eletti è inalienabile:",
                   "etichetta": "",
                   "livello": 0
                 },
@@ -7853,7 +7853,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T14:42:39.345Z"
+          "aggiornato": "2026-10-29T14:45:33.225Z"
         }
       ],
       "copertina": {
