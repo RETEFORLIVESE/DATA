@@ -172,11 +172,10 @@
       "EKRO-MRO-RCH": "ReichMark",
       "EKRO-MKO-MKA": "Makoa",
       "EKRO-MKO-MKO": "Mako",
-      "EKRO-MKO-SNS": "Saint Sargette"
-    },
-    "organi": {
+      "EKRO-MKO-SNS": "Saint Sargette",
       "EKRO-MKO-MRT": "Makoritte"
     },
+    "organi": {},
     "regione": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
