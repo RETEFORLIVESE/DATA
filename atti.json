@@ -10237,6 +10237,142 @@
                   "livello": 0
                 }
               ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO III - CONSIGLIO ESECUTIVO STATALE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "20",
+              "riferimento": "Composizione",
+              "righe": [
+                {
+                  "prima": "Il Consiglio Esecutivo Statale è il governo statale, eletto dal Congresso Statale (art. XIII-1 Cost.).",
+                  "dopo": "Il Consiglio Esecutivo Statale è il massimo organo del potere statale, esso riceve la fiducia dal Congresso Statale, è proposto congiuntamente dai Presidenti dello Stato.",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Il Consiglio è formato dai Presidenti delle Commissioni Statali, da un Presidente del Consiglio e dai Presidenti delle seguenti Commissioni Statali Minime:",
+                  "etichetta": "2.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Economica e Finanziaria;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Urbana e dei Trasporti;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Ambientale e Agricola;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Commissione Rapporti Unitari.",
+                  "etichetta": "d)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "21",
+              "riferimento": "Durata",
+              "righe": [
+                {
+                  "prima": "Il mandato è di un anno, coincidente con la legislatura del Congresso Statale.",
+                  "dopo": "Il mandato è di un anno, coincidente con la legislatura del Congresso Statale.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "22",
+              "riferimento": "Funzioni",
+              "righe": [
+                {
+                  "prima": "Il Consiglio Esecutivo Statale (art. XIII-2 Cost.):",
+                  "dopo": "Il Consiglio Esecutivo Statale (art. XIII-2 Cost.):",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Attua le leggi unitarie e regionali;",
+                  "dopo": "Attua le leggi unitarie e statali;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Dirige i commissariati regionali (Istruzione, Salute, Lavori Pubblici);",
+                  "dopo": "Dirige le Comissioni Statali e l'amministrazione;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Elabora il piano economico e il bilancio regionale con il CTSU;",
+                  "dopo": "Elabora e presenta al Congresso Statale il piano economico e il bilancio con il CTSU;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Coordina le Milizie Popolari Locali con le assemblee statali.",
+                  "dopo": "Coordina le Milizie Popolari Locali con le assemblee statali.",
+                  "etichetta": "d)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "23",
+              "riferimento": "Responsabilità",
+              "righe": [
+                {
+                  "prima": "Il Consiglio Esecutivo Statale risponde del proprio operato al Congresso Statale e può essere revocato in qualsiasi momento.",
+                  "dopo": "Il Consiglio Esecutivo Statale risponde del proprio operato al Congresso Statale e può essere revocato in qualsiasi momento.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "24",
+              "riferimento": "Subordinazione",
+              "righe": [
+                {
+                  "prima": "I Consigli Esecutivi Statali operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per le materie di competenza unitaria (art. XIII-3 Cost.).",
+                  "dopo": "I Consigli Esecutivi Statali operano in stretta collaborazione con il Consiglio Esecutivo Unitario per le materie di competenza unitaria (art. XIII-3 Cost.).",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "25",
+              "riferimento": "Commissioni Statali con deroga",
+              "righe": [
+                {
+                  "prima": "Possono essere istituite commissioni con deroga per specifiche esigenze (art. XII-4 Cost.).",
+                  "dopo": "Possono essere istituite commissioni con deroga per specifiche esigenze durante le consultazioni per la formazione dell'esecutivo (art. XII-4 Cost.).",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             }
           ],
           "sezioni": [],
@@ -10260,7 +10396,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T21:40:47.130Z"
+          "aggiornato": "2026-10-29T21:50:54.656Z"
         }
       ]
     }
