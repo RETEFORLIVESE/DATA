@@ -107,6 +107,10 @@
       "EKRO-TRN": {
         "nome": "Tiron",
         "tipo": "distretto"
+      },
+      "EKRO-STD": {
+        "nome": "Stadia",
+        "tipo": "distretto"
       }
     },
     "assemblee_locali": {
@@ -184,7 +188,7 @@
       "EKRO-TRN-DTS": "DetShinjuku"
     },
     "organi": {
-      "EKRO-STD": "Stadia"
+      "EKRO-STD-VST": "Ville Stadia"
     },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -1163,10 +1167,20 @@
           "id_organo": "EKRO-STD",
           "nome_display": "Stadia",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "EKRO-STD",
           "link_sito": "",
           "icona": "",
-          "figli": []
+          "figli": [
+            {
+              "id_organo": "EKRO-STD-VST",
+              "nome_display": "Ville Stadia",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "",
+              "figli": []
+            }
+          ]
         }
       ]
     }
