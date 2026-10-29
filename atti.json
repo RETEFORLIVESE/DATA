@@ -10178,6 +10178,24 @@
                   "dopo": "Supervisiona gli organi esecutivi intermedi.",
                   "etichetta": "e)",
                   "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Elegge ogni 4 anni i Presidenti dello Stato Sociale;",
+                  "etichetta": "f)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Può rimuovere il Consiglio Esecutivo Statale e/o Commissari eletti tramite voto di fiducia, ai sensi dell'Art. I-4 Cost;",
+                  "etichetta": "g)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Può rimuovere i Presidenti Statali eletti tramite voto di fiducia, ai sensi dell'Art. I-4.",
+                  "etichetta": "h)",
+                  "livello": 1
                 }
               ]
             },
@@ -10214,7 +10232,7 @@
               "righe": [
                 {
                   "prima": "Il Congresso Statale può istituire commissioni permanenti e temporanee per specifiche competenze (art. XII-4 Cost.).",
-                  "dopo": "Il Congresso Statale può istituire commissioni permanenti e temporanee per specifiche competenze (art. XII-4 Cost.).",
+                  "dopo": "Il Congresso Statale può istituire commissioni congressuali con deroga per specifiche competenze durante le consultazioni, facenti parte del Consiglio Esecutivo (art. XII-4 Cost.).",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -10242,7 +10260,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T21:36:47.608Z"
+          "aggiornato": "2026-10-29T21:40:47.130Z"
         }
       ]
     }
