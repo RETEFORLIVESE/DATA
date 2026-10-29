@@ -75,6 +75,10 @@
       "EKRO-GDS": {
         "nome": "GrandSud",
         "tipo": "distretto"
+      },
+      "EKRO-IKB": {
+        "nome": "Ikebukuro",
+        "tipo": "distretto"
       }
     },
     "assemblee_locali": {
@@ -138,13 +142,11 @@
       "TDR-HBR-HTM": "Hittemen",
       "TDR-HBR-SDN": "Saint-Denis",
       "TDR-HBR-HBR": "UraHabara",
-      "EKRO-KEF": "Kefalonia",
-      "EKRO-GDS-SEN": "Sentinelle"
+      "EKRO-GDS-SEN": "Sentinelle",
+      "EKRO-IKB-KEF": "Kefalonia"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "EKRO-IKB": "Ikebukuro",
-      "EKRO-IKB-KEF": "Kefalonia"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
