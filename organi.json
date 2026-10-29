@@ -127,7 +127,8 @@
       "TDR-HBR-HBR": "UraHabara"
     },
     "organi": {
-      "ENOR-PTL": "PatHel"
+      "ENOR-PTL": "PatHel",
+      "EKRO-KEF": "Kefalonia"
     },
     "regione": {
       "EFAL-AFD": {
@@ -973,7 +974,7 @@
       "id_organo": "EKRO",
       "nome_display": "Estjikuro",
       "categoria": "congresso",
-      "luogo": "",
+      "luogo": "EKRO",
       "link_sito": "",
       "icona": "",
       "figli": [
@@ -981,6 +982,15 @@
           "id_organo": "EKRO-MKO",
           "nome_display": "Mako",
           "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
+        },
+        {
+          "id_organo": "EKRO-KEF",
+          "nome_display": "Kefalonia",
+          "categoria": "assemblea",
           "luogo": "",
           "link_sito": "",
           "icona": "",
