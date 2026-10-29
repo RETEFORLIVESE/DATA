@@ -7832,6 +7832,2083 @@
         },
         "elementi": []
       }
+    },
+    {
+      "id": "testo-unico-sugli-enti-locali",
+      "categoria": "Testo Unico",
+      "numero": "10",
+      "anno": "2026",
+      "titolo": "Testo Unico sugli Enti Locali (TUEL)",
+      "dataEmanazione": "29 Ottobre 2026",
+      "promulgatoDa": "Congresso Unitario",
+      "stato": "vigente",
+      "sommario": "Testo Unico sull'ordinamento territoriale, istituzionale, finanziario e contabile degli enti locali dell'USSE: Stati Sociali, Regioni Autonome, Territori Speciali, Città Metropolitane, Sezioni e Distretti; servizi pubblici, partecipazione popolare, controlli e garanzie.",
+      "immagine": "/USSEcoat.png",
+      "didascalia": "",
+      "luogo": "ESTJI",
+      "articoli": [
+        {
+          "tipo": "titolo",
+          "testo": "PARTE I - ORDINAMENTO TERRITORIALE E ISTITUZIONALE"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - DISPOSIZIONI GENERALI"
+        },
+        {
+          "numero": "1",
+          "rubrica": "Principio di organizzazione territoriale",
+          "commi": [
+            {
+              "testo": "L'Unione degli Stati Sociali degli Estji si articola in:",
+              "sottocommi": [
+                "Stati Sociali;",
+                "Regioni Autonome;",
+                "Territori Speciali;",
+                "Città Metropolitane;",
+                "Sezioni (corrispondenti ai comuni/unità di base)."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "2",
+          "rubrica": "Gerarchia delle fonti territoriali",
+          "commi": [
+            {
+              "testo": "Le decisioni degli enti territoriali minori sono subordinate alle leggi e alle decisioni degli enti territoriali maggiori, nel rispetto del principio del centralismo democratico (art. IX-4 della Costituzione).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "3",
+          "rubrica": "Sistema Hankonen a livello locale",
+          "commi": [
+            {
+              "testo": "Ogni ente territoriale si organizza secondo il sistema Hankonen, con:",
+              "sottocommi": [
+                "Organo legislativo: Assemblea o Congresso;",
+                "Organo esecutivo: Comitato Esecutivo o Consiglio dei Commissari;",
+                "Organo di controllo: ispettorati locali delegati dall'IVIdU."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "4",
+          "rubrica": "Mandato imperativo",
+          "commi": [
+            {
+              "testo": "Tutti i deputati delle Assemblee e dei Congressi territoriali operano su mandato imperativo e sono revocabili in qualsiasi momento (art. IX-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "5",
+          "rubrica": "Partecipazione popolare",
+          "commi": [
+            {
+              "testo": "I cittadini hanno diritto di partecipare alle Assemblee di Sezione, di proporre referendum e di avviare procedure di revoca secondo le modalità della legge attualmente in vigore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "6",
+          "rubrica": "Elenco degli Stati Sociali",
+          "commi": [
+            {
+              "testo": "Gli Stati Sociali membri dell'USSE sono quelli elencati all'art. VI-4 della Costituzione, con le relative date di adesione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - STATI SOCIALI"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - COSTITUZIONE E AUTONOMIA"
+        },
+        {
+          "numero": "7",
+          "rubrica": "Natura giuridica",
+          "commi": [
+            {
+              "testo": "Ogni Stato Sociale è un'entità statale sovrana dotata di corpo giuridico che ha delegato una parte delle proprie competenze all'Unione (art. VII-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "8",
+          "rubrica": "Costituzione statale",
+          "commi": [
+            {
+              "testo": "Ogni Stato Sociale adotta una propria Costituzione, conforme alla Costituzione unitaria, che deve riflettere il principio del potere democratico esercitato attraverso le Assemblee e i Congressi (art. VII-2 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "9",
+          "rubrica": "Competenze esclusive statali",
+          "commi": [
+            {
+              "testo": "Sono di competenza esclusiva di ogni Stato Sociale (art. VII-3 Cost.):",
+              "sottocommi": [
+                "Legislazione in materia di cultura, educazione, salute, protezione ambientale e pianificazione urbana con il CTSU;",
+                "Gestione del bilancio regionale;",
+                "Istituzione di Milizie Locali per la sicurezza interna;",
+                "Istituisce le milizie locali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "10",
+          "rubrica": "Recesso",
+          "commi": [
+            {
+              "testo": "Ogni Stato Sociale conserva il diritto di autodeterminazione, incluso il diritto di recesso, da esercitarsi tramite referendum popolare con maggioranza dei due terzi e ratifica del Congresso Unitario (art. VI-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "11",
+          "rubrica": "Modifica dei confini",
+          "commi": [
+            {
+              "testo": "Le modifiche dei confini tra Stati Sociali richiedono il comune accordo dei rispettivi Congressi Statali, referendum popolare e ratifica del Congresso Unitario (art. VI-6 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "12",
+          "rubrica": "Relazioni trans frontaliere",
+          "commi": [
+            {
+              "testo": "Gli Stati Sociali possono stabilire relazioni culturali, economiche e di cooperazione trans frontaliera con regioni di altri Stati, previa approvazione del Commissione Esteri (art. VII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - CONGRESSO STATALE"
+        },
+        {
+          "numero": "13",
+          "rubrica": "Composizione",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale è il massimo organo del potere statale a livello di Stato Sociale. I deputati sono eletti a suffragio universale diretto dai cittadini residenti nel territorio o iscritti all’AUDI (art. XII-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "14",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale è eletto ogni anno.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "15",
+          "rubrica": "Elettorato passivo",
+          "commi": [
+            {
+              "testo": "L'elettorato passivo spetta a tutti i cittadini che hanno compiuto i 16 anni di età.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "16",
+          "rubrica": "Funzioni",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale (art. XII-2 Cost.):",
+              "sottocommi": [
+                "Approva la Costituzione dello Stato;",
+                "Emana le leggi regionali in materie di competenza statale;",
+                "Elegge e revoca il Consiglio Esecutivo Statale;",
+                "Approva il piano economico e il bilancio regionale;",
+                "Supervisiona gli organi esecutivi regionali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "17",
+          "rubrica": "Sessioni",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale si riunisce in sessione ordinaria almeno due volte al mese. Sessioni straordinarie possono essere convocate dal suo Presidium o su richiesta di un terzo dei deputati.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "18",
+          "rubrica": "Pubblicità",
+          "commi": [
+            {
+              "testo": "Le sessioni sono pubbliche, salvo casi eccezionali previsti dalla legge.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "19",
+          "rubrica": "Commissioni statali",
+          "commi": [
+            {
+              "testo": "Il Congresso Statale può istituire commissioni permanenti e temporanee per specifiche competenze (art. XII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO III - CONSIGLIO ESECUTIVO STATALE"
+        },
+        {
+          "numero": "20",
+          "rubrica": "Composizione",
+          "commi": [
+            {
+              "testo": "Il Consiglio Esecutivo Statale è il governo statale, eletto dal Congresso Statale (art. XIII-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "21",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il mandato è di un anno, coincidente con la legislatura del Congresso Statale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "22",
+          "rubrica": "Funzioni",
+          "commi": [
+            {
+              "testo": "Il Consiglio Esecutivo Statale (art. XIII-2 Cost.):",
+              "sottocommi": [
+                "Attua le leggi unitarie e regionali;",
+                "Dirige i commissariati regionali (Istruzione, Salute, Lavori Pubblici);",
+                "Elabora il piano economico e il bilancio regionale con il CTSU;",
+                "Coordina le Milizie Popolari Locali con le assemblee statali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "23",
+          "rubrica": "Responsabilità",
+          "commi": [
+            {
+              "testo": "Il Consiglio Esecutivo Statale risponde del proprio operato al Congresso Statale e può essere revocato in qualsiasi momento.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "24",
+          "rubrica": "Subordinazione",
+          "commi": [
+            {
+              "testo": "I Consigli Esecutivi Statali operano in stretta collaborazione e sono subordinati alle direttive del Consiglio Esecutivo Unitario per le materie di competenza unitaria (art. XIII-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "25",
+          "rubrica": "Commissioni statali con deroga",
+          "commi": [
+            {
+              "testo": "Possono essere istituite commissioni con deroga per specifiche esigenze (art. XII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - REGIONI AUTONOME"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - ISTITUZIONE E COMPETENZE"
+        },
+        {
+          "numero": "26",
+          "rubrica": "Istituzione",
+          "commi": [
+            {
+              "testo": "All'interno degli Stati Sociali possono essere costituite Regioni Autonome per garantire lo sviluppo culturale, linguistico e sociale di nazionalità o gruppi etnici specifici (art. VIII-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "27",
+          "rubrica": "Procedura",
+          "commi": [
+            {
+              "testo": "L'istituzione è approvata dal Congresso dello Stato Sociale interessato e ratificata dal Congresso Unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "28",
+          "rubrica": "Competenze",
+          "commi": [
+            {
+              "testo": "Le Regioni Autonome esercitano i poteri di uno Stato Sociale in materia culturale, linguistica e di educazione (art. VIII-2 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "29",
+          "rubrica": "Rappresentanza",
+          "commi": [
+            {
+              "testo": "Le Regioni Autonome sono rappresentate nel Congresso Unitario, con deputati eletti in proporzione alla loro popolazione (art. VIII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "30",
+          "rubrica": "Autonomia statutaria",
+          "commi": [
+            {
+              "testo": "Ogni Regione Autonoma adotta un proprio Statuto, conforme alla Costituzione unitaria e alla Costituzione dello Stato Sociale di appartenenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - CONGRESSO REGIONALE AUTONOMO"
+        },
+        {
+          "numero": "31",
+          "rubrica": "Composizione",
+          "commi": [
+            {
+              "testo": "Il Congresso Regionale Autonomo è eletto dalla popolazione della Regione (art. VIII-2 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "32",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il mandato è di un anno.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "33",
+          "rubrica": "Funzioni",
+          "commi": [
+            {
+              "testo": "Il Congresso Regionale Autonomo:",
+              "sottocommi": [
+                "Approva lo Statuto della Regione;",
+                "Emana leggi regionali in materia di cultura, lingua ed educazione;",
+                "Elegge e revoca il Consiglio Esecutivo Regionale Autonomo;",
+                "Approva il bilancio regionale autonomo."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "34",
+          "rubrica": "Coordinamento",
+          "commi": [
+            {
+              "testo": "Le decisioni del Congresso Regionale Autonomo non possono contrastare con le leggi dello Stato Sociale di appartenenza né con le leggi unitarie.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "35",
+          "rubrica": "Revoca",
+          "commi": [
+            {
+              "testo": "I deputati del Congresso Regionale Autonomo sono soggetti al mandato imperativo e possono essere revocati dagli elettori della Regione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO IV - TERRITORI SPECIALI"
+        },
+        {
+          "numero": "36",
+          "rubrica": "Istituzione",
+          "commi": [
+            {
+              "testo": "Possono essere istituiti Territori Speciali, sotto l'amministrazione diretta del Congresso Unitario, per esigenze strategiche, economiche o di sicurezza nazionale (art. VIII-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "37",
+          "rubrica": "Status",
+          "commi": [
+            {
+              "testo": "Lo status e l'amministrazione dei Territori Speciali sono definiti da legge unitaria.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "38",
+          "rubrica": "Amministrazione",
+          "commi": [
+            {
+              "testo": "L'amministrazione del Territorio Speciale è affidata a un Commissario Unitario nominato dal Consolato dell'Unione, che risponde al Congresso Unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "39",
+          "rubrica": "Rappresentanza",
+          "commi": [
+            {
+              "testo": "I Territori Speciali sono rappresentati nel Congresso Unitario con un numero di deputati proporzionale alla loro popolazione (art. VIII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "40",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il regime di Territorio Speciale ha durata limitata e viene riesaminato dal Congresso Unitario ogni 5 anni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO V - CITTÀ METROPOLITANE"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - ISTITUZIONE E GOVERNO"
+        },
+        {
+          "numero": "41",
+          "rubrica": "Istituzione",
+          "commi": [
+            {
+              "testo": "Le Città Metropolitane sono enti territoriali di livello intermedio tra lo Stato Sociale e la Sezione, sostituiscono la regione, istituiti per aree urbane di particolare rilevanza economica, sociale e culturale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "42",
+          "rubrica": "Elenco",
+          "commi": [
+            {
+              "testo": "Sono Città Metropolitane dell'USSE:",
+              "sottocommi": [
+                "Città Metropolitana Capitale di Taleen (dal 19/03/2025);",
+                "Città Metropolitana di Beijing (dal 20/04/2025)."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "43",
+          "rubrica": "Governo",
+          "commi": [
+            {
+              "testo": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto a suffragio universale diretto, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "44",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il mandato del Congresso Metropolitano è di un anno.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "45",
+          "rubrica": "Coordinamento",
+          "commi": [
+            {
+              "testo": "Le Città Metropolitane coordinano le attività delle Sezioni comprese nel loro territorio e collaborano con il governo dello Stato Sociale di appartenenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - COMPETENZE"
+        },
+        {
+          "numero": "46",
+          "rubrica": "Competenze metropolitane",
+          "commi": [
+            {
+              "testo": "Le Città Metropolitane hanno competenza in materia di:",
+              "sottocommi": [
+                "Trasporti e mobilità urbana;",
+                "Pianificazione territoriale e urbanistica sovracomunale;",
+                "Reti di servizi pubblici (acqua, energia, rifiuti);",
+                "Polizia metropolitana e sicurezza urbana."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "47",
+          "rubrica": "Pianificazione",
+          "commi": [
+            {
+              "testo": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale e unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "48",
+          "rubrica": "Risorse",
+          "commi": [
+            {
+              "testo": "Le Città Metropolitane dispongono di risorse proprie derivanti da tributi locali, trasferimenti statali e quote delle entrate delle imprese pubbliche locali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "49",
+          "rubrica": "Controllo",
+          "commi": [
+            {
+              "testo": "L'operato del Congresso Metropolitano e del Consiglio Esecutivo Metropolitano è soggetto al controllo dell'IVIdU e del CTSU per gli aspetti tecnico-scientifici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "50",
+          "rubrica": "Revoca",
+          "commi": [
+            {
+              "testo": "I deputati del Congresso Metropolitano sono soggetti al mandato imperativo e possono essere revocati dagli elettori della circoscrizione metropolitana.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO VI - SEZIONI E DISTRETTI (COMUNI/LOCALITÀ)"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - ASSEMBLEA DI SEZIONE"
+        },
+        {
+          "numero": "51",
+          "rubrica": "Definizione",
+          "commi": [
+            {
+              "testo": "La Sezione è l'unità territoriale di base dell'USSE, corrispondente al comune o località. Essa è l'organo fondamentale di partecipazione popolare diretta (art. I-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "52",
+          "rubrica": "Assemblea di Sezione",
+          "commi": [
+            {
+              "testo": "L'Assemblea di Sezione è l'organo legislativo e di indirizzo politico della Sezione. È eletta a suffragio universale diretto dai cittadini residenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "53",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "Il diritto di partecipazione attiva e passiva spetta a tutti i cittadini che abbiano compiuto i 16 anni di età e risiedano nella Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "53-Bis",
+          "rubrica": "Distretto",
+          "commi": [
+            {
+              "testo": "Assemblee accomunate da geografia, storia o cultura possono formare un distretto con statuto, possono partecipare tutti i giocatori che risiedono nei territori delle assemblee membro.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "53-Ter",
+          "rubrica": "Competenze",
+          "commi": [
+            {
+              "testo": "Le assemblee possono delegare loro funzioni al distretto con voto unanime delle assemblee;",
+              "sottocommi": []
+            },
+            {
+              "testo": "Il distretto deve redigere un proprio statuto ed eleggere un Consiglio Esecutivo Distrettuale",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "54",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Annullato.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "55",
+          "rubrica": "Funzioni",
+          "commi": [
+            {
+              "testo": "L'Assemblea di Sezione:",
+              "sottocommi": [
+                "Approva lo Statuto della Sezione;",
+                "Emana regolamenti locali;",
+                "Elegge e revoca il Comitato Esecutivo di Sezione;",
+                "Approva il piano economico e il bilancio di Sezione;",
+                "Supervisiona i servizi pubblici locali;",
+                "Promuove la partecipazione popolare."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "56",
+          "rubrica": "Sessioni",
+          "commi": [
+            {
+              "testo": "L'Assemblea di Sezione si riunisce in sessione ordinaria almeno quattro volte l'anno. Le sessioni sono pubbliche e aperte a tutti i giocatori.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "57",
+          "rubrica": "Mandato imperativo",
+          "commi": [
+            {
+              "testo": "Il Consiglio Esecutivo di Sezione opera su mandato imperativo. La revoca può essere richiesta da almeno un terzo dei giocatori della Sezione (art. XIV-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "58",
+          "rubrica": "Iniziativa popolare",
+          "commi": [
+            {
+              "testo": "I cittadini della Sezione hanno diritto di iniziativa popolare per referendum locali e per la proposta di regolamenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - COMITATO ESECUTIVO DI SEZIONE"
+        },
+        {
+          "numero": "59",
+          "rubrica": "Composizione",
+          "commi": [
+            {
+              "testo": "Il Comitato Esecutivo di Sezione è l'organo esecutivo e amministrativo della Sezione. È eletto dall'Assemblea di Sezione tra i suoi membri.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "60",
+          "rubrica": "Durata",
+          "commi": [
+            {
+              "testo": "Il mandato è di un anno, coincidente con la legislatura dell'Assemblea di Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "61",
+          "rubrica": "Funzioni",
+          "commi": [
+            {
+              "testo": "Il Comitato Esecutivo di Sezione:",
+              "sottocommi": [
+                "Attua i regolamenti e le delibere dell'Assemblea di Sezione;",
+                "Dirige i servizi pubblici locali (acqua, rifiuti, trasporti locali);",
+                "Gestisce il bilancio di Sezione;",
+                "Coordina le Milizie Popolari Locali per l'ordine pubblico con il Consiglio Esecutivo Statale;",
+                "Mantiene i rapporti con le cooperative e le imprese locali, IRE e CTSU."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "62",
+          "rubrica": "Responsabilità",
+          "commi": [
+            {
+              "testo": "Il Comitato Esecutivo di Sezione risponde del proprio operato all'Assemblea di Sezione e può essere revocato in qualsiasi momento.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "63",
+          "rubrica": "Trasparenza",
+          "commi": [
+            {
+              "testo": "Il Comitato Esecutivo di Sezione opera in modo trasparente. I suoi atti e le sue delibere sono pubblici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "64",
+          "rubrica": "Controllo",
+          "commi": [
+            {
+              "testo": "L'operato del Comitato Esecutivo di Sezione è soggetto al controllo dell'IVIdU per i profili di integrità e al CTSU per i profili tecnico-scientifici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "65",
+          "rubrica": "Collaborazione",
+          "commi": [
+            {
+              "testo": "Il Comitato Esecutivo di Sezione collabora con gli organi esecutivi dei livelli superiori (Città Metropolitana, Stato Sociale, Unione) per l'attuazione delle politiche unitarie e statali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "PARTE II - ORDINAMENTO FINANZIARIO E CONTABILE LOCALE"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - BILANCI LOCALI E PROGRAMMAZIONE"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - PROGRAMMAZIONE ECONOMICA LOCALE"
+        },
+        {
+          "numero": "66",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "La pianificazione economica è democratica e dal basso verso l'alto (art. II-2 Cost.). I piani economici partono dalle proposte delle Assemblee di Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "67",
+          "rubrica": "Elaborazione",
+          "commi": [
+            {
+              "testo": "Ogni Sezione elabora il proprio piano economico locale, che viene coordinato a livello di Regione ( o Città Metropolitana) e Stato Sociale, e infine approvato dal Congresso Unitario (art. II-2 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "68",
+          "rubrica": "Contenuto",
+          "commi": [
+            {
+              "testo": "Il piano economico locale contiene:",
+              "sottocommi": [
+                "Obiettivi di produzione e servizi;",
+                "Investimenti in infrastrutture;",
+                "Fabbisogno di forza lavoro;",
+                "Programmazione delle risorse energetiche e materiali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "69",
+          "rubrica": "Parere CTSU",
+          "commi": [
+            {
+              "testo": "I piani economici locali sono sottoposti al parere obbligatorio e vincolante del CTSU per la verifica di fattibilità tecnica e matematica (art. II-bis Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "70",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "I piani economici locali sono discussi pubblicamente nelle Assemblee di Sezione prima della votazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "71",
+          "rubrica": "Coordinamento",
+          "commi": [
+            {
+              "testo": "I piani economici locali devono essere coordinati con il piano economico dello Stato Sociale e con il piano economico nazionale unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "72",
+          "rubrica": "Revisione",
+          "commi": [
+            {
+              "testo": "I piani economici locali sono soggetti a revisione annuale da parte dell'Assemblea di Sezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - BILANCIO DI SEZIONE E REGIONALE"
+        },
+        {
+          "numero": "73",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "Ogni ente territoriale adotta un proprio bilancio annuale, in coordinamento con il bilancio unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "74",
+          "rubrica": "Struttura",
+          "commi": [
+            {
+              "testo": "Il bilancio locale si articola in:",
+              "sottocommi": [
+                "Entrate: tributi locali, trasferimenti statali e unitari, proventi da servizi;",
+                "Spese: servizi pubblici, investimenti, personale, trasferimenti."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "75",
+          "rubrica": "Approvazione",
+          "commi": [
+            {
+              "testo": "Il bilancio locale è elaborato dal Comitato Esecutivo (o Consiglio Esecutivo) e approvato dall'Assemblea (o Congresso) competente.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "76",
+          "rubrica": "Pubblicità",
+          "commi": [
+            {
+              "testo": "Il bilancio locale è pubblico e accessibile a tutti i giocatori.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "77",
+          "rubrica": "Esercizio provvisorio",
+          "commi": [
+            {
+              "testo": "In caso di mancata approvazione del bilancio entro il termine stabilito, l'ente locale opera in esercizio provvisorio, limitando le spese a quelle obbligatorie.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "78",
+          "rubrica": "Rendiconto",
+          "commi": [
+            {
+              "testo": "Entro sei mesi dalla chiusura dell'esercizio, il Comitato Esecutivo presenta all'Assemblea il rendiconto della gestione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "79",
+          "rubrica": "Controllo",
+          "commi": [
+            {
+              "testo": "Il rendiconto è sottoposto al controllo dell'Ispettorato Unitario di Vigilanza Finanziaria (IUVF) e dell'IVIdU (art. II-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "80",
+          "rubrica": "Sanzioni",
+          "commi": [
+            {
+              "testo": "In caso di irregolarità nella gestione del bilancio, l'IVIdU può avviare procedure di accertamento e, se del caso, richiedere la revoca degli amministratori responsabili.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - GESTIONE DEL PATRIMONIO COLLETTIVO"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - PROPRIETÀ COLLETTIVA UNITARIA"
+        },
+        {
+          "numero": "81",
+          "rubrica": "Beni di proprietà collettiva unitaria",
+          "commi": [
+            {
+              "testo": "Sono proprietà collettiva dell'Unione, gestiti nell'interesse di tutto il Popolo (art. II-3 Cost.):",
+              "sottocommi": [
+                "Risorse minerarie ed energetiche;",
+                "Terra, foreste e acque;",
+                "Infrastrutture fondamentali (ferrovie, reti energetiche, porti, aeroporti, telecomunicazioni);",
+                "Grandi imprese industriali, siderurgiche, tecnologiche e finanziarie."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "82",
+          "rubrica": "Gestione",
+          "commi": [
+            {
+              "testo": "La gestione di tali beni è affidata a enti pubblici unitari, sotto il controllo del Congresso Unitario, del CTSU-IRE e dell'IVIdU.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "83",
+          "rubrica": "Sfruttamento locale",
+          "commi": [
+            {
+              "testo": "Lo sfruttamento delle risorse minerarie ed energetiche locali è regolato dalla legge sulla gestione delle industrie ed è sottoposto al controllo delle Assemblee locali (art. I-9 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "84",
+          "rubrica": "Autosufficienza",
+          "commi": [
+            {
+              "testo": "È compito fondamentale dell'Unione garantire l'autosufficienza nelle risorse strategiche. L'importazione di risorse di base è consentita solo previa approvazione del Consiglio Centrale di Pianificazione (art. II-9 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "85",
+          "rubrica": "Trasparenza",
+          "commi": [
+            {
+              "testo": "Tutte le attività economiche pubbliche sono soggette al controllo popolare tramite le Assemblee e i Congressi (art. II-10 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - PROPRIETÀ COLLETTIVA DEI LAVORATORI"
+        },
+        {
+          "numero": "86",
+          "rubrica": "Beni di proprietà collettiva dei lavoratori",
+          "commi": [
+            {
+              "testo": "Sono proprietà collettiva dei lavoratori, organizzati in cooperative o gestioni autonome sotto il controllo delle Assemblee di Sezione (art. II-4 Cost.):",
+              "sottocommi": [
+                "Piccole e medie imprese di produzione diretta;",
+                "Aziende agricole e di allevamento;",
+                "Imprese di servizi locali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "87",
+          "rubrica": "Gestione",
+          "commi": [
+            {
+              "testo": "La gestione è affidata ai lavoratori organizzati in cooperative o gestioni autonome.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "88",
+          "rubrica": "Controllo",
+          "commi": [
+            {
+              "testo": "Le Assemblee di Sezione esercitano il controllo sulle imprese locali, verificando il rispetto dei piani economici e la trasparenza della gestione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "89",
+          "rubrica": "Accesso al credito",
+          "commi": [
+            {
+              "testo": "L'Unione promuove e assiste lo sviluppo delle cooperative di lavoratori, garantendo il loro accesso al credito, alla tecnologia e alla formazione (art. II-6 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "90",
+          "rubrica": "Trasparenza",
+          "commi": [
+            {
+              "testo": "Le imprese a gestione collettiva sono soggette al controllo popolare tramite le Assemblee e i Congressi.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO III - COOPERATIVE E IMPRESE A GESTIONE COLLETTIVA"
+        },
+        {
+          "numero": "91",
+          "rubrica": "Definizione",
+          "commi": [
+            {
+              "testo": "Le cooperative di lavoratori e le imprese a gestione collettiva sono strumenti di autorganizzazione, emancipazione e partecipazione popolare (art. III-5 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "92",
+          "rubrica": "Istituzione",
+          "commi": [
+            {
+              "testo": "Le cooperative e le imprese a gestione collettiva sono istituite dai lavoratori e registrate presso la Sezione competente.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "93",
+          "rubrica": "Statuto",
+          "commi": [
+            {
+              "testo": "Ogni cooperativa adotta un proprio Statuto, conforme ai principi della Costituzione e della legge unitaria.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "94",
+          "rubrica": "Agevolazioni",
+          "commi": [
+            {
+              "testo": "L'Unione e gli Stati Sociali promuovono le cooperative con agevolazioni fiscali e accesso preferenziale ai finanziamenti pubblici.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "95",
+          "rubrica": "Controllo",
+          "commi": [
+            {
+              "testo": "Le cooperative sono soggette al controllo delle Assemblee di Sezione e dell'IVIdU per i profili di integrità e trasparenza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - FINANZA LOCALE E CONTROLLO"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - ENTRATE LOCALI"
+        },
+        {
+          "numero": "96",
+          "rubrica": "Fonti di entrata",
+          "commi": [
+            {
+              "testo": "Le entrate degli enti locali (Sezioni, Città Metropolitane, Stati Sociali) provengono da:",
+              "sottocommi": [
+                "Tributi locali istituiti dagli Stati Sociali;",
+                "Trasferimenti dal bilancio unitario e statale;",
+                "Quote degli utili delle imprese pubbliche locali;",
+                "Proventi da servizi pubblici locali;",
+                "Contributi volontari e donazioni (soggetti a controllo IVIdU)."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "97",
+          "rubrica": "Tributi locali",
+          "commi": [
+            {
+              "testo": "I tributi locali sono istituiti con legge dello Stato Sociale e possono riguardare:",
+              "sottocommi": [
+                "Imposta sulle attività produttive locali;",
+                "Imposta sugli immobili;",
+                "Tasse sui servizi locali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "98",
+          "rubrica": "Trasferimenti",
+          "commi": [
+            {
+              "testo": "I trasferimenti dal bilancio unitario e statale sono determinati in base a criteri di:",
+              "sottocommi": [
+                "Popolazione;",
+                "Fabbisogno di servizi;",
+                "Capacità fiscale;",
+                "Obiettivi di riequilibrio territoriale;",
+                "Crisi Straordinaria."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "99",
+          "rubrica": "Autonomia tributaria",
+          "commi": [
+            {
+              "testo": "Gli Stati Sociali hanno autonomia tributaria nel rispetto dei principi unitari e della pianificazione democratica.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "100",
+          "rubrica": "Trasparenza",
+          "commi": [
+            {
+              "testo": "Le entrate locali sono pubbliche e accessibili a tutti i cittadini tramite le Assemblee.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - SPESE E INVESTIMENTI"
+        },
+        {
+          "numero": "101",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "Le spese degli enti locali sono finalizzate al benessere collettivo e allo sviluppo armonioso dei territori (art. III-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "102",
+          "rubrica": "Classificazione",
+          "commi": [
+            {
+              "testo": "Le spese locali si distinguono in:",
+              "sottocommi": [
+                "Spese obbligatorie: personale, servizi essenziali, trasferimenti;",
+                "Spese discrezionali: investimenti, promozione culturale, opere pubbliche."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "103",
+          "rubrica": "Investimenti",
+          "commi": [
+            {
+              "testo": "Gli investimenti locali sono programmati nel piano economico e approvati dall'Assemblea competente.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "104",
+          "rubrica": "Priorità",
+          "commi": [
+            {
+              "testo": "Gli investimenti prioritari sono quelli relativi a:",
+              "sottocommi": [
+                "Infrastrutture sociali (scuole, ospedali, alloggi);",
+                "Infrastrutture ecologiche (acqua, energia rinnovabile, rifiuti);",
+                "Trasporti pubblici;",
+                "Digitalizzazione e innovazione tecnologica."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "105",
+          "rubrica": "Controllo CTSU",
+          "commi": [
+            {
+              "testo": "Gli investimenti di rilevanza tecnica sono sottoposti al parere del CTSU per la verifica di fattibilità.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO III - CONTROLLO FINANZIARIO (IUVF E IVIDU)"
+        },
+        {
+          "numero": "106",
+          "rubrica": "Ispettorato Unitario di Vigilanza Finanziaria - IUVF",
+          "commi": [
+            {
+              "testo": "L'IUVF è l'organo di controllo finanziario a livello unitario, eletto e revocabile dalla Camera di Bilancio (art. II-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "107",
+          "rubrica": "Competenze locali dell'IUVF",
+          "commi": [
+            {
+              "testo": "L'IUVF:",
+              "sottocommi": [
+                "Controlla i bilanci locali e i rendiconti;",
+                "Verifica la regolarità delle entrate e delle spese;",
+                "Segnala all'IVIdU eventuali irregolarità."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "108",
+          "rubrica": "Coordinamento con IVIdU",
+          "commi": [
+            {
+              "testo": "L'IUVF opera sotto il coordinamento dell'IVIdU per le questioni relative a conflitti d'interesse e corruzione (art. II-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "109",
+          "rubrica": "Controllo popolare",
+          "commi": [
+            {
+              "testo": "Le Assemblee e i Congressi locali esercitano il controllo popolare sulla gestione finanziaria attraverso commissioni di vigilanza.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "110",
+          "rubrica": "Sanzioni",
+          "commi": [
+            {
+              "testo": "In caso di irregolarità finanziarie gravi, l'IVIdU può richiedere la revoca degli amministratori responsabili e l'avvio di azioni penali da parte della Procura Generale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "PARTE III - SERVIZI PUBBLICI LOCALI E PARTECIPAZIONE"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - SERVIZI SOCIALI E SANITARI"
+        },
+        {
+          "numero": "111",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "L'Unione garantisce sistemi sanitari e di previdenza sociale universali, gratuiti e di alta qualità (art. III-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "112",
+          "rubrica": "Organizzazione locale",
+          "commi": [
+            {
+              "testo": "I servizi sanitari sono organizzati a livello di Stato Sociale e di Sezione, con la partecipazione dei rappresentanti eletti dei lavoratori e delle comunità locali (art. III-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "113",
+          "rubrica": "Finanziamento",
+          "commi": [
+            {
+              "testo": "I servizi sanitari e previdenziali sono finanziati attraverso il bilancio sociale unitario e i bilanci locali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "114",
+          "rubrica": "Gestione",
+          "commi": [
+            {
+              "testo": "Le strutture sanitarie locali sono gestite da enti pubblici territoriali, sotto il controllo delle Assemblee di Sezione e dei Congressi Statali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "115",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "I cittadini partecipano alla gestione dei servizi sanitari tramite le Assemblee di Sezione e i comitati di utenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "116",
+          "rubrica": "Servizi sociali",
+          "commi": [
+            {
+              "testo": "Abrogato",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "117",
+          "rubrica": "Edilizia residenziale pubblica",
+          "commi": [
+            {
+              "testo": "È garantito il diritto all'alloggio, assicurato dalla pianificazione democratica della costruzione di abitazioni confortevoli e dalla tutela del patrimonio abitativo sociale (art. III-6 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "118",
+          "rubrica": "Canone equo",
+          "commi": [
+            {
+              "testo": "Il canone d'affitto per gli alloggi sociali è stabilito in base al reddito, secondo le disposizioni della legge unitaria (art. III-6 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - ISTRUZIONE E CULTURA"
+        },
+        {
+          "numero": "119",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "L'istruzione e la cultura, in tutte le sue forme e gradi, è gratuita, laica e accessibile a tutti (art. III-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "120",
+          "rubrica": "Organizzazione scolastica",
+          "commi": [
+            {
+              "testo": "Le scuole sono organizzate a livello di Sezione e Stato Sociale, con programmi definiti con la partecipazione delle comunità scolastiche e delle Assemblee (art. III-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "121",
+          "rubrica": "Autonomia scolastica",
+          "commi": [
+            {
+              "testo": "Le scuole godono di autonomia didattica e organizzativa, nel quadro delle linee guida unitarie.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "122",
+          "rubrica": "Accesso universale",
+          "commi": [
+            {
+              "testo": "I cittadini hanno diritto di godere dei beni culturali, con accesso universale e gratuito a biblioteche, musei, teatri, archivi (art. III-8 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "123",
+          "rubrica": "Gestione dei beni culturali",
+          "commi": [
+            {
+              "testo": "I beni culturali sono gestiti dagli Stati Sociali e dalle Sezioni, sotto la supervisione del Congresso Unitario.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "124",
+          "rubrica": "Tutela delle minoranze",
+          "commi": [
+            {
+              "testo": "L'Unione tutela, valorizza e promuove le culture, le lingue, le tradizioni e le identità di tutte le nazionalità e gruppi etnici (art. III-9 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "125",
+          "rubrica": "Insegnamento nelle lingue locali",
+          "commi": [
+            {
+              "testo": "Nelle Regioni Autonome e negli Stati Sociali con minoranze linguistiche, l’utilizzo è garantito anche nella lingua locale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "126",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "Le comunità scolastiche e culturali partecipano alla definizione dei programmi e delle politiche culturali tramite le Assemblee.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - INFRASTRUTTURE E PIANIFICAZIONE URBANA"
+        },
+        {
+          "numero": "127",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "La pianificazione urbana e territoriale è finalizzata allo sviluppo armonioso di tutti i territori e al benessere collettivo (art. III-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "128",
+          "rubrica": "Competenze",
+          "commi": [
+            {
+              "testo": "La pianificazione urbana è di competenza delle Sezioni ( o distretti) e delle Città Metropolitane, in coordinamento con gli Stati Sociali e l'Unione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "129",
+          "rubrica": "Strumenti",
+          "commi": [
+            {
+              "testo": "Gli strumenti di pianificazione urbana sono:",
+              "sottocommi": [
+                "Piano Regolatore Generale (PRG) a livello di Sezione;",
+                "Piano Territoriale di Coordinamento (PTC) a livello di Città Metropolitana e Stato Sociale."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "130",
+          "rubrica": "Partecipazione",
+          "commi": [
+            {
+              "testo": "I piani urbanistici sono discussi pubblicamente nelle Assemblee di Sezione prima dell'approvazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "131",
+          "rubrica": "Infrastrutture",
+          "commi": [
+            {
+              "testo": "Le infrastrutture fondamentali (ferrovie, reti energetiche, porti, aeroporti, telecomunicazioni) sono di proprietà collettiva unitaria e gestite da enti unitari (art. II-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "132",
+          "rubrica": "Manutenzione",
+          "commi": [
+            {
+              "testo": "La manutenzione delle infrastrutture locali è affidata alle Sezioni e alle Città Metropolitane.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "133",
+          "rubrica": "Sostenibilità",
+          "commi": [
+            {
+              "testo": "Le infrastrutture e gli interventi urbanistici devono rispettare i principi di sostenibilità ambientale e di tutela del territorio.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO IV - PARTECIPAZIONE POPOLARE E CEPU"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - REFERENDUM E INIZIATIVA POPOLARE"
+        },
+        {
+          "numero": "134",
+          "rubrica": "Diritto di iniziativa",
+          "commi": [
+            {
+              "testo": "È garantito il diritto di iniziativa popolare per indire referendum propositivi, abrogativi e consultivi (art. I-8 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "135",
+          "rubrica": "Iniziativa locale",
+          "commi": [
+            {
+              "testo": "L'iniziativa popolare per referendum locali è esercitata da un numero di elettori della Sezione o dello Stato Sociale definito dalla legge (non inferiore al 5% degli iscritti alle liste elettorali).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "136",
+          "rubrica": "Procedura",
+          "commi": [
+            {
+              "testo": "La richiesta di referendum è presentata alla CEPU, che ne verifica la regolarità e la conformità alla Costituzione e alla legge.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "137",
+          "rubrica": "Referendum propositivo",
+          "commi": [
+            {
+              "testo": "I referendum propositivi consentono ai cittadini di proporre nuove leggi o regolamenti locali in base alla legge in vigore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "138",
+          "rubrica": "Referendum abrogativo",
+          "commi": [
+            {
+              "testo": "I referendum abrogativi consentono ai cittadini di abrogare leggi o regolamenti locali esistenti.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "139",
+          "rubrica": "Referendum consultivo",
+          "commi": [
+            {
+              "testo": "I referendum consultivi consentono ai cittadini di esprimere un parere su questioni di rilevanza unitaria.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - MANDATO IMPERATIVO E REVOCA"
+        },
+        {
+          "numero": "140",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "Il diritto di revoca dei deputati eletti in ogni livello è inalienabile (art. XIV-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "141",
+          "rubrica": "Iniziativa di revoca",
+          "commi": [
+            {
+              "testo": "La procedura di revoca è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'Assemblea che ha eletto il deputato (art. XIV-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "142",
+          "rubrica": "Verifica CEPU",
+          "commi": [
+            {
+              "testo": "La CEPU verifica le firme e la regolarità della richiesta di revoca entro 15 giorni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "143",
+          "rubrica": "Referendum di revoca",
+          "commi": [
+            {
+              "testo": "La CEPU indice il referendum di revoca entro 15 giorni dalla verifica delle firme (art. XIV-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "144",
+          "rubrica": "Esito",
+          "commi": [
+            {
+              "testo": "Il deputato è revocato se la maggioranza dei votanti si esprime a favore della revoca.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "145",
+          "rubrica": "Sostituzione",
+          "commi": [
+            {
+              "testo": "In caso di revoca, il seggio vacante è attribuito al candidato successivo della stessa lista, secondo l'ordine delle prefer elettorali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "PARTE IV - CONTROLLI E GARANZIE TERRITORIALI"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO I - CONTROLLO DI LEGITTIMITÀ COSTITUZIONALE"
+        },
+        {
+          "numero": "146",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "Tutte le leggi e gli atti degli organi territoriali devono essere conformi alla Costituzione unitaria (art. XVI-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "147",
+          "rubrica": "Controllo di legittimità",
+          "commi": [
+            {
+              "testo": "La Corte Costituzionale dell'Unione giudica sulla costituzionalità delle leggi degli Stati Sociali e delle Regioni Autonome (art. IV-12 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "148",
+          "rubrica": "Ricorso",
+          "commi": [
+            {
+              "testo": "Il Congresso Unitario, l'Alto Moderatore, l'IVIdU o un terzo dei deputati di un Congresso Statale possono impugnare una legge statale o regionale dinanzi alla Corte Costituzionale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "149",
+          "rubrica": "Decisioni",
+          "commi": [
+            {
+              "testo": "Le decisioni della Corte Costituzionale sono inappellabili e vincolanti per tutti i soggetti pubblici e privati (art. IV-13 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "150",
+          "rubrica": "Effetti",
+          "commi": [
+            {
+              "testo": "La dichiarazione di incostituzionalità di una legge statale o regionale comporta la sua abrogazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "150-Bis",
+          "rubrica": "Abrogazione",
+          "commi": [
+            {
+              "testo": "In caso di abrogazione l’organo legislativo deve sostituire il vuoto legislativo entro 15 giorni.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO II - ISPETTORATO DI VIGILANZA E INTEGRITÀ (IVIDU)"
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO I - COMPETENZE LOCALI"
+        },
+        {
+          "numero": "151",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "L'IVIdU è l'organo supremo di controllo contro la corruzione, i conflitti d'interesse e gli abusi nella pubblica amministrazione a tutti i livelli (art. XIII-bis-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "152",
+          "rubrica": "Competenze locali",
+          "commi": [
+            {
+              "testo": "L'IVIdU:",
+              "sottocommi": [
+                "Vigila sulla trasparenza e regolarità di tutti i concorsi per cariche pubbliche locali;",
+                "Indaga su arricchimenti illeciti, abusi d'ufficio e conflitti d'interesse di funzionari pubblici locali;",
+                "Può avviare inchieste autonomamente o su segnalazione popolare;",
+                "Gestisce il sistema di tutela degli informatori (whistleblower) a livello locale."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "153",
+          "rubrica": "Segreto istruttorio",
+          "commi": [
+            {
+              "testo": "Le inchieste in corso sono coperte da segreto istruttorio fino alla formalizzazione delle accuse (art. XIII-bis-5 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "154",
+          "rubrica": "Passaggio di consegne",
+          "commi": [
+            {
+              "testo": "Alla scadenza dei mandati elettivi locali, l'IVIdU supervisiona il passaggio di consegne tra vecchi e nuovi eletti (art. XIII-bis-6 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "155",
+          "rubrica": "Collaborazione con la Procura",
+          "commi": [
+            {
+              "testo": "L'IVIdU collabora con la Procura Generale per l'azione penale (art. XIII-bis-7 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "156",
+          "rubrica": "Relazioni annuali",
+          "commi": [
+            {
+              "testo": "Le relazioni annuali dell'IVIdU sono pubbliche e discusse dal Congresso Unitario e dai Congressi Statali.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "CAPO II - WHISTLEBLOWER E SEGNALAZIONI"
+        },
+        {
+          "numero": "157",
+          "rubrica": "Tutela degli informatori",
+          "commi": [
+            {
+              "testo": "L'IVIdU garantisce la tutela degli informatori (whistleblower) che segnalano illeciti nella pubblica amministrazione locale.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "158",
+          "rubrica": "Anonimato",
+          "commi": [
+            {
+              "testo": "Le segnalazioni possono essere presentate in forma anonima, ma l'IVIdU deve poter verificare la fondatezza della segnalazione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "159",
+          "rubrica": "Divieto di ritorsioni",
+          "commi": [
+            {
+              "testo": "È vietato qualsiasi atto di ritorsione nei confronti del whistleblower. L'IVIdU è vincolata ad adottare misure di protezione.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "160",
+          "rubrica": "Premialità",
+          "commi": [
+            {
+              "testo": "La legge può prevedere incentivi per i whistleblower che segnalano illeciti di particolare gravità.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "TITOLO III - COMITATO TECNICO-SCIENTIFICO (CTSU)"
+        },
+        {
+          "numero": "161",
+          "rubrica": "Principio",
+          "commi": [
+            {
+              "testo": "Il CTSU è l'organo di consulenza scientifica e tecnica dello Stato a tutti i livelli (art. V-bis-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "162",
+          "rubrica": "Competenze locali",
+          "commi": [
+            {
+              "testo": "Il CTSU esprime parere obbligatorio su:",
+              "sottocommi": [
+                "Progetti di legge locali di rilevanza economica, sociale o scientifica;",
+                "Piani economici locali;",
+                "Grandi opere pubbliche e investimenti infrastrutturali locali."
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "163",
+          "rubrica": "Potere di veto tecnico",
+          "commi": [
+            {
+              "testo": "Il CTSU ha potere di veto tecnico. Se una proposta locale è giudicata matematicamente impossibile o tecnicamente irrealizzabile, la proposta è sospesa e rinviata (art. V-bis-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "164",
+          "rubrica": "Superamento del veto",
+          "commi": [
+            {
+              "testo": "Il veto del CTSU può essere superato solo dal Congresso Unitario con maggioranza dei 3/4 e dopo nuova istruttoria (art. V-bis-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "165",
+          "rubrica": "Raccomandazioni",
+          "commi": [
+            {
+              "testo": "Il CTSU può formulare raccomandazioni e proporre piani alternativi agli organi legislativi ed esecutivi locali (art. V-bis-5 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "tipo": "titolo",
+          "testo": "PARTE V - DISPOSIZIONI TRANSITORIE E FINALI"
+        },
+        {
+          "numero": "166",
+          "rubrica": "Entrata in vigore",
+          "commi": [
+            {
+              "testo": "Il presente Testo Unico entra in vigore il giorno successivo alla sua approvazione da parte del Congresso Unitario e alla sua promulgazione da parte dell'Alto Moderatore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "167",
+          "rubrica": "Abrogazioni",
+          "commi": [
+            {
+              "testo": "Con l'entrata in vigore del presente Testo Unico, tutte le disposizioni precedenti in contrasto con esso sono abrogate.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "168",
+          "rubrica": "Adeguamento",
+          "commi": [
+            {
+              "testo": "Tutti gli enti locali sono tenuti ad adeguare la propria struttura e le proprie procedure al presente Testo Unico entro il termine massimo di dodici mesi dalla sua entrata in vigore.",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "169",
+          "rubrica": "Istituzione degli organi previsti",
+          "commi": [
+            {
+              "testo": "Entro il termine di cui all'articolo precedente, devono essere istituiti e resi operativi l'Alto Moderatore, il CTSU e l'IVIdU a livello locale, secondo quanto previsto dalla Costituzione (art. XVII-2 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "170",
+          "rubrica": "Primo Congresso Unitario",
+          "commi": [
+            {
+              "testo": "Il primo Congresso Unitario eletto in base ai nuovi principi avrà un mandato straordinario di due anni per garantire la transizione e l'approvazione delle leggi organiche necessarie (art. XVII-3 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "171",
+          "rubrica": "Adattamento delle strutture economiche",
+          "commi": [
+            {
+              "testo": "Fino alla piena attuazione del nuovo sistema di pianificazione democratica, le strutture economiche esistenti continueranno a operare sotto la supervisione temporanea del Consiglio Esecutivo dell'Unione (art. XVII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "172",
+          "rubrica": "Nomina del CTSU e dell'IVIdU locali",
+          "commi": [
+            {
+              "testo": "La prima composizione del CTSU e dell'IVIdU a livello locale sarà nominata da una commissione speciale del Congresso Statale, sulla base delle candidature presentate dalle università, dalle accademie e dalle organizzazioni sociali, entro 6 mesi dall'entrata in vigore del presente Testo Unico (art. XVII-5 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "173",
+          "rubrica": "Referendum obbligatori",
+          "commi": [
+            {
+              "testo": "Le modifiche al presente Testo Unico che riguardano i poteri dell'Alto Moderatore, del CTSU o dell'IVIdU devono essere obbligatoriamente sottoposte a referendum popolare confermativo (art. XVII-4 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "174",
+          "rubrica": "Clausola di supremazia",
+          "commi": [
+            {
+              "testo": "In caso di contrasto tra una disposizione del presente Testo Unico e una disposizione della Costituzione unitaria, prevale la Costituzione (art. XVI-1 Cost.).",
+              "sottocommi": []
+            }
+          ]
+        },
+        {
+          "numero": "175",
+          "rubrica": "Interpretazione autentica",
+          "commi": [
+            {
+              "testo": "L'interpretazione autentica del presente Testo Unico spetta esclusivamente al Congresso Unitario, su proposta dell'Alto Moderatore o del Consolato dell'Unione.",
+              "sottocommi": []
+            }
+          ]
+        }
+      ]
     }
   ]
 }
