@@ -183,7 +183,9 @@
       "EKRO-TRN-FLD": "Feld",
       "EKRO-TRN-DTS": "DetShinjuku"
     },
-    "organi": {},
+    "organi": {
+      "EKRO-STD": "Stadia"
+    },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
       "TDR-TRN-EST": "EstjiSider-Terlin"
@@ -1156,6 +1158,15 @@
               "figli": []
             }
           ]
+        },
+        {
+          "id_organo": "EKRO-STD",
+          "nome_display": "Stadia",
+          "categoria": "congresso",
+          "luogo": "",
+          "link_sito": "",
+          "icona": "",
+          "figli": []
         }
       ]
     }
