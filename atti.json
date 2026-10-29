@@ -7702,13 +7702,13 @@
               "righe": [
                 {
                   "prima": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
-                  "dopo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento, su iniziativa di almeno un terzo degli elettori della sua circoscrizione o dell'Assemblea che lo ha eletto, attraverso una votazione popolare.",
+                  "dopo": "Il diritto di revoca dei deputati eletti è inalienabile. Un deputato può essere revocato in qualsiasi momento.",
                   "etichetta": "",
                   "livello": 0
                 },
                 {
                   "prima": "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'assemblea che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
-                  "dopo": "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione o dell'assemblea che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
+                  "dopo": "La procedura di revoca (mandato imperativo) è attivata su iniziativa di almeno un terzo degli elettori della circoscrizione, dell'assemblea o del congresso che ha eletto il deputato, previa verifica delle firme da parte della CEPU, che indice il referendum di revoca entro 30 giorni.",
                   "etichetta": "a)",
                   "livello": 1
                 },
@@ -7853,7 +7853,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-28T18:27:55.377Z"
+          "aggiornato": "2026-10-29T14:42:39.345Z"
         }
       ],
       "copertina": {
