@@ -989,7 +989,7 @@
           "id_organo": "EKRO-MKO",
           "nome_display": "Mako",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "EKRO-MKO",
           "link_sito": "",
           "icona": "",
           "figli": []
@@ -998,7 +998,7 @@
           "id_organo": "EKRO-KEF",
           "nome_display": "Kefalonia",
           "categoria": "assemblea",
-          "luogo": "",
+          "luogo": "EKRO-KEF",
           "link_sito": "",
           "icona": "",
           "figli": []
@@ -1007,7 +1007,7 @@
           "id_organo": "EKRO-GDS",
           "nome_display": "GrandSud",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "EKRO-GDS",
           "link_sito": "",
           "icona": "",
           "figli": [
@@ -1015,7 +1015,7 @@
               "id_organo": "EKRO-GDS-SEN",
               "nome_display": "Sentinelle",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-GDS-SEN",
               "link_sito": "",
               "icona": "",
               "figli": []
