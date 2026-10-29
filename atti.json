@@ -7407,7 +7407,7 @@
                 },
                 {
                   "prima": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali.",
-                  "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi regionali;",
+                  "dopo": "Supervisiona l'operato degli organi esecutivi e amministrativi intermedi;",
                   "etichetta": "e)",
                   "livello": 1
                 },
@@ -7816,7 +7816,7 @@
             ]
           },
           "marcaPdf": null,
-          "aggiornato": "2026-10-29T21:31:12.545Z"
+          "aggiornato": "2026-10-29T21:37:11.303Z"
         }
       ],
       "copertina": {
