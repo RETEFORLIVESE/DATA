@@ -1013,7 +1013,7 @@
               "id_organo": "EKRO-MKO-BIS",
               "nome_display": "Bisanzie",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-MKO-BIS",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1022,7 +1022,7 @@
               "id_organo": "EKRO-MRO-RCH",
               "nome_display": "ReichMark",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-MRO-RCH",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1031,7 +1031,7 @@
               "id_organo": "EKRO-MKO-MKA",
               "nome_display": "Makoa",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-MKO-MKA",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1040,7 +1040,7 @@
               "id_organo": "EKRO-MKO-MKO",
               "nome_display": "Mako",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-MKO-MKO",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1049,7 +1049,7 @@
               "id_organo": "EKRO-MKO-SNS",
               "nome_display": "Saint Sargette",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-MKO-SNS",
               "link_sito": "",
               "icona": "",
               "figli": []
