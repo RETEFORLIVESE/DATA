@@ -6962,7 +6962,7 @@
           "sottotitolo": "Soppressione delle Regioni Autonome e istituzione dei Congressi Distrettuali o Metropolitani come livelli intermedi facoltativi, Istituzione della Presidenza Statali",
           "ente": "Commissione Congressuale per i rapporti Costituzionali",
           "data": "12 Ottobre 2026",
-          "presentazione": "Modello proposto: le Assemblee di Sezione possono costituire un Distretto o una Circoscrizione Metropolitana e eleggere il rispettivo Congresso Distrettuale o Congresso Metropolitano. Tale Congresso sostituisce a ogni effetto il Congresso regionale ed è livello intermedio tra Assemblea di Sezione e Congresso Statale. Le Sezioni che non aderiscono restano rappresentate direttamente nel Congresso Statale. Le Regioni Autonome sono abrogate; i Territori Speciali restano in vigore.",
+          "presentazione": "Modello proposto: \n1- Le Assemblee di Sezione possono costituire un Distretto o una Circoscrizione Metropolitana e eleggere il rispettivo Congresso Distrettuale o Congresso Metropolitano. Tale Congresso sostituisce a ogni effetto il Congresso regionale ed è livello intermedio tra Assemblea di Sezione e Congresso Statale. Le Sezioni che non aderiscono restano rappresentate direttamente nel Congresso Statale. Le Regioni Autonome sono abrogate; i Territori Speciali restano in vigore.\n2- Vengono disciplinate le Presidenze degli Stati Sociali, sul modello dell'Alto Moderatore dell'Unione.",
           "etichettaPrima": "Testo vigente",
           "etichettaDopo": "Testo modificato",
           "iter": [
@@ -7725,40 +7725,14 @@
                   "livello": 1
                 }
               ]
-            },
-            {
-              "tipo": "articolo",
-              "numero": "XVII-7",
-              "riferimento": "Disposizione transitoria per la soppressione delle Regioni Autonome",
-              "righe": [
-                {
-                  "prima": "",
-                  "dopo": "Entro dodici mesi dall’entrata in vigore della presente revisione, le Regioni Autonome sono soppresse e i loro Congressi Regionali Autonomi decadono.",
-                  "etichetta": "",
-                  "livello": 0
-                },
-                {
-                  "prima": "",
-                  "dopo": "Le Assemblee di Sezione già ricomprese nel territorio di una Regione Autonoma possono costituire Distretti o Circoscrizioni Metropolitane ai sensi dell’art. I-3-bis. In mancanza, le relative funzioni sono esercitate dal Congresso Statale.",
-                  "etichetta": "a)",
-                  "livello": 0
-                },
-                {
-                  "prima": "",
-                  "dopo": "Beni, personale, procedimenti e rapporti giuridici delle Regioni Autonome sono trasferiti agli Stati Sociali o ai nuovi livelli intermedi secondo la legge.",
-                  "etichetta": "a)",
-                  "livello": 0
-                },
-                {
-                  "prima": "",
-                  "dopo": "Fino alla costituzione dei nuovi organi, le funzioni già esercitate dalle Regioni Autonome sono svolte dal Congresso Statale competente.",
-                  "etichetta": "a)",
-                  "livello": 0
-                }
-              ]
             }
           ],
-          "sezioni": [],
+          "sezioni": [
+            {
+              "titolo": "Disposizione transitoria per la soppressione delle Regioni Autonome",
+              "testo": "Entro dodici mesi dall’entrata in vigore della presente revisione, le Regioni Autonome sono soppresse e i loro Congressi Regionali Autonomi decadono:\n- Le Assemblee di Sezione già ricomprese nel territorio di una Regione Autonoma possono costituire Distretti o Circoscrizioni Metropolitane ai sensi dell’art. I-3-bis. In mancanza, le relative funzioni sono esercitate dal Congresso Statale.\n- Beni, personale, procedimenti e rapporti giuridici delle Regioni Autonome sono trasferiti agli Stati Sociali o ai nuovi livelli intermedi secondo la legge.\n- Fino alla costituzione dei nuovi organi, le funzioni già esercitate dalle Regioni Autonome sono svolte dal Congresso Statale competente."
+            }
+          ],
           "fonti": "",
           "glossario": [],
           "copertina": {
@@ -7787,21 +7761,9 @@
               },
               {
                 "tipo": "testo",
-                "testo": "{categoria}",
+                "testo": "Revisione della {titolo}",
                 "x": 36,
                 "y": 70,
-                "w": 150,
-                "size": 11,
-                "colore": "#12508c",
-                "font": "helvetica",
-                "stile": "bold",
-                "align": "left"
-              },
-              {
-                "tipo": "testo",
-                "testo": "{titolo}",
-                "x": 36,
-                "y": 82,
                 "w": 150,
                 "size": 30,
                 "colore": "#0b1f38",
@@ -7853,7 +7815,7 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T14:45:33.225Z"
+          "aggiornato": "2026-10-29T14:51:07.220Z"
         }
       ],
       "copertina": {
