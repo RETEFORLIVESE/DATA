@@ -62,7 +62,11 @@
         "tipo": "distretto"
       },
       "ELIN-TLN-IDM": "Idame",
-      "ELIN-TLN-KNG": "Kenogo"
+      "ELIN-TLN-KNG": "Kenogo",
+      "EKRO-GDS": {
+        "nome": "GrandSud",
+        "tipo": "distretto"
+      }
     },
     "assemblee_locali": {
       "ELIN-TLN-NII-TEG": "Tegel",
@@ -125,12 +129,14 @@
       "TDR-HBR-HTM": "Hittemen",
       "TDR-HBR-SDN": "Saint-Denis",
       "TDR-HBR-HBR": "UraHabara",
-      "EKRO-KEF": "Kefalonia"
+      "EKRO-KEF": "Kefalonia",
+      "EKRO-GDS-SEN": {
+        "nome": "Sentinelle",
+        "tipo": "citta"
+      }
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "EKRO-GDS": "GrandSud",
-      "EKRO-GDS-SEN": "Sentinelle"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
