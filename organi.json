@@ -79,6 +79,26 @@
       "EKRO-IKB": {
         "nome": "Ikebukuro",
         "tipo": "distretto"
+      },
+      "BSHS-VTS": {
+        "nome": "Vistos",
+        "tipo": "distretto"
+      },
+      "EFAL-AFD": {
+        "nome": "Al-Fahad",
+        "tipo": "distretto"
+      },
+      "BSHS-UTK": {
+        "nome": "Utika",
+        "tipo": "distretto"
+      },
+      "BSHS-MRW": {
+        "nome": "Morrowind",
+        "tipo": "distretto"
+      },
+      "BSHS-BLM": {
+        "nome": "Baltmoral",
+        "tipo": "distretto"
       }
     },
     "assemblee_locali": {
@@ -148,28 +168,7 @@
     "organi": {
       "ENOR-PTL": "PatHel"
     },
-    "regione": {
-      "EFAL-AFD": {
-        "nome": "Al-Fahad",
-        "tipo": "regione"
-      },
-      "BSHS-UTK": {
-        "nome": "Utika",
-        "tipo": "regione"
-      },
-      "BSHS-MRW": {
-        "nome": "Morrowind",
-        "tipo": "regione"
-      },
-      "BSHS-BLM": {
-        "nome": "Baltmoral",
-        "tipo": "regione"
-      },
-      "BSHS-VTS": {
-        "nome": "Vistos",
-        "tipo": "regione"
-      }
-    },
+    "regione": {},
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
       "TDR-TRN-EST": "EstjiSider-Terlin"
