@@ -56,13 +56,22 @@
         "nome": "Hichibate",
         "tipo": "distretto"
       },
-      "ELIN-TLN-FUK": "Fukura",
+      "ELIN-TLN-FUK": {
+        "nome": "Fukura",
+        "tipo": "distretto"
+      },
       "ENOR-SOV": {
         "nome": "SovaMark",
         "tipo": "distretto"
       },
-      "ELIN-TLN-IDM": "Idame",
-      "ELIN-TLN-KNG": "Kenogo",
+      "ELIN-TLN-IDM": {
+        "nome": "Idame",
+        "tipo": "distretto"
+      },
+      "ELIN-TLN-KNG": {
+        "nome": "Kenogo",
+        "tipo": "distretto"
+      },
       "EKRO-GDS": {
         "nome": "GrandSud",
         "tipo": "distretto"
@@ -130,10 +139,7 @@
       "TDR-HBR-SDN": "Saint-Denis",
       "TDR-HBR-HBR": "UraHabara",
       "EKRO-KEF": "Kefalonia",
-      "EKRO-GDS-SEN": {
-        "nome": "Sentinelle",
-        "tipo": "citta"
-      }
+      "EKRO-GDS-SEN": "Sentinelle"
     },
     "organi": {
       "ENOR-PTL": "PatHel"
