@@ -1115,7 +1115,7 @@
           "id_organo": "EKRO-TRN",
           "nome_display": "Tiron",
           "categoria": "congresso",
-          "luogo": "",
+          "luogo": "EKRO-TRN",
           "link_sito": "",
           "icona": "",
           "figli": [
@@ -1123,7 +1123,7 @@
               "id_organo": "EKRO-TRN-LSH",
               "nome_display": "Leshë",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-TRN-LSH",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1132,7 +1132,7 @@
               "id_organo": "EKRO-TRN-MSH",
               "nome_display": "Mishqa",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-TRN-MSH",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1141,7 +1141,7 @@
               "id_organo": "EKRO-TRN-FLD",
               "nome_display": "Feld",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-TRN-FLD",
               "link_sito": "",
               "icona": "",
               "figli": []
@@ -1150,7 +1150,7 @@
               "id_organo": "EKRO-TRN-DTS",
               "nome_display": "DetShinjuku",
               "categoria": "congresso",
-              "luogo": "",
+              "luogo": "EKRO-TRN-DTS",
               "link_sito": "",
               "icona": "",
               "figli": []
