@@ -7395,7 +7395,7 @@
                 },
                 {
                   "prima": "Elegge e revoca il Consiglio Esecutivo Statale.",
-                  "dopo": "Esprime fiducia verso il Consiglio Esecutivo Statale proposto dai Presidenti dello Stato;",
+                  "dopo": "Esprime fiducia verso il Consiglio Esecutivo Statale proposto congiuntamente dai Presidenti dello Stato;",
                   "etichetta": "c)",
                   "livello": 1
                 },
@@ -7815,7 +7815,8 @@
               }
             ]
           },
-          "aggiornato": "2026-10-29T14:51:07.220Z"
+          "marcaPdf": null,
+          "aggiornato": "2026-10-29T21:31:12.545Z"
         }
       ],
       "copertina": {
