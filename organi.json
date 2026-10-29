@@ -17,7 +17,8 @@
       "ELIN": "EstjiLinn",
       "SPLZ": "СашаПлотц",
       "LMGU": "LanMaoGuo",
-      "BSHS": "BundestagHessex"
+      "BSHS": "BundestagHessex",
+      "EKRO": "Estjikuro"
     },
     "citta_principali": {
       "ELIN-TLN": {
@@ -31,6 +32,10 @@
       "EBHAN-KLN": "Köln",
       "EFAL-IKD": {
         "nome": "Ikedong",
+        "tipo": "citta_metropolitana"
+      },
+      "EKRO-MKO": {
+        "nome": "Mako",
         "tipo": "citta_metropolitana"
       }
     },
@@ -122,9 +127,7 @@
       "TDR-HBR-HBR": "UraHabara"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "EKRO": "Estjikuro",
-      "EKRO-MKO": "Mako"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
