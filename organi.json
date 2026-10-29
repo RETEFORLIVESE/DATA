@@ -18,7 +18,7 @@
       "SPLZ": "СашаПлотц",
       "LMGU": "LanMaoGuo",
       "BSHS": "BundestagHessex",
-      "EKRO": "Estjikuro"
+      "EKRO": "EstjiKuro"
     },
     "citta_principali": {
       "ELIN-TLN": {
@@ -124,11 +124,11 @@
       "TDR-HBR-BRN": "Brenta",
       "TDR-HBR-HTM": "Hittemen",
       "TDR-HBR-SDN": "Saint-Denis",
-      "TDR-HBR-HBR": "UraHabara"
+      "TDR-HBR-HBR": "UraHabara",
+      "EKRO-KEF": "Kefalonia"
     },
     "organi": {
-      "ENOR-PTL": "PatHel",
-      "EKRO-KEF": "Kefalonia"
+      "ENOR-PTL": "PatHel"
     },
     "regione": {
       "EFAL-AFD": {
@@ -152,7 +152,6 @@
         "tipo": "regione"
       }
     },
-    "Unione": "Unione",
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
       "TDR-TRN-EST": "EstjiSider-Terlin"
