@@ -10081,6 +10081,144 @@
                   "livello": 0
                 }
               ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "12",
+              "riferimento": "Relazioni Transfrontaliere",
+              "righe": [
+                {
+                  "prima": "Gli Stati Sociali possono stabilire relazioni culturali, economiche e di cooperazione trans frontaliera con regioni di altri Stati, previa approvazione del Commissione Esteri (art. VII-4 Cost.).",
+                  "dopo": "Gli Stati Sociali possono stabilire relazioni culturali, economiche e di cooperazione trans frontaliera con territori di altri Stati, previa approvazione del Commissione Esteri (art. VII-4 Cost.).",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO II - CONGRESSO STATALE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "13",
+              "riferimento": "Composizione",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale è il massimo organo del potere statale a livello di Stato Sociale. I deputati sono eletti a suffragio universale diretto dai cittadini residenti nel territorio o iscritti all’AUDI (art. XII-1 Cost.).",
+                  "dopo": "Il Congresso Statale è il massimo organo del potere statale a livello di Stato Sociale. I deputati sono eleggibili e rimovibili dai Congressi Distrettuali e Metropolitani, in mancanza del livello intermadio, dalle Assemblee di sezione.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "14",
+              "riferimento": "Durata",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale è eletto ogni anno.",
+                  "dopo": "Il Congresso Statale è eletto ogni anno.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "15",
+              "riferimento": "Elettorato Passivo",
+              "righe": [
+                {
+                  "prima": "L'elettorato passivo spetta a tutti i cittadini che hanno compiuto i 16 anni di età.",
+                  "dopo": "L'elettorato passivo spetta a tutti i cittadini che hanno compiuto i 16 anni di età.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "16",
+              "riferimento": "Funzioni",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale (art. XII-2 Cost.):",
+                  "dopo": "Il Congresso Statale (art. XII-2 Cost.):",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Approva la Costituzione dello Stato;",
+                  "dopo": "Approva la Costituzione dello Stato, in conformità con la Costituzione Unitaria;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Emana le leggi regionali in materie di competenza statale;",
+                  "dopo": "Emana le leggi regionali in materie di competenza statale;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Elegge e revoca il Consiglio Esecutivo Statale;",
+                  "dopo": "Esprime e revoca la fiducia  l Consiglio Esecutivo Statale, proposto congiuntamente dai Presidenti dello Stato Sociale;",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Approva il piano economico e il bilancio regionale;",
+                  "dopo": "Approva il piano economico statale, in coordinamento con il piano unitario;",
+                  "etichetta": "d)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Supervisiona gli organi esecutivi regionali.",
+                  "dopo": "Supervisiona gli organi esecutivi intermedi.",
+                  "etichetta": "e)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "17",
+              "riferimento": "Sessioni",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale si riunisce in sessione ordinaria almeno due volte al mese. Sessioni straordinarie possono essere convocate dal suo Presidium o su richiesta di un terzo dei deputati.",
+                  "dopo": "Il Congresso Statale si riunisce in sessione ordinaria almeno due volte al mese. Sessioni straordinarie possono essere convocate dal suo Presidium o su richiesta di un terzo dei deputati.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "18",
+              "riferimento": "Pubblicità",
+              "righe": [
+                {
+                  "prima": "Le sessioni sono pubbliche, salvo casi eccezionali previsti dalla legge.",
+                  "dopo": "Le sessioni sono pubbliche, salvo casi eccezionali previsti dalla legge.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "19",
+              "riferimento": "Commissioni Statali",
+              "righe": [
+                {
+                  "prima": "Il Congresso Statale può istituire commissioni permanenti e temporanee per specifiche competenze (art. XII-4 Cost.).",
+                  "dopo": "Il Congresso Statale può istituire commissioni permanenti e temporanee per specifiche competenze (art. XII-4 Cost.).",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             }
           ],
           "sezioni": [],
@@ -10104,7 +10242,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T17:00:14.841Z"
+          "aggiornato": "2026-10-29T21:36:47.608Z"
         }
       ]
     }
