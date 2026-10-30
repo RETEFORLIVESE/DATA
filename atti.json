@@ -10539,6 +10539,10 @@
                   "livello": 0
                 }
               ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "TITOLO III - PRESIDENZA STATALE (NUOVO)"
             }
           ],
           "sezioni": [],
@@ -10562,7 +10566,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-30T09:38:26.802Z"
+          "aggiornato": "2026-10-30T09:40:05.361Z"
         }
       ]
     }
