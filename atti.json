@@ -10373,6 +10373,172 @@
                   "livello": 0
                 }
               ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "TITOLO III - REGIONI AUTONOME"
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO I - ISTITUZIONE E COMPETENZE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "26",
+              "riferimento": "Istituzione",
+              "righe": [
+                {
+                  "prima": "All'interno degli Stati Sociali possono essere costituite Regioni Autonome per garantire lo sviluppo culturale, linguistico e sociale di nazionalità o gruppi etnici specifici (art. VIII-1 Cost.).",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "27",
+              "riferimento": "Precedura",
+              "righe": [
+                {
+                  "prima": "L'istituzione è approvata dal Congresso dello Stato Sociale interessato e ratificata dal Congresso Unitario.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "28",
+              "riferimento": "Competenze",
+              "righe": [
+                {
+                  "prima": "Le Regioni Autonome esercitano i poteri di uno Stato Sociale in materia culturale, linguistica e di educazione (art. VIII-2 Cost.).",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "29",
+              "riferimento": "Rappresentanza",
+              "righe": [
+                {
+                  "prima": "Le Regioni Autonome sono rappresentate nel Congresso Unitario, con deputati eletti in proporzione alla loro popolazione (art. VIII-4 Cost.).",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "30",
+              "riferimento": "Autonomia Statutaria",
+              "righe": [
+                {
+                  "prima": "Ogni Regione Autonoma adotta un proprio Statuto, conforme alla Costituzione unitaria e alla Costituzione dello Stato Sociale di appartenenza.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO II - CONGRESSO REGIONALE AUTONOMO"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "31",
+              "riferimento": "Composizione",
+              "righe": [
+                {
+                  "prima": "Il Congresso Regionale Autonomo è eletto dalla popolazione della Regione (art. VIII-2 Cost.).",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "32",
+              "riferimento": "Durata",
+              "righe": [
+                {
+                  "prima": "Il mandato è di un anno.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "33",
+              "riferimento": "Funzioni",
+              "righe": [
+                {
+                  "prima": "Il Congresso Regionale Autonomo:",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Approva lo Statuto della Regione;",
+                  "dopo": "",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Emana leggi regionali in materia di cultura, lingua ed educazione;",
+                  "dopo": "",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Elegge e revoca il Consiglio Esecutivo Regionale Autonomo;",
+                  "dopo": "",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Approva il bilancio regionale autonomo.",
+                  "dopo": "",
+                  "etichetta": "d)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "34",
+              "riferimento": "Coordinamento",
+              "righe": [
+                {
+                  "prima": "Le decisioni del Congresso Regionale Autonomo non possono contrastare con le leggi dello Stato Sociale di appartenenza né con le leggi unitarie.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "35",
+              "riferimento": "Revoca",
+              "righe": [
+                {
+                  "prima": "I deputati del Congresso Regionale Autonomo sono soggetti al mandato imperativo e possono essere revocati dagli elettori della Regione.",
+                  "dopo": "",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             }
           ],
           "sezioni": [],
@@ -10396,7 +10562,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-29T21:52:40.600Z"
+          "aggiornato": "2026-10-30T09:38:26.802Z"
         }
       ]
     }
