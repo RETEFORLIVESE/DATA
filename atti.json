@@ -10681,15 +10681,226 @@
             },
             {
               "tipo": "articolo",
-              "numero": "34 (nuovo)",
-              "riferimento": "Rapporti con il Congresso Statale e il Consiglio Esecutivo",
-              "righe": []
+              "numero": "33 (nuovo)",
+              "riferimento": "Revoca",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I presidenti sono revocabili dal Congresso Statale, ai sensi dell'Art.I-4",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             },
             {
               "tipo": "articolo",
-              "numero": "35",
+              "numero": "34 (nuovo)",
+              "riferimento": "Rapporti con il Congresso Statale e il Consiglio Esecutivo",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "La Presidenza, congiuntamente, può sciogliere il Congresso Statale, previa consultazione con l'Alto Moderatore dell'Unione",
+                  "etichetta": "1.",
+                  "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "La Presidenza, congiuntamente, propone al Congresso il Consiglio Esecutivo.",
+                  "etichetta": "2.",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "35 (nuovo)",
               "riferimento": "Rapporti con l'Unione",
-              "righe": []
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "La Presidenza dello Stato lo rappresentano nei rapporti con gli altri Stati Sociali e con gli organi dell'Unione.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "TITOLO V - CITTÀ METROPOLITANE"
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO I - ISTITUZIONE E GOVERNO"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "41",
+              "riferimento": "Istituzione",
+              "righe": [
+                {
+                  "prima": "Le Città Metropolitane sono enti territoriali di livello intermedio tra lo Stato Sociale e la Sezione, sostituiscono la regione, istituiti per aree urbane di particolare rilevanza economica, sociale e culturale.",
+                  "dopo": "Le Città Metropolitane sono enti territoriali di livello intermedio tra lo Stato Sociale e la Sezione, sostituiscono la regione, istituiti per aree urbane di particolare rilevanza economica, sociale e culturale.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "42",
+              "riferimento": "Elenco",
+              "righe": [
+                {
+                  "prima": "Sono Città Metropolitane dell'USSE:",
+                  "dopo": "Sono Città Metropolitane dell'USSE:",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Città Metropolitana Capitale di Taleen (dal 19/03/2025);",
+                  "dopo": "Città Metropolitana Capitale di Taleen (dal 19/03/2025);",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Città Metropolitana di Beijing (dal 20/04/2025).",
+                  "dopo": "Città Metropolitana di Beijing (dal 20/04/2025).",
+                  "etichetta": "b)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "43",
+              "riferimento": "Governo",
+              "righe": [
+                {
+                  "prima": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto a suffragio universale diretto, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
+                  "dopo": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto a suffragio universale diretto, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "44",
+              "riferimento": "Durata",
+              "righe": [
+                {
+                  "prima": "Il mandato del Congresso Metropolitano è di un anno.",
+                  "dopo": "Il mandato del Congresso Metropolitano è di un anno.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "45",
+              "riferimento": "Coordinamento",
+              "righe": [
+                {
+                  "prima": "Le Città Metropolitane coordinano le attività delle Sezioni comprese nel loro territorio e collaborano con il governo dello Stato Sociale di appartenenza.",
+                  "dopo": "Le Città Metropolitane coordinano le attività delle Sezioni comprese nel loro territorio e collaborano con il governo dello Stato Sociale di appartenenza.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO II - COMPETENZE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "46",
+              "riferimento": "Competenze",
+              "righe": [
+                {
+                  "prima": "Le Città Metropolitane hanno competenza in materia di:",
+                  "dopo": "Le Città Metropolitane hanno competenza in materia di:",
+                  "etichetta": "",
+                  "livello": 0
+                },
+                {
+                  "prima": "Trasporti e mobilità urbana;",
+                  "dopo": "Trasporti e mobilità urbana;",
+                  "etichetta": "a)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Pianificazione territoriale e urbanistica sovracomunale;",
+                  "dopo": "Pianificazione territoriale e urbanistica sovracomunale;",
+                  "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Reti di servizi pubblici (acqua, energia, rifiuti);",
+                  "dopo": "Reti di servizi pubblici (acqua, energia, rifiuti);",
+                  "etichetta": "c)",
+                  "livello": 1
+                },
+                {
+                  "prima": "Polizia metropolitana e sicurezza urbana.",
+                  "dopo": "Polizia metropolitana e sicurezza urbana.",
+                  "etichetta": "d)",
+                  "livello": 1
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "47",
+              "riferimento": "Pianificazione",
+              "righe": [
+                {
+                  "prima": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale e unitario.",
+                  "dopo": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale e unitario.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "48",
+              "riferimento": "Risorse",
+              "righe": [
+                {
+                  "prima": "Le Città Metropolitane dispongono di risorse proprie derivanti da tributi locali, trasferimenti statali e quote delle entrate delle imprese pubbliche locali.",
+                  "dopo": "Le Città Metropolitane dispongono di risorse proprie derivanti da tributi locali, trasferimenti statali e quote delle entrate delle imprese pubbliche locali.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "49",
+              "riferimento": "Controllo",
+              "righe": [
+                {
+                  "prima": "L'operato del Congresso Metropolitano e del Consiglio Esecutivo Metropolitano è soggetto al controllo dell'IVIdU e del CTSU per gli aspetti tecnico-scientifici.",
+                  "dopo": "L'operato del Congresso Metropolitano e del Consiglio Esecutivo Metropolitano è soggetto al controllo dell'IVIdU e del CTSU per gli aspetti tecnico-scientifici.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "50",
+              "riferimento": "Revoca",
+              "righe": [
+                {
+                  "prima": "I deputati del Congresso Metropolitano sono soggetti al mandato imperativo e possono essere revocati dagli elettori della circoscrizione metropolitana.",
+                  "dopo": "I deputati del Congresso Metropolitano sono soggetti al mandato imperativo e possono essere revocati dagli elettori della circoscrizione metropolitana.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             }
           ],
           "sezioni": [],
@@ -10713,7 +10924,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-30T11:01:51.015Z"
+          "aggiornato": "2026-10-30T18:06:39.541Z"
         }
       ]
     }
