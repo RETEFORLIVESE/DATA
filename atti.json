@@ -10543,6 +10543,75 @@
             {
               "tipo": "titolo",
               "testo": "TITOLO III - PRESIDENZA STATALE (NUOVO)"
+            },
+            {
+              "tipo": "titolo",
+              "testo": "CAPO I - COMPOSIZIONE ED ELEZIONE"
+            },
+            {
+              "tipo": "articolo",
+              "numero": "20 (nuovo)",
+              "riferimento": "Composizione",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "La Presidenza di Stato è formata da due presidenti.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "21 (nuovo)",
+              "riferimento": "Condizioni Politiche",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I presidenti non possono appartenere alla stessa corrente politica o allo stesso parito",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "22 (nuovo)",
+              "riferimento": "Condizioni Presidenziali",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I presidenti non possono appartenere allo stesso sesso",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "23 (nuovo)",
+              "riferimento": "Elezione",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "I Presidenti sono eletti in due tornate separate.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
+            },
+            {
+              "tipo": "articolo",
+              "numero": "24 (nuovo)",
+              "riferimento": "Mandato",
+              "righe": [
+                {
+                  "prima": "",
+                  "dopo": "La Presidenza ha mandato ordinario di quattro anni.",
+                  "etichetta": "",
+                  "livello": 0
+                }
+              ]
             }
           ],
           "sezioni": [],
@@ -10566,7 +10635,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-30T09:40:05.361Z"
+          "aggiornato": "2026-10-30T10:41:52.889Z"
         }
       ]
     }
