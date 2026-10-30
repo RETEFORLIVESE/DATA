@@ -10742,6 +10742,12 @@
                   "dopo": "Le Città Metropolitane sono enti territoriali di livello intermedio tra lo Stato Sociale e la Sezione, sostituiscono la regione, istituiti per aree urbane di particolare rilevanza economica, sociale e culturale.",
                   "etichetta": "",
                   "livello": 0
+                },
+                {
+                  "prima": "",
+                  "dopo": "Possono essere formate da assemblee o da distretti",
+                  "etichetta": "a)",
+                  "livello": 1
                 }
               ]
             },
@@ -10764,8 +10770,14 @@
                 },
                 {
                   "prima": "Città Metropolitana di Beijing (dal 20/04/2025).",
-                  "dopo": "Città Metropolitana di Beijing (dal 20/04/2025).",
+                  "dopo": "Città Metropolitana di Beijing-Ikedong (dal 20/04/2025);",
                   "etichetta": "b)",
+                  "livello": 1
+                },
+                {
+                  "prima": "",
+                  "dopo": "Città Metropolitana di Terlin (dal 15/09/2026).",
+                  "etichetta": "c)",
                   "livello": 1
                 }
               ]
@@ -10777,7 +10789,7 @@
               "righe": [
                 {
                   "prima": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto a suffragio universale diretto, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
-                  "dopo": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto a suffragio universale diretto, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
+                  "dopo": "La Città Metropolitana è governata da un Congresso Metropolitano, eletto dai Congressi o dalle Assemblee che ne fanno parte, e da un Consiglio Esecutivo Metropolitano da esso eletto.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -10857,7 +10869,7 @@
               "righe": [
                 {
                   "prima": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale e unitario.",
-                  "dopo": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale e unitario.",
+                  "dopo": "Il piano economico e il bilancio della Città Metropolitana sono elaborati dal Consiglio Esecutivo Metropolitano e approvati dal Congresso Metropolitano, in coordinamento con il piano statale, unitario e con il Consiglio Centrale di Pianificazione.",
                   "etichetta": "",
                   "livello": 0
                 }
@@ -10924,7 +10936,7 @@
             "nome": "TUEL",
             "sottotitolo": "Testo Unico degli Enti Locali"
           },
-          "aggiornato": "2026-10-30T18:06:39.541Z"
+          "aggiornato": "2026-10-30T18:11:25.686Z"
         }
       ]
     }
