@@ -188,7 +188,9 @@
       "EKRO-TRN-DTS": "DetShinjuku",
       "EKRO-STD-VST": "Ville Stadia"
     },
-    "organi": {},
+    "organi": {
+      "Unione": "Unione"
+    },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
       "TDR-TRN-EST": "EstjiSider-Terlin"
@@ -239,7 +241,7 @@
         }
       ],
       "categoria": "congresso",
-      "icona": "globeW95.ico"
+      "icona": "CBALL/STATES/USSE/USSE.ico"
     },
     {
       "id_organo": "ELIN",
@@ -299,7 +301,8 @@
                   "categoria": "assemblea",
                   "luogo": "ELIN-TLN-EHI-SRS",
                   "link_sito": "",
-                  "figli": []
+                  "figli": [],
+                  "icona": "CBALL/STATES/USSE/INTER/SARS.png"
                 },
                 {
                   "id_organo": "ELIN-TLN-EHI-TMP",
@@ -547,7 +550,8 @@
           ]
         }
       ],
-      "categoria": "congresso"
+      "categoria": "congresso",
+      "icona": "CBALL/STATES/USSE/ELINN.ico"
     },
     {
       "id_organo": "TDR",
@@ -678,7 +682,8 @@
           ],
           "icona": ""
         }
-      ]
+      ],
+      "icona": "CBALL/STATES/USSE/TERLINDR.png"
     },
     {
       "id_organo": "ENOR",
@@ -787,7 +792,8 @@
             }
           ]
         }
-      ]
+      ],
+      "icona": "CBALL/STATES/USSE/ENOR.png"
     },
     {
       "id_organo": "EFAL",
@@ -830,7 +836,8 @@
           "icona": "",
           "figli": []
         }
-      ]
+      ],
+      "icona": "CBALL/STATES/USSE/EFALL.png"
     },
     {
       "id_organo": "EBHN",
@@ -847,7 +854,8 @@
           "link_sito": "",
           "figli": []
         }
-      ]
+      ],
+      "icona": "CBALL/STATES/USSE/EBHAN.png"
     },
     {
       "id_organo": "EBIA",
@@ -864,7 +872,8 @@
           "link_sito": "",
           "figli": []
         }
-      ]
+      ],
+      "icona": "CBALL/STATES/USSE/EBIA.png"
     },
     {
       "id_organo": "SPLZ",
@@ -872,7 +881,7 @@
       "categoria": "congresso",
       "luogo": "SPLZ",
       "link_sito": "",
-      "icona": "",
+      "icona": "CBALL/STATES/USSE/SASHPLZ.png",
       "figli": [
         {
           "id_organo": "SPLZ-VKS",
@@ -891,7 +900,7 @@
       "categoria": "congresso",
       "luogo": "LMGU",
       "link_sito": "",
-      "icona": "",
+      "icona": "CBALL/STATES/USSE/LANMAOGUO.png",
       "figli": []
     },
     {
@@ -1012,7 +1021,7 @@
       "categoria": "congresso",
       "luogo": "EKRO",
       "link_sito": "",
-      "icona": "",
+      "icona": "CBALL/STATES/USSE/EKURO.ico",
       "figli": [
         {
           "id_organo": "EKRO-MKO",
