@@ -186,11 +186,12 @@
       "EKRO-TRN-MSH": "Mishqa",
       "EKRO-TRN-FLD": "Feld",
       "EKRO-TRN-DTS": "DetShinjuku",
-      "EKRO-STD-VST": "Ville Stadia"
+      "EKRO-STD-VST": "Ville Stadia",
+      "EKRO-TRN-KRM": "Krumje"
     },
     "organi": {
       "Unione": "Unione",
-      "EKRO-TRN-KRM": "Krumje"
+      "EKRO-GDS-SCH": "Sache"
     },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -1102,7 +1103,7 @@
               "categoria": "assemblea",
               "luogo": "EKRO-IKB-KEF",
               "link_sito": "",
-              "icona": "",
+              "icona": "CBALL/STATES/USSE/INTER/Caledonia.png",
               "figli": []
             }
           ]
@@ -1121,7 +1122,16 @@
               "categoria": "assemblea",
               "luogo": "EKRO-GDS-SEN",
               "link_sito": "",
-              "icona": "",
+              "icona": "CBALL/STATES/USSE/INTER/Sentinelle.png",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-GDS-SCH",
+              "nome_display": "Sache",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "CBALL/STATES/USSE/INTER/Sache.png",
               "figli": []
             }
           ]
@@ -1174,7 +1184,7 @@
               "id_organo": "EKRO-TRN-KRM",
               "nome_display": "Krumje",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-TRN-KRM",
               "link_sito": "",
               "icona": "CBALL/STATES/USSE/INTER/Krumje.png",
               "figli": []
