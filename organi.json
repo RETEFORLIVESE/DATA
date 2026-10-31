@@ -276,7 +276,8 @@
                   "categoria": "assemblea",
                   "luogo": "ELIN-TLN-EHI-TMP",
                   "link_sito": "",
-                  "figli": []
+                  "figli": [],
+                  "icona": "CBALL/STATES/USSE/INTER/Tervettuloa.png"
                 },
                 {
                   "id_organo": "ELIN-TLN-EHI-EST",
@@ -284,7 +285,8 @@
                   "categoria": "assemblea",
                   "luogo": "ELIN-TLN-EHI-EST",
                   "link_sito": "",
-                  "figli": []
+                  "figli": [],
+                  "icona": "CBALL/STATES/USSE/INTER/Estji.png"
                 },
                 {
                   "id_organo": "ELIN-TLN-EHI-TRV",
@@ -294,7 +296,8 @@
                   "link_sito": "",
                   "figli": []
                 }
-              ]
+              ],
+              "icona": "CBALL/STATES/USSE/INTER/Ehime.png"
             },
             {
               "id_organo": "ELIN-TLN-AMR",
