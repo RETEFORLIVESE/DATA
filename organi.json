@@ -1160,7 +1160,7 @@
           "categoria": "congresso",
           "luogo": "EKRO-STD",
           "link_sito": "",
-          "icona": "",
+          "icona": "CBALL/STATES/USSE/INTER/Stadia.png",
           "figli": [
             {
               "id_organo": "EKRO-STD-VST",
