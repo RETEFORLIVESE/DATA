@@ -833,7 +833,7 @@
           "categoria": "congresso",
           "luogo": "",
           "link_sito": "https://ews-rose.vercel.app/ikedong.html",
-          "icona": "",
+          "icona": "COAT/ikedong.png",
           "figli": []
         }
       ],
@@ -1093,7 +1093,7 @@
           "categoria": "congresso",
           "luogo": "EKRO-IKB",
           "link_sito": "",
-          "icona": "",
+          "icona": "CBALL/OSTATES/IKEBUKURO.ico",
           "figli": [
             {
               "id_organo": "EKRO-IKB-KEF",
