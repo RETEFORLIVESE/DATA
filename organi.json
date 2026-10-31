@@ -187,11 +187,11 @@
       "EKRO-TRN-FLD": "Feld",
       "EKRO-TRN-DTS": "DetShinjuku",
       "EKRO-STD-VST": "Ville Stadia",
-      "EKRO-TRN-KRM": "Krumje"
+      "EKRO-TRN-KRM": "Krumje",
+      "EKRO-GDS-SCH": "Sache"
     },
     "organi": {
-      "Unione": "Unione",
-      "EKRO-GDS-SCH": "Sache"
+      "Unione": "Unione"
     },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
