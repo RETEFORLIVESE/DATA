@@ -191,7 +191,8 @@
       "EKRO-GDS-SCH": "Sache"
     },
     "organi": {
-      "Unione": "Unione"
+      "Unione": "Unione",
+      "EKRO-IKB-IKB": "Ikebukuro"
     },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -1068,6 +1069,15 @@
               "luogo": "EKRO-IKB-KEF",
               "link_sito": "",
               "icona": "CBALL/STATES/USSE/INTER/Caledonia.png",
+              "figli": []
+            },
+            {
+              "id_organo": "EKRO-IKB-IKB",
+              "nome_display": "Ikebukuro",
+              "categoria": "assemblea",
+              "luogo": "",
+              "link_sito": "",
+              "icona": "CBALL/STATES/USSE/INTER/Ikebukuro.png",
               "figli": []
             }
           ]
