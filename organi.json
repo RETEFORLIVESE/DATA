@@ -1129,7 +1129,7 @@
               "id_organo": "EKRO-GDS-SCH",
               "nome_display": "Sache",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-GDS-SCH",
               "link_sito": "",
               "icona": "CBALL/STATES/USSE/INTER/Sache.png",
               "figli": []
