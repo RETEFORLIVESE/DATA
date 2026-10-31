@@ -73,7 +73,7 @@
         "tipo": "distretto"
       },
       "EKRO-GDS": {
-        "nome": "GrandSud",
+        "nome": "GrandSur",
         "tipo": "distretto"
       },
       "EKRO-IKB": {
@@ -1073,11 +1073,11 @@
         },
         {
           "id_organo": "EKRO-GDS",
-          "nome_display": "GrandSud",
+          "nome_display": "GrandSur",
           "categoria": "congresso",
           "luogo": "EKRO-GDS",
           "link_sito": "",
-          "icona": "",
+          "icona": "CBALL/STATES/USSE/INTER/GrandSur.png",
           "figli": [
             {
               "id_organo": "EKRO-GDS-SEN",
