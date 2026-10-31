@@ -188,11 +188,11 @@
       "EKRO-TRN-DTS": "DetShinjuku",
       "EKRO-STD-VST": "Ville Stadia",
       "EKRO-TRN-KRM": "Krumje",
-      "EKRO-GDS-SCH": "Sache"
+      "EKRO-GDS-SCH": "Sache",
+      "EKRO-IKB-IKB": "Ikebukuro"
     },
     "organi": {
-      "Unione": "Unione",
-      "EKRO-IKB-IKB": "Ikebukuro"
+      "Unione": "Unione"
     },
     "assemblee_lavorative": {
       "ENOR-PTL-ATC": "Trade Center",
@@ -647,7 +647,7 @@
               "figli": []
             }
           ],
-          "icona": ""
+          "icona": "CBALL/OSTATES/imperia/TALLINN.png"
         }
       ],
       "icona": "CBALL/STATES/USSE/TERLINDR.png"
@@ -1075,7 +1075,7 @@
               "id_organo": "EKRO-IKB-IKB",
               "nome_display": "Ikebukuro",
               "categoria": "assemblea",
-              "luogo": "",
+              "luogo": "EKRO-IKB-IKB",
               "link_sito": "",
               "icona": "CBALL/STATES/USSE/INTER/Ikebukuro.png",
               "figli": []
