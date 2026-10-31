@@ -204,44 +204,7 @@
       "nome_display": "Unione",
       "luogo": "ESTJI",
       "link_sito": "https://ews-rose.vercel.app/",
-      "figli": [
-        {
-          "id_organo": "",
-          "nome_display": "Einheitlicher Standort",
-          "categoria": "assemblea",
-          "luogo": "",
-          "link_sito": "https://ews-rose.vercel.app/",
-          "icona": "search_serverW95.ico",
-          "figli": []
-        },
-        {
-          "id_organo": "",
-          "nome_display": "NormAktiv",
-          "categoria": "assemblea",
-          "luogo": "",
-          "link_sito": "https://ews-rose.vercel.app/lex/normaktiv.html",
-          "icona": "NormAktivW95.png",
-          "figli": []
-        },
-        {
-          "id_organo": "",
-          "nome_display": "CEPU",
-          "categoria": "assemblea",
-          "luogo": "",
-          "link_sito": "https://ews-rose.vercel.app/CEPU.html",
-          "icona": "certificate_serverW95.ico",
-          "figli": []
-        },
-        {
-          "id_organo": "",
-          "nome_display": "CTSU",
-          "categoria": "assemblea",
-          "luogo": "",
-          "link_sito": "https://ews-rose.vercel.app/lex/ctsu.html",
-          "icona": "ComputersW95.ico",
-          "figli": []
-        }
-      ],
+      "figli": [],
       "categoria": "congresso",
       "icona": "CBALL/STATES/USSE/USSE.ico"
     },
